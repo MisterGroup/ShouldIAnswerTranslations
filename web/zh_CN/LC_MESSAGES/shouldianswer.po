@@ -1,0 +1,1812 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shouldianswer\n"
+"POT-Creation-Date: 2015-07-29 22:18+0100\n"
+"PO-Revision-Date: 2016-02-18 07:07+0100\n"
+"Last-Translator: \n"
+"Language-Team: topolar@gmail.com\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: d:/work/web/shouldianswer.com\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: c:/work/web/shouldianswer.com/app\n"
+
+#: c:\work\web\shouldianswer.com\app/500.php:9
+msgid "Internal server error"
+msgstr "服务器内部错误"
+
+#: c:\work\web\shouldianswer.com\app/500.php:10
+msgid "Oooops something is wrong"
+msgstr "啊啊，不好意思，有事出错了"
+
+#: c:\work\web\shouldianswer.com\app/500.php:11
+msgid "We are sorry but requested page have problems."
+msgstr "非常抱歉，可是要求的网页有出了问题。"
+
+#: c:\work\web\shouldianswer.com\app/500.php:12
+msgid ""
+"Our staff were informed about this accident and will fix it as soon as "
+"possible."
+msgstr "我们已给我们的管理人通知了这个差错，并会在最快的时间内修正它。"
+
+#: c:\work\web\shouldianswer.com\app/500.php:13
+msgid "Please come back to this page later. Thank you."
+msgstr "请稍后再回到这个网页。谢谢。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:109
+msgid "Outdated or invalid form submitted! Please send it again."
+msgstr "提交了过期或无效的表格！请重新发送。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:169
+msgid "Submit failed. Please do not use Tags!"
+msgstr "提交失败了。请别使用该标签！"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:182
+msgid ""
+"Your rating is submitted and waiting for publication to other visitors. "
+"Thank you!"
+msgstr "您的评级已提交到系统了，并待发到其它本站访客。谢谢！"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:186
+msgid "Rating has been stored and published!"
+msgstr "评级已经被保存和发行了！"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:206
+msgid "This phone number is marked as "
+msgstr "这个电话号码标记为"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:227
+msgid "What is Your experience with this number?"
+msgstr "您和这个号码有什么经验？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:228
+msgid "Do You have any experience with this phone number?"
+msgstr "这是未知号码吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:229
+msgid "What is Your experience with this phone number?"
+msgstr "您和这个号码有什么经验？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:230
+msgid "Do You have any bad experience with this number?"
+msgstr "您和这个号码有不好的经验吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:231
+msgid "Have You seen this number before?"
+msgstr "您曾经见过这个号码吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:232
+msgid "Have You ever spot this number?"
+msgstr "您曾经在别的地方看过这个号码吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:233
+msgid "Does this number remind You something?"
+msgstr "这个号码有没有让您回忆起什么？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:234
+msgid "Do You have any bad experience with this phone number?"
+msgstr "您和这个号码有不好的经验吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:235
+msgid "Have You ever seen this number?"
+msgstr "您曾经见过这个号码吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:236
+msgid "Does this number look familiar to You?"
+msgstr "这个号码对您来看熟悉吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:239
+msgid "Do You have any experience with this?"
+msgstr "您有接到本号码的经验吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:240
+msgid "Have this number called You before?"
+msgstr "这个号码曾致电给您吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:241
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:247
+msgid "Have this number annoyed You before?"
+msgstr "这个号码曾打扰过您吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:242
+msgid "Did someone offer You unwanted services from this number?"
+msgstr "是否有人用这个号码向您推销您不想要的服务？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:243
+msgid "Did someone offer You products You haven't ordered from this number?"
+msgstr "是否有人从这个号码向您推销您不曾购买的产品？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:244
+msgid "You have become a victim of harassment?"
+msgstr "您曾经成为电话骚扰的受害者吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:245
+msgid "Did someone offer You some insurance?"
+msgstr "是否有人从这个号码向您推销保险？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:246
+msgid "Have You been facing the unwanted services?"
+msgstr "您是否正在体验您不想要的服务？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:248
+msgid "Did someone offer You apparently beneficial contracts?"
+msgstr "有没有人从这个号码向您提供了貌似有利益的协议？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:252
+msgid "Or is this rally some good service?"
+msgstr "或这是一项非常好的服务吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:253
+msgid "Or is this Your friend's phone number?"
+msgstr "或这是您一个朋友的号码吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:254
+msgid "Or is this a phone number serving for Your company?"
+msgstr "或这是为您公司服务的号码吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:255
+msgid "Or is this a phone number of a reliable financial advisor?"
+msgstr "或这是一个可靠的投资顾问的号码吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:256
+msgid "Or is this a safe phone number?"
+msgstr "或这是一个安全的电话号码吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:257
+msgid "Or is this a purely private phone number?"
+msgstr "或这是一个私人的号码？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:258
+msgid "Or is this someone You know?"
+msgstr "或这是您认识的人吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:259
+msgid "Or is this phone number useful?"
+msgstr "或这是一个有用的电话号码？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:260
+msgid "Or does this number belong to some of Your friends?"
+msgstr "或这是您朋友的电话号码吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:261
+msgid "Or is this Your own phone number?"
+msgstr "或这是您自己的号码吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:265
+msgid "Share Your experience."
+msgstr "分享您的经验"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:266
+msgid "Do not keep the information just for yourself."
+msgstr "请将信息分享给别的用户。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:267
+msgid "Share Your experience with the others."
+msgstr "把您的经验跟其它用户分享吧。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:268
+msgid "Pass Your experience to the other users."
+msgstr "把您的个人经验传授给其它用户。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:269
+msgid "Is there something You would like to tell the others?"
+msgstr "您有任何其它信息想告诉其它浏览本网站的用户吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:270
+msgid "Is there some info You can share?"
+msgstr "您有什么可分享的信息吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:271
+msgid "Do You know more?"
+msgstr "您知道更多信息吗？"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:272
+msgid "Do You know more? Share it with the others."
+msgstr "您知道更多信息吗？与其它人分享吧。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:273
+msgid "Do You know more? Pass Your experience to the other users."
+msgstr "您知道更多信息吗？把您的个人经验传授给其它用户。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:274
+msgid "Do You know more? Share Your experience with the others."
+msgstr "您知道更多信息吗？把您的经验跟其它用户分享吧。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:278
+msgid "Write to us, "
+msgstr "与我们联系，"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:279
+msgid "Fill the form, "
+msgstr "请您填写表格，"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:280
+msgid "Fill the form and "
+msgstr "请您填写表格以及"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:281
+msgid "Write to us (it is not necessary to state Your real name) and "
+msgstr "与我们联系 (您不要写您的真名实姓)以及"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:282
+msgid "Leave a message using our form and "
+msgstr "在我们的表格上留言以及"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:283
+msgid "Share Your experience and "
+msgstr "分享您的经验，以及"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:284
+msgid "Leave a message and "
+msgstr "给我们留言，以及"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:285
+msgid "Describe Your experience using our form and "
+msgstr "在我们的表格上形容您的体验以及"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:286
+msgid "Give us Your opinion and "
+msgstr "请给我们写您的意见以及"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:287
+msgid "Rate this phone number using the form and "
+msgstr "请在表格上为这电话号码评级以及"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:291
+msgid "this will help the other users."
+msgstr "这样您将帮助其它的用户。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:292
+msgid "this will help the other users to have a more clear information."
+msgstr "这样您将帮助其它用户获得更多的信息。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:293
+msgid "other users can use this information."
+msgstr "其它用户可以使用此信息。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:294
+msgid "the information can be used by the other users."
+msgstr "其它用户可使用这个信息。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:295
+msgid "the other users will appreciate it."
+msgstr "其它用户将感激您的协助。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:296
+msgid "the other users will use it for their benefit."
+msgstr "其它用户可从此获益。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:297
+msgid "the information can be useful for other users."
+msgstr "这信息对于其它用户将十分有用。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:298
+msgid "You will help also the other users."
+msgstr "您也会帮助其它用户。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:299
+msgid "thanks to You the others will be better informed."
+msgstr "在您帮助下，大家获得的信息将更灵通。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:300
+msgid "the other users can benefit from this information."
+msgstr "其它用户都可因为这信息而受惠"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:304
+msgid "Thank You for Your review."
+msgstr "感谢您的评论。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:305
+msgid "Thank You for Your reaction."
+msgstr "感谢您的反应。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:306
+msgid "We would appreciate Your reaction."
+msgstr "我们将十分感谢您的反应。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:307
+msgid "We would appreciate Your review."
+msgstr "我们将十分感谢您的评论。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:308
+msgid "We would appreciate if You share Your experience."
+msgstr "我们将十分感谢您所分享的体验。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:309
+msgid "Thank You in advance for Your review."
+msgstr "我们想预先感谢您提供的评论。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:310
+msgid "Thank You for Your comment."
+msgstr "感谢您的留言"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:311
+msgid "Thank You in advance for Your comment."
+msgstr "我们想预先感谢您的留言。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:312
+msgid "We would appreciate if You share Your statement."
+msgstr "如果您可以分享您的看法，我们将非常感激。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:313
+msgid "Thank You for Your post."
+msgstr "感谢您上传信息。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:322
+msgid "Phone number should be fixed line."
+msgstr "号码应该是固定电话。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:323
+msgid "Phone number should be mobile line."
+msgstr "号码应该是移动电话。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:324
+msgid "Phone number should be fixed or mobile line."
+msgstr "号码应该是固定或移动电话。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:325
+msgid "Phone number should be toll free."
+msgstr "号码应该是来自免费电话。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:326
+msgid "Phone number should be for premium rate. Be carefull."
+msgstr "号码应该是来自付费专线电话。请慎重接听。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:327
+msgid ""
+"Phone number should be for shared rate. It should be cheaper than standard "
+"call."
+msgstr "号码应该是来自共享付费电话。它应该比一般通话便宜。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:328
+msgid "Phone number should be voice over ip."
+msgstr "号码应该是来自网络电话。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:329
+msgid "Phone number should be personal line."
+msgstr "号码应该是来自私人电话。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:330
+msgid "Phone number should be pager."
+msgstr "号码应该是来自传呼机。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:331
+msgid "Phone number should belong some  company."
+msgstr "号码应该是某企业公司。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:332
+msgid "Phone number should be for emergency call."
+msgstr "号码应该是来自紧急服务电话。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:343
+msgid ""
+"During the last days this number has been very often searched also by other "
+"users. This can be a mark of global call centre or marketing action, so be "
+"aware."
+msgstr ""
+"最近几天其他用户通常搜索这个号码。这说明，可能是全球呼叫中心或者电话销售的行"
+"动，请小心一下。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:344
+msgid ""
+"This number very probably doesn't belong to any individual - we have noticed "
+"very frequent searches of this number during last days, which can be a mark "
+"of wide usage of it, probably for marketing purposes. Probably it can be "
+"source of unwanted calls."
+msgstr ""
+"这个电话号码很有可能不是私人的 - 最近几天我们侦到它被频繁地搜索的，说明这个电"
+"话号码是通常使用的，有可能为了营销的目的。有可能是不需要来电话的来源。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:345
+msgid ""
+"Users were searching for this number very often recently also here on our "
+"pages, which can be a sing of some telemarketing company or call centre "
+"using it. Be aware if this number call you."
+msgstr ""
+"最近在我们的网站用户们通常搜索这个电话好吗， 说明一家电话销售的公司或者呼叫中"
+"心使用它。如果这个电话号码要致电给您，请小心一下。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:346
+msgid ""
+"Even the number has no review actually it was searched many time in last few "
+"days. It probably doesn't belong to some individual and is widely used by "
+"some telemarketing company, it can be unsolicited call for you."
+msgstr ""
+"虽然这个号码没有什么评价，其实最近几天它被搜索好几次。很有可能它不是一个私人"
+"的电话号码，而且一家电话销售的公司广为使用它，这个号码可能是不需要来的电话。"
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:347
+msgid ""
+"This number was frequently searched during last couple of days. It is very "
+"likely used for telemarketing actions and doesn't belong to a private "
+"person. Be aware."
+msgstr ""
+"最近几天这个号码被搜索好几次。很有可能为了电话销售的作用使用它，它不是私人的"
+"号码。请注意。"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_phones.php:160
+msgid "Phone number has positive rating"
+msgstr "这个电话号码有正面评级"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_phones.php:161
+msgid "Phone number has negative rating"
+msgstr "这个电话号码有差评"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_phones.php:162
+msgid "Phone number has neutral rating"
+msgstr "这个电话号码有中立评"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_phones.php:163
+msgid "Phone number has no rating yet"
+msgstr "这个电话号码暂无评级"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:53
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:65
+msgid "Telemarketer"
+msgstr "电话销售"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:54
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:70
+msgid "Call centre"
+msgstr "呼叫中心"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:55
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:71
+msgid "Financial services"
+msgstr "金融服务业"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:56
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:67
+msgid "Silent call"
+msgstr "无声电话"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:57
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:68
+msgid "Nuisance call"
+msgstr "骚扰电话"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:58
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:69
+msgid "Unsolicited call"
+msgstr "不需要来的电话"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:59
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:75
+msgid "Scam call"
+msgstr "诈骗电话"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:60
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:76
+msgid "Prank call"
+msgstr "恶作剧电话"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:61
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:78
+msgid "Survey"
+msgstr "问卷调查"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:62
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:79
+msgid "Other"
+msgstr "其它"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:66
+msgid "Debt collector"
+msgstr "讨债人"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:72
+msgid "Fax machine"
+msgstr "传真机"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:73
+msgid "Non-profit Organization"
+msgstr "非盈利组织"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:74
+msgid "Political call"
+msgstr "政治组织电话"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:77
+msgid "SMS"
+msgstr "短信"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:144
+msgid "SYSTEM"
+msgstr "系统"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:146
+msgid "Probably Safe"
+msgstr "很有可能是安全的"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:148
+msgid "This number doesn't have any negative ratings."
+msgstr "这个电话号码没有什么差评。"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:149
+#, php-format
+msgid ""
+"We also haven't detected any unusual activity regarding number %s, so it "
+"looks safe now."
+msgstr "关于%s的号码，我们也还没有检测了异常的作用，所以它现在看起来没问题。"
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:151
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:495
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:587
+msgid ""
+"If you have any useful information about this number then please add your "
+"rating and help others find who called."
+msgstr ""
+"如果您有关于这个电话号码的相关信息，请对它提交评级。这样您可以帮助其它用户知"
+"道谁给他们致电。"
+
+#: c:\work\web\shouldianswer.com\app/templates/404/default.tpl:17
+#: c:\work\web\shouldianswer.com\app/templates/net/numbers.tpl:34
+msgid "Page not found"
+msgstr "无法打开此页"
+
+#: c:\work\web\shouldianswer.com\app/templates/404/default.tpl:18
+#: c:\work\web\shouldianswer.com\app/templates/net/numbers.tpl:35
+msgid "Requested page is not found on server. Please use navigation."
+msgstr "您要找的页面在服务器上不存在。请使用导航。"
+
+#: c:\work\web\shouldianswer.com\app/templates/404/default.tpl:25
+#: c:\work\web\shouldianswer.com\app/templates/net/numbers.tpl:40
+msgid "Page Not Found"
+msgstr "无法打开此页"
+
+#: c:\work\web\shouldianswer.com\app/templates/404/default.tpl:26
+#: c:\work\web\shouldianswer.com\app/templates/net/numbers.tpl:41
+msgid ""
+"We are sorry but page you are searching is not found! Please use site "
+"navigation to find your content."
+msgstr "非常抱歉，您要搜索的页面未能找到！请使用网站导航搜索您想要查找的内容"
+
+#: c:\work\web\shouldianswer.com\app/templates/503/default.tpl:23
+#: c:\work\web\shouldianswer.com\app/templates/503/default.tpl:33
+msgid "Service Temporarily Unavailable"
+msgstr "服务暂时不可使用"
+
+#: c:\work\web\shouldianswer.com\app/templates/503/default.tpl:29
+msgid "503 Service Temporarily Unavailable"
+msgstr "503 服务暂时不可使用"
+
+#: c:\work\web\shouldianswer.com\app/templates/503/default.tpl:34
+msgid ""
+"The server is temporarily unable to service your request due to maintenance "
+"downtime or capacity problems. Please try again later."
+msgstr ""
+"因服务器正在进行暂时维修，或因网站流量问题，目前无法为您服务。请稍后再试。"
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:16
+msgid "About"
+msgstr "关于我们的服务"
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:17
+msgid "Service description and basic information how to use it."
+msgstr "服务介绍，以及关于如何使用的基本信息。"
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:21
+msgid "About the service"
+msgstr "关于我们的服务"
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:22
+msgid ""
+"Should I answer the call? This question can come into a mind of every person "
+"who sees an unknown calling number. Each of us had (or will have) the "
+"opportunity to face the s?unsolicited call, telemarketing campaign, "
+"advertisement or another kind of fraud call."
+msgstr ""
+"我应该接电话吗?每个看到未知号码来着电话的人一定动意了 这个问题。我们每个人都"
+"已经(或者将来)有机会面对不需要来的电话、电话销售的运动、广告或者各种骗局电"
+"话。"
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:23
+msgid ""
+"How should we find out that the calling number is harmless and to answer it "
+"will not cost us tens of minutes of precious time or significant amount of "
+"money? The purpose and meaning of this service is to give everybody who has "
+"met such call a chance to warn the others and report a number which acts as "
+"annoying or even harmful in some way. This community web offers everybody a "
+"chance to insert own statement for the respective phone number and also "
+"offers everybody to search any number and read the reviews of the other "
+"users for some number to find what category the number is out of :"
+msgstr ""
+"如何才能知道来电号码是正当无害并且接听后不会浪费我们宝贵的时间和金钱呢？此服"
+"务的目的和意义在于让所有曾接听到过骚扰电话的人，有个和他人分享自身经验并让他"
+"人引以为戒的机会，同时也可以举报哪些是骚扰电话或危险电话。这个社区主导的网"
+"页，不仅让每个人都可以发表对个别号码意见，而且还提供号码查询功能。浏览其它用"
+"户对于该号码的评价可以快速的找出此号码属于哪个类别 : "
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:25
+msgid "Neutral number"
+msgstr "未举报号码"
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:25
+msgid "not decided yet if the number is harmful/scam or legitimate"
+msgstr "未决定这个电话是否有害/诈骗，或是正当的"
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:26
+msgid "Scam number"
+msgstr "诈骗电话号码"
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:26
+msgid "answering this call will cost a precious time or money"
+msgstr "接这个电话将浪费您宝贵的时间或金钱"
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:27
+msgid "Useful number"
+msgstr "有用的号码"
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:27
+msgid "there is no danger in answering this call"
+msgstr "接这个来电并无任何风险"
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:30
+msgid ""
+"If the user has such information always accessible and in a readable way we "
+"would be able to limit or even stop the incorrect behavior from the side of "
+"unwanted marketing campaigns or companies trying to make a profit from "
+"unfair situations where the ?customer? (in this case we) can not protect "
+"ourselves adequately."
+msgstr ""
+"如果用户总是可以以一客读的方式获取这种信息， 我们应该可以限制甚至制止这种通过"
+"无用的营销运动或者公司在客户不能充分保护自己的不公平环境不尝试着谋取利益的不"
+"正确行为。"
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:32
+msgid ""
+"Let's fight together against the telephonic kind of harassment, let's share "
+"our knowledge and situations and most important, the ways how to protect."
+msgstr ""
+"我们对电话打扰一起反对吧，我们互相共享我们的知识和经验，最重要就是共享保护方"
+"式。 "
+
+#: c:\work\web\shouldianswer.com\app/templates/adminlogin/default.tpl:16
+msgid "Login page"
+msgstr "登入网页"
+
+#: c:\work\web\shouldianswer.com\app/templates/adminlogin/default.tpl:48
+msgid "Administration Login"
+msgstr "管理员登入"
+
+#: c:\work\web\shouldianswer.com\app/templates/contact/default.tpl:16
+#: c:\work\web\shouldianswer.com\app/templates/contact/default.tpl:21
+msgid "Contact"
+msgstr "联络我们"
+
+#: c:\work\web\shouldianswer.com\app/templates/contact/default.tpl:17
+msgid "Contact information"
+msgstr "联络资料"
+
+#: c:\work\web\shouldianswer.com\app/templates/contact/default.tpl:22
+msgid "Thank You for using this Service."
+msgstr "感谢您使用此服务。"
+
+#: c:\work\web\shouldianswer.com\app/templates/contact/default.tpl:23
+msgid ""
+"If You need to contact us please send us email to "
+"<strong>contact@shouldianswer.com</strong>. Your question will be processed "
+"in the shortest time possible."
+msgstr ""
+"如果您需要与我们联络，请发送电邮到<strong>contact@shouldianswer.com</"
+"strong>。我们将在最快的时间内回复您的问题。"
+
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:17
+msgid "Main Page"
+msgstr "主网页"
+
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:18
+msgid ""
+"See what phone numbers are most searched and find ratings and users reviews."
+msgstr "看哪些号码是经常被搜索的，并查阅它们的评级与用户评论。"
+
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:41
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:253
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:141
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:179
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:217
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:233
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:271
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:309
+msgid "How to block unwanted numbers?"
+msgstr "如何屏蔽不想要的号码？"
+
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:46
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:255
+#: c:\work\web\shouldianswer.com\app/templates/net/default.tpl:58
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:155
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:193
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:222
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:247
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:285
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:314
+msgid "We have simple solution for you!"
+msgstr "我们为您准备了一个简单的解决方案！"
+
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:47
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:256
+#: c:\work\web\shouldianswer.com\app/templates/net/default.tpl:59
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:155
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:193
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:223
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:247
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:285
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:315
+msgid ""
+"Install our free security application into your mobile phone and stop "
+"unsolicited calls once forever!"
+msgstr "把我们免费和安全的应用装进您的手机，一次性永远停止不想要的电话！"
+
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:55
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:265
+#: c:\work\web\shouldianswer.com\app/templates/layout_default.tpl:52
+#: c:\work\web\shouldianswer.com\app/templates/layout_detail.tpl:61
+#: c:\work\web\shouldianswer.com\app/templates/net/default.tpl:55
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:166
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:204
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:231
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:258
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:296
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:323
+msgid "Download from Google Play"
+msgstr "从Google Play应用汇下载 "
+
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:78
+#: c:\work\web\shouldianswer.com\app/templates/layout_detail.tpl:75
+msgid "<strong>Popular</strong> phone numbers"
+msgstr " <strong>最受欢迎</strong>的电话号码"
+
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:135
+#: c:\work\web\shouldianswer.com\app/templates/layout_detail.tpl:104
+msgid " <strong>Latest rated</strong> phone numbers"
+msgstr " <strong>最新评级</strong>的电话号码"
+
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:157
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:160
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:163
+msgid "Latest rating was"
+msgstr "近期的评级为"
+
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:157
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:77
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:260
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:74
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:352
+msgid "positive"
+msgstr "正面"
+
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:160
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:76
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:262
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:73
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:354
+msgid "negative"
+msgstr "負面"
+
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:163
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:75
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:261
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:72
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:353
+msgid "neutral"
+msgstr "中立"
+
+#: c:\work\web\shouldianswer.com\app/templates/history/default.tpl:19
+#: c:\work\web\shouldianswer.com\app/templates/history/default.tpl:24
+msgid "Latest Searched Numbers"
+msgstr "近期查询的号码"
+
+#: c:\work\web\shouldianswer.com\app/templates/history/default.tpl:40
+msgid "Next Page"
+msgstr "下一页"
+
+#: c:\work\web\shouldianswer.com\app/templates/historyinfo/default.tpl:16
+msgid "Contacts Check"
+msgstr "联系人检查"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:82
+#: c:\work\web\shouldianswer.com\app/templates/layout_white.tpl:72
+msgid "Should I Answer"
+msgstr "我应该接电话吗"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:128
+msgid ""
+"Cookies help us deliver our services. By using our services, you agree to "
+"our use of cookies."
+msgstr "Cookies 帮助我们经营服务。如果您使用我们的服务，您就同一使用cookies。"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:129
+msgid "Find out more"
+msgstr "了解更多"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:130
+msgid "Got it"
+msgstr "明白了"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:149
+#, php-format
+msgid "For phone numbers in your location (%s) use "
+msgstr "针对本地 (%s) 电话号码请使用"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:153
+msgid "Close"
+msgstr "关闭"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:169
+#, php-format
+msgid "You are logged as moderator."
+msgstr "您为版主登录了。"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:188
+msgid "Should I <strong>answer?</strong>"
+msgstr "我应该<strong>接电话吗?</strong>"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:195
+msgid "search for phone number"
+msgstr "搜索电话号码"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:200
+msgid "search"
+msgstr "搜索"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:232
+msgid "about"
+msgstr "关于我们"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:233
+msgid "blog"
+msgstr "博客"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:234
+msgid "terms"
+msgstr "服务条款"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:235
+msgid "contact"
+msgstr "联络我们"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:236
+msgid "history"
+msgstr "历史"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:237
+msgid "shouldianswer.net"
+msgstr "cn.shouldianswer.net"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout_default.tpl:22
+msgid ""
+"Is someone calling You from an unknown number and You are not sure if "
+"picking it up is a good idea? Search for the number and find out who can be "
+"the caller."
+msgstr ""
+"是否有未知号码给您致电，但您不能确定到底接不接？只需搜索这个电话号码，即可知"
+"道是谁给您来电"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout_default.tpl:27
+msgid "shouldianswer.com Logo"
+msgstr "shouldianswer.com 商标"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout_default.tpl:40
+#: c:\work\web\shouldianswer.com\app/templates/layout_detail.tpl:49
+msgid "For Your <strong>Phone</strong>"
+msgstr "为了您的<strong>手机</strong>"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout_default.tpl:48
+#: c:\work\web\shouldianswer.com\app/templates/layout_detail.tpl:57
+msgid ""
+"Get <strong>free</strong> and <strong>effective</strong> protection against "
+"unwanted calls!"
+msgstr ""
+"获得<strong>免费</strong>和<strong>有效的</strong>反不需要来电话的保护！"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout_default.tpl:84
+msgid "Dialing Codes"
+msgstr "区号"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout_default.tpl:105
+msgid "<strong>Latest visited</strong> phone numbers"
+msgstr " <strong>近期浏览</strong>的电话号码"
+
+#: c:\work\web\shouldianswer.com\app/templates/layout_mobileapp.tpl:69
+msgid "Should I Answer?"
+msgstr "我应该接电话吗?"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:17
+msgid "Phone Protection"
+msgstr "手机保护"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:40
+msgid "Protects you and your loved ones"
+msgstr "保护您自己和您的心爱的人"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:41
+msgid "Immediate end for all kinds of unsolicited calls"
+msgstr "即时结束各种不需要来的电话"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:44
+msgid "Show rating of incoming calls"
+msgstr "显示来电电话的评级"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:45
+msgid "Several protection levels and simple settings"
+msgstr "几水平的保护和简单设置"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:48
+msgid "Auto block unwanted calls"
+msgstr "自动屏蔽不需要来的电话"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:49
+msgid "Optional feature for higher protection"
+msgstr "其它更高的保护选项"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:52
+msgid "Allow calls from phone contacts only"
+msgstr "只允许联系人名单的电话"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:53
+msgid "Optional feature for maximal protection"
+msgstr "其它最好的保护选项"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:56
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:75
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:131
+msgid "Get the App"
+msgstr "得到应用"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:69
+msgid ""
+"Our free application will protect you against all kind of harassment calls"
+msgstr "我们免费的应用会反各种打扰电话保护您"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:70
+msgid "Protect your privacy with our new mobile application."
+msgstr "用我们新的手机应用保护您的隐私。"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:72
+msgid ""
+"\"Should I Answer\" is free security application for mobiles with Android™ "
+"operting system which can protect you against all kinds of unsolicited calls."
+msgstr ""
+"\"我应该接电话吗\"是免费保安的应用宜于Android™手机的操作系统， 它会反各种不需"
+"要来的电话保护您。"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:73
+msgid ""
+"It offers several protection levels - from simple notification to automatic "
+"blocking of unsolicited calls."
+msgstr "它提供您几水平的保护 –从简单的通知到自动地屏蔽不需要来的电话。"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:88
+msgid "Show rating of incoming call"
+msgstr "显示来电的评级"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:90
+msgid ""
+"With this protection level activated, all incoming calls from numbers not "
+"saved in your contact list will be checked and the automatic notification "
+"with security rating is shown including users comments."
+msgstr ""
+"如果您启动这种保水平的话，所有的不存在您的联系人名单里的来电就会被检查，以及"
+"自动的通知就会显示，包括评级和用户留言。"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:93
+msgid "This gives you a sufficient time to decide if answer the call or not."
+msgstr "这样您有充足时间决定您会不会接电话。"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:99
+msgid "Block the numbers with negative rating"
+msgstr "屏蔽有差评号码的电话"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:101
+msgid ""
+"If this protection level is activated all the incoming calls with negative "
+"ranking will be automatically dropped and just a notice is shown in the "
+"notification area about blocked calls."
+msgstr ""
+"如果您启动这种水平的保护的话，就会自动地挂所有的有差评号码的电话也在通知的地"
+"方就会显示关于屏蔽电话的通知。"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:104
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:115
+msgid ""
+"In the application main menu user can find info showing how many incoming "
+"calls were blocked and also a possibility to show these numbers."
+msgstr ""
+"在应用主要选单里用户能找到显示屏蔽电话的数量的信息，在这里用户也可以显示那些"
+"号码。"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:110
+msgid "Blocking of numbers not stored in contacts"
+msgstr "屏蔽不存在联系人名单里的号码"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:112
+msgid ""
+"With this protection level activated all incoming calls from numbers not "
+"stored within the contacts of your mobile phone will be automatically "
+"blocked and short message is shown in the notification area about the "
+"blocking action."
+msgstr ""
+"如果您启动这种保护水平的话，所有的不存在联系人名单里的来电就会被自动地屏蔽，"
+"另外，关于屏蔽行动的小信息也会在通知的地方显示。"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:126
+msgid ""
+"Protect yourself, Your family and your friends against unsolicited calls!"
+msgstr "反不需要来的电话保护您自己，您的家和您的朋友们！"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:127
+msgid "No more worries with nuisance calls and tele-harassment!"
+msgstr "您已经不用担心骚扰电话和电话销售的打扰！"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:129
+msgid ""
+"If interested in some of these protection levels for your use or for your "
+"relatives do not hesitate and download the application for <strong>free</"
+"strong> to your mobile phone."
+msgstr ""
+"如果您对为了您自己和您的亲戚使用这些保水平保护感兴趣，别再犹豫了，就下载您的"
+"手机<strong>免费的</strong>应用。"
+
+#: c:\work\web\shouldianswer.com\app/templates/mobilemanual/default.tpl:18
+msgid "User Manual"
+msgstr "用户手册"
+
+#: c:\work\web\shouldianswer.com\app/templates/net/default.tpl:57
+msgid "How to block unwanted calls?"
+msgstr "怎么屏蔽不需要来的电话？"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:24
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:29
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:26
+#, php-format
+msgid "Who called you from %s ?"
+msgstr "谁从号码%s 给您致电"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:25
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:30
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:27
+#, php-format
+msgid ""
+"We have information about phone number %s. Visit us to find who called you "
+"and read users reviews."
+msgstr ""
+"我们有关于%s电话号码 的信息记录。可以通过浏览我们的网站查看是谁给您致电了，同"
+"时您也可以阅读其它用户的评价。"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:61
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:66
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:63
+#, fuzzy
+msgid "Who called you from "
+msgstr "谁从号码    给您致电"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:66
+msgid "Dear users,"
+msgstr "亲爱的用户，"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:67
+msgid ""
+"The information for this phone number is temporary unavailable due to legal "
+"investigation conducted for users reviews published for this number."
+msgstr ""
+"这个电话号码的信息暂时可不到，因为关于这个电话号码用户发表评论的依法调查。"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:70
+msgid "We do our best to provide the information again for the public usage."
+msgstr "我们尽量努力为了公开使用提供这些信息。"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:71
+msgid ""
+"If you have any important information for this number that can be helpful, "
+"please send it via email to <strong>contact@shouldianswer.net</strong>."
+msgstr ""
+"如果您关于这个电话号码有什么重要和有助的信息，请您发电邮到"
+"<strong>contact@shouldianswer.net</strong>。"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:74
+msgid "Thank you for your support!"
+msgstr "谢谢您的支持！"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:75
+msgid "ShouldIAnswer Team"
+msgstr "我应该接电话吗的团队"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:83
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:537
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:629
+#, php-format
+msgid "Possible <strong>formats</strong> of the  %s"
+msgstr "%s 可能的<strong>格式</strong>"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:102
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:556
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:648
+msgid "<strong>Searching</strong> for similar phone numbers?"
+msgstr "<strong>要搜索</strong>相似的电话号码吗？"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:148
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:438
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:604
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:530
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:696
+msgid "Add Comment"
+msgstr "添加留信"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:152
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:291
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:608
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:383
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:700
+msgid "Name"
+msgstr "名字"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:157
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:310
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:613
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:402
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:705
+msgid "Comment"
+msgstr "留言"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:162
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:618
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:710
+msgid "Submit"
+msgstr "提交"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:296
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:752
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:844
+msgid "Please enter your name or nick"
+msgstr "请输入您的名字或昵称"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:302
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:758
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:850
+msgid "Your comment must be longer than 5 characters"
+msgstr " 您的留信必须有最小五个字"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:321
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:419
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:457
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:777
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:511
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:549
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:869
+msgid "Agree"
+msgstr "同意"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:324
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:425
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:463
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:780
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:517
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:555
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:872
+msgid "Disagree"
+msgstr "不同意"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:95
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:92
+msgid "Details"
+msgstr "细节"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:101
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:98
+msgid "You rating can help the others to be informed about this number."
+msgstr "您提供的评级可以帮助其它用户，了解这个号码的来源。"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:139
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:177
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:215
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:231
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:269
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:307
+msgid "How to block this number?"
+msgstr "如何阻止这个号码？"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:150
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:242
+msgid ""
+"<strong>Bothered</strong> by telemarketing calls? <strong>Not answering</"
+"strong> unknown numbers? <strong>Install</strong> our application and be "
+"informed who is calling - <strong>for free</strong>!"
+msgstr ""
+"您被电话销售的来电<strong>打扰</strong>码？<strong>您不接</strong> 不可知号"
+"码？<strong>设置</strong>我们的应用以及得悉谁在打电话- <strong>是免费的</"
+"strong>!"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:151
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:243
+msgid ""
+"Avoid unsolicited calls. <strong>Don't waste time</strong> with marketing "
+"calls</strong>. With our <strong>application</strong> you will be always "
+"informed who is calling - <strong>for free</strong>!"
+msgstr ""
+"防止不需要来的电话。<strong> 别浪费时间</strong>接电话销售的来电</strong>。跟"
+"我们的<strong>应用</strong>您总是知道谁在打电话- <strong>是免费的</strong>!"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:152
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:244
+msgid ""
+"<strong>Avoid</strong> unsolicited <strong>calls</strong>! With this "
+"<strong>application</strong> You will be aware who is calling - <strong>for "
+"free</strong>!"
+msgstr ""
+"<strong>防止</strong>不需要来的<strong>电话</strong>！跟这个<strong>应用</"
+"strong>您总是知道谁在打电话- <strong>是免费的</strong>!"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:153
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:245
+msgid ""
+"Never receive <strong>unwanted call</strong> from telemarketing company. "
+"With our <strong>free application</strong> you will be always "
+"<strong>informed who is calling!</strong>"
+msgstr ""
+"您不再接<strong>不需要的电话</strong>来自电话销售的公司。跟我们的<strong>免费"
+"的应用</strong>您总是会<strong>知道谁在打电话！</strong>"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:154
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:246
+msgid ""
+"Want to <strong>avoid unsolicited calls</strong>? Download our <strong>free "
+"application</strong>!"
+msgstr ""
+"您希望<strong>防止不需要来的电话</strong>?下载我们<strong>免费的应用</"
+"strong>!"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:241
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:333
+msgid "Add Your <strong>rating</strong>"
+msgstr "增添您的<strong>评级</strong>"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:244
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:336
+msgid "click here to show rating form"
+msgstr "为了显示评价表格，情点击这里。"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:257
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:349
+msgid "Rating"
+msgstr "评级"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:259
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:351
+msgid "select rating"
+msgstr "选择评级"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:265
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:357
+msgid "Please select rating!"
+msgstr "请选择评级！"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:271
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:363
+msgid "Category"
+msgstr "类型"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:273
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:365
+msgid "select category"
+msgstr "选择类型"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:283
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:375
+msgid "Please select category!"
+msgstr "请选择类型！"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:292
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:384
+msgid "name or nickname"
+msgstr "名字或昵称"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:293
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:385
+msgid "Email"
+msgstr "电子邮件"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:294
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:386
+msgid "email (optional)"
+msgstr "电邮（可选填)"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:298
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:390
+msgid "Please enter your name or nickname!"
+msgstr "请输入您的名字或昵称！"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:304
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:396
+msgid "Title"
+msgstr "标题"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:305
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:397
+msgid "title (optional)"
+msgstr "主题（可选填）"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:311
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:403
+msgid "write your comment"
+msgstr "写您的留信"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:314
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:406
+msgid "Please enter your comment!"
+msgstr "请输入您的留信！"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:321
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:413
+msgid "send rating"
+msgstr "发送评级"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:330
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:422
+msgid "Phone number <strong>ratings</strong>"
+msgstr "电话号码 <strong>评级</strong>"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:343
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:435
+#, php-format
+msgid "This phone number has %s reviews with average rating \"%s\"."
+msgstr "这个电话号码拥有 %s 个评价，平均的评级是 \"%s\"。"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:367
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:459
+msgid "positive rating"
+msgstr "正面的评级"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:371
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:463
+msgid "negative rating"
+msgstr "负面的评级"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:375
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:467
+msgid "neutral rating"
+msgstr "中立的评级"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:432
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:524
+msgid "Comments"
+msgstr "留言"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:520
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:612
+msgid "Report ownership of this number or untruthful information presented."
+msgstr "汇报这个号码的所有制或者介绍不正确的信息。"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/invalid.tpl:16
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/invalid.tpl:22
+msgid "Invalid phone number"
+msgstr "电话号码无效"
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/invalid.tpl:23
+msgid "Please try to search your number in international format."
+msgstr "请尝试以正确的国际号码格式搜索电话号码。"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacyapp/default.tpl:17
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:17
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:27
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:29
+msgid "This page explains our approach to privacy on all of our web services."
+msgstr "这张网页解释在我们所有的网站服务对隐私的态度。"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:32
+msgid "Short version"
+msgstr "短的文本"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:36
+msgid "Information submitted in user's review will be available to the public."
+msgstr "用户提交评论的信息是公开的。"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:39
+msgid "We use 3rd party companies to serve ads on our pages."
+msgstr "在我们的网站我们使用其它公司做广告。"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:40
+msgid "This companies use cookies to serve user based Ads."
+msgstr "这些公司使用cookies做兴趣相关的广告。"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:42
+msgid ""
+"We also collect anonymous statistic about your visit (for example which "
+"pages did you visit)."
+msgstr "另外我们也收集关于您看望的匿名统计(比如您在我们的网站看过那些网页)。"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:46
+msgid "Collecting information"
+msgstr "信息收集"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:48
+msgid "Information submitted in review will be available to the public."
+msgstr "在评论里提交的信息是公开的。"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:49
+msgid ""
+"Please avoid to post any personal identifying information - we are not "
+"collecting any personal information."
+msgstr "请避免提交如何私人辨认的信息-我们不收集私人的信息。"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:50
+msgid ""
+"This information reflects commentator's opinion regarding the phone number "
+"and don't represent the opinion of our team."
+msgstr "这个信息代表作者关于这个电话号码的意见，并不代表我们公司团队的意见。"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:51
+msgid ""
+"Infringement of Terms Of Use can results in partial or full removal of "
+"submitted review."
+msgstr "违反使用条款会致使局部或者全部地删除提交的评论。"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:52
+msgid ""
+"We reserve the right to delete any review which infringe the rules for this "
+"service."
+msgstr "我们保留删除所有的违反使用我们服务评论的权利。"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:55
+msgid "Third party advertising"
+msgstr "其它公司的广告"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:57
+msgid "We are using third party companies to serve ads on our websites."
+msgstr "在我们的网站我们使用其它公司的广告。"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:58
+msgid ""
+"This companies may use cookies and independently collected information about "
+"your visit to provide best ads for you."
+msgstr ""
+"这些公司能使用Cookies，另外，它们会独立地收集您看望的信息，这样它们会提供您最"
+"合适的广告。"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:61
+msgid "Measuring our visitors"
+msgstr "测量我们的访客"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:63
+msgid "We are using Google Analytics to measure visitors to our websites."
+msgstr "我们使用 Google Analytics的服务测量在我们网站的访客。"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:64
+msgid ""
+"These measurements record how you arrived at our site, what pages you view "
+"within the site and some information about your device."
+msgstr ""
+"这个测量记录您怎么到我们的网页、您在我们的网页看到那些网页、 以及记录一些您使"
+"用器件的信息。"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:65
+msgid ""
+"All information is anonymous and helps us to understand what we should "
+"improve in future. "
+msgstr "所有的信息是匿名的，它们会帮组我们了解我们将来应该改善哪些东西。"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:66
+#, php-format
+msgid "More information about Google Analyticis can be found %s here %s"
+msgstr "您在%s那里%s可以找到更多关于Google Analyticis服务的信息"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:69
+msgid "Cookies"
+msgstr "Cookies"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:71
+msgid "This site uses cookies to improve website's usability."
+msgstr "这个网站使用Cookies 为了改善网站的效能。"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:72
+msgid ""
+"Cookies also helps us improve website security and minimse fraud, automated "
+"activity."
+msgstr "Cookies 也帮助我们改善网站的安全，另外它们帮助我们减少骗局和自动的作用"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:75
+msgid "Privacy Policy Changes"
+msgstr "隐私政策的变化"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:77
+msgid ""
+"This privacy policy can be modified from time to time. We will keep this "
+"document in sync with technology standards we use."
+msgstr "偶尔这个政策会变更。根据我们使用的技术规则我们同步这份文件。"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:80
+msgid "Any questions ?"
+msgstr "您有问题吗？"
+
+#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:82
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:75
+msgid ""
+"Send an email to <a href=\"mailto:support@shouldianswer.net"
+"\">support@shouldianswer.net</a>"
+msgstr ""
+"发电子邮件到<a href=\"mailto:support@shouldianswer.net"
+"\">support@shouldianswer.net</a>"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:17
+msgid "Solving Issues"
+msgstr "问题解决"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:26
+msgid ""
+"Solving issues with number ownership or presented untruthful information"
+msgstr "号码所有权的问题或者提交不正确信息问题的解决"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:28
+msgid "Is this your private number?"
+msgstr "这是私人号码吗？"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:30
+msgid "Our main target it to protect your personal info against telemarketing."
+msgstr "我们最主要的目的是保护您的个人信息，防止电话销售。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:31
+msgid "We intentionally don’t display info that this is a private number."
+msgstr "我们不会故意地显示这是一个私人号码的信息。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:32
+msgid ""
+"But on the other hand we also do not hide this page for this specific number."
+msgstr "可是另一方面，我们也不会避免显示这个号码的网页。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:33
+msgid "The reason is exactly the protection of your private number."
+msgstr "这个原因就是私人号码的保护。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:34
+msgid ""
+"If we just present the information that this is private number or that "
+"information for this number is not available, this could be taken as a "
+"signal for anyone and could be misused by automatic sniffer-robots to take "
+"this number."
+msgstr ""
+"如果我们显示具体号码是私人的或者号码的信息可不到，就是一种符号，收集私人号码"
+"的自动器就会利用这个符号。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:35
+msgid ""
+"This is not our target and we try to protect you by presenting a page with "
+"neutral rating and exactly same description as presented for any other valid "
+"phone number."
+msgstr ""
+"这不是我们的目的，所以我们尽量保护您，我们提供中立评级的网页， 另外我们使用跟"
+"其它有效好吗一样的描述。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:36
+msgid ""
+"The number rating could be changed based on another warning signals (e.g. "
+"high number of searches) or user ratings."
+msgstr "号码的评级根据各种警示符号(比如大量的搜索)或者其它用户评级，会改变。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:39
+msgid "Is this a number of your company?"
+msgstr "这是您公司电话号码吗？"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:41
+msgid ""
+"In such case you have a great possibility to present your own positive "
+"rating with short description of the company and services you provide."
+msgstr ""
+"在这种情况的下，您就有巨大机会提交您自己正面评级，连简单地描述您的公司和您提"
+"供的服务。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:42
+msgid ""
+"You can also add internet link to your company’s pages for further info."
+msgstr "另外，为了更多信息您也可以加入您公司网站的连接。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:43
+msgid ""
+"Let your customers know about you, communicate with them using our pages."
+msgstr "让您的客户知道您，用我们的网站跟他们联系。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:46
+msgid "Want to clear user ratings from your private number?"
+msgstr "您希望删除别的用户在您私人号码进行的评级吗？"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:48
+msgid ""
+"User ratings of private numbers are out of our scope and should not be "
+"displayed. We do our best to filter and clear all such ratings."
+msgstr ""
+"我们不在乎私人号码的评级， 而且它们不会被显示。我们尽量筛选和删除那些评级。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:49
+msgid ""
+"Anyway if this happened please contact us using the email provided below."
+msgstr "不过，如果发生这件事情的话，请您用下面提供的电子邮件跟我们联系。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:50
+msgid "Thank you."
+msgstr " 谢谢您。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:53
+msgid "Want to clear user ratings for your company?"
+msgstr "您希望删除您公司的评级吗？"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:55
+msgid ""
+"It's pretty clear that people are mostly willing to describe negative rating "
+"or experience, more than positive comment."
+msgstr "用户们通常还是喜欢提交負面的评级或者经验，不常常提交正面的评级。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:56
+msgid ""
+"We understand that it can happen and you can find untruthful information "
+"with intention to make you some harm."
+msgstr "我们明白这件事情会发生的，您会找到不真实，连打算伤害您的信息。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:57
+msgid ""
+"In most cases we could not be able to judge where the truth lies or which "
+"information is untruthful."
+msgstr "在大部分情况下，我们不能判定哪些信息是谎话，哪些是正确的。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:58
+msgid ""
+"If you feel you suffer any harm you can use the legal system of your country "
+"as a protection."
+msgstr "如果您觉得您受什么伤害，您可以使用您国家用的法制系统修理。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:59
+msgid "Our pages are based as open discussion forum only."
+msgstr "我们的网站只是公开讨论的。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:60
+msgid ""
+"We also recommend you to use these pages for communication with your "
+"costumers."
+msgstr "我们也建议您通过我们的网站跟您的客户联系。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:63
+msgid ""
+"Want to clear user ratings and your company provides telemarketing or call "
+"centre?"
+msgstr "您希望删除用户的评级，另外，您的公司进行电视购物或者呼叫中心吗？"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:65
+msgid ""
+"In such case your problem is also covered by the above mentioned for "
+"classical company."
+msgstr "在这种情况的下，上面提到的关于普通公司都付诸您的问题。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:66
+msgid ""
+"We recommend to maintain the service quality assurance in your company, also "
+"composition of Moral codex of your services to be presented to your "
+"employees is a best practice."
+msgstr ""
+"我们建议在您的公司里保持服务质量的控制，给您的雇员造成和控制您服务的道德规"
+"则，是最好的实践。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:67
+msgid ""
+"Present your company and act as a company which has, uses and keeps the "
+"rules preventing of impolite or unfair acts."
+msgstr ""
+"介绍自己公司，举办公司跟其它有和保持防止不礼貌或者不公活动规则的公司一样。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:68
+msgid ""
+"Give the customers the possibility to claim the calls for any reasons and to "
+"point out any system errors or individual failures."
+msgstr ""
+"给您的客户机会由于如何原因索赔电话， 而且给他们机会指示系统问题或者一个人的失"
+"败。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:69
+msgid ""
+"Our pages offers you the possibility to add the information for your numbers "
+"stating that this is your number, summarize your principles and possibly "
+"also provide contact where the unsatisfied customers can reach you."
+msgstr ""
+"我们的网站提供了机会您在您电话的信息加入这个电话号码是您的电话，也提供了您简"
+"述您公司规则的机会， 而且您可以给不高兴得客户提供跟您的联系。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:70
+msgid ""
+"If interested for presenting of such info on our pages please contact us."
+msgstr "如果您对在我们的网站介绍这些信息感兴趣，请跟我们联系。"
+
+#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:73
+msgid "Want to contact us?"
+msgstr "您希望跟我们联系吗？"
+
+#: c:\work\web\shouldianswer.com\app/templates/terms/default.tpl:17
+msgid "Terms of Use"
+msgstr "服务条款"
+
+#: c:\work\web\shouldianswer.com\app/templates/termsapp/default.tpl:17
+msgid "Terms Of Use"
+msgstr "服务条款"
+
+#~ msgid "Add to Home"
+#~ msgstr "增添到主頁面"
+
+#~ msgid "Terms "
+#~ msgstr "服務條款"
+
+#~ msgid "Phone Information for United Kingdom"
+#~ msgstr "英國的電話號碼信息"
+
+#~ msgid "Phone Information for USA"
+#~ msgstr "美國的電話號碼信息"
+
+#~ msgid "Phone Information for India"
+#~ msgstr "印度的電話號碼信息"
+
+#~ msgid "Phone Information for Czech Republic"
+#~ msgstr "捷克的電話號碼信息"
+
+#~ msgid "Phone Information for Slovakia"
+#~ msgstr "斯洛伐克的電話號碼信息"
+
+#~ msgid "Phone Information for Germany"
+#~ msgstr "德國的電話號碼信息"
+
+#~ msgid "Phone Information for Poland"
+#~ msgstr "波蘭的的電話號碼信息"
+
+#~ msgid "Phone Information for Russia"
+#~ msgstr "俄羅斯的的電話號碼信息"
+
+#~ msgid ""
+#~ "Should I answer the call? This question can c+ome into a mind of every "
+#~ "person who sees an unknown calling number. Each of us had (or will have) "
+#~ "the opportunity to face the s unsolicited call, telemarketing campaign, "
+#~ "advertisement or another kind of fraud call."
+#~ msgstr ""
+#~ "我應該接這個電話嗎？每當看到一個來自未知號碼的致電時，一般人都會問起這個問"
+#~ "題。每個人都曾體驗（或者將會）接到行銷電話，廣告電話，或者其它類型詐騙電話"
+#~ "的麻煩。"
+
+#~ msgid ""
+#~ "If the user has such information always accessible and in a readable way "
+#~ "we would be able to limit or even stop the incorrect behavior from the "
+#~ "side of unwanted marketing campaigns or companies trying to make a profit "
+#~ "from unfair situations where the “customer” (in this case we) can not "
+#~ "protect ourselves adequately."
+#~ msgstr ""
+#~ "如果大眾能隨時輕易的搜索來電的相關信息，我們就能控制或阻止不良行銷企劃，或"
+#~ "阻止企業想透過不平等狀況下從\"顧客\"（就是我們每個人）手中牟利。因為在這些"
+#~ "騷擾行為下，我們很多時候都無法保障自己的利益。"
+
+#~ msgid ""
+#~ "Let’s fight together against the telephonic kind of harassment, let’s "
+#~ "share our knowledge and situations and most important, the ways how to "
+#~ "protect."
+#~ msgstr ""
+#~ "讓我們一起對抗電話渠道的騷擾，讓我們分享我們所知道的和經驗，而且最重要的"
+#~ "是，分享如何保衛自己。"
+
+#~ msgid "Small Logo"
+#~ msgstr "小圖標"
+
+#~ msgid "want rate"
+#~ msgstr "我要評價"
+
+#~ msgid "<strong>positive</strong> rating"
+#~ msgstr "<strong>正面</strong>的評級"
+
+#~ msgid "<strong>neutral</strong> rating"
+#~ msgstr "<strong>中立</strong>的評級"
+
+#~ msgid "<strong>negative</strong> rating"
+#~ msgstr "<strong>負面</strong>的評級"
+
+#~ msgid "Select Category"
+#~ msgstr "選擇分類"
+
+#~ msgid "write your comment (required)"
+#~ msgstr "填寫你的評語（必填項）"
