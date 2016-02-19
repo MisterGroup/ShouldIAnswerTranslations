@@ -4,4 +4,6 @@ Any words starting % should stay in the text...will be replaced by dynamic value
 
 If you want to make new translation, start with english language file.
 
-Thank you for your help!
+Result can be send us to support@shouldianswer.net or via pull request.
+
+Thank you!
