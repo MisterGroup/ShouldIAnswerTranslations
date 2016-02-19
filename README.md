@@ -1,5 +1,5 @@
 # Should I Answer Translations
-This repository contains web and app language files of the Should I Answer project.
+This repository contains web and app language files of the Should I Answer project. www.shouldianswer.net
 
 If you want to help us improve translation for your language or make new translation, feel free to download the files. 
 
