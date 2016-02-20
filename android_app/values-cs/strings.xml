@@ -282,5 +282,5 @@
     <string name="Invitation_not_finished_">Pozvání nebylo dokončeno!</string>
     <string name="Contact_x">Kontakt %s</string>
     <string name="Install">Instalovat</string>
-    <string name="Phone_Number_Hint_New">You can rate group of numbers by using the *. For example: 800* will set a rule for all calls from 800* range.</string>
+    <string name="Phone_Number_Hint_New">Pro skupinové hodnocení můžete použít *. Například: 800* nastaví pravidlo pro všechny hovory z rozsahu čísel 800*.</string>
 </resources>
