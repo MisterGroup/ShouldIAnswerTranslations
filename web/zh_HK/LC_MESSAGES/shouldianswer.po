@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: shouldianswer\n"
-"POT-Creation-Date: 2015-07-29 22:18+0100\n"
-"PO-Revision-Date: 2016-02-18 07:07+0100\n"
+"POT-Creation-Date: 2016-02-27 09:42+0100\n"
+"PO-Revision-Date: 2016-02-27 09:43+0100\n"
 "Last-Translator: \n"
 "Language-Team: topolar@gmail.com\n"
 "Language: zh_HK\n"
@@ -11,379 +11,379 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.8.6\n"
 "X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
-"X-Poedit-Basepath: d:/work/web/shouldianswer.com\n"
+"X-Poedit-Basepath: ../../..\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-SearchPath-0: c:/work/web/shouldianswer.com/app\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libs\n"
 
-#: c:\work\web\shouldianswer.com\app/500.php:9
+#: 500.php:9
 msgid "Internal server error"
 msgstr "服務器內部錯誤"
 
-#: c:\work\web\shouldianswer.com\app/500.php:10
+#: 500.php:10 framework/translator.php:77
 msgid "Oooops something is wrong"
 msgstr "啊啊，不好意思有事出錯了"
 
-#: c:\work\web\shouldianswer.com\app/500.php:11
+#: 500.php:11
 msgid "We are sorry but requested page have problems."
 msgstr "非常抱歉，可是要求的網頁有出了問題。"
 
-#: c:\work\web\shouldianswer.com\app/500.php:12
+#: 500.php:12
 msgid ""
 "Our staff were informed about this accident and will fix it as soon as "
 "possible."
 msgstr "我們已給我們的管理人通知了這個差錯，並會在最快的時間內修正它。"
 
-#: c:\work\web\shouldianswer.com\app/500.php:13
+#: 500.php:13
 msgid "Please come back to this page later. Thank you."
 msgstr "請稍后再回到這個網頁。謝謝。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:109
+#: presenters/p_phonenumber.php:235
 msgid "Outdated or invalid form submitted! Please send it again."
 msgstr "提交了過期或無效的表格！請重新發送。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:169
+#: presenters/p_phonenumber.php:292
 msgid "Submit failed. Please do not use Tags!"
 msgstr "提交失敗了。請別使用該標簽！"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:182
+#: presenters/p_phonenumber.php:298
 msgid ""
 "Your rating is submitted and waiting for publication to other visitors. "
 "Thank you!"
 msgstr "的評級已提交到系統了，並待發到其它本站訪客。謝謝！"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:186
+#: presenters/p_phonenumber.php:302
 msgid "Rating has been stored and published!"
 msgstr "評級已經被保存和發行了！"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:206
+#: presenters/p_phonenumber.php:312
 msgid "This phone number is marked as "
 msgstr "這個電話號碼標記為"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:227
+#: presenters/p_phonenumber.php:330
 msgid "What is Your experience with this number?"
 msgstr "和這個號碼有什麼經驗？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:228
+#: presenters/p_phonenumber.php:331
 msgid "Do You have any experience with this phone number?"
 msgstr "這是未知號碼嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:229
+#: presenters/p_phonenumber.php:332
 msgid "What is Your experience with this phone number?"
 msgstr "和這個號碼有什麼經驗？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:230
+#: presenters/p_phonenumber.php:333
 msgid "Do You have any bad experience with this number?"
 msgstr "和這個號碼有不好的經驗嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:231
+#: presenters/p_phonenumber.php:334
 msgid "Have You seen this number before?"
 msgstr "曾經見過這個號碼嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:232
+#: presenters/p_phonenumber.php:335
 msgid "Have You ever spot this number?"
 msgstr "曾經在別的地方看過這個號碼嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:233
+#: presenters/p_phonenumber.php:336
 msgid "Does this number remind You something?"
 msgstr "這個號碼有沒有讓回憶起什麼？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:234
+#: presenters/p_phonenumber.php:337
 msgid "Do You have any bad experience with this phone number?"
 msgstr "和這個號碼有不好的經驗嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:235
+#: presenters/p_phonenumber.php:338
 msgid "Have You ever seen this number?"
 msgstr "曾經見過這個號碼嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:236
+#: presenters/p_phonenumber.php:339
 msgid "Does this number look familiar to You?"
 msgstr "這個號碼對來看熟悉嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:239
+#: presenters/p_phonenumber.php:342
 msgid "Do You have any experience with this?"
 msgstr "有接到本號碼的經驗嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:240
+#: presenters/p_phonenumber.php:343
 msgid "Have this number called You before?"
 msgstr "這個號碼曾致電給嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:241
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:247
+#: presenters/p_phonenumber.php:344 presenters/p_phonenumber.php:350
 msgid "Have this number annoyed You before?"
 msgstr "這個號碼曾打擾過嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:242
+#: presenters/p_phonenumber.php:345
 msgid "Did someone offer You unwanted services from this number?"
 msgstr "是否有人從這個號碼向推銷不想要的服務？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:243
+#: presenters/p_phonenumber.php:346
 msgid "Did someone offer You products You haven't ordered from this number?"
 msgstr "是否有人用這個號碼向推銷不曾購買的產品？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:244
+#: presenters/p_phonenumber.php:347
 msgid "You have become a victim of harassment?"
 msgstr "成為騷擾的受害者嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:245
+#: presenters/p_phonenumber.php:348
 msgid "Did someone offer You some insurance?"
 msgstr "是否有人從這個號碼向推銷保險？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:246
+#: presenters/p_phonenumber.php:349
 msgid "Have You been facing the unwanted services?"
 msgstr "是否正在體驗不想要的服務？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:248
+#: presenters/p_phonenumber.php:351
 msgid "Did someone offer You apparently beneficial contracts?"
 msgstr "有沒有人從這個號碼向提供了貌似有利益的協議？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:252
+#: presenters/p_phonenumber.php:355
 msgid "Or is this rally some good service?"
 msgstr "或這是一項非常好的服務嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:253
+#: presenters/p_phonenumber.php:356
 msgid "Or is this Your friend's phone number?"
 msgstr "或這是一個朋友的號碼嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:254
+#: presenters/p_phonenumber.php:357
 msgid "Or is this a phone number serving for Your company?"
 msgstr "或這是為公司服務的號碼嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:255
+#: presenters/p_phonenumber.php:358
 msgid "Or is this a phone number of a reliable financial advisor?"
 msgstr "或這是一個可靠的投資顧問的號碼嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:256
+#: presenters/p_phonenumber.php:359
 msgid "Or is this a safe phone number?"
 msgstr "或這是一個安全的電話號碼嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:257
+#: presenters/p_phonenumber.php:360
 msgid "Or is this a purely private phone number?"
 msgstr "或這是一個私人的號碼？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:258
+#: presenters/p_phonenumber.php:361
 msgid "Or is this someone You know?"
 msgstr "或這是認識的人嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:259
+#: presenters/p_phonenumber.php:362
 msgid "Or is this phone number useful?"
 msgstr "或這是一個有用的電話號碼？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:260
+#: presenters/p_phonenumber.php:363
 msgid "Or does this number belong to some of Your friends?"
 msgstr "或這是朋友的電話號碼嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:261
+#: presenters/p_phonenumber.php:364
 msgid "Or is this Your own phone number?"
 msgstr "或這是自己號碼嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:265
+#: presenters/p_phonenumber.php:368
 msgid "Share Your experience."
 msgstr "分享的經驗"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:266
+#: presenters/p_phonenumber.php:369
 msgid "Do not keep the information just for yourself."
 msgstr "請將信息分享給別的用戶。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:267
+#: presenters/p_phonenumber.php:370
 msgid "Share Your experience with the others."
 msgstr "把的經驗跟其它用戶分享吧。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:268
+#: presenters/p_phonenumber.php:371
 msgid "Pass Your experience to the other users."
 msgstr "把的個人經驗傳授給其它用戶。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:269
+#: presenters/p_phonenumber.php:372
 msgid "Is there something You would like to tell the others?"
 msgstr "有任何其它信息想告訴其它瀏覽本網站的用戶嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:270
+#: presenters/p_phonenumber.php:373
 msgid "Is there some info You can share?"
 msgstr "有什麼可分享的信息嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:271
+#: presenters/p_phonenumber.php:374
 msgid "Do You know more?"
 msgstr "知道更多信息嗎？"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:272
+#: presenters/p_phonenumber.php:375
 msgid "Do You know more? Share it with the others."
 msgstr "知道更多信息嗎？與其它人分享吧。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:273
+#: presenters/p_phonenumber.php:376
 msgid "Do You know more? Pass Your experience to the other users."
 msgstr "知道更多信息嗎？把的個人經驗傳授給其它用戶。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:274
+#: presenters/p_phonenumber.php:377
 msgid "Do You know more? Share Your experience with the others."
 msgstr "知道更多信息嗎？把的經驗跟其它用戶分享吧。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:278
+#: presenters/p_phonenumber.php:381
 msgid "Write to us, "
 msgstr "與我們聯繫，"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:279
+#: presenters/p_phonenumber.php:382
 msgid "Fill the form, "
 msgstr "請填寫表格，"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:280
+#: presenters/p_phonenumber.php:383
 msgid "Fill the form and "
 msgstr "請填寫表格以及"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:281
+#: presenters/p_phonenumber.php:384
 msgid "Write to us (it is not necessary to state Your real name) and "
 msgstr "請給我們寫信（不要寫的真名實姓），和"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:282
+#: presenters/p_phonenumber.php:385
 msgid "Leave a message using our form and "
 msgstr "請在我們的表格上留言以及"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:283
+#: presenters/p_phonenumber.php:386
 msgid "Share Your experience and "
 msgstr "請分享的經驗以及"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:284
+#: presenters/p_phonenumber.php:387
 msgid "Leave a message and "
 msgstr "請給我們留言以及"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:285
+#: presenters/p_phonenumber.php:388
 msgid "Describe Your experience using our form and "
 msgstr "請在我們的表格上形容的體驗以及"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:286
+#: presenters/p_phonenumber.php:389
 msgid "Give us Your opinion and "
 msgstr "請給我們寫的意見以及"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:287
+#: presenters/p_phonenumber.php:390
 msgid "Rate this phone number using the form and "
 msgstr "請在表格上為這電話號碼評級以及"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:291
+#: presenters/p_phonenumber.php:394
 msgid "this will help the other users."
 msgstr "這樣將幫助其它的用戶。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:292
+#: presenters/p_phonenumber.php:395
 msgid "this will help the other users to have a more clear information."
 msgstr "這樣將幫助其它用戶獲得更多的信息。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:293
+#: presenters/p_phonenumber.php:396
 msgid "other users can use this information."
 msgstr "其它用戶可以使用此信息。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:294
+#: presenters/p_phonenumber.php:397
 msgid "the information can be used by the other users."
 msgstr "其它用戶可使用這個信息。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:295
+#: presenters/p_phonenumber.php:398
 msgid "the other users will appreciate it."
 msgstr "其它用戶將感激的協助。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:296
+#: presenters/p_phonenumber.php:399
 msgid "the other users will use it for their benefit."
 msgstr "其它用戶可從此獲益。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:297
+#: presenters/p_phonenumber.php:400
 msgid "the information can be useful for other users."
 msgstr "這信息對於其它用戶將十分有用。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:298
+#: presenters/p_phonenumber.php:401
 msgid "You will help also the other users."
 msgstr "也會幫助其它用戶。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:299
+#: presenters/p_phonenumber.php:402
 msgid "thanks to You the others will be better informed."
 msgstr "在幫助下，大家獲得的信息將更靈通。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:300
+#: presenters/p_phonenumber.php:403
 msgid "the other users can benefit from this information."
 msgstr "其它用戶都可因為這信息而受惠"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:304
+#: presenters/p_phonenumber.php:407
 msgid "Thank You for Your review."
 msgstr "感謝的評論。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:305
+#: presenters/p_phonenumber.php:408
 msgid "Thank You for Your reaction."
 msgstr "感謝的反應。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:306
+#: presenters/p_phonenumber.php:409
 msgid "We would appreciate Your reaction."
 msgstr "我們將十分感謝的反應。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:307
+#: presenters/p_phonenumber.php:410
 msgid "We would appreciate Your review."
 msgstr "我們將十分感謝的評級。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:308
+#: presenters/p_phonenumber.php:411
 msgid "We would appreciate if You share Your experience."
 msgstr "我們將十分感謝所分享的任何體驗。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:309
+#: presenters/p_phonenumber.php:412
 msgid "Thank You in advance for Your review."
 msgstr "我們預先感謝提供的評語。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:310
+#: presenters/p_phonenumber.php:413
 msgid "Thank You for Your comment."
 msgstr "感謝的留言"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:311
+#: presenters/p_phonenumber.php:414
 msgid "Thank You in advance for Your comment."
 msgstr "我們預先感謝的留言。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:312
+#: presenters/p_phonenumber.php:415
 msgid "We would appreciate if You share Your statement."
 msgstr "如果可以分享的看法，我們將非常感激。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:313
+#: presenters/p_phonenumber.php:416
 msgid "Thank You for Your post."
 msgstr "感謝上傳信息。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:322
+#: presenters/p_phonenumber.php:425
 msgid "Phone number should be fixed line."
 msgstr "號碼應該是固定電話。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:323
+#: presenters/p_phonenumber.php:426
 msgid "Phone number should be mobile line."
 msgstr "號碼應該是移動電話。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:324
+#: presenters/p_phonenumber.php:427
 msgid "Phone number should be fixed or mobile line."
 msgstr "號碼應該是固定或移動電話。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:325
+#: presenters/p_phonenumber.php:428
 msgid "Phone number should be toll free."
 msgstr "號碼應該是來自免費電話。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:326
+#: presenters/p_phonenumber.php:429
 msgid "Phone number should be for premium rate. Be carefull."
 msgstr "號碼應該是來自付費專線電話。請慎重接聽。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:327
+#: presenters/p_phonenumber.php:430
 msgid ""
 "Phone number should be for shared rate. It should be cheaper than standard "
 "call."
 msgstr "號碼應該來自分享付費的電話。它應該比一般通話便宜。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:328
+#: presenters/p_phonenumber.php:431
 msgid "Phone number should be voice over ip."
 msgstr "號碼應該是來自網絡電話。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:329
+#: presenters/p_phonenumber.php:432
 msgid "Phone number should be personal line."
 msgstr "號碼應該是來自私人電話。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:330
+#: presenters/p_phonenumber.php:433
 msgid "Phone number should be pager."
 msgstr "號碼應該來自傳呼機。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:331
+#: presenters/p_phonenumber.php:434
 msgid "Phone number should belong some  company."
 msgstr "號碼應該是某企業公司。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:332
+#: presenters/p_phonenumber.php:435
 msgid "Phone number should be for emergency call."
 msgstr "號碼應該是來自緊急服務電話。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:343
+#: presenters/p_phonenumber.php:446
 msgid ""
 "During the last days this number has been very often searched also by other "
 "users. This can be a mark of global call centre or marketing action, so be "
@@ -392,7 +392,7 @@ msgstr ""
 "最近幾天其他用戶通常搜索這個號碼。這說明，可能是全球呼叫中心或者電話銷售的行"
 "動，請小心一下。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:344
+#: presenters/p_phonenumber.php:447
 msgid ""
 "This number very probably doesn't belong to any individual - we have noticed "
 "very frequent searches of this number during last days, which can be a mark "
@@ -402,7 +402,7 @@ msgstr ""
 "這個電話號碼很有可能不是私人的 - 最近幾天我們偵到它被頻繁地搜索的，說明這個電"
 "話號碼是通常使用的，有可能為了營銷的目的。有可能是不需要來電話的來源。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:345
+#: presenters/p_phonenumber.php:448
 msgid ""
 "Users were searching for this number very often recently also here on our "
 "pages, which can be a sing of some telemarketing company or call centre "
@@ -411,7 +411,7 @@ msgstr ""
 "最近在我們的網站用戶們通常搜索這個電話好嗎， 說明一家電話銷售的公司或者呼叫中"
 "心使用它。如果這個電話號碼要致電給您，請小心一下。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:346
+#: presenters/p_phonenumber.php:449
 msgid ""
 "Even the number has no review actually it was searched many time in last few "
 "days. It probably doesn't belong to some individual and is widely used by "
@@ -420,7 +420,7 @@ msgstr ""
 "雖然這個號碼沒有什麼評價，其實最近幾天它被搜索好幾次。很有可能它不是一個私人"
 "的電話號碼，而且一家電話銷售的公司廣為使用它，這個號碼可能是不需要來的電話。"
 
-#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:347
+#: presenters/p_phonenumber.php:450
 msgid ""
 "This number was frequently searched during last couple of days. It is very "
 "likely used for telemarketing actions and doesn't belong to a private "
@@ -429,114 +429,115 @@ msgstr ""
 "最近幾天這個號碼被搜索好幾次。很有可能為了電話銷售的作用使用它，它不是私人的"
 "號碼。請注意。"
 
-#: c:\work\web\shouldianswer.com\app/repositories/r_phones.php:160
+#: repositories/r_phones.php:170
 msgid "Phone number has positive rating"
 msgstr "這個電話號碼有正面評級"
 
-#: c:\work\web\shouldianswer.com\app/repositories/r_phones.php:161
+#: repositories/r_phones.php:171
 msgid "Phone number has negative rating"
 msgstr "個電話號碼有差評"
 
-#: c:\work\web\shouldianswer.com\app/repositories/r_phones.php:162
+#: repositories/r_phones.php:172
 msgid "Phone number has neutral rating"
 msgstr "電話號碼擁有中立的評級"
 
-#: c:\work\web\shouldianswer.com\app/repositories/r_phones.php:163
+#: repositories/r_phones.php:173
 msgid "Phone number has no rating yet"
 msgstr "這個電話號碼暫無評級"
 
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:53
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:65
+#: repositories/r_reviews.php:92
 msgid "Telemarketer"
 msgstr "電話銷售"
 
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:54
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:70
+#: repositories/r_reviews.php:93
 msgid "Call centre"
 msgstr "呼叫中心"
 
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:55
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:71
-msgid "Financial services"
-msgstr "金融服务业"
-
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:56
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:67
+#: repositories/r_reviews.php:94
 msgid "Silent call"
 msgstr "無聲電話"
 
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:57
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:68
+#: repositories/r_reviews.php:95
 msgid "Nuisance call"
 msgstr "騷擾電話"
 
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:58
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:69
+#: repositories/r_reviews.php:96
 msgid "Unsolicited call"
 msgstr "不需要來的電話"
 
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:59
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:75
-msgid "Scam call"
-msgstr "詐騙電話"
+#: repositories/r_reviews.php:97
+msgid "Financial services"
+msgstr "金融服务业"
 
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:60
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:76
-msgid "Prank call"
-msgstr "惡作劇電話"
-
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:61
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:78
-msgid "Survey"
-msgstr "問卷調查"
-
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:62
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:79
-msgid "Other"
-msgstr "其它"
-
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:66
+#: repositories/r_reviews.php:98
 msgid "Debt collector"
 msgstr "討債人"
 
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:72
-msgid "Fax machine"
-msgstr "傳真機"
-
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:73
+#: repositories/r_reviews.php:99
 msgid "Non-profit Organization"
 msgstr "非盈利組織"
 
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:74
+#: repositories/r_reviews.php:100
 msgid "Political call"
 msgstr "政治組織電話"
 
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:77
+#: repositories/r_reviews.php:101
+msgid "Scam call"
+msgstr "詐騙電話"
+
+#: repositories/r_reviews.php:102
+msgid "Prank call"
+msgstr "惡作劇電話"
+
+#: repositories/r_reviews.php:103
+msgid "Fax machine"
+msgstr "傳真機"
+
+#: repositories/r_reviews.php:104
 msgid "SMS"
 msgstr "短信"
 
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:144
+#: repositories/r_reviews.php:105
+msgid "Survey"
+msgstr "問卷調查"
+
+#: repositories/r_reviews.php:106
+msgid "Company"
+msgstr ""
+
+#: repositories/r_reviews.php:107
+msgid "Service"
+msgstr ""
+
+#: repositories/r_reviews.php:108
+msgid "Other"
+msgstr "其它"
+
+#: repositories/r_reviews.php:144
 msgid "SYSTEM"
 msgstr "系統"
 
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:146
+#: repositories/r_reviews.php:146
 msgid "Probably Safe"
 msgstr "很有可能是安全的"
 
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:148
+#: repositories/r_reviews.php:149
 msgid "This number doesn't have any negative ratings."
 msgstr "這個電話號碼沒有什麼差評。"
 
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:149
+#: repositories/r_reviews.php:150
 #, php-format
 msgid ""
 "We also haven't detected any unusual activity regarding number %s, so it "
 "looks safe now."
 msgstr "關於%s的號碼，我們也還沒有檢測了異常的作用，所以它現在看起來沒問題。"
 
-#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:151
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:495
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:587
+#: repositories/r_reviews.php:152 templates/phonenumber/defaultAmp.tpl:573
+#: templates/phonenumber/defaultDefault.tpl:587
+#: templates/phonenumber/defaultModerator.tpl:580
+#: templates/phonenumber/defaultNew.tpl:570
+#: templates/phonenumber/defaultNext.tpl:655
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:586
 msgid ""
 "If you have any useful information about this number then please add your "
 "rating and help others find who called."
@@ -544,57 +545,53 @@ msgstr ""
 "如果您有關於這個電話號碼的相關信息，請對它提交評級。這樣您可以幫助其它用戶知"
 "道誰給他們致電。"
 
-#: c:\work\web\shouldianswer.com\app/templates/404/default.tpl:17
-#: c:\work\web\shouldianswer.com\app/templates/net/numbers.tpl:34
+#: templates/404/default.tpl:17 templates/net/numbers.tpl:34
 msgid "Page not found"
 msgstr "無法打開此頁"
 
-#: c:\work\web\shouldianswer.com\app/templates/404/default.tpl:18
-#: c:\work\web\shouldianswer.com\app/templates/net/numbers.tpl:35
+#: templates/404/default.tpl:18 templates/net/numbers.tpl:35
 msgid "Requested page is not found on server. Please use navigation."
 msgstr "您要找的頁面在服務器上不存在。請使用導航。"
 
-#: c:\work\web\shouldianswer.com\app/templates/404/default.tpl:25
-#: c:\work\web\shouldianswer.com\app/templates/net/numbers.tpl:40
+#: templates/404/default.tpl:26 templates/net/numbers.tpl:40
 msgid "Page Not Found"
 msgstr "無法打開此頁"
 
-#: c:\work\web\shouldianswer.com\app/templates/404/default.tpl:26
-#: c:\work\web\shouldianswer.com\app/templates/net/numbers.tpl:41
+#: templates/404/default.tpl:27 templates/net/numbers.tpl:41
 msgid ""
 "We are sorry but page you are searching is not found! Please use site "
 "navigation to find your content."
 msgstr "非常抱歉，您要搜索的頁面未能找到！請使用網站導航搜索您想要查找的內容"
 
-#: c:\work\web\shouldianswer.com\app/templates/503/default.tpl:23
-#: c:\work\web\shouldianswer.com\app/templates/503/default.tpl:33
+#: templates/503/default.tpl:23 templates/503/default.tpl:33
 msgid "Service Temporarily Unavailable"
 msgstr "服務暫時不可使用"
 
-#: c:\work\web\shouldianswer.com\app/templates/503/default.tpl:29
+#: templates/503/default.tpl:29
 msgid "503 Service Temporarily Unavailable"
 msgstr "503 服務暫時不可使用"
 
-#: c:\work\web\shouldianswer.com\app/templates/503/default.tpl:34
+#: templates/503/default.tpl:34
 msgid ""
 "The server is temporarily unable to service your request due to maintenance "
 "downtime or capacity problems. Please try again later."
 msgstr ""
 "因服務器正在進行暫時維修，或因網站流量問題，目前無法為您服務。請稍後再試。"
 
-#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:16
+#: templates/about/default.tpl:16 templates/mobilemanual/8.tpl:451
+#: templates/mobilemanual/8.tpl:570
 msgid "About"
 msgstr "關於我們的服務"
 
-#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:17
+#: templates/about/default.tpl:17
 msgid "Service description and basic information how to use it."
 msgstr "服務介紹，以及關於如何使用的基本信息。"
 
-#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:21
+#: templates/about/default.tpl:21
 msgid "About the service"
 msgstr "關於我們的服務"
 
-#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:22
+#: templates/about/default.tpl:22
 msgid ""
 "Should I answer the call? This question can come into a mind of every person "
 "who sees an unknown calling number. Each of us had (or will have) the "
@@ -605,7 +602,7 @@ msgstr ""
 "已經(或者將來)有機會面對不需要來的電話、電話銷售的運動、廣告或者各種騙局電"
 "話。"
 
-#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:23
+#: templates/about/default.tpl:23
 msgid ""
 "How should we find out that the calling number is harmless and to answer it "
 "will not cost us tens of minutes of precious time or significant amount of "
@@ -622,31 +619,31 @@ msgstr ""
 "頁，不僅讓每個人都可以發表對個別號碼意見，而且還提供號碼查詢功能。瀏覽其它用"
 "戶對於該號碼的評價可以快速的找出此號碼屬於哪個類別 : "
 
-#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:25
+#: templates/about/default.tpl:25
 msgid "Neutral number"
 msgstr "未舉報號碼"
 
-#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:25
+#: templates/about/default.tpl:25
 msgid "not decided yet if the number is harmful/scam or legitimate"
 msgstr "未決定這個電話是否有害/詐騙，或是正當的"
 
-#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:26
+#: templates/about/default.tpl:26
 msgid "Scam number"
 msgstr "詐騙電話號碼"
 
-#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:26
+#: templates/about/default.tpl:26
 msgid "answering this call will cost a precious time or money"
 msgstr "接這個電話將浪費寶貴的時間或金錢"
 
-#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:27
+#: templates/about/default.tpl:27
 msgid "Useful number"
 msgstr "有用的號碼"
 
-#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:27
+#: templates/about/default.tpl:27
 msgid "there is no danger in answering this call"
 msgstr "接這個來電並無任何風險"
 
-#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:30
+#: templates/about/default.tpl:30
 msgid ""
 "If the user has such information always accessible and in a readable way we "
 "would be able to limit or even stop the incorrect behavior from the side of "
@@ -658,7 +655,7 @@ msgstr ""
 "無用的營銷運動或者公司在客戶不能充分保護自己的不公平環境不嘗試著謀取利益的不"
 "正確行為。"
 
-#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:32
+#: templates/about/default.tpl:32
 msgid ""
 "Let's fight together against the telephonic kind of harassment, let's share "
 "our knowledge and situations and most important, the ways how to protect."
@@ -666,28 +663,249 @@ msgstr ""
 "我們對電話打擾一起反對吧，我們互相共享我們的知識和經驗，最重要就是共享保護方"
 "式。"
 
-#: c:\work\web\shouldianswer.com\app/templates/adminlogin/default.tpl:16
+#: templates/adminlogin/default.tpl:16
 msgid "Login page"
 msgstr "登入網頁"
 
-#: c:\work\web\shouldianswer.com\app/templates/adminlogin/default.tpl:48
+#: templates/adminlogin/default.tpl:48
 msgid "Administration Login"
 msgstr "管理員登入"
 
-#: c:\work\web\shouldianswer.com\app/templates/contact/default.tpl:16
-#: c:\work\web\shouldianswer.com\app/templates/contact/default.tpl:21
+#: templates/compatibility/default.tpl:16
+msgid "Phone App Compatibility"
+msgstr ""
+
+#: templates/compatibility/default.tpl:117
+msgid "Phone Compatibility Report"
+msgstr ""
+
+#: templates/compatibility/default.tpl:120
+msgid "Phone API version"
+msgstr ""
+
+#: templates/compatibility/default.tpl:121
+msgid "App Version"
+msgstr ""
+
+#: templates/compatibility/default.tpl:125
+msgid "Phone Manufacturer"
+msgstr ""
+
+#: templates/compatibility/default.tpl:126
+msgid "Phone Model"
+msgstr ""
+
+#: templates/compatibility/default.tpl:130
+msgid "Contacts Support"
+msgstr ""
+
+#: templates/compatibility/default.tpl:131
+msgid "Auto Disconnect Support"
+msgstr ""
+
+#: templates/compatibility/default.tpl:136
+msgid "Are you experiencing any issue ?"
+msgstr ""
+
+#: templates/compatibility/default.tpl:142
+msgid "Issue Type"
+msgstr ""
+
+#: templates/compatibility/default.tpl:143
+msgid "I didn't find any issue yet"
+msgstr ""
+
+#: templates/compatibility/default.tpl:145
+msgid "Hurray! We hope it stays like this ;-)"
+msgstr ""
+
+#: templates/compatibility/default.tpl:147
+msgid "Alerts are not visible"
+msgstr ""
+
+#: templates/compatibility/default.tpl:149
+msgid ""
+"Firstly the alerts are visible only for calls from/to phone numbers which "
+"are not stored in your phone contacts."
+msgstr ""
+
+#: templates/compatibility/default.tpl:150
+msgid ""
+"Secondly please be sure you did not stop our application by some memory "
+"optimizer or app killer."
+msgstr ""
+
+#: templates/compatibility/default.tpl:151
+#: templates/compatibility/default.tpl:161
+msgid ""
+"Enable \"Show icon in status bar\" in app Settings and keep app icon in "
+"status bar."
+msgstr ""
+
+#: templates/compatibility/default.tpl:152
+#: templates/compatibility/default.tpl:162
+msgid ""
+"If you or some utility kills our service intentionally the icon disappears."
+msgstr ""
+
+#: templates/compatibility/default.tpl:153
+msgid ""
+"If our service is running and you don't see alerts for unknown numbers, "
+"please try to disable the use of overlay in app Settings."
+msgstr ""
+
+#: templates/compatibility/default.tpl:155
+msgid "Unwanted calls are not blocked"
+msgstr ""
+
+#: templates/compatibility/default.tpl:158
+msgid "Your phone should support this feature."
+msgstr ""
+
+#: templates/compatibility/default.tpl:159
+msgid ""
+"Check the “Block Rules” settings in your and also be sure you don't have the "
+"calling number stored in phone contacts."
+msgstr ""
+
+#: templates/compatibility/default.tpl:160
+msgid ""
+"Please be sure you did not stop our application by some memory optimizer or "
+"app killer."
+msgstr ""
+
+#: templates/compatibility/default.tpl:163
+msgid ""
+"If our service is running and doesn't work as expected please send us the "
+"details: phone number which should be blocked and reason why you expect the "
+"blocking action."
+msgstr ""
+
+#: templates/compatibility/default.tpl:165
+msgid ""
+"Your phone doesn't support this feature. If you have some useful "
+"information, please fill it to Issue description."
+msgstr ""
+
+#: templates/compatibility/default.tpl:168
+msgid "App cannot read contacts"
+msgstr ""
+
+#: templates/compatibility/default.tpl:171
+msgid "Please be sure you granted contacts access to our application."
+msgstr ""
+
+#: templates/compatibility/default.tpl:173
+msgid "Do you have idea why we don't have access to contacts?"
+msgstr ""
+
+#: templates/compatibility/default.tpl:174
+msgid "Are your contacts stored in some special way?"
+msgstr ""
+
+#: templates/compatibility/default.tpl:175
+msgid "Are you using some app for contact protection?"
+msgstr ""
+
+#: templates/compatibility/default.tpl:176
+msgid "Let us know."
+msgstr ""
+
+#: templates/compatibility/default.tpl:178
+msgid "Other issue"
+msgstr ""
+
+#: templates/compatibility/default.tpl:180
+msgid ""
+"Please explain your issue to description. More information you send, higher "
+"chance to catch and fix the bug."
+msgstr ""
+
+#: templates/compatibility/default.tpl:184
+msgid "Please select the issue type"
+msgstr ""
+
+#: templates/compatibility/default.tpl:191
+msgid "Issue description"
+msgstr ""
+
+#: templates/compatibility/default.tpl:192
+msgid "Please explain in detail your issue. Thank you!"
+msgstr ""
+
+#: templates/compatibility/default.tpl:196
+msgid "Please fill the issue description"
+msgstr ""
+
+#: templates/compatibility/default.tpl:202
+#: templates/phonenumber/defaultModerator.tpl:363
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:385
+#: templates/removalrequest/default.tpl:202
+msgid "Email"
+msgstr "電子郵件"
+
+#: templates/compatibility/default.tpl:203
+#: templates/removalrequest/default.tpl:203
+msgid "Please enter your email"
+msgstr ""
+
+#: templates/compatibility/default.tpl:206
+#: templates/removalrequest/default.tpl:206
+msgid "Please enter your valid email"
+msgstr ""
+
+#: templates/compatibility/default.tpl:212
+#: templates/removalrequest/default.tpl:237
+msgid ""
+"If possible please communicate in English language to speed up the request "
+"processing."
+msgstr ""
+
+#: templates/compatibility/default.tpl:213
+#: templates/removalrequest/default.tpl:238
+msgid ""
+"If you have problems with submitting this form, please contact us to email "
+"<strong>support@shouldianswer.net</strong>."
+msgstr ""
+
+#: templates/compatibility/default.tpl:217
+msgid "Send Issue Report"
+msgstr ""
+
+#: templates/compatibility/submited.tpl:16
+msgid "Compatibility Issue Received"
+msgstr ""
+
+#: templates/compatibility/submited.tpl:23
+msgid "Phone Compatibility Issue"
+msgstr ""
+
+#: templates/compatibility/submited.tpl:25
+msgid "Your information has been succesfully send to our support team."
+msgstr ""
+
+#: templates/compatibility/submited.tpl:26
+msgid "We will try to analyze it as soon as possible."
+msgstr ""
+
+#: templates/compatibility/submited.tpl:27
+msgid "Thank you for your help!"
+msgstr ""
+
+#: templates/contact/default.tpl:16 templates/contact/default.tpl:21
+#: templates/mobilemanual/8.tpl:579
 msgid "Contact"
 msgstr "聯絡我們"
 
-#: c:\work\web\shouldianswer.com\app/templates/contact/default.tpl:17
+#: templates/contact/default.tpl:17
 msgid "Contact information"
 msgstr "聯絡資料"
 
-#: c:\work\web\shouldianswer.com\app/templates/contact/default.tpl:22
+#: templates/contact/default.tpl:22
 msgid "Thank You for using this Service."
 msgstr "感謝使用此服務。"
 
-#: c:\work\web\shouldianswer.com\app/templates/contact/default.tpl:23
+#: templates/contact/default.tpl:23
 msgid ""
 "If You need to contact us please send us email to "
 "<strong>contact@shouldianswer.com</strong>. Your question will be processed "
@@ -696,189 +914,163 @@ msgstr ""
 "與我們聯絡，請發送電郵到<strong>contact@shouldianswer.com</strong>。我們將在"
 "最快的時間內回復的問題。"
 
-#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:17
+#: templates/default/defaultDefault.tpl:17 templates/default/defaultNew.tpl:17
+#: templates/default/default_ww.tpl:17
 msgid "Main Page"
 msgstr "主網頁"
 
-#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:18
+#: templates/default/defaultDefault.tpl:18 templates/default/defaultNew.tpl:18
+#: templates/default/default_ww.tpl:18
 msgid ""
 "See what phone numbers are most searched and find ratings and users reviews."
 msgstr "看哪些號碼是經常被搜索的，並查閱它們的評級與用戶評論。"
 
-#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:41
-#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:253
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:141
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:179
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:217
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:233
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:271
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:309
+#: templates/default/defaultDefault.tpl:41 templates/layout.tpl:291
+#: templates/layoutAmp.tpl:259 templates/layoutNew.tpl:281
+#: templates/phonenumber/defaultAmp.tpl:595
+#: templates/phonenumber/defaultDefault.tpl:197
+#: templates/phonenumber/defaultDefault.tpl:235
+#: templates/phonenumber/defaultDefault.tpl:273
+#: templates/phonenumber/defaultNew.tpl:592
+#: templates/phonenumber/defaultNext.tpl:682
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:233
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:271
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:309
 msgid "How to block unwanted numbers?"
 msgstr "如何屏蔽不想要的號碼？"
 
-#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:46
-#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:255
-#: c:\work\web\shouldianswer.com\app/templates/net/default.tpl:58
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:155
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:193
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:222
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:247
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:285
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:314
+#: templates/default/defaultDefault.tpl:46 templates/default/defaultNew.tpl:55
+#: templates/default/default_ww.tpl:119 templates/layout.tpl:293
+#: templates/layoutAmp.tpl:261 templates/layoutNew.tpl:283
+#: templates/net/default.tpl:58 templates/phonenumber/defaultAmp.tpl:602
+#: templates/phonenumber/defaultDefault.tpl:211
+#: templates/phonenumber/defaultDefault.tpl:249
+#: templates/phonenumber/defaultDefault.tpl:278
+#: templates/phonenumber/defaultNew.tpl:599
+#: templates/phonenumber/defaultNext.tpl:690
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:247
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:285
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:314
 msgid "We have simple solution for you!"
 msgstr "我們為您準備了一個最簡單的解決方案！"
 
-#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:47
-#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:256
-#: c:\work\web\shouldianswer.com\app/templates/net/default.tpl:59
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:155
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:193
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:223
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:247
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:285
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:315
+#: templates/default/defaultDefault.tpl:47 templates/default/defaultNew.tpl:56
+#: templates/default/default_ww.tpl:120 templates/layout.tpl:294
+#: templates/layoutAmp.tpl:262 templates/layoutNew.tpl:284
+#: templates/net/default.tpl:59 templates/phonenumber/defaultAmp.tpl:603
+#: templates/phonenumber/defaultDefault.tpl:211
+#: templates/phonenumber/defaultDefault.tpl:249
+#: templates/phonenumber/defaultDefault.tpl:279
+#: templates/phonenumber/defaultNew.tpl:600
+#: templates/phonenumber/defaultNext.tpl:691
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:247
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:285
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:315
 msgid ""
 "Install our free security application into your mobile phone and stop "
 "unsolicited calls once forever!"
 msgstr "把我們免費和安全的應用裝進您的手機，一次性永遠停止不想要的電話！"
 
-#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:55
-#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:265
-#: c:\work\web\shouldianswer.com\app/templates/layout_default.tpl:52
-#: c:\work\web\shouldianswer.com\app/templates/layout_detail.tpl:61
-#: c:\work\web\shouldianswer.com\app/templates/net/default.tpl:55
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:166
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:204
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:231
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:258
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:296
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:323
+#: templates/default/defaultDefault.tpl:55 templates/default/defaultNew.tpl:64
+#: templates/default/default_ww.tpl:116 templates/layout.tpl:303
+#: templates/layoutAmp.tpl:271 templates/layoutNew.tpl:293
+#: templates/layout_default.tpl:52 templates/net/default.tpl:55
+#: templates/phonenumber/defaultAmp.tpl:611
+#: templates/phonenumber/defaultDefault.tpl:222
+#: templates/phonenumber/defaultDefault.tpl:260
+#: templates/phonenumber/defaultDefault.tpl:287
+#: templates/phonenumber/defaultNew.tpl:608
+#: templates/phonenumber/defaultNext.tpl:699
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:258
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:296
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:323
 msgid "Download from Google Play"
 msgstr "從Google Play應用匯下載"
 
-#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:78
-#: c:\work\web\shouldianswer.com\app/templates/layout_detail.tpl:75
+#: templates/default/defaultDefault.tpl:78 templates/default/defaultNew.tpl:72
+#: templates/layout_detail.tpl:27 templates/layout_detailAmp.tpl:26
+#: templates/layout_detailNew.tpl:26
 msgid "<strong>Popular</strong> phone numbers"
 msgstr " <strong>最受歡迎</strong>的電話號碼"
 
-#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:135
-#: c:\work\web\shouldianswer.com\app/templates/layout_detail.tpl:104
+#: templates/default/defaultDefault.tpl:135
+#: templates/default/defaultNew.tpl:110 templates/layout_detail.tpl:50
+#: templates/layout_detailAmp.tpl:44 templates/layout_detailNew.tpl:44
 msgid " <strong>Latest rated</strong> phone numbers"
 msgstr " <strong>最新評級</strong>的電話號碼"
 
-#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:157
-#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:160
-#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:163
+#: templates/default/defaultDefault.tpl:157
+#: templates/default/defaultDefault.tpl:160
+#: templates/default/defaultDefault.tpl:163
 msgid "Latest rating was"
 msgstr "近期的評級為"
 
-#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:157
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:77
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:260
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:74
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:352
+#: templates/default/defaultDefault.tpl:157
+#: templates/phonenumber/defaultAmp.tpl:147
+#: templates/phonenumber/defaultAmp.tpl:184
+#: templates/phonenumber/defaultAmp.tpl:335
+#: templates/phonenumber/defaultDefault.tpl:113
+#: templates/phonenumber/defaultDefault.tpl:316
+#: templates/phonenumber/defaultModerator.tpl:98
+#: templates/phonenumber/defaultModerator.tpl:135
+#: templates/phonenumber/defaultModerator.tpl:330
+#: templates/phonenumber/defaultNew.tpl:144
+#: templates/phonenumber/defaultNew.tpl:181
+#: templates/phonenumber/defaultNew.tpl:332
+#: templates/phonenumber/defaultNext.tpl:227
+#: templates/phonenumber/defaultNext.tpl:264
+#: templates/phonenumber/defaultNext.tpl:410
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:74
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:352
 msgid "positive"
 msgstr "正面"
 
-#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:160
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:76
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:262
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:73
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:354
+#: templates/default/defaultDefault.tpl:160
+#: templates/phonenumber/defaultAmp.tpl:146
+#: templates/phonenumber/defaultAmp.tpl:187
+#: templates/phonenumber/defaultAmp.tpl:337
+#: templates/phonenumber/defaultDefault.tpl:112
+#: templates/phonenumber/defaultDefault.tpl:318
+#: templates/phonenumber/defaultModerator.tpl:97
+#: templates/phonenumber/defaultModerator.tpl:138
+#: templates/phonenumber/defaultModerator.tpl:332
+#: templates/phonenumber/defaultNew.tpl:143
+#: templates/phonenumber/defaultNew.tpl:184
+#: templates/phonenumber/defaultNew.tpl:334
+#: templates/phonenumber/defaultNext.tpl:226
+#: templates/phonenumber/defaultNext.tpl:267
+#: templates/phonenumber/defaultNext.tpl:412
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:73
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:354
 msgid "negative"
 msgstr "負面"
 
-#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:163
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:75
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:261
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:72
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:353
+#: templates/default/defaultDefault.tpl:163
+#: templates/phonenumber/defaultAmp.tpl:145
+#: templates/phonenumber/defaultAmp.tpl:190
+#: templates/phonenumber/defaultAmp.tpl:336
+#: templates/phonenumber/defaultDefault.tpl:111
+#: templates/phonenumber/defaultDefault.tpl:317
+#: templates/phonenumber/defaultModerator.tpl:96
+#: templates/phonenumber/defaultModerator.tpl:141
+#: templates/phonenumber/defaultModerator.tpl:331
+#: templates/phonenumber/defaultNew.tpl:142
+#: templates/phonenumber/defaultNew.tpl:187
+#: templates/phonenumber/defaultNew.tpl:333
+#: templates/phonenumber/defaultNext.tpl:225
+#: templates/phonenumber/defaultNext.tpl:270
+#: templates/phonenumber/defaultNext.tpl:411
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:72
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:353
 msgid "neutral"
 msgstr "中立"
 
-#: c:\work\web\shouldianswer.com\app/templates/history/default.tpl:19
-#: c:\work\web\shouldianswer.com\app/templates/history/default.tpl:24
-msgid "Latest Searched Numbers"
-msgstr "近期查詢的號碼"
+#: templates/default/defaultNew.tpl:42
+msgid "<strong>Find</strong> who is calling you!"
+msgstr ""
 
-#: c:\work\web\shouldianswer.com\app/templates/history/default.tpl:40
-msgid "Next Page"
-msgstr "下頁"
-
-#: c:\work\web\shouldianswer.com\app/templates/historyinfo/default.tpl:16
-msgid "Contacts Check"
-msgstr "近期查詢的號碼"
-
-#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:82
-#: c:\work\web\shouldianswer.com\app/templates/layout_white.tpl:72
-msgid "Should I Answer"
-msgstr "我應該接電話嗎"
-
-#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:128
-msgid ""
-"Cookies help us deliver our services. By using our services, you agree to "
-"our use of cookies."
-msgstr "Cookies 幫助我們經營服務。如果您使用我們的服務，您就同一使用cookies。"
-
-#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:129
-msgid "Find out more"
-msgstr "了解更多"
-
-#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:130
-msgid "Got it"
-msgstr "明白了"
-
-#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:149
-#, php-format
-msgid "For phone numbers in your location (%s) use "
-msgstr "針對本地 (%s) 電話號碼請使用"
-
-#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:153
-msgid "Close"
-msgstr "關閉"
-
-#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:169
-#, php-format
-msgid "You are logged as moderator."
-msgstr "您為版主登錄了。"
-
-#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:188
-msgid "Should I <strong>answer?</strong>"
-msgstr "我應該<strong>聽電話嗎?</strong>"
-
-#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:195
-msgid "search for phone number"
-msgstr "搜索電話號碼"
-
-#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:200
-msgid "search"
-msgstr "搜索"
-
-#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:232
-msgid "about"
-msgstr "關於我們"
-
-#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:233
-msgid "blog"
-msgstr "博客"
-
-#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:234
-msgid "terms"
-msgstr "服務條款"
-
-#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:235
-msgid "contact"
-msgstr "聯絡我們"
-
-#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:236
-msgid "history"
-msgstr "歷史"
-
-#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:237
-msgid "shouldianswer.net"
-msgstr "hk.shouldianswer.net"
-
-#: c:\work\web\shouldianswer.com\app/templates/layout_default.tpl:22
+#: templates/default/defaultNew.tpl:44 templates/layout_default.tpl:22
+#: templates/layout_default_ww.tpl:22
 msgid ""
 "Is someone calling You from an unknown number and You are not sure if "
 "picking it up is a good idea? Search for the number and find out who can be "
@@ -887,87 +1079,198 @@ msgstr ""
 "是否有未知號碼給您致電，但您不能確定到底接不接？只需搜索這個電話號碼，即可知"
 "道是誰給您來電"
 
-#: c:\work\web\shouldianswer.com\app/templates/layout_default.tpl:27
-msgid "shouldianswer.com Logo"
-msgstr "shouldianswer.com 商標"
+#: templates/default/defaultNew.tpl:49
+msgid "How to <strong>block</strong> unwanted numbers?"
+msgstr ""
 
-#: c:\work\web\shouldianswer.com\app/templates/layout_default.tpl:40
-#: c:\work\web\shouldianswer.com\app/templates/layout_detail.tpl:49
+#: templates/default/defaultNew.tpl:151 templates/layout_default.tpl:84
+msgid "Dialing Codes"
+msgstr "區號"
+
+#: templates/default/default_ww.tpl:39
+msgid "Our service is available in many countries with country specific domain"
+msgstr ""
+
+#: templates/default/default_ww.tpl:118 templates/net/default.tpl:57
+msgid "How to block unwanted calls?"
+msgstr "怎麼屏蔽不需要來的電話？"
+
+#: templates/history/default.tpl:19 templates/history/default.tpl:24
+msgid "Latest Searched Numbers"
+msgstr "近期查詢的號碼"
+
+#: templates/history/default.tpl:41
+msgid "Next Page"
+msgstr "下頁"
+
+#: templates/historyinfo/default.tpl:16
+msgid "Contacts Check"
+msgstr "近期查詢的號碼"
+
+#: templates/layout.tpl:118 templates/layoutAmp.tpl:188
+#: templates/layoutNew.tpl:114 templates/layoutNew.tpl:210
+#: templates/layout_white.tpl:72
+msgid "Should I Answer"
+msgstr "我應該接電話嗎"
+
+#: templates/layout.tpl:153 templates/layoutAmp.tpl:127
+#: templates/layoutNew.tpl:149
+msgid ""
+"Cookies help us deliver our services. By using our services, you agree to "
+"our use of cookies."
+msgstr "Cookies 幫助我們經營服務。如果您使用我們的服務，您就同一使用cookies。"
+
+#: templates/layout.tpl:154 templates/layoutAmp.tpl:128
+#: templates/layoutNew.tpl:150
+msgid "Got it"
+msgstr "明白了"
+
+#: templates/layout.tpl:155 templates/layoutAmp.tpl:129
+#: templates/layoutNew.tpl:151
+msgid "Find out more"
+msgstr "了解更多"
+
+#: templates/layout.tpl:188 templates/layoutAmp.tpl:162
+#: templates/layoutNew.tpl:184
+#, php-format
+msgid "For phone numbers in your location (%s) use "
+msgstr "針對本地 (%s) 電話號碼請使用"
+
+#: templates/layout.tpl:192 templates/layoutAmp.tpl:166
+#: templates/layoutNew.tpl:188
+msgid "Close"
+msgstr "關閉"
+
+#: templates/layout.tpl:206 templates/layoutAmp.tpl:181
+#: templates/layoutNew.tpl:203
+#, php-format
+msgid "You are logged as moderator."
+msgstr "您為版主登錄了。"
+
+#: templates/layout.tpl:225 templates/layoutAmp.tpl:191
+#: templates/layoutNew.tpl:213
+msgid "Should I <strong>answer?</strong>"
+msgstr "我應該<strong>聽電話嗎?</strong>"
+
+#: templates/layout.tpl:232 templates/layoutAmp.tpl:199
+#: templates/layoutNew.tpl:221
+msgid "search for phone number"
+msgstr "搜索電話號碼"
+
+#: templates/layout.tpl:237 templates/layoutAmp.tpl:205
+#: templates/layoutNew.tpl:227
+msgid "search"
+msgstr "搜索"
+
+#: templates/layout.tpl:269 templates/layoutAmp.tpl:237
+#: templates/layoutNew.tpl:259
+msgid "about"
+msgstr "關於我們"
+
+#: templates/layout.tpl:270 templates/layoutAmp.tpl:238
+#: templates/layoutNew.tpl:260
+msgid "blog"
+msgstr "博客"
+
+#: templates/layout.tpl:271 templates/layoutAmp.tpl:239
+#: templates/layoutNew.tpl:261
+msgid "terms"
+msgstr "服務條款"
+
+#: templates/layout.tpl:272 templates/layoutAmp.tpl:240
+#: templates/layoutNew.tpl:262
+msgid "manual"
+msgstr ""
+
+#: templates/layout.tpl:273 templates/layoutAmp.tpl:241
+#: templates/layoutNew.tpl:263
+msgid "contact"
+msgstr "聯絡我們"
+
+#: templates/layout.tpl:274 templates/layoutAmp.tpl:242
+#: templates/layoutNew.tpl:264
+msgid "history"
+msgstr "歷史"
+
+#: templates/layout.tpl:275 templates/layoutAmp.tpl:243
+#: templates/layoutNew.tpl:265
+msgid "shouldianswer.net"
+msgstr "hk.shouldianswer.net"
+
+#: templates/layout_default.tpl:27 templates/layout_defaultNew.tpl:20
+msgid "ShouldIAnswer Logo"
+msgstr ""
+
+#: templates/layout_default.tpl:40
 msgid "For Your <strong>Phone</strong>"
 msgstr "為了您的<strong>手機</strong>"
 
-#: c:\work\web\shouldianswer.com\app/templates/layout_default.tpl:48
-#: c:\work\web\shouldianswer.com\app/templates/layout_detail.tpl:57
+#: templates/layout_default.tpl:48
 msgid ""
 "Get <strong>free</strong> and <strong>effective</strong> protection against "
 "unwanted calls!"
 msgstr ""
 "獲得<strong>免費</strong>和<strong>有效的</strong>反不需要來電話的保護！"
 
-#: c:\work\web\shouldianswer.com\app/templates/layout_default.tpl:84
-msgid "Dialing Codes"
-msgstr "區號"
+#: templates/layout_default_ww.tpl:27
+msgid "shouldianswer.com Logo"
+msgstr "shouldianswer.com 商標"
 
-#: c:\work\web\shouldianswer.com\app/templates/layout_default.tpl:105
-msgid "<strong>Latest visited</strong> phone numbers"
-msgstr " <strong>近期瀏覽</strong>的電話號碼 "
-
-#: c:\work\web\shouldianswer.com\app/templates/layout_mobileapp.tpl:69
+#: templates/layout_mobileapp.tpl:69 templates/mobilemanual/8.tpl:556
 msgid "Should I Answer?"
 msgstr "我應該接電話嗎？"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:17
+#: templates/mobileapp/default.tpl:17
 msgid "Phone Protection"
 msgstr "手機保護！"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:40
+#: templates/mobileapp/default.tpl:40
 msgid "Protects you and your loved ones"
 msgstr "保護您自己和您的心愛的人"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:41
+#: templates/mobileapp/default.tpl:41
 msgid "Immediate end for all kinds of unsolicited calls"
 msgstr "即時結束各種不需要來的電話"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:44
+#: templates/mobileapp/default.tpl:44
 msgid "Show rating of incoming calls"
 msgstr "顯示來電電話的評級"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:45
+#: templates/mobileapp/default.tpl:45
 msgid "Several protection levels and simple settings"
 msgstr "幾水平的保護和簡單設置"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:48
+#: templates/mobileapp/default.tpl:48
 msgid "Auto block unwanted calls"
 msgstr "自動屏蔽不需要來的電話"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:49
+#: templates/mobileapp/default.tpl:49
 msgid "Optional feature for higher protection"
 msgstr "其它更高的保護選項"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:52
+#: templates/mobileapp/default.tpl:52
 msgid "Allow calls from phone contacts only"
 msgstr "隻允許聯系人名單的電話"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:53
+#: templates/mobileapp/default.tpl:53
 msgid "Optional feature for maximal protection"
 msgstr "其它最好的保護選項"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:56
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:75
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:131
+#: templates/mobileapp/default.tpl:56 templates/mobileapp/default.tpl:75
+#: templates/mobileapp/default.tpl:131
 msgid "Get the App"
 msgstr "得到應用"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:69
+#: templates/mobileapp/default.tpl:69
 msgid ""
 "Our free application will protect you against all kind of harassment calls"
 msgstr "我們免費的應用會反各種打擾電話保護您"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:70
+#: templates/mobileapp/default.tpl:70
 msgid "Protect your privacy with our new mobile application."
 msgstr "用我們新的手機應用保護您的隱私。"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:72
+#: templates/mobileapp/default.tpl:72
 msgid ""
 "\"Should I Answer\" is free security application for mobiles with Android™ "
 "operting system which can protect you against all kinds of unsolicited calls."
@@ -975,17 +1278,17 @@ msgstr ""
 "\"我應該接電話嗎\"是免費保安的應用宜於Android™手機的操作系統， 它會反各種不需"
 "要來的電話保護您。"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:73
+#: templates/mobileapp/default.tpl:73
 msgid ""
 "It offers several protection levels - from simple notification to automatic "
 "blocking of unsolicited calls."
 msgstr "它提供您幾水平的保護 –從簡單的通知到自動地屏蔽不需要來的電話。"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:88
+#: templates/mobileapp/default.tpl:88
 msgid "Show rating of incoming call"
 msgstr "顯示來電的評級"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:90
+#: templates/mobileapp/default.tpl:90
 msgid ""
 "With this protection level activated, all incoming calls from numbers not "
 "saved in your contact list will be checked and the automatic notification "
@@ -994,15 +1297,15 @@ msgstr ""
 "如果您啟動這種保水平的話，所有的不存在您的聯系人名單裡的來電就會被檢查，以及"
 "自動的通知就會顯示，包括評級和用戶留言。"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:93
+#: templates/mobileapp/default.tpl:93
 msgid "This gives you a sufficient time to decide if answer the call or not."
 msgstr "這樣您有充足時間決定您會不會接電話。"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:99
+#: templates/mobileapp/default.tpl:99
 msgid "Block the numbers with negative rating"
 msgstr "屏蔽有差評號碼的電話"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:101
+#: templates/mobileapp/default.tpl:101
 msgid ""
 "If this protection level is activated all the incoming calls with negative "
 "ranking will be automatically dropped and just a notice is shown in the "
@@ -1011,8 +1314,7 @@ msgstr ""
 "如果您啟動這種水平的保護的話，就會自動地挂所有的有差評號碼的電話也在通知的地"
 "方就會顯示關於屏蔽電話的通知。"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:104
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:115
+#: templates/mobileapp/default.tpl:104 templates/mobileapp/default.tpl:115
 msgid ""
 "In the application main menu user can find info showing how many incoming "
 "calls were blocked and also a possibility to show these numbers."
@@ -1020,11 +1322,11 @@ msgstr ""
 "在應用主要選單裡用戶能找到顯示屏蔽電話的數量的信息，在這裡用戶也可以顯示那些"
 "號碼。"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:110
+#: templates/mobileapp/default.tpl:110
 msgid "Blocking of numbers not stored in contacts"
 msgstr "屏蔽不存在聯系人名單裡的號碼"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:112
+#: templates/mobileapp/default.tpl:112
 msgid ""
 "With this protection level activated all incoming calls from numbers not "
 "stored within the contacts of your mobile phone will be automatically "
@@ -1034,16 +1336,16 @@ msgstr ""
 "如果您啟動這種保護水平的話，所有的不存在聯系人名單裡的來電就會被自動地屏蔽，"
 "另外，關於屏蔽行動的小信息也會在通知的地方顯示。"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:126
+#: templates/mobileapp/default.tpl:126
 msgid ""
 "Protect yourself, Your family and your friends against unsolicited calls!"
 msgstr "反不需要來的電話保護您自己，您的家和您的朋友們！"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:127
+#: templates/mobileapp/default.tpl:127
 msgid "No more worries with nuisance calls and tele-harassment!"
 msgstr "您已經不用擔心騷擾電話和電話銷售的打擾！"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobileapp/default.tpl:129
+#: templates/mobileapp/default.tpl:129
 msgid ""
 "If interested in some of these protection levels for your use or for your "
 "relatives do not hesitate and download the application for <strong>free</"
@@ -1052,24 +1354,1028 @@ msgstr ""
 "如果您對為了您自己和您的親戚使用這些保水平保護感興趣，別再猶豫了，就下載您的"
 "手機<strong>免費的</strong>應用。"
 
-#: c:\work\web\shouldianswer.com\app/templates/mobilemanual/default.tpl:18
+#: templates/mobilemanual/8.tpl:18
 msgid "User Manual"
 msgstr "用戶手冊"
 
-#: c:\work\web\shouldianswer.com\app/templates/net/default.tpl:57
-msgid "How to block unwanted calls?"
-msgstr "怎麼屏蔽不需要來的電話？"
+#: templates/mobilemanual/8.tpl:144
+msgid "Should I Answer Manual"
+msgstr ""
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:24
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:29
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:26
+#: templates/mobilemanual/8.tpl:152 templates/mobilemanual/8.tpl:557
+msgid "Introduction"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:154
+msgid ""
+"<b>Should I Answer</b> (SIA) is free community-based security application "
+"for mobile phones with Android operating system designed to protect you "
+"against unsolicited calls, all kinds of unwanted telemarketing and unwanted "
+"or expensive outgoing calls like call to premium number or call to a foreign "
+"country."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:155
+msgid "This document describes features and user interface of version 8.x."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:159
+msgid "It is developed by company Mister Group s.r.o."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:160
+msgid ""
+"If you have any question regarding installation, features or company itself "
+"feel free to contact our support via email <a href=\"mailto:"
+"support@shouldianswer.net\">support@shouldianswer.net</a>."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:165 templates/mobilemanual/8.tpl:559
+msgid "Installation"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:167
+msgid ""
+"Preferred installation method is via Google Play Store which you can find "
+"directly in your mobile device or via <a href=\"https://play.google.com/"
+"store/apps/details?id=org.mistergroup.muzutozvednout\">Google Play web page</"
+"a>."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:168
+msgid "There is no other official distribution channel of installer APK."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:169
+msgid ""
+"If you can't use Google Play for installation and need the APK file "
+"separately, feel free to contact us via our email <a href=\"mailto:"
+"support@shouldianswer.net\">support@shouldianswer.net</a>."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:174
+msgid "Main Features"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:176
+msgid "Easy check of phone numbers ratings in your Phone Call History."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:177
+msgid ""
+"Displaying ratings of incoming/outgoing call via special notification "
+"(Alert)."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:178
+msgid "Displaying after-call information with possibility to write own rating."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:179
+msgid "Flexible rating system."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:180
+msgid "Fully customizable alerts."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:181
+msgid "Optional automatic blocking of unwanted incoming/outgoing calls."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:182
+msgid "Daily updated Community Database."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:188
+msgid "How it works"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:190
+msgid ""
+"When some number calls, application shows phone number rating via "
+"<strong>security rating notifications</strong> (Alerts)."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:191
+msgid ""
+"Each rating is based on reviews in Community Database, your Phone Contacts "
+"and your own ratings."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:192
+msgid ""
+"All above is combined into single <strong>POSITIVE, NEUTRAL, NEGATIVE or "
+"UNKNOWN</strong> rating."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:193
+msgid ""
+"How all the information sources will be combined is fully customizable in "
+"the <strong>RATINGS</strong> tab."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:194
+msgid ""
+"How and what alerts will be displayed can be configured in the "
+"<strong>ALERTS</strong> tab."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:195
+msgid ""
+"How the incoming/outgoing calls will be maintained and blocked can be "
+"configured in the <strong>BLOCKING</strong> tab."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:200 templates/mobilemanual/8.tpl:562
+msgid "User Interface"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:205 templates/mobilemanual/8.tpl:564
+msgid "Summary"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:207
+msgid ""
+"This section contains the summary of basic protection statistics and "
+"statuses of application components."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:208
+msgid ""
+"Protection statistics contains summary information of how many calls was "
+"checked and blocked, with figures for actual day/overall."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:209
+msgid "Components statuses provides a short list of major components."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:210
+msgid ""
+"Component with some issue is marked by red exclamation mark. In such "
+"situation a button for fixing the issue below the components list will be "
+"provided."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:214 templates/mobilemanual/8.tpl:565
+msgid "Logs"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:216
+msgid "The Logs screen provides you access to 3 types of logs:"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:218
+msgid ""
+"Phone Logs - contains the Phone Call History, is read from phone system log."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:219
+msgid "Checked Numbers - contains a list of the latest checked phone numbers."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:220
+msgid "Blocked Numbers - contains a list of the latest blocked numbers."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:223
+msgid ""
+"Icon on the left side indicates the Phone Number Rating with following "
+"meaning:"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:228 templates/phonenumber/defaultAmp.tpl:422
+#: templates/phonenumber/defaultDefault.tpl:426
+#: templates/phonenumber/defaultModerator.tpl:440
+#: templates/phonenumber/defaultNew.tpl:419
+#: templates/phonenumber/defaultNext.tpl:497
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:462
+msgid "negative rating"
+msgstr "負面的評級"
+
+#: templates/mobilemanual/8.tpl:229 templates/phonenumber/defaultAmp.tpl:426
+#: templates/phonenumber/defaultDefault.tpl:430
+#: templates/phonenumber/defaultModerator.tpl:444
+#: templates/phonenumber/defaultNew.tpl:423
+#: templates/phonenumber/defaultNext.tpl:501
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:466
+msgid "neutral rating"
+msgstr "中立的評級"
+
+#: templates/mobilemanual/8.tpl:230 templates/phonenumber/defaultAmp.tpl:418
+#: templates/phonenumber/defaultDefault.tpl:422
+#: templates/phonenumber/defaultModerator.tpl:436
+#: templates/phonenumber/defaultNew.tpl:415
+#: templates/phonenumber/defaultNext.tpl:493
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:458
+msgid "positive rating"
+msgstr "正面的評級"
+
+#: templates/mobilemanual/8.tpl:231
+msgid "unknown rating"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:236
+msgid "Next icon informs you about call type and taken action:"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:241
+msgid "Successful Incoming Call"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:242
+msgid "Missed Incoming Call"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:243
+msgid "Blocked Incoming Call"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:244
+msgid "Successful Outgoing Call"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:245
+msgid "Missed Outgoing Call"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:246
+msgid "Blocked Outgoing Call"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:251 templates/mobilemanual/8.tpl:293
+#: templates/mobilemanual/8.tpl:408
+msgid "Available Actions:"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:253
+msgid ""
+"<strong>Phone Number Click</strong> : this action opens the Phone Number "
+"Details screen with detailed information and further actions: Call, Block, "
+"Rate and download reviews for the number."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:254
+msgid ""
+"<strong>Phone Number Long Hold</strong> : if you hold a finger on the number "
+"for a while the context menu is shown with actions : Show Details, Call "
+"Number, Copy number to clipboard, and Web Search which opens our web page "
+"with the respective number."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:255
+msgid ""
+"<strong>Trash Button Click</strong> : clears the selected log - in case of "
+"the system log your phone log is not touched, the action will affect only "
+"the application view of the log."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:262 templates/mobilemanual/8.tpl:566
+msgid "Ratings"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:264
+msgid "In this section you can:"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:266
+msgid ""
+"configure how to combine the ratings from Community Database, your Phone "
+"Contacts and your own ratings into one final Phone Number Rating."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:267
+msgid "create and manage your ratings."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:271
+msgid ""
+"In fact here you can set how the application will judge all calls. More "
+"rules can be activated in the same time. The combination of the rules is "
+"always applied in the top-to-bottom order, e.g. the active rule closer to "
+"the bottom of the list will be used."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:274
+msgid "There are 3 general rating rules:"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:276
+msgid ""
+"<strong>Use Community Database Rating</strong> : if this one is activated, "
+"it sets the initial number rating according to our Community Database."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:277
+msgid ""
+"<strong>Be Positive for Contacts without your rating</strong> : if this one "
+"is activated, it sets a positive rating to all numbers stored in your mobile "
+"Contacts (if they do not have your other rating - in such case your rating "
+"rules)."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:278
+msgid ""
+"<strong>Be Positive for Contacts without your and community rating</"
+"strong> : if this one is activated, it sets a positive rating to such "
+"numbers stored in your mobile Contacts where no yours and/or community "
+"database rating exists (if there is a yours and/or community database rating "
+"for some of those numbers, then the rating is used)."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:283
+msgid "The last two rules are mutually exclusive, just one can be activated."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:287
+msgid "At the bottom of this screen the list of Your Ratings follows."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:288
+msgid ""
+"Remember that these ratings at the bottom of the screen will rule all the "
+"above rules."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:289
+msgid ""
+"Your rating can be defined for single or multiple phone numbers by using a "
+"mask."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:295
+msgid ""
+"<strong>Rating Filter</strong> : (at the top of the screen) helps to filter "
+"the rating rules by phone number. Useful if you search for some specific "
+"number rule. Just tick on the line and fill any number or a part of it."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:296
+msgid ""
+"<strong>General Rating Rules Click</strong> : if you click on any of the 3 "
+"lines this action switches the rule on or off."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:297
+msgid ""
+"<strong>User Rating Click</strong> : by clicking on any of your rating you "
+"open a screen for edition of the respective rating. There you can set the "
+"rating attributes, delete the rating, save it or cancel the changes."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:298
+msgid ""
+"<strong>Plus Button Click</strong> : this action opens the screen for "
+"creation of new rating, see below the <strong>Phone Number Rating</strong>."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:304 templates/mobilemanual/8.tpl:567
+msgid "Alerts"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:306
+msgid ""
+"Alert is security rating notification displayed during calling phase (can be "
+"done for both INCOMING or OUTGOING calls)."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:307
+msgid "In this screen you can configure the Alerts displaying."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:308
+msgid "This setting here is done based on the phone number rating."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:309
+msgid ""
+"For each rating you can check if you want to display the alert also for "
+"numbers from your Contacts or exclude your phone Contacts."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:312
+msgid ""
+"In the <strong>Advanced</strong> section at the bottom of the screen a "
+"system overlay can be enabled."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:313
+msgid ""
+"If you are experiencing problems with alerts displaying, you can try to "
+"disable the usage of system overlays - this will cause the displaying of "
+"alert in another fashion which can work better on your device."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:318 templates/mobilemanual/8.tpl:568
+msgid "Blocking"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:320
+msgid ""
+"In this section you can configure which incoming/outgoing calls should be "
+"blocked."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:321
+msgid ""
+"Remember, in the <strong>Ratings</strong> screen you have set how to rate "
+"the number, now we will use it for the blocking functionality of the "
+"application."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:323
+msgid ""
+"For incoming calls you can block negative rated numbers, hidden numbers and "
+"all numbers. Each selection can be provided except numbers stored in your "
+"Contacts."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:324
+msgid ""
+"For outgoing calls you can block negative rated numbers, premium numbers, "
+"foreign numbers and all numbers. Again each selection can be provided except "
+"numbers stored in your Contacts."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:325
+msgid ""
+"For incoming SMS and MMS you can block the SMS and MMS from negative rated "
+"numbers. For this functionality, a compatible SMS manager must be installed, "
+"please read the help screen displayed if you check this item."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:326
+msgid ""
+"You can also select if you want to be notified when any blocking occurs. "
+"Notification is a different functionality than the Alerts displaying - "
+"Alerts give you the information about call in progress, where Notification "
+"only displays info about the action taken by the application."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:327
+msgid ""
+"Optionally you can try to use <strong>Pick & Hang method</strong> to protect "
+"your voicemail. When selecting this functionality, the app will block "
+"incoming call by answering the call and hang up in the same second. "
+"Application will not pick up call if the phone is in roaming mode. Please "
+"use this feature only if you are sure you will not be charged for picking up "
+"the incoming calls."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:335 templates/mobilemanual/8.tpl:569
+msgid "Settings"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:336
+msgid "This section contains main application settings."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:338
+msgid "General"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:340
+msgid "Show after-call information"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:342
+msgid ""
+"Here you can enable/disable displaying of phone number details after "
+"finishing the call."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:345
+msgid "Send anonymous stats about incoming calls"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:347
+msgid ""
+"If the \"Send anonymous stats about incoming calls\" is selected, the user "
+"gives us a possibility to send the incoming UNKNOWN numbers to the server - "
+"this means that only the number is send, without any further info, no "
+"personal data are never transferred from your mobile phone."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:348
+msgid ""
+"Privacy is important for us, so we don't sends stats about numbers stored in "
+"your Phone Contacts!"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:349
+msgid "Only unknown numbers are sent if this option is checked."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:350
+msgid ""
+"This gives us a possibility to collect incoming unknown numbers from "
+"different sources - after then our team checks them and if same unknown "
+"number calls multiple people, we dig some info for it and create review with "
+"rating, which will be stored afterwards in your local database."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:353
+msgid "Download reviews automatically"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:355
+msgid ""
+"If the \"Download reviews automatically\" is selected and your mobile is "
+"connected to the internet, the user reviews for the calling number are "
+"displayed during the phone ringing phase - otherwise only global rating of "
+"the number is shown."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:356
+msgid ""
+"If this item is not selected but the phone is connected to the internet, the "
+"user reviews can be downloaded also manually during the phone ringing phase "
+"(user can decide if he/she wants to read the number info before answering "
+"it, or he/she is satisfied just with the global rating displayed "
+"automatically for each incoming call)."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:359
+msgid "Service as Foreground Process"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:361
+msgid ""
+"Enabling this you will speed up the blocking of unwanted calls - the "
+"application will be still running in the active memory. As a side effect you "
+"will permanently see the app icon in status bar and notification about "
+"enabled protection."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:362
+msgid ""
+"As a benefit on most devices the speed of blocking should be much faster "
+"than phone ringing phase."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:365
+msgid "Statistics Notification"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:367
+msgid ""
+"If the \"Statistics Notification (once per 2 weeks)\" is selected the app "
+"will show system statistics as a notification after 2 weeks with a list of "
+"performed actions."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:368
+msgid ""
+"This way user can easily check the overall application functionality and "
+"efficiency."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:371
+msgid "Use Light Theme"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:373
+msgid ""
+"There are two layout themes - light and dark. This item serves as a switch "
+"for them."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:374
+msgid ""
+"Check it on your device which theme suits you better and which is more "
+"readable (e.g. on a direct sun)."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:378
+msgid "System Permissions"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:380
+msgid "System permissions are displayed only on Android 6 devices."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:383
+msgid "Read Call Information"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:385
+msgid ""
+"When someone call you the application checks the respective phone number "
+"against our database. Without this permission we can't find out who is "
+"calling you."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:387
+msgid "Read Contacts"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:389
+msgid ""
+"As written above, we take your stored contacts as your whitelist. Without "
+"this permission we don't know what phone numbers you consider to be safe."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:391
+msgid "Allow System Overlays"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:393
+msgid ""
+"The application shows alerts in foreground of incoming call screen. Without "
+"this permission we can't make the alerts fully interactive."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:400 templates/mobilemanual/8.tpl:571
+msgid "Phone Number Details"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:402
+msgid "This screen shows detailed information for selected phone number."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:403
+msgid ""
+"Here you can find the overall number rating in the form of count of Positive/"
+"Neutral/Negative ratings and the category mostly used for this number (this "
+"information is stored off-line in the database of your mobile phone)."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:404
+msgid ""
+"You can also see how much positive/neutral/negative rating number received "
+"from community."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:410
+msgid ""
+"<strong>Block</strong> helps you to create negative rating for this number "
+"for further blocking. To activate the blocking you have to enable blocking "
+"of negative rated numbers in the application <strong>Blocking</strong> "
+"screen."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:411
+msgid ""
+"<strong>Rate</strong> shows the form for filling your new phone number "
+"rating - see below."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:412
+msgid ""
+"<strong>Reviews</strong> loads and shows the community reviews for this "
+"number. This function requires intenet access. If your own (personal) rating "
+"is presented, it is displayed automatically (all of them are stored in your "
+"phone) and EDIT button is presented for further edit of the your review."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:413
+msgid "<strong>Call Button Click</strong> initiates calling to the number."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:419 templates/mobilemanual/8.tpl:572
+msgid "Phone Number Rating"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:421
+msgid "Single or Group of numbers"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:422
+msgid ""
+"Phone Number Rating can be defined for single number or for group of numbers."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:423
+msgid "Group can be defined using * char at the end of the number."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:424
+msgid "For example 800* will define rating for all numbers starting with 800."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:425
+msgid ""
+"The <strong>PICK CONTACT</strong> enables you to pick a number from the list "
+"of Contacts and create a rule for it."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:429
+msgid "Public or Private"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:430
+msgid ""
+"By default the rating is submitted to our community database for benefit of "
+"other users."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:431
+msgid ""
+"If you don't want to make the rating for the respective number public, "
+"select this to avoid of sending it to our database - in such case the rating "
+"will be stored in your mobile only."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:437 templates/mobilemanual/8.tpl:573
+msgid "Rating Alert"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:439
+msgid ""
+"In the Alert displayed for the phone call you can find all required "
+"information for making the decision to accept the call or hang up."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:441
+msgid ""
+"<strong>Contact</strong> shows name of the contact associated with phone "
+"number (if available)."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:442
+msgid "<strong>Number</strong> shows phone number the alert is displayed for."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:443
+msgid ""
+"<strong>Rating</strong> shows one of positive, neutral, negative or unknown "
+"rating."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:444
+msgid ""
+"<strong>Category</strong> shows the most used Category for the respective "
+"phone number"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:445
+msgid ""
+"<strong>Community</strong> shows the total statistic counts of positive,"
+"neutral and negative ratings from the community"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:453
+msgid ""
+"In this section you can access additional information and export/import "
+"function"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:455
+msgid ""
+"If you need to contact us, use the email address provided. By clicking on "
+"the <strong>email address</strong> you will open a screen where some email "
+"client can be selected. After this action an email to our support will be "
+"prepared automatically with pre-filled information about your app "
+"configuration."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:456
+msgid "strong>Online Manual</strong> opens the internet page with this manual."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:457
+msgid ""
+"<strong>Compatibility Check</strong> checks your configuration for known "
+"issues. An internet page with the check result will be open. Also a form for "
+"problem reporting to our technical staff is prepared there - please use it "
+"to report any application problem."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:458
+msgid ""
+"strong>Terms of Use</strong> opens the internet page with terms of use of "
+"this product."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:459
+msgid ""
+"<strong>Privacy Policy</strong> opens the internet page with privacy policy "
+"for out product."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:460
+msgid ""
+"<strong>Export / Import</strong> shows screen for exporting and importing "
+"data : all the application settings can be stored and used later / on "
+"another device in a form of backup and restore. A simple wizard for this "
+"functionality is provided."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:467 templates/mobilemanual/8.tpl:576
+msgid "FAQ"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:469
+msgid "Q: How to block phone number?"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:471
+msgid ""
+"Create negative rating for the phone number and enable blocking of negative "
+"rated numbers."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:474
+msgid "Q: Why blocking does not work for me?"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:476
+msgid "Unfortunately there are some phone models where blocking does not work."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:477
+msgid ""
+"Blocking of a phone call is not a default functionality supported by Android "
+"system and used workarounds can be sometimes broken by phone manufacturer "
+"when they use their own system enhancements."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:480
+msgid "Q: Where can I find version for iPhone?"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:482
+msgid "There is no version for iPhone yet."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:483
+msgid ""
+"iPhone's operating system doesn't provide access to contacts, incoming or "
+"outgoing calls or some reliable way how to intercept or block calls."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:484
+msgid ""
+"With such conditions the application could provide just manual phone info "
+"search - nearly same functionality as provided by our web pages."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:485
+msgid ""
+"Due to this limitation there is very low priority to make any iPhone native "
+"app."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:490 templates/removalrequest/default.tpl:239
+#: templates/termsapp/default.tpl:17
+msgid "Terms Of Use"
+msgstr "服務條款"
+
+#: templates/mobilemanual/8.tpl:506 templates/mobilemanual/8.tpl:578
+#: templates/privacyapp/default.tpl:17 templates/privacypolicy/default.tpl:17
+#: templates/privacypolicy/default.tpl:27
+msgid "Privacy Policy"
+msgstr "隱私政策"
+
+#: templates/mobilemanual/8.tpl:508
+msgid ""
+"Privacy matters but it can be confusing. Please read this explanation of our "
+"approach to privacy in our application."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:511
+msgid "Phone Contacts"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:513
+msgid "Our app doesn't send your contact information to server."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:516
+msgid "History of Incoming and Outgoing Calls"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:518
+msgid ""
+"In default, the app doesn't send any information about incoming or outgoing "
+"calls."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:519
+msgid ""
+"Because information about incoming unknown calls can help us improve our "
+"service, you can enable sending of this information in the settings."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:520
+msgid "Thank you for your help."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:523
+msgid "Displaying of Phone Number User Reviews"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:525
+msgid ""
+"Displaying of user reviews for the respective number needs your permission "
+"to send respective phone number to server."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:526
+msgid ""
+"This can't be done without your permission, so Permission dialog is "
+"displayed before start of reviews download."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:529
+msgid "Submitting of own phone number review"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:531
+msgid ""
+"If you fill and send some phone number rating, you agree with publishing the "
+"phone number and all filled information on our website."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:532
+msgid ""
+"We also store technical information about the request (time, IP and agent) "
+"for solving problems with illegal activity."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:535
+msgid "Using our web service"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:536
+msgid ""
+"Some features like reviews download, database update, phone info search.. "
+"uses our web service."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:537
+msgid ""
+"Our web service collects anonymous statistics about visitors and service "
+"usage."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:538
+msgid "Please read privacy policy of our web service for detailed information."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:540
+msgid "Updates to this policy"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:541
+msgid ""
+"We may update this privacy policy anytime to keep this description in sync "
+"with used technology."
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:544
+msgid "Any questions?"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:546
+msgid ""
+"If you have any questions about our product, terms or privacy policy, please "
+"write to us by email to <a href=\"mailto:support@shouldianswer.net"
+"\">support@shouldianswer.net</a>"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:560
+msgid "Features"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:561
+msgid "How It Works"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:577 templates/terms/default.tpl:17
+msgid "Terms of Use"
+msgstr "服務條款"
+
+#: templates/phonenumber/accessLimited.tpl:16
+#: templates/phonenumber/accessLimited.tpl:22
+msgid "No information found about this number"
+msgstr ""
+
+#: templates/phonenumber/accessLimited.tpl:24
+msgid ""
+"We are sorry, but we don't have any information about this phone number. "
+"Please try different number, we have huge database. Thank you!"
+msgstr ""
+
+#: templates/phonenumber/accessTemporalyLimited.tpl:23
+#: templates/phonenumber/defaultAmp.tpl:24
+#: templates/phonenumber/defaultDefault.tpl:21
+#: templates/phonenumber/defaultModerator.tpl:20
+#: templates/phonenumber/defaultNew.tpl:21
+#: templates/phonenumber/defaultNext.tpl:20
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:26
 #, php-format
 msgid "Who called you from %s ?"
 msgstr "誰從號碼 %s 給致電?"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:25
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:30
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:27
+#: templates/phonenumber/accessTemporalyLimited.tpl:24
+#: templates/phonenumber/defaultAmp.tpl:25
+#: templates/phonenumber/defaultDefault.tpl:23
+#: templates/phonenumber/defaultModerator.tpl:21
+#: templates/phonenumber/defaultNew.tpl:22
+#: templates/phonenumber/defaultNext.tpl:22
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:27
 #, php-format
 msgid ""
 "We have information about phone number %s. Visit us to find who called you "
@@ -1078,29 +2384,33 @@ msgstr ""
 "我們有關於%s電話號碼 的信息記錄。可以通過瀏覽我們的網站查看是誰給您致電了，同"
 "時您也可以閱讀其它用戶的評價。"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:61
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:66
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:63
+#: templates/phonenumber/accessTemporalyLimited.tpl:54
+#: templates/phonenumber/defaultAmp.tpl:135
+#: templates/phonenumber/defaultDefault.tpl:101
+#: templates/phonenumber/defaultModerator.tpl:86
+#: templates/phonenumber/defaultNew.tpl:132
+#: templates/phonenumber/defaultNext.tpl:216
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:63
 #, fuzzy
 msgid "Who called you from "
 msgstr "誰從號碼         給致電"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:66
+#: templates/phonenumber/accessTemporalyLimited.tpl:59
 msgid "Dear users,"
 msgstr "親愛的用戶，"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:67
+#: templates/phonenumber/accessTemporalyLimited.tpl:60
 msgid ""
 "The information for this phone number is temporary unavailable due to legal "
 "investigation conducted for users reviews published for this number."
 msgstr ""
 "這個電話號碼的信息暫時可不到，因為關於這個電話號碼用戶發表評論的依法調查。"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:70
+#: templates/phonenumber/accessTemporalyLimited.tpl:63
 msgid "We do our best to provide the information again for the public usage."
 msgstr "我們盡量努力為了公開使用提供這些信息。"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:71
+#: templates/phonenumber/accessTemporalyLimited.tpl:64
 msgid ""
 "If you have any important information for this number that can be helpful, "
 "please send it via email to <strong>contact@shouldianswer.net</strong>."
@@ -1108,110 +2418,478 @@ msgstr ""
 "如果您關於這個電話號碼有什麼重要和有助的信息，請您發電郵到"
 "<strong>contact@shouldianswer.net</strong>。"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:74
+#: templates/phonenumber/accessTemporalyLimited.tpl:67
 msgid "Thank you for your support!"
 msgstr "謝謝您的支持！"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:75
+#: templates/phonenumber/accessTemporalyLimited.tpl:68
 msgid "ShouldIAnswer Team"
 msgstr "我應該接電話嗎的團隊"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:83
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:537
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:629
+#: templates/phonenumber/accessTemporalyLimited.tpl:76
+#: templates/phonenumber/defaultDefault.tpl:629
+#: templates/phonenumber/defaultModerator.tpl:610
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:628
 #, php-format
 msgid "Possible <strong>formats</strong> of the  %s"
 msgstr "%s 可能的<strong>格式</strong>"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:102
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:556
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:648
+#: templates/phonenumber/accessTemporalyLimited.tpl:95
+#: templates/phonenumber/defaultAmp.tpl:631
+#: templates/phonenumber/defaultDefault.tpl:652
+#: templates/phonenumber/defaultModerator.tpl:631
+#: templates/phonenumber/defaultNew.tpl:628
+#: templates/phonenumber/defaultNext.tpl:720
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:647
 msgid "<strong>Searching</strong> for similar phone numbers?"
 msgstr "<strong>要搜索</strong>相似的電話號碼嗎？"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:148
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:438
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:604
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:530
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:696
-msgid "Add Comment"
-msgstr "添加留信"
+#: templates/phonenumber/defaultAmp.tpl:32
+#: templates/phonenumber/defaultDefault.tpl:30
+#: templates/phonenumber/defaultNew.tpl:29
+#: templates/phonenumber/defaultNext.tpl:29
+#, php-format
+msgid "We have details about phone number %s. "
+msgstr ""
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:152
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:291
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:608
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:383
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:700
+#: templates/phonenumber/defaultAmp.tpl:167
+#: templates/phonenumber/defaultModerator.tpl:118
+#: templates/phonenumber/defaultNew.tpl:164
+#: templates/phonenumber/defaultNext.tpl:247
+msgid "ratings"
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:168
+#: templates/phonenumber/defaultModerator.tpl:119
+#: templates/phonenumber/defaultNew.tpl:165
+#: templates/phonenumber/defaultNext.tpl:248
+msgid "reviews"
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:169
+#: templates/phonenumber/defaultModerator.tpl:120
+#: templates/phonenumber/defaultNew.tpl:166
+#: templates/phonenumber/defaultNext.tpl:249
+msgid "no ratings"
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:170
+#: templates/phonenumber/defaultModerator.tpl:121
+#: templates/phonenumber/defaultNew.tpl:167
+#: templates/phonenumber/defaultNext.tpl:250
+msgid "no reviews"
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:171
+#: templates/phonenumber/defaultModerator.tpl:122
+#: templates/phonenumber/defaultNew.tpl:168
+#: templates/phonenumber/defaultNext.tpl:251
+msgid "single rating"
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:172
+#: templates/phonenumber/defaultModerator.tpl:123
+#: templates/phonenumber/defaultNew.tpl:169
+#: templates/phonenumber/defaultNext.tpl:252
+msgid "single review"
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:173
+#: templates/phonenumber/defaultModerator.tpl:124
+#: templates/phonenumber/defaultNew.tpl:170
+#: templates/phonenumber/defaultNext.tpl:253
+#, php-format
+msgid "We have %s and %s for this phone number."
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:198
+#: templates/phonenumber/defaultModerator.tpl:149
+#: templates/phonenumber/defaultNew.tpl:195
+#: templates/phonenumber/defaultNext.tpl:277
+#, php-format
+msgid "Single user marked it with %s rating"
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:200
+#: templates/phonenumber/defaultModerator.tpl:151
+#: templates/phonenumber/defaultNew.tpl:197
+#: templates/phonenumber/defaultNext.tpl:279
+#, php-format
+msgid "%s users marked it with %s rating"
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:203
+#: templates/phonenumber/defaultModerator.tpl:154
+#: templates/phonenumber/defaultNew.tpl:200
+#: templates/phonenumber/defaultNext.tpl:282
+msgid "and"
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:207
+#: templates/phonenumber/defaultModerator.tpl:158
+#: templates/phonenumber/defaultNew.tpl:204
+#: templates/phonenumber/defaultNext.tpl:286
+#, php-format
+msgid "single user with %s rating"
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:209
+#: templates/phonenumber/defaultModerator.tpl:160
+#: templates/phonenumber/defaultNew.tpl:206
+#: templates/phonenumber/defaultNext.tpl:288
+#, php-format
+msgid "%s users with %s rating"
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:265
+#: templates/phonenumber/defaultModerator.tpl:216
+#: templates/phonenumber/defaultNew.tpl:262
+#: templates/phonenumber/defaultNext.tpl:340
+#, php-format
+msgid "Possible phone number formats are "
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:309
+#: templates/phonenumber/defaultNew.tpl:306
+#: templates/phonenumber/defaultNext.tpl:385
+#, php-format
+msgid "<strong>Reviews</strong> for phone number %s"
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:315
+#: templates/phonenumber/defaultNew.tpl:312
+#: templates/phonenumber/defaultNext.tpl:392
+msgid "Add <strong>Your rating</strong>"
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:319
+#: templates/phonenumber/defaultDefault.tpl:300
+#: templates/phonenumber/defaultModerator.tpl:313
+#: templates/phonenumber/defaultNew.tpl:316
+#: templates/phonenumber/defaultNext.tpl:395
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:336
+msgid "click here to show rating form"
+msgstr "為了顯示評價表格，情點擊這裡。"
+
+#: templates/phonenumber/defaultAmp.tpl:332
+#: templates/phonenumber/defaultDefault.tpl:313
+#: templates/phonenumber/defaultModerator.tpl:327
+#: templates/phonenumber/defaultNew.tpl:329
+#: templates/phonenumber/defaultNext.tpl:407
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:349
+msgid "Rating"
+msgstr "評級"
+
+#: templates/phonenumber/defaultAmp.tpl:334
+#: templates/phonenumber/defaultDefault.tpl:315
+#: templates/phonenumber/defaultModerator.tpl:329
+#: templates/phonenumber/defaultNew.tpl:331
+#: templates/phonenumber/defaultNext.tpl:409
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:351
+msgid "select rating"
+msgstr "選擇評級"
+
+#: templates/phonenumber/defaultAmp.tpl:340
+#: templates/phonenumber/defaultDefault.tpl:321
+#: templates/phonenumber/defaultModerator.tpl:335
+#: templates/phonenumber/defaultNew.tpl:337
+#: templates/phonenumber/defaultNext.tpl:415
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:357
+msgid "Please select rating!"
+msgstr "请选择评级！"
+
+#: templates/phonenumber/defaultAmp.tpl:346
+#: templates/phonenumber/defaultDefault.tpl:327
+#: templates/phonenumber/defaultModerator.tpl:341
+#: templates/phonenumber/defaultNew.tpl:343
+#: templates/phonenumber/defaultNext.tpl:421
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:363
+msgid "Category"
+msgstr "類型"
+
+#: templates/phonenumber/defaultAmp.tpl:348
+#: templates/phonenumber/defaultDefault.tpl:329
+#: templates/phonenumber/defaultModerator.tpl:343
+#: templates/phonenumber/defaultNew.tpl:345
+#: templates/phonenumber/defaultNext.tpl:423
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:365
+msgid "select category"
+msgstr "選擇類型"
+
+#: templates/phonenumber/defaultAmp.tpl:358
+#: templates/phonenumber/defaultDefault.tpl:339
+#: templates/phonenumber/defaultModerator.tpl:353
+#: templates/phonenumber/defaultNew.tpl:355
+#: templates/phonenumber/defaultNext.tpl:433
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:375
+msgid "Please select category!"
+msgstr "請選擇類型"
+
+#: templates/phonenumber/defaultAmp.tpl:366
+#: templates/phonenumber/defaultAmp.tpl:663
+#: templates/phonenumber/defaultDefault.tpl:347
+#: templates/phonenumber/defaultDefault.tpl:702
+#: templates/phonenumber/defaultModerator.tpl:361
+#: templates/phonenumber/defaultModerator.tpl:668
+#: templates/phonenumber/defaultNew.tpl:363
+#: templates/phonenumber/defaultNew.tpl:660
+#: templates/phonenumber/defaultNext.tpl:441
+#: templates/phonenumber/defaultNext.tpl:765
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:383
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:699
 msgid "Name"
 msgstr "名字"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:157
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:310
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:613
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:402
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:705
+#: templates/phonenumber/defaultAmp.tpl:367
+#: templates/phonenumber/defaultDefault.tpl:348
+#: templates/phonenumber/defaultModerator.tpl:362
+#: templates/phonenumber/defaultNew.tpl:364
+#: templates/phonenumber/defaultNext.tpl:442
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:384
+msgid "name or nickname"
+msgstr "名字或昵稱"
+
+#: templates/phonenumber/defaultAmp.tpl:370
+#: templates/phonenumber/defaultDefault.tpl:351
+#: templates/phonenumber/defaultModerator.tpl:368
+#: templates/phonenumber/defaultNew.tpl:367
+#: templates/phonenumber/defaultNext.tpl:445
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:390
+msgid "Please enter your name or nickname!"
+msgstr "請輸入您的名字或昵稱！"
+
+#: templates/phonenumber/defaultAmp.tpl:376
+#: templates/phonenumber/defaultDefault.tpl:357
+#: templates/phonenumber/defaultModerator.tpl:374
+#: templates/phonenumber/defaultNew.tpl:373
+#: templates/phonenumber/defaultNext.tpl:451
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:396
+msgid "Title"
+msgstr "標題"
+
+#: templates/phonenumber/defaultAmp.tpl:377
+#: templates/phonenumber/defaultDefault.tpl:358
+#: templates/phonenumber/defaultModerator.tpl:375
+#: templates/phonenumber/defaultNew.tpl:374
+#: templates/phonenumber/defaultNext.tpl:452
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:397
+msgid "title (optional)"
+msgstr "標題（可選填）"
+
+#: templates/phonenumber/defaultAmp.tpl:382
+#: templates/phonenumber/defaultAmp.tpl:668
+#: templates/phonenumber/defaultDefault.tpl:363
+#: templates/phonenumber/defaultDefault.tpl:707
+#: templates/phonenumber/defaultModerator.tpl:380
+#: templates/phonenumber/defaultModerator.tpl:673
+#: templates/phonenumber/defaultNew.tpl:379
+#: templates/phonenumber/defaultNew.tpl:665
+#: templates/phonenumber/defaultNext.tpl:457
+#: templates/phonenumber/defaultNext.tpl:770
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:402
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:704
 msgid "Comment"
 msgstr "留言"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:162
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:618
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:710
-msgid "Submit"
-msgstr "提交"
+#: templates/phonenumber/defaultAmp.tpl:383
+#: templates/phonenumber/defaultDefault.tpl:364
+#: templates/phonenumber/defaultModerator.tpl:381
+#: templates/phonenumber/defaultNew.tpl:380
+#: templates/phonenumber/defaultNext.tpl:458
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:403
+msgid "write your comment"
+msgstr "寫您的留信"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:296
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:752
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:844
-msgid "Please enter your name or nick"
-msgstr "請輸入您的名字或昵稱"
+#: templates/phonenumber/defaultAmp.tpl:386
+#: templates/phonenumber/defaultDefault.tpl:367
+#: templates/phonenumber/defaultModerator.tpl:384
+#: templates/phonenumber/defaultNew.tpl:383
+#: templates/phonenumber/defaultNext.tpl:461
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:406
+msgid "Please enter your comment!"
+msgstr "請輸入您的留信！"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:302
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:758
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:850
-msgid "Your comment must be longer than 5 characters"
-msgstr "您的留信必須有最小五個字"
+#: templates/phonenumber/defaultAmp.tpl:393
+#: templates/phonenumber/defaultDefault.tpl:374
+#: templates/phonenumber/defaultModerator.tpl:391
+#: templates/phonenumber/defaultNew.tpl:390
+#: templates/phonenumber/defaultNext.tpl:468
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:413
+msgid "send rating"
+msgstr "發送評級"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:321
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:419
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:457
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:777
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:511
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:549
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:869
+#: templates/phonenumber/defaultAmp.tpl:460
+#: templates/phonenumber/defaultDefault.tpl:463
+#: templates/phonenumber/defaultModerator.tpl:478
+#: templates/phonenumber/defaultNew.tpl:457
+#: templates/phonenumber/defaultNext.tpl:534
+msgid "owner"
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:461
+#: templates/phonenumber/defaultDefault.tpl:464
+#: templates/phonenumber/defaultModerator.tpl:479
+#: templates/phonenumber/defaultNew.tpl:458
+#: templates/phonenumber/defaultNext.tpl:535
+msgid "moderator"
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:462
+#: templates/phonenumber/defaultDefault.tpl:465
+#: templates/phonenumber/defaultModerator.tpl:480
+#: templates/phonenumber/defaultNew.tpl:459
+#: templates/phonenumber/defaultNext.tpl:536
+msgid "censored"
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:463
+#: templates/phonenumber/defaultDefault.tpl:466
+#: templates/phonenumber/defaultModerator.tpl:481
+#: templates/phonenumber/defaultNew.tpl:460
+#: templates/phonenumber/defaultNext.tpl:537
+msgid "system"
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:469
+#: templates/phonenumber/defaultDefault.tpl:472
+#: templates/phonenumber/defaultModerator.tpl:487
+#: templates/phonenumber/defaultNew.tpl:466
+#: templates/phonenumber/defaultNext.tpl:543
+msgid "featured"
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:482
+#: templates/phonenumber/defaultDefault.tpl:487
+#: templates/phonenumber/defaultModerator.tpl:500
+#: templates/phonenumber/defaultNew.tpl:479
+#: templates/phonenumber/defaultNext.tpl:558
+msgid "This comment has been removed because violated terms of use"
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:488
+#: templates/phonenumber/defaultAmp.tpl:533
+#: templates/phonenumber/defaultDefault.tpl:495
+#: templates/phonenumber/defaultDefault.tpl:543
+#: templates/phonenumber/defaultModerator.tpl:506
+#: templates/phonenumber/defaultModerator.tpl:551
+#: templates/phonenumber/defaultNew.tpl:485
+#: templates/phonenumber/defaultNew.tpl:530
+#: templates/phonenumber/defaultNext.tpl:563
+#: templates/phonenumber/defaultNext.tpl:611
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:510
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:548
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:866
 msgid "Agree"
 msgstr "同意"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/accessTemporalyLimited.tpl:324
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:425
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:463
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:780
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:517
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:555
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:872
+#: templates/phonenumber/defaultAmp.tpl:493
+#: templates/phonenumber/defaultAmp.tpl:538
+#: templates/phonenumber/defaultDefault.tpl:502
+#: templates/phonenumber/defaultDefault.tpl:550
+#: templates/phonenumber/defaultModerator.tpl:511
+#: templates/phonenumber/defaultModerator.tpl:556
+#: templates/phonenumber/defaultNew.tpl:490
+#: templates/phonenumber/defaultNew.tpl:535
+#: templates/phonenumber/defaultNext.tpl:570
+#: templates/phonenumber/defaultNext.tpl:618
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:516
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:554
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:869
 msgid "Disagree"
 msgstr "不同意"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:95
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:92
-msgid "Details"
-msgstr "细节"
+#: templates/phonenumber/defaultAmp.tpl:499
+#: templates/phonenumber/defaultDefault.tpl:510
+#: templates/phonenumber/defaultModerator.tpl:517
+#: templates/phonenumber/defaultNew.tpl:496
+#: templates/phonenumber/defaultNext.tpl:578
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:523
+msgid "Comments"
+msgstr "留言"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:101
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:98
-msgid "You rating can help the others to be informed about this number."
-msgstr "提供的評級可以幫助其它用戶，了解這個號碼的來源。"
+#: templates/phonenumber/defaultAmp.tpl:507
+#: templates/phonenumber/defaultAmp.tpl:659
+#: templates/phonenumber/defaultDefault.tpl:517
+#: templates/phonenumber/defaultDefault.tpl:698
+#: templates/phonenumber/defaultModerator.tpl:525
+#: templates/phonenumber/defaultModerator.tpl:664
+#: templates/phonenumber/defaultNew.tpl:504
+#: templates/phonenumber/defaultNew.tpl:656
+#: templates/phonenumber/defaultNext.tpl:585
+#: templates/phonenumber/defaultNext.tpl:761
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:529
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:695
+msgid "Add Comment"
+msgstr "添加留信"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:139
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:177
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:215
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:231
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:269
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:307
+#: templates/phonenumber/defaultAmp.tpl:513
+#: templates/phonenumber/defaultAmp.tpl:543
+#: templates/phonenumber/defaultDefault.tpl:523
+#: templates/phonenumber/defaultDefault.tpl:557
+#: templates/phonenumber/defaultModerator.tpl:531
+#: templates/phonenumber/defaultModerator.tpl:561
+#: templates/phonenumber/defaultNew.tpl:510
+#: templates/phonenumber/defaultNew.tpl:540
+#: templates/phonenumber/defaultNext.tpl:591
+#: templates/phonenumber/defaultNext.tpl:625
+msgid "Delete"
+msgstr ""
+
+#: templates/phonenumber/defaultAmp.tpl:595
+#: templates/phonenumber/defaultDefault.tpl:195
+#: templates/phonenumber/defaultDefault.tpl:233
+#: templates/phonenumber/defaultDefault.tpl:271
+#: templates/phonenumber/defaultNew.tpl:592
+#: templates/phonenumber/defaultNext.tpl:680
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:231
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:269
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:307
 msgid "How to block this number?"
 msgstr "如何阻止這個號碼？"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:150
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:242
+#: templates/phonenumber/defaultAmp.tpl:673
+#: templates/phonenumber/defaultDefault.tpl:712
+#: templates/phonenumber/defaultModerator.tpl:678
+#: templates/phonenumber/defaultNew.tpl:670
+#: templates/phonenumber/defaultNext.tpl:775
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:709
+msgid "Submit"
+msgstr "提交"
+
+#: templates/phonenumber/defaultAmp.tpl:814
+#: templates/phonenumber/defaultDefault.tpl:850
+#: templates/phonenumber/defaultModerator.tpl:816
+#: templates/phonenumber/defaultNew.tpl:812
+#: templates/phonenumber/defaultNext.tpl:915
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:841
+msgid "Please enter your name or nick"
+msgstr "請輸入您的名字或昵稱"
+
+#: templates/phonenumber/defaultAmp.tpl:820
+#: templates/phonenumber/defaultDefault.tpl:856
+#: templates/phonenumber/defaultModerator.tpl:822
+#: templates/phonenumber/defaultNew.tpl:818
+#: templates/phonenumber/defaultNext.tpl:921
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:847
+msgid "Your comment must be longer than 5 characters"
+msgstr "您的留信必須有最小五個字"
+
+#: templates/phonenumber/defaultDefault.tpl:98
+msgid "Actualization"
+msgstr ""
+
+#: templates/phonenumber/defaultDefault.tpl:137
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:92
+msgid "Details"
+msgstr "细节"
+
+#: templates/phonenumber/defaultDefault.tpl:143
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:98
+msgid "You rating can help the others to be informed about this number."
+msgstr "提供的評級可以幫助其它用戶，了解這個號碼的來源。"
+
+#: templates/phonenumber/defaultDefault.tpl:206
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:242
 msgid ""
 "<strong>Bothered</strong> by telemarketing calls? <strong>Not answering</"
 "strong> unknown numbers? <strong>Install</strong> our application and be "
@@ -1221,8 +2899,8 @@ msgstr ""
 "碼？<strong>設置</strong>我們的應用以及得悉誰在打電話- <strong>是免費的</"
 "strong>!"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:151
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:243
+#: templates/phonenumber/defaultDefault.tpl:207
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:243
 msgid ""
 "Avoid unsolicited calls. <strong>Don't waste time</strong> with marketing "
 "calls</strong>. With our <strong>application</strong> you will be always "
@@ -1231,8 +2909,8 @@ msgstr ""
 "防止不需要來的電話。<strong> 別浪費時間</strong>接電話銷售的來電</strong>。跟"
 "我們的<strong>應用</strong>您總是知道誰在打電話- <strong>是免費的</strong>!"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:152
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:244
+#: templates/phonenumber/defaultDefault.tpl:208
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:244
 msgid ""
 "<strong>Avoid</strong> unsolicited <strong>calls</strong>! With this "
 "<strong>application</strong> You will be aware who is calling - <strong>for "
@@ -1241,8 +2919,8 @@ msgstr ""
 "<strong>防止</strong>不需要來的<strong>電話</strong>！跟這個<strong>應用</"
 "strong>您總是知道誰在打電話- <strong>是免費的</strong>!"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:153
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:245
+#: templates/phonenumber/defaultDefault.tpl:209
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:245
 msgid ""
 "Never receive <strong>unwanted call</strong> from telemarketing company. "
 "With our <strong>free application</strong> you will be always "
@@ -1251,8 +2929,8 @@ msgstr ""
 "您不再接<strong>不需要的電話</strong>來自電話銷售的公司。跟我們的<strong>免費"
 "的應用</strong>您總是會<strong>知道誰在打電話！</strong>"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:154
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:246
+#: templates/phonenumber/defaultDefault.tpl:210
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:246
 msgid ""
 "Want to <strong>avoid unsolicited calls</strong>? Download our <strong>free "
 "application</strong>!"
@@ -1260,209 +2938,116 @@ msgstr ""
 "您希望<strong>防止不需要來的電話</strong>?下載我們<strong>免費的應用</"
 "strong>!"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:241
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:333
+#: templates/phonenumber/defaultDefault.tpl:297
+#: templates/phonenumber/defaultModerator.tpl:309
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:333
 msgid "Add Your <strong>rating</strong>"
 msgstr "增添的<strong>評級</strong>"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:244
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:336
-msgid "click here to show rating form"
-msgstr "為了顯示評價表格，情點擊這裡。"
-
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:257
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:349
-msgid "Rating"
-msgstr "評級"
-
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:259
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:351
-msgid "select rating"
-msgstr "選擇評級"
-
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:265
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:357
-msgid "Please select rating!"
-msgstr "请选择评级！"
-
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:271
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:363
-msgid "Category"
-msgstr "類型"
-
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:273
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:365
-msgid "select category"
-msgstr "選擇類型"
-
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:283
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:375
-msgid "Please select category!"
-msgstr "請選擇類型"
-
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:292
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:384
-msgid "name or nickname"
-msgstr "名字或昵稱"
-
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:293
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:385
-msgid "Email"
-msgstr "電子郵件"
-
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:294
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:386
-msgid "email (optional)"
-msgstr "電郵（可選填)"
-
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:298
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:390
-msgid "Please enter your name or nickname!"
-msgstr "請輸入您的名字或昵稱！"
-
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:304
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:396
-msgid "Title"
-msgstr "標題"
-
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:305
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:397
-msgid "title (optional)"
-msgstr "標題（可選填）"
-
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:311
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:403
-msgid "write your comment"
-msgstr "寫您的留信"
-
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:314
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:406
-msgid "Please enter your comment!"
-msgstr "請輸入您的留信！"
-
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:321
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:413
-msgid "send rating"
-msgstr "發送評級"
-
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:330
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:422
+#: templates/phonenumber/defaultDefault.tpl:383
+#: templates/phonenumber/defaultModerator.tpl:400
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:422
 msgid "Phone number <strong>ratings</strong>"
 msgstr "電話號碼 <strong>評級</strong>"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:343
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:435
+#: templates/phonenumber/defaultDefault.tpl:400
+#: templates/phonenumber/defaultModerator.tpl:413
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:435
 #, php-format
 msgid "This phone number has %s reviews with average rating \"%s\"."
 msgstr "這個電話號碼擁有 %s 個評價，平均的評級是 \"%s\"。"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:367
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:459
-msgid "positive rating"
-msgstr "正面的評級"
-
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:371
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:463
-msgid "negative rating"
-msgstr "負面的評級"
-
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:375
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:467
-msgid "neutral rating"
-msgstr "中立的評級"
-
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:432
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:524
-msgid "Comments"
-msgstr "留言"
-
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:520
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/defaultDebug.tpl:612
+#: templates/phonenumber/defaultDefault.tpl:612
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:611
 msgid "Report ownership of this number or untruthful information presented."
 msgstr "匯報這個號碼的所有制或者介紹不正確的信息。"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/invalid.tpl:16
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/invalid.tpl:22
+#: templates/phonenumber/defaultModerator.tpl:364
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:386
+msgid "email (optional)"
+msgstr "電郵（可選填)"
+
+#: templates/phonenumber/invalid.tpl:16 templates/phonenumber/invalid.tpl:23
 msgid "Invalid phone number"
 msgstr "電話號碼無效"
 
-#: c:\work\web\shouldianswer.com\app/templates/phonenumber/invalid.tpl:23
+#: templates/phonenumber/invalid.tpl:24
 msgid "Please try to search your number in international format."
 msgstr "請嘗試以正確的國際號碼格式搜索電話號碼。"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacyapp/default.tpl:17
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:17
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:27
-msgid "Privacy Policy"
-msgstr "隱私政策"
+#: templates/phonenumber/searchresults.tpl:105
+msgid ""
+"Do you know country of the phone number? Try search via country dedicated "
+"service. Here is list of supported countries:"
+msgstr ""
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:29
+#: templates/privacypolicy/default.tpl:29
 msgid "This page explains our approach to privacy on all of our web services."
 msgstr "這張網頁解釋在我們所有的網站服務對隱私的態度。"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:32
+#: templates/privacypolicy/default.tpl:32
 msgid "Short version"
 msgstr "短的文本"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:36
+#: templates/privacypolicy/default.tpl:36
 msgid "Information submitted in user's review will be available to the public."
 msgstr "用戶提交評論的信息是公開的。"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:39
+#: templates/privacypolicy/default.tpl:39
 msgid "We use 3rd party companies to serve ads on our pages."
 msgstr "在我們的網站我們使用其它公司做廣告。"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:40
+#: templates/privacypolicy/default.tpl:40
 msgid "This companies use cookies to serve user based Ads."
 msgstr "這些公司使用cookies做興趣相關的廣告。"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:42
+#: templates/privacypolicy/default.tpl:42
 msgid ""
 "We also collect anonymous statistic about your visit (for example which "
 "pages did you visit)."
 msgstr "另外我們也收集關於您看望的匿名統計(比如您在我們的網站看過那些網頁)。"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:46
+#: templates/privacypolicy/default.tpl:46
 msgid "Collecting information"
 msgstr "信息收集"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:48
+#: templates/privacypolicy/default.tpl:48
 msgid "Information submitted in review will be available to the public."
 msgstr "在評論裡提交的信息是公開的。"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:49
+#: templates/privacypolicy/default.tpl:49
 msgid ""
 "Please avoid to post any personal identifying information - we are not "
 "collecting any personal information."
 msgstr "請避免提交如何私人辨認的信息-我們不收集私人的信息。"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:50
+#: templates/privacypolicy/default.tpl:50
 msgid ""
 "This information reflects commentator's opinion regarding the phone number "
 "and don't represent the opinion of our team."
 msgstr "這個信息代表作者關於這個電話號碼的意見，並不代表我們公司團隊的意見。"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:51
+#: templates/privacypolicy/default.tpl:51
 msgid ""
 "Infringement of Terms Of Use can results in partial or full removal of "
 "submitted review."
 msgstr "違反使用條款會致使局部或者全部地刪除提交的評論。"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:52
+#: templates/privacypolicy/default.tpl:52
 msgid ""
 "We reserve the right to delete any review which infringe the rules for this "
 "service."
 msgstr "我們保留刪除所有的違反使用我們服務評論的權利。"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:55
+#: templates/privacypolicy/default.tpl:55
 msgid "Third party advertising"
 msgstr "其它公司的廣告"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:57
+#: templates/privacypolicy/default.tpl:57
 msgid "We are using third party companies to serve ads on our websites."
 msgstr "在我們的網站我們使用其它公司的廣告。"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:58
+#: templates/privacypolicy/default.tpl:58
 msgid ""
 "This companies may use cookies and independently collected information about "
 "your visit to provide best ads for you."
@@ -1470,15 +3055,15 @@ msgstr ""
 "這些公司能使用Cookies，另外，它們會獨立地收集您看望的信息，這樣它們會提供您最"
 "合適的廣告。"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:61
+#: templates/privacypolicy/default.tpl:61
 msgid "Measuring our visitors"
 msgstr "測量我們的訪客"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:63
+#: templates/privacypolicy/default.tpl:63
 msgid "We are using Google Analytics to measure visitors to our websites."
 msgstr "我們使用 Google Analytics的服務測量在我們網站的訪客。"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:64
+#: templates/privacypolicy/default.tpl:64
 msgid ""
 "These measurements record how you arrived at our site, what pages you view "
 "within the site and some information about your device."
@@ -1486,47 +3071,46 @@ msgstr ""
 "這個測量記錄您怎麼到我們的網頁、您在我們的網頁看到那些網頁、 以及記錄一些您使"
 "用器件的信息。"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:65
+#: templates/privacypolicy/default.tpl:65
 msgid ""
 "All information is anonymous and helps us to understand what we should "
 "improve in future. "
 msgstr "所有的信息是匿名的，它們會幫組我們了解我們將來應該改善哪些東西。"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:66
+#: templates/privacypolicy/default.tpl:66
 #, php-format
 msgid "More information about Google Analyticis can be found %s here %s"
 msgstr "您在%s那裡%s可以找到更多關於Google Analyticis服務的信息"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:69
+#: templates/privacypolicy/default.tpl:69
 msgid "Cookies"
 msgstr "Cookies"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:71
+#: templates/privacypolicy/default.tpl:71
 msgid "This site uses cookies to improve website's usability."
 msgstr "這個網站使用Cookies 為了改善網站的效能。"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:72
+#: templates/privacypolicy/default.tpl:72
 msgid ""
 "Cookies also helps us improve website security and minimse fraud, automated "
 "activity."
 msgstr "Cookies 也幫助我們改善網站的安全，另外它們幫助我們減少騙局和自動的作用"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:75
+#: templates/privacypolicy/default.tpl:75
 msgid "Privacy Policy Changes"
 msgstr "隱私政策的變化"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:77
+#: templates/privacypolicy/default.tpl:77
 msgid ""
 "This privacy policy can be modified from time to time. We will keep this "
 "document in sync with technology standards we use."
 msgstr "偶爾這個政策會變更。根據我們使用的技術規則我們同步這份文件。"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:80
+#: templates/privacypolicy/default.tpl:80
 msgid "Any questions ?"
 msgstr "您有問題嗎？"
 
-#: c:\work\web\shouldianswer.com\app/templates/privacypolicy/default.tpl:82
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:75
+#: templates/privacypolicy/default.tpl:82 templates/solveissues/default.tpl:75
 msgid ""
 "Send an email to <a href=\"mailto:support@shouldianswer.net"
 "\">support@shouldianswer.net</a>"
@@ -1534,37 +3118,161 @@ msgstr ""
 "發電子郵件到<a href=\"mailto:support@shouldianswer.net"
 "\">support@shouldianswer.net</a>"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:17
+#: templates/removalrequest/default.tpl:16
+msgid "Removal Request"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:17
+#: templates/removalrequest/default.tpl:155
+msgid "Removal Request Form"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:34
+#, php-format
+msgid "Removal of Review ID: %s"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:44
+#, php-format
+msgid "Removal of Comment ID: %s"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:158
+msgid "Your request has been succesfully send to our support team."
+msgstr ""
+
+#: templates/removalrequest/default.tpl:159
+msgid "We should process it in max 3 work days."
+msgstr ""
+
+#: templates/removalrequest/default.tpl:161
+msgid "Thank you very much!"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:163
+msgid "Something wrong happened during storing your request."
+msgstr ""
+
+#: templates/removalrequest/default.tpl:164
+msgid "Please contact us at <strong>support@shouldianswer.net</strong>"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:168
+msgid "Please fix errors marked with red description"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:175
+msgid ""
+"Before filling the form you could find useful basic information about "
+"solving content issues on our site"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:183
+msgid "Subject"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:186
+msgid "Content was submitted for number"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:187
+msgid "Content"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:192
+msgid "Your Name"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:193
+#: templates/removalrequest/default.tpl:196
+msgid "Please enter full real name"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:212
+msgid "Reason Type"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:213
+msgid "Contains personal information"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:214
+msgid "Contains false information"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:215
+msgid "Breaks the rules of this service"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:216
+msgid "I'm author of review and I want to remove it"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:217
+msgid "Other reason"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:220
+msgid "Please select the reason type"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:227
+msgid "Reason details"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:228
+msgid "Please explain in detail why you want to remove this content."
+msgstr ""
+
+#: templates/removalrequest/default.tpl:232
+msgid "Please fill the reason details"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:239
+#, php-format
+msgid ""
+"You can also check our %s for detailed description of using of our service."
+msgstr ""
+
+#: templates/removalrequest/default.tpl:248
+msgid "Please check the reCAPTCHA"
+msgstr ""
+
+#: templates/removalrequest/default.tpl:252
+msgid "Send Request"
+msgstr ""
+
+#: templates/solveissues/default.tpl:17
 msgid "Solving Issues"
 msgstr "問題解決"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:26
+#: templates/solveissues/default.tpl:26
 msgid ""
 "Solving issues with number ownership or presented untruthful information"
 msgstr "號碼所有權的問題或者提交不正確信息問題的解決"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:28
+#: templates/solveissues/default.tpl:28
 msgid "Is this your private number?"
 msgstr "這是私人號碼嗎？"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:30
+#: templates/solveissues/default.tpl:30
 msgid "Our main target it to protect your personal info against telemarketing."
 msgstr "我們最主要的目的是保護您的個人信息，防止電話銷售。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:31
+#: templates/solveissues/default.tpl:31
 msgid "We intentionally don’t display info that this is a private number."
 msgstr "我們不會故意地顯示這是一個私人號碼的信息。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:32
+#: templates/solveissues/default.tpl:32
 msgid ""
 "But on the other hand we also do not hide this page for this specific number."
 msgstr "可是另一方面，我們也不會避免顯示這個號碼的網頁。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:33
+#: templates/solveissues/default.tpl:33
 msgid "The reason is exactly the protection of your private number."
 msgstr "這個原因就是私人號碼的保護。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:34
+#: templates/solveissues/default.tpl:34
 msgid ""
 "If we just present the information that this is private number or that "
 "information for this number is not available, this could be taken as a "
@@ -1574,7 +3282,7 @@ msgstr ""
 "如果我們顯示具體號碼是私人的或者號碼的信息可不到，就是一種符號，收集私人號碼"
 "的自動器就會利用這個符號。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:35
+#: templates/solveissues/default.tpl:35
 msgid ""
 "This is not our target and we try to protect you by presenting a page with "
 "neutral rating and exactly same description as presented for any other valid "
@@ -1583,17 +3291,17 @@ msgstr ""
 "這不是我們的目的，所以我們盡量保護您，我們提供中立評級的網頁， 另外我們使用跟"
 "其它有效好嗎一樣的描述。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:36
+#: templates/solveissues/default.tpl:36
 msgid ""
 "The number rating could be changed based on another warning signals (e.g. "
 "high number of searches) or user ratings."
 msgstr "號碼的評級根據各種警示符號(比如大量的搜索)或者其它用戶評級，會改變。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:39
+#: templates/solveissues/default.tpl:39
 msgid "Is this a number of your company?"
 msgstr "這是您公司電話號碼嗎？"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:41
+#: templates/solveissues/default.tpl:41
 msgid ""
 "In such case you have a great possibility to present your own positive "
 "rating with short description of the company and services you provide."
@@ -1601,87 +3309,87 @@ msgstr ""
 "在這種情況的下，您就有巨大機會提交您自己正面評級，連簡單地描述您的公司和您提"
 "供的服務。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:42
+#: templates/solveissues/default.tpl:42
 msgid ""
 "You can also add internet link to your company’s pages for further info."
 msgstr "另外，為了更多信息您也可以加入您公司網站的連接。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:43
+#: templates/solveissues/default.tpl:43
 msgid ""
 "Let your customers know about you, communicate with them using our pages."
 msgstr "讓您的客戶知道您，用我們的網站跟他們聯系。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:46
+#: templates/solveissues/default.tpl:46
 msgid "Want to clear user ratings from your private number?"
 msgstr "您希望刪除別的用戶在您私人號碼進行的評級嗎？"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:48
+#: templates/solveissues/default.tpl:48
 msgid ""
 "User ratings of private numbers are out of our scope and should not be "
 "displayed. We do our best to filter and clear all such ratings."
 msgstr ""
 "我們不在乎私人號碼的評級， 而且它們不會被顯示。我們盡量篩選和刪除那些評級。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:49
+#: templates/solveissues/default.tpl:49
 msgid ""
 "Anyway if this happened please contact us using the email provided below."
 msgstr "不過，如果發生這件事情的話，請您用下面提供的電子郵件跟我們聯系。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:50
+#: templates/solveissues/default.tpl:50
 msgid "Thank you."
 msgstr "謝謝您。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:53
+#: templates/solveissues/default.tpl:53
 msgid "Want to clear user ratings for your company?"
 msgstr "您希望刪除您公司的評級嗎？"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:55
+#: templates/solveissues/default.tpl:55
 msgid ""
 "It's pretty clear that people are mostly willing to describe negative rating "
 "or experience, more than positive comment."
 msgstr "用戶們通常還是喜歡提交負面的評級或者經驗，不常常提交正面的評級。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:56
+#: templates/solveissues/default.tpl:56
 msgid ""
 "We understand that it can happen and you can find untruthful information "
 "with intention to make you some harm."
 msgstr "我們明白這件事情會發生的，您會找到不真實，連打算傷害您的信息。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:57
+#: templates/solveissues/default.tpl:57
 msgid ""
 "In most cases we could not be able to judge where the truth lies or which "
 "information is untruthful."
 msgstr "在大部分情況下，我們不能判定哪些信息是謊話，哪些是正確的。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:58
+#: templates/solveissues/default.tpl:58
 msgid ""
 "If you feel you suffer any harm you can use the legal system of your country "
 "as a protection."
 msgstr "如果您覺得您受什麼傷害，您可以使用您國家用的法制系統修理。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:59
+#: templates/solveissues/default.tpl:59
 msgid "Our pages are based as open discussion forum only."
 msgstr "我們的網站隻是公開討論的。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:60
+#: templates/solveissues/default.tpl:60
 msgid ""
 "We also recommend you to use these pages for communication with your "
 "costumers."
 msgstr "我們也建議您通過我們的網站跟您的客戶聯系。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:63
+#: templates/solveissues/default.tpl:63
 msgid ""
 "Want to clear user ratings and your company provides telemarketing or call "
 "centre?"
 msgstr "您希望刪除用戶的評級，另外，您的公司進行電視購物或者呼叫中心嗎？"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:65
+#: templates/solveissues/default.tpl:65
 msgid ""
 "In such case your problem is also covered by the above mentioned for "
 "classical company."
 msgstr "在這種情況的下，上面提到的關於普通公司都付諸您的問題。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:66
+#: templates/solveissues/default.tpl:66
 msgid ""
 "We recommend to maintain the service quality assurance in your company, also "
 "composition of Moral codex of your services to be presented to your "
@@ -1690,14 +3398,14 @@ msgstr ""
 "我們建議在您的公司裡保持服務質量的控制，給您的雇員造成和控制您服務的道德規"
 "則，是最好的實踐。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:67
+#: templates/solveissues/default.tpl:67
 msgid ""
 "Present your company and act as a company which has, uses and keeps the "
 "rules preventing of impolite or unfair acts."
 msgstr ""
 "介紹自己公司，舉辦公司跟其它有和保持防止不禮貌或者不公活動規則的公司一樣。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:68
+#: templates/solveissues/default.tpl:68
 msgid ""
 "Give the customers the possibility to claim the calls for any reasons and to "
 "point out any system errors or individual failures."
@@ -1705,7 +3413,7 @@ msgstr ""
 "給您的客戶機會由於如何原因索賠電話， 而且給他們機會指示系統問題或者一個人的失"
 "敗。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:69
+#: templates/solveissues/default.tpl:69
 msgid ""
 "Our pages offers you the possibility to add the information for your numbers "
 "stating that this is your number, summarize your principles and possibly "
@@ -1714,22 +3422,21 @@ msgstr ""
 "我們的網站提供了機會您在您電話的信息加入這個電話號碼是您的電話，也提供了您簡"
 "述您公司規則的機會， 而且您可以給不高興得客戶提供跟您的聯系。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:70
+#: templates/solveissues/default.tpl:70
 msgid ""
 "If interested for presenting of such info on our pages please contact us."
 msgstr "如果您對在我們的網站介紹這些信息感興趣，請跟我們聯系。"
 
-#: c:\work\web\shouldianswer.com\app/templates/solveissues/default.tpl:73
+#: templates/solveissues/default.tpl:73
 msgid "Want to contact us?"
 msgstr "您希望跟我們聯系嗎？"
 
-#: c:\work\web\shouldianswer.com\app/templates/terms/default.tpl:17
-msgid "Terms of Use"
-msgstr "服務條款"
+#: templates/websearch/default.tpl:7
+msgid "Web Search"
+msgstr ""
 
-#: c:\work\web\shouldianswer.com\app/templates/termsapp/default.tpl:17
-msgid "Terms Of Use"
-msgstr "服務條款"
+#~ msgid "<strong>Latest visited</strong> phone numbers"
+#~ msgstr " <strong>近期瀏覽</strong>的電話號碼 "
 
 #~ msgid "Add to Home"
 #~ msgstr "增添到主頁面"

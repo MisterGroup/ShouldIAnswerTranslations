@@ -1,315 +1,584 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
 <resources>
-    <!-- Global-->
-    <string name="app_name">Should I Answer?</string>
-    <string name="search">Hae</string>
-    <string name="Settings">Asetukset</string>
-    <string name="privacy">Turvallisuuskäytäntö</string>
-    <string name="Terms_Of_Use">Ehdot &amp; Edellytykset</string>
 
-    <!-- Splash Screen-->
-    <string name="Initializing_Application">Käynnistetään sovellus</string>
+<!-- Global-->
 
 
-    <!-- Welcome Activity -->
-    <string name="CONGRATULATION">ONNITTELUT!</string>
+<string name="app_name">Should I Answer?</string>
 
-    <string name="CONTINUEx">JATKA »</string>
+<string name="search">Etsi</string>
 
-    <!-- Search Activity -->
+<string name="Settings">Asetukset</string>
 
-    <!-- History Check -->
+<string name="privacy">Yksityisyyskäytäntö</string>
 
-    <!-- Blocked Calls Activity -->
+<string name="Terms_Of_Use">Käyttöehdot</string>
 
-    <!-- Phone Number Info-->
-
-    <string name="contacts">Yhteystiedot</string>
-    <string name="this_number_is_in_your_contacts">Tämä numero löytyy yhteystiedoistasi</string>
-    <string name="system">Järjestelmä</string>
-    <string name="there_are_no_reviews_yet">Tälle numerolle ei löydy vielä arvosteluja</string>
+<!-- Splash Screen-->
 
 
+<string name="Initializing_Application">Alustetaan sovellusta</string>
 
-    <!-- Call Notification -->
-    <string name="Phone_Number_Reviews">Puhelinnumeron Saamat Arvostelut</string>
-
-    <!-- Phone Processing-->
-    <string name="incomming_call_from_number_blocked">Estetty puhelu numerosta.</string>
-
-    <!-- Main Action-->
-    <string name="Today_Total">Tänään / Total</string>
-
-    <!-- Add Item-->
+<!-- Welcome Activity -->
 
 
-    <!-- Settings-->
+<string name="CONGRATULATION">ONNEKSI OLKOON!</string>
 
-    <!-- Ratings -->
+<string name="CONTINUEx">JATKA »</string>
 
-    <!-- Categories -->
-    <string-array name="cat_array">
-        <item>@string/cat_choose_category</item>
-        <item>@string/cat_telemarketer</item>
-        <item>@string/cat_call_centre</item>
-        <item>@string/cat_silent_call</item>
-        <item>@string/cat_nuisance_call</item>
-        <item>@string/cat_unsolicited_call</item>
-        <item>@string/cat_finance_service</item>
-        <item>@string/cat_dept_collector</item>
-        <item>@string/cat_non_profit_org</item>
-        <item>@string/cat_political_call</item>
-        <item>@string/cat_scam_call</item>
-        <item>@string/cat_prank_call</item>
-        <item>@string/cat_fax_machine</item>
-        <item>@string/cat_sms</item>
-        <item>@string/cat_survey</item>
-        <item>@string/cat_company</item>
-        <item>@string/cat_service</item>
-        <item>@string/cat_other</item>
-    </string-array>
+<!-- Search Activity -->
 
-    <string name="cat_choose_category">0-Valitse kategoria</string>
-    <string name="cat_telemarketer">1-Puhelinmyyjä</string>
-    <string name="cat_dept_collector">2-Velkoja</string>
-    <string name="cat_silent_call">3-Hiljainen puhelu</string>
-    <string name="cat_nuisance_call">4-Häiriösoitto</string>
-    <string name="cat_unsolicited_call">5-Pyytämätön puhelu</string>
-    <string name="cat_call_centre">6-Puhelinkeskus</string>
-    <string name="cat_fax_machine">7-Faksilaite</string>
-    <string name="cat_non_profit_org">8-Tuottoa tavoittelematon järjestö</string>
-    <string name="cat_political_call">9-Poliittinen puhelu</string>
-    <string name="cat_scam_call">10-Huijauspuhelu</string>
-    <string name="cat_prank_call">11-Pilapuhelu</string>
-    <string name="cat_sms">12-Tekstiviesti</string>
-    <string name="cat_survey">13-Kysely</string>
-    <string name="cat_other">14-Muu</string>
-    <string name="cat_finance_service">15-Taloudellinen palvelu</string>
 
-    <string name="like_this_app_rate_us">Pidätkö tästä sovelluksesta! Arvostele se!</string>
-    <string name="Save">Tallenna</string>
-    <string name="ok">OK</string>
-    <string name="Rating">Arvostelu</string>
-    <string name="Negative">Negatiivinen</string>
-    <string name="Category">Kategoria</string>
-    <string name="Reviews_Download_Failed_Please_">Arvostelujen lataaminen epäonnistui! Tarkista, että nettiyhteytesi on kunnossa!</string>
-    <string name="More_Info">Lisätietoja</string>
-    <string name="Download_reviews_automatically">Lataa arvostelut automaattisesti</string>
-    <string name="Close">Sulje</string>
-    <string name="Unknown">Tuntematon</string>
-    <string name="Positive">Positiivinen</string>
-    <string name="Neutral">Neutraali</string>
-    <string name="Send_Logs_to_Developer">Lähetä lokit ohjelmiston kehittäjälle</string>
-    <string name="Drag_me_for_better_positioning">Raahaa minut parempaan sijaintiin</string>
-    <string name="Service_is_temporarily_unavailable">Palvelu on hetkeksi poissa käytöstä! Yritä myöhemmin uudelleen!</string>
-    <string name="For_receiving_user_reviews_we_need_to_send">Jotta voimme tallentaa arvostelut, meidän pitää lähettää arvosteltava
-        puhelinnumero palvelimellemme. Hyväksytkö numeroiden lähettämisen?
-    </string>
-    <string name="Agree">Hyväksyn</string>
-    <string name="Disagree">En hyväksy</string>
-    <string name="Permission_Request">Luvan Pyyntö</string>
-    <string name="Notify_blocked_calls">Ilmoita estetyistä puheluista</string>
-    <string name="Summary">Yhteenveto</string>
-    <string name="Unsupported_device">Laitetta ei ole tuettu</string>
-    <string name="This_function_is_not_supported_on_your_device">Tämä toiminto ei ole tuettu laitteellasi. </string>
-    <string name="Community">Yhteisö</string>
-    <string name="We_are_here_to_protect_you">Olemme täällä turvataksemme sinua!</string>
-    <string name="Help_us_to_make_world_a_better_place">Auta meitä tekemään maailmasta parempi paikka!</string>
-    <string name="Write_5_star_review">Kirjoita 5 tähden arvostelu</string>
-    <string name="Write_5_star_review_content">Jos uskot meidän ansaitsevan sen, tee se! Arvostelut auttavat uusia jäseniä päätöksessään liittyä osaksi yhteisöä!</string>
-    <string name="Allow_sending_anonymous_stats">Hyväksy anonyymien tietojen lähettäminen</string>
-    <string name="Allow_sending_anonymous_stats_content">Jos aktivoit tämän ominaisuuden, kaikki puhelinnumerot, jotka eivät löydy yhteystiedoistasi, tullaan lähettämään palvelimelle. Tämä auttaa uhkien välttämisessä..</string>
-    <string name="Write_review">KIRJOITA ARVOSTELU</string>
-    <string name="Write_phone_number_reviews">Kirjoita puhelinnumeroista arvosteluja</string>
-    <string name="Write_phone_number_reviews_content">Jos löydät lisää tietoa jostain puhelinnumerosta, älä pidä sitä tietoa itselläsi. Jaa se yhteisön kanssa!</string>
-    <string name="Tell_friends_and_share_link_content">Lähetä vinkki tästä sovelluksesta ystävillesi, jaa linkki sosiaalisessa mediassa, foorumeilla, blogeilla... Auta meitä laajentamaan yhteisöämme!.</string>
-    <string name="Dont_show_again">Älä näytä uudestaan</string>
-    <string name="Send_anonymous_stats">Lähetä anonyymina tietoja tulevista puheluista</string>
-    <string name="Blocked_call_from_hidden_number">Estetyt puhelut piilotetusta numerosta</string>
-    <string name="Blocked_call_to_foreign_country_number_x">Estetyt ulkomailta tulevat puhelut</string>
-    <string name="Blocked_call_to_premium_rate_number_x">Estetyt puhelut premium asteen numeroista</string>
-    <string name="Send_stats_incoming_permission">Kun tämä asetus on päällä, puhelimesi lähettää ANONYYMINA tietoja tulleista puheluista, jotka ovat tuntemattomista numeroista palvelimellemme. Hyväksytkö tämän?</string>
-    <string name="Enter_Phone_Number">Lisää puhelinnumero</string>
-    <string name="No_Review">Ei arvosteluja</string>
-    <string name="Should_I_Answer_Service">Should I Answer-palvelu</string>
-    <string name="If_you_are_satisfied_with_our_service_please_help">Jost olet tyytyväinen palveluumme, auta yhteisöä!</string>
-    <string name="Already_checked_s_calls">Jo tarkistetut soitot.</string>
-    <string name="cat_company">16-Yritys</string>
-    <string name="cat_service">17-Palvelu</string>
-    <string name="Hidden_number">Salattu numero</string>
-    <string name="About">Tietokanta</string>
-    <string name="Logs">Lokit</string>
-    <string name="Cancel">Peruuta</string>
-    <string name="Downloading_Update">Ladataan Päivitystä</string>
-    <string name="Online_Manual">Nettiopas</string>
-    <string name="Contact">Ota yhteyttä</string>
-    <string name="Block">Estä</string>
-    <string name="Update_Database">Päivitä tietokanta</string>
-    <string name="Clear_Log">Tyhjennä Lokit</string>
-    <string name="Really_clear_checked_calls_log">Haluatko varmasti tyhjentää soittojen lokit?</string>
-    <string name="Yes">Kyllä</string>
-    <string name="No">Ei</string>
-    <string name="welcome_detailedinfo">
-        Yhteystietoihisi tallentamia numerot ovat automaattisesti aina sallittuja. Osoitekirjasi numeroita ei välitetä palvelimelle.
-        Tarvitsemme myöskin luvan päästä käsiksi puhelimesi tehtyjen ja saatujen soittojen tietokantaan, jotta voimme tarkistaa puhelut.
-        Käytämme erillistä peiteikkunaa ilmoittamaan puheluiden tiedot.
-        Jos sinulla on kysymyksiä, ota meihin vapaasti yhteyttä.
-    </string>
-    <string name="Logo">Logo</string>
-    <string name="You_are_one_step_from_protecting_your_phone">Olet vain askeleen päästä haluamattomilta puheluilta suojautumisesta!</string>
-    <string name="Terms_of_Use_and_Privacy_policy">Ehdot &amp; Edellytykset ja Turvallisuuskäytäntö</string>
-    <string name="I_agree_to_terms_and_conditions">Hyväksyn Ehdot &amp; Edellytykset</string>
-    <string name="If_you_will_agree_we_will_send_information">Jos hyväksyt, lähetämme ANONYYMINA puheluista saatuja tietoja palvelimellemme, joka auttaa tunnistamaan tulevia uhkia. </string>
-    <string name="Latest_database">Viimeisin Tietokanta</string>
-    <string name="Call_Monitoring">Puheluiden Valvominen</string>
-    <string name="Show_Alerts_As_System_Overlay">Näytä Hälytykset Järjestelmän “Overlaylla”</string>
-    <string name="General">Yleistä</string>
-    <string name="System_Permissions">Järjestlemän Oikeudet</string>
-    <string name="Read_Call_Information">Lue Puhelun Tieodt</string>
-    <string name="Read_Contacts">Lue Osoitekirjaa</string>
-    <string name="Show_aftercall_information">Näytä soiton jälkeiset tiedot</string>
-    <string name="Allow_Access_To_Call_Info">Salli Puheluiden Tiedon Käyttäminen</string>
-    <string name="Allow_Access_To_Contacts">Salli Yhteystietojen Käyttö</string>
-    <string name="Allow_Create_System_Overlays">Salli “Overlayn” Luominen</string>
-    <string name="Fix_Contacts_Issues">Korjaa Yhteystietojen Ongelmat</string>
-    <string name="We_Are_Using_contacts_for_whitelisting">Käytämme Yhteystietojasi puheluiden sallimiseen, mutta emme löytäneet yhtään Yhteystietoa puhelimestasi. Jos puhelimeesi on tallennettu Yhteystietoja Osoitekirjaan normaalisti, ota yhteyttä asiakaspalveluumme..</string>
-    <string name="Unaccessible_Contacts">Yhteystiedot eivät ole saatavilla</string>
-    <string name="Allow_System_Overlays">Salli Järjestelmän “Overlayt”</string>
-    <string name="Compatibility_Check">Yhteensopivuuden Tarkistus</string>
-    <string name="Phone_Logs">Puhelimen Lokit</string>
-    <string name="Achievements_Notification">Tilastojen Ilmoitus (kerran 4 viikossa)</string>
-    <string name="Show_Details">Show Details</string>
-    <string name="Call_Number">Call Number</string>
-    <string name="Copy_To_Clipboard">Copy To Clipboard</string>
-    <string name="Web_Search">Web Search</string>
-    <string name="Protection_is_active">Protection is Active!</string>
-    <string name="Protect_your_friends_Help_our_community">Protect your friends!\nHelp our community!</string>
-    <string name="Show_me_how">Show me how</string>
-    <string name="Recommend_app_to_your_friends">Recommend app to your friends</string>
-    <string name="Recommend_now">Recommend Now</string>
-    <string name="Please_chec_the_terms_and_privacy_agreement">Please check the Terms and Privacy agreement.</string>
-    <string name="Recommend_App_To_Friends">Recommend App To Friends</string>
-    <string name="Promo_message_1">No more problems with unsolicited calls! Check it at</string>
-    <string name="Promo_message_2">End of telemarketing! Download the ShouldIAnswer app at</string>
-    <string name="Promo_message_4">Perfect app against telemarketing and spam, check it at</string>
-    <string name="Experimental_Function">Experimental Function</string>
-    <string name="pickAndHang_description">This function will block incoming call by pick up and then hang up. Application will not pick up call if phone is in roaming mode. Please use this feature only if you are sure you will not be billed for picking up the incoming calls.</string>
-    <string name="Service_as_Foreground_Process">Service as Foreground Process</string>
-    <string name="Service_as_foreground_process_description">Enabling this you will speedup blocking of unwanted calls. As side effect you will permanently see app icon in status bar and notification about enabled protection.</string>
-    <string name="Database_Needs_Update">Database needs update</string>
-    <string name="Advanced">Lisäasetukset</string>
-    <string name="You_must_set_QKSMS_as_default_manager">You must set QKSMS as default SMS Manager to activate this function</string>
-    <string name="Disable_this_if_your_device_doesnt_display_alerts_properly">Disable this if your device doesn\'t display alerts properly</string>
-    <string name="SMS_restriction_info">Due system restrictions you must use compatible SMS manager. QKSMS from QK Labs is FREE alternative with support for SMS filtering via our application. Please install it to enable this feature.</string>
-    <string name="Required_compatible_SMS_manager">Required compatible SMS manager</string>
-    <string name="Blocking">Blocking</string>
-    <string name="Alerts">Alerts</string>
-    <string name="Terms_and_Privacy">Terms and Privacy</string>
-    <string name="Should_I_Answer">Should I Answer</string>
-    <string name="Ratings">Ratings</string>
-    <string name="App_is_now_updated_to_latest_version">App is now updated to latest version</string>
-    <string name="migration8_info1">This update contains major user interface changes and improvements. We hope you will find it more intuitive and flexible. Visit the settings for switching theme back to dark.</string>
-    <string name="migration8_info2">Configuration is now separated into this sections:</string>
-    <string name="migration8_info3">Here you can setup which phone numbers have negative,neutral or positive rating for you, how to rate phone contacts numbers and how to use community database for rating.</string>
-    <string name="migration8_info4">Here you can setup how you want to be alerted about incoming/outgoing calls</string>
-    <string name="migration8_info5">Here you can setup how you want to restrict incoming/outgoing calls</string>
-    <string name="migration8_info6">Here you can find general application settings</string>
-    <string name="Number">Number</string>
-    <string name="Rate">Rate</string>
-    <string name="Reviews">Reviews</string>
-    <string name="Your_Ratings">Your Ratings</string>
-    <string name="Push_the_RATE_button_to_add_your_rating">Push the RATE button to add your rating.</string>
-    <string name="Community_Reviews">Community Reviews</string>
-    <string name="You_have_disabled_automatic_reviews_info">You have disabled automatic reviews loading from server. Push the \'REVIEWS\' button to show community reviews. Automatic reviews loading can be enabled in the settings.</string>
-    <string name="notification_rating">How Block Phone Number? Fill negative rating and enable blocking of the negative rated numbers.</string>
-    <string name="Phone_Number">Phone Number</string>
-    <string name="Rating_Phone_Number_Hint">Number must be in international format starting by +. You can rate group of numbers by using the *. For example: +12345* will block all calls from +12345xxxxxx range.</string>
-    <string name="Private_Rating_or_Number">Private Rating or Number</string>
-    <string name="Private_Rating_or_Number_hint">Check it if the number is private or you don\'t want to share the rating with community</string>
-    <string name="Select_Rating">Select Rating</string>
-    <string name="Select_Category">Select Category</string>
-    <string name="Comment">Comment</string>
-    <string name="Enter_Your_Comment">Enter Your Comment</string>
-    <string name="Your_Name_or_Nickname">Your Name or Nickname</string>
-    <string name="Enter_Name_or_Nickname">Enter Name or Nickname</string>
-    <string name="Delete">Delete</string>
-    <string name="notification_alerts">Here you can configure which alerts do you want to display.</string>
-    <string name="Show_Alerts_for_INCOMING_calls_rated_as">Show Alerts for INCOMING calls rated as</string>
-    <string name="except_contacts">except contacts</string>
-    <string name="Show_Alerts_for_OUTGOING_calls_rated_as">Show Alerts for OUTGOING calls rated as</string>
-    <string name="Use_System_Overlay_for_displaying_of_the_alerts">Use System Overlay for displaying of the alerts</string>
-    <string name="notification_blocking">Blocking is additional feature that must use workarounds due missing support in the Android System. System modifications by phone manufacturers makes this workarounds unaccessible on some phone models.</string>
-    <string name="Block_INCOMING_Calls_from">Block INCOMING Calls from</string>
-    <string name="Negative_rated_numbers">Negative rated numbers</string>
-    <string name="All_numbers">All numbers</string>
-    <string name="Hidden_numbers">Hidden numbers</string>
-    <string name="Block_OUTGOING_Calls_to">Block OUTGOING Calls to</string>
-    <string name="Premium_numbers">Premium numbers</string>
-    <string name="Foreign_numbers">Foreign numbers</string>
-    <string name="Block_SMS_and_MMS_from"><![CDATA[Block SMS & MMS from]]></string>
-    <string name="Set_Default_SMS_Manager">Set Default SMS Manager</string>
-    <string name="Use_pick_and_hang_up_to_protect_voice_mail">Use pick and hang up to protect voice mail</string>
-    <string name="Checked_Calls_And_Messages">Checked Calls and Messages</string>
-    <string name="Blocked_Calls_and_Messages">Blocked Calls and Messages</string>
-    <string name="Application_Status">Application Status</string>
-    <string name="Access_to_Phone_Contacts">Access to Phone Contacts</string>
-    <string name="norification_ratings">Here you can configure how phone numbers will be rated.</string>
-    <string name="Phone_Number_Ratings_Filter">Phone Number Ratings Filter</string>
-    <string name="Enter_Phone_NUmber_To_Filter_Ratings">Enter Phone Number To Filter Ratings</string>
-    <string name="Use_Light_Theme">Use Light Theme</string>
-    <string name="Edit">Edit</string>
-    <string name="There_is_no_item_yet">There is no item yet</string>
-    <string name="Foreign_Number">Foreign Number</string>
-    <string name="Hidden_Number">Hidden Number</string>
-    <string name="Negative_Rating">Negative Rating</string>
-    <string name="Premium_Rate_Number">Premium Rate Number</string>
-    <string name="Unallowed_All_Numbers">Unallowed All Numbers</string>
-    <string name="Unallowed_Unknown_Numbers">Unallowed Unknown Numbers</string>
-    <string name="Phone_Log_is_loading">Phone Log is loading</string>
-    <string name="Use_Community_Database_Rating">Use Community Database Rating</string>
-    <string name="General_Ratings_Rules">General Rating Rules</string>
-    <string name="for_numbers_with_mask">for numbers with mask %s</string>
-    <string name="for_number_x">for number %s</string>
-    <string name="There_is_no_rating_yet">There is no rating yet</string>
-    <string name="for_Contact_x">for Contact %s</string>
-    <string name="Phone_Number_Details">Phone Number Details</string>
-    <string name="New_Number_Rating">New Number Rating</string>
-    <string name="Edit_Number_Rating">Edit Number Rating</string>
-    <string name="Rating_for_this_number_already_exists">Rating for this number already exists</string>
-    <string name="You_must_select_rating">You must select rating</string>
-    <string name="You_must_select_category">You must select category</string>
-    <string name="Comment_is_too_short_">Comment is too short!</string>
-    <string name="Nick_is_too_short_">Nick is too short!</string>
-    <string name="Blocked_call_from_negative_rated_number_x">Blocked call from negative rated number %s.</string>
-    <string name="Blocked_call_to_negative_rated_number_x">Blocked call to negative rated number %s.</string>
-    <string name="Pick_Contact">Pick Contact</string>
-    <string name="Really_clear_this_log_">Really clear this log ?</string>
-    <string name="Checked_Numbers">Checked Numbers</string>
-    <string name="Blocked_Numbers">Blocked Numbers</string>
-    <string name="for_Contacts_without_yours_rating">for Contacts without yours rating</string>
-    <string name="for_Contacts_without_yours_and_community_rating">for Contacts without yours and community rating</string>
-    <string name="Export_Import">Export / Import</string>
-    <string name="Export_Application_Data">Export Application Data</string>
-    <string name="Export_data_description">All application settings and your number ratings will be exported to single data block which can be send and imported on another device</string>
-    <string name="Export">Export</string>
-    <string name="Import_Application_Data">Import Application Data</string>
-    <string name="Import_Data_Description">Install Should I Answer application on target device and then open exported file. File extension is associated to this application, so this screen should be automatically displayed.</string>
-    <string name="Import">Import</string>
-    <string name="Phone_Number_Ratings">Phone Number Ratings</string>
-    <string name="Alerts_Settings">Alerts Settings</string>
-    <string name="Blocking_Settings">Blocking Settings</string>
-    <string name="Clear_actual_ratings">Clear actual ratings</string>
-    <string name="Invalid_Data_Format_">Invalid Data Format!</string>
-    <string name="Should_I_Answer_Data_Export">Should I Answer Data Export</string>
-    <string name="Data_Export_Email_Body">Your data are attached to the email. Yours Should I Answer App</string>
-    <string name="There_are_no_email_clients_installed">There are no email clients installed.</string>
-    <string name="Settings_successfully_imported_">Settings successfully imported!</string>
-    <string name="Invitation_not_finished_">Invitation not finished!</string>
-    <string name="Contact_x">Contact %s</string>
-    <string name="Install">Install</string>
-    <string name="Phone_Number_Hint_New">You can rate group of numbers by using the *. For example: 800* will set a rule for all calls from 800* range.</string>
+<!-- History Check -->
 
-    <!-- Rest -->
 
+<!-- Blocked Calls Activity -->
+
+
+<!-- Phone Number Info-->
+
+
+<string name="contacts">Yhteystiedot</string>
+
+<string name="this_number_is_in_your_contacts">Tämä numero on yhteystiedoissasi</string>
+
+<string name="system">Järjestelmä</string>
+
+<string name="there_are_no_reviews_yet">Tätä numeroa ei ole vielä arvosteltu</string>
+
+<!-- Call Notification -->
+
+
+<string name="Phone_Number_Reviews">Puhelinnumeroiden arvostelut</string>
+
+<!-- Phone Processing-->
+
+
+<string name="incomming_call_from_number_blocked">Estetty puhelu numerosta %s.</string>
+
+<!-- Main Action-->
+
+
+<string name="Today_Total">Tänään / Kaikkiaan</string>
+
+<!-- Add Item-->
+
+
+<!-- Settings-->
+
+
+<!-- Ratings -->
+
+
+<!-- Categories -->
+
+
+
+-<string-array name="cat_array">
+
+<item>@string/cat_choose_category</item>
+
+<item>@string/cat_telemarketer</item>
+
+<item>@string/cat_call_centre</item>
+
+<item>@string/cat_silent_call</item>
+
+<item>@string/cat_nuisance_call</item>
+
+<item>@string/cat_unsolicited_call</item>
+
+<item>@string/cat_finance_service</item>
+
+<item>@string/cat_dept_collector</item>
+
+<item>@string/cat_non_profit_org</item>
+
+<item>@string/cat_political_call</item>
+
+<item>@string/cat_scam_call</item>
+
+<item>@string/cat_prank_call</item>
+
+<item>@string/cat_fax_machine</item>
+
+<item>@string/cat_sms</item>
+
+<item>@string/cat_survey</item>
+
+<item>@string/cat_company</item>
+
+<item>@string/cat_service</item>
+
+<item>@string/cat_other</item>
+
+</string-array>
+
+<string name="cat_choose_category">0-Valitse kategoria</string>
+
+<string name="cat_telemarketer">1-Puhelinmyyjä</string>
+
+<string name="cat_dept_collector">2-Perintäpalvelu</string>
+
+<string name="cat_silent_call">3-Hälärisoitto</string>
+
+<string name="cat_nuisance_call">4-Häirikköpuhelu</string>
+
+<string name="cat_unsolicited_call">5-Epätoivottu puhelu</string>
+
+<string name="cat_call_centre">6-Puhelinpalvelukeskus</string>
+
+<string name="cat_fax_machine">7-Faksi</string>
+
+<string name="cat_non_profit_org">8-Kansalaisjärjestö</string>
+
+<string name="cat_political_call">9-Poliittinen puhelu</string>
+
+<string name="cat_scam_call">10-Huijauspuhelu</string>
+
+<string name="cat_prank_call">11-Pilapuhelu</string>
+
+<string name="cat_sms">12-Tekstiviesti</string>
+
+<string name="cat_survey">13-Tutkimus</string>
+
+<string name="cat_other">14-Jokin muu</string>
+
+<string name="cat_finance_service">15-Talouspalvelu</string>
+
+<string name="like_this_app_rate_us">Pidätkö tästä sovelluksesta? Arvostele meidät!</string>
+
+<string name="Save">Tallenna</string>
+
+<string name="ok">OK</string>
+
+<string name="Rating">Arvio</string>
+
+<string name="Negative">Negatiivinen</string>
+
+<string name="Category">Kategoria</string>
+
+<string name="Reviews_Download_Failed_Please_">Arvostelujen lataaminen epäonnistui! Tarkista Internet-yhteytesi!</string>
+
+<string name="More_Info">Lisätietoja</string>
+
+<string name="Download_reviews_automatically">Lataa arvostelut automaattisesti</string>
+
+<string name="Close">Sulje</string>
+
+<string name="Unknown">Tuntematon</string>
+
+<string name="Positive">Positiivinen</string>
+
+<string name="Neutral">Neutraali</string>
+
+<string name="Send_Logs_to_Developer">Lähetä lokitietoja ohjelmistokehittäjälle</string>
+
+<string name="Drag_me_for_better_positioning">Siirrä parempaan paikkaan vetämällä</string>
+
+<string name="Service_is_temporarily_unavailable">Palvelu on tilapäisesti pois saatavilta! Yritä myöhemmin uudelleen!</string>
+
+<string name="For_receiving_user_reviews_we_need_to_send">Vastaanottaaksesi käyttäjien arvosteluja, meidän täytyy lähettää kyseinen puhelinnumero palvelimellemme. Hyväksytkö puhelinnumeron lähettämisen? </string>
+
+<string name="Agree">Hyväksyn</string>
+
+<string name="Disagree">En hyväksy</string>
+
+<string name="Permission_Request">Käyttöoikeuspyyntö</string>
+
+<string name="Notify_blocked_calls">Ilmoita estetyt puhelut</string>
+
+<string name="Summary">Yhteenveto</string>
+
+<string name="Unsupported_device">Laitetta ei tueta</string>
+
+<string name="This_function_is_not_supported_on_your_device">Laitteesi ei tue tätä toimintoa</string>
+
+<string name="Community">Yhteisö</string>
+
+<string name="We_are_here_to_protect_you">Olemme täällä suojellaksemme sinua!</string>
+
+<string name="Help_us_to_make_world_a_better_place">Auta meitä tekemään maailmasta parempi paikka!</string>
+
+<string name="Write_5_star_review">Kirjoita 5 tähden arvostelu</string>
+
+<string name="Write_5_star_review_content">Jos ajattelet, että ansaitsemme sen, tee se! Arvostelut auttavat uusia käyttäjiä valitsemaan yhteisömme!</string>
+
+<string name="Allow_sending_anonymous_stats">Salli nimettömien tilastotietojen lähettäminen</string>
+
+<string name="Allow_sending_anonymous_stats_content">Jos sallit tämän toiminnon, kaikki saapuvat puhelinnumerot, joita ei ole tallennettu yhteystietoihisi, lähetetään palvelimelle. Nämä tiedot auttavat meitä suuntaamaan huomiomme merkittävimpiin uhkiin.</string>
+
+<string name="Write_review">KIRJOITA ARVOSTELU</string>
+
+<string name="Write_phone_number_reviews">Kirjoita arvostelu puhelinnumerolle</string>
+
+<string name="Write_phone_number_reviews_content">Jos saat uutta tietoa puhelinnumerosta, älä pidä sitä vain itselläsi. Jaa tieto yhteisömme kanssa!</string>
+
+<string name="Tell_friends_and_share_link_content">Lähetä vinkki sovelluksestamme ystävillesi, jaa linkki sosiaalisessa mediassa, keskusteluforumeilla, blogeissa... Auta meitä löytämään uusia jäseniä.</string>
+
+<string name="Dont_show_again">Älä näytä uudestaan</string>
+
+<string name="Send_anonymous_stats">Lähetä nimettömiä tilastotietoja saapuvista puheluista</string>
+
+<string name="Blocked_call_from_hidden_number">Estetty puhelu piilotetusta numerosta</string>
+
+<string name="Blocked_call_to_foreign_country_number_x">Estetty puhelu ulkomaiseen numeroon %s</string>
+
+<string name="Blocked_call_to_premium_rate_number_x">Estetty puhelu lisämaksulliseen numeroon %s</string>
+
+<string name="Send_stats_incoming_permission">Salliessasi tämän toiminnon palvelimellemme lähetetään NIMETTÖMIÄ tilastotietoja tuntemattomista numeroista, joita ei ole tallennettu yhteystietoihisi. Hyväksytkö saapuvien numeroiden lähettämisen palvelimellemme?</string>
+
+<string name="Enter_Phone_Number">Syötä puhelinnumero</string>
+
+<string name="No_Review">Ei arvosteluja</string>
+
+<string name="Should_I_Answer_Service">Should I Answer -palvelu</string>
+
+<string name="If_you_are_satisfied_with_our_service_please_help">Jos olet tyytyväinen palveluumme, auta yhteisöämme!</string>
+
+<string name="Already_checked_s_calls">Jo tarkistetut %s puhelut</string>
+
+<string name="cat_company">16-Yritys</string>
+
+<string name="cat_service">17-Palvelu</string>
+
+<string name="Hidden_number">Piilotettu numero</string>
+
+<string name="About">Tietoa</string>
+
+<string name="Logs">Toimintalokit</string>
+
+<string name="Cancel">Peruuta</string>
+
+<string name="Downloading_Update">Ladataan päivitystä</string>
+
+<string name="Online_Manual">Online-ohjekirja</string>
+
+<string name="Contact">Ota yhteyttä</string>
+
+<string name="Block">Estä</string>
+
+<string name="Update_Database">Päivitä tietokanta</string>
+
+<string name="Clear_Log">Tyhjennä toimintaloki</string>
+
+<string name="Really_clear_checked_calls_log">Haluatko varmasti tyhjentää tarkistettujen puheluiden toimintalokin?</string>
+
+<string name="Yes">Kyllä</string>
+
+<string name="No">Ei</string>
+
+<string name="welcome_detailedinfo">Käytämme puhelimessasi olevia yhteystietoja paikallisena tietokantana hyväksytyistä numeroistasi (whitelist). Yhteystietojasi ei koskaan lähetetä palvelimelle. Lisäksi me tarvitsemme oikeuden puheluihisi, jotta voimme tarkistaa, että soittava nuemro täsmää paikallisen tietokannan kanssa. Näytämme puhelinnumeroon liittyvän informaation erillisessä ikkunassa, joka ilmestyy puheluikkunan päälle. Jos sinulla on kysyttävää, ota yhteyttä meihin. </string>
+
+<string name="Logo">Logo</string>
+
+<string name="You_are_one_step_from_protecting_your_phone">Enää yksi vaihe ja puhelimesi on suojattu ei-toivotuilta numeroilta!</string>
+
+<string name="Terms_of_Use_and_Privacy_policy">Käyttöehdot ja Yksityisyyskäytäntö</string>
+
+<string name="I_agree_to_terms_and_conditions">Hyväksyn Käyttöehdot ja Sopimusehdot</string>
+
+<string name="If_you_will_agree_we_will_send_information">Jos hyväksyt tämän, lähetämme tietoa tuntemattomista saapuvista puheluista palvelimelle NIMETTÖMIEN tilastotietojen laskentaa varten. Näin autat meitä havaitsemaan uusia uhkia.</string>
+
+<string name="Latest_database">Viimeisin tietokanta</string>
+
+<string name="Call_Monitoring">Puhelujen seuranta</string>
+
+<string name="Show_Alerts_As_System_Overlay">Näytä hälytykset päälimmäisenä näyttötilassa (System Overlay- toiminto)</string> 
+
+<string name="General">Yleinen</string>
+
+<string name="System_Permissions">Järjestelmäoikeudet</string>
+
+<string name="Read_Call_Information">Lue puhelutiedot</string>
+
+<string name="Read_Contacts">Lue yhteystiedot</string>
+
+<string name="Show_aftercall_information">Näytä puhelun jälkeistiedot</string>
+
+<string name="Allow_Access_To_Call_Info">Salli pääsy puhelutietoihin</string>
+
+<string name="Allow_Access_To_Contacts">Salli pääsy yhteystietoihin</string>
+
+<string name="Allow_Create_System_Overlays">Salli System Overlay -toiminnon käyttö</string>
+
+<string name="Fix_Contacts_Issues">Korjaa yhteystieto-ongelmat</string>
+
+<string name="We_Are_Using_contacts_for_whitelisting">Me käytämme puhelimesi yhteystietoja hyväksyttyinä numeroinasi (whitelist), mutta emme löytäneet yhtään numeroa puhelimestasi. Jos yhteystietosi on tallennettu puhelimeesi, eikä olemassa ole mitään erityistä syytä, miksi emme saisi niitä käyttöömme, ota yhteyttä käyttäjätukeemme.</string>
+
+<string name="Unaccessible_Contacts">Ei-saatavilla olevat yhteystiedot</string>
+
+<string name="Please_chec_the_terms_and_privacy_agreement">Olkaa hyvä ja tarkistakaa Käyttöehto- ja Yksityisyyssopimukset.</string>
+
+<string name="Allow_System_Overlays">Salli System Overlays -toiminto</string>
+
+<string name="Compatibility_Check">Yhteensopivuuden tarkistus</string>
+
+<string name="Phone_Logs">Puhelulokit</string>
+
+<string name="Achievements_Notification">Ilmoitus tilastotiedoista (kerran kahdessa viikossa)</string>
+
+<string name="Show_Details">Näytä yksityiskohdat</string>
+
+<string name="Call_Number">Soita numeroon</string>
+
+<string name="Copy_To_Clipboard">Kopioi leikepöydälle</string>
+
+<string name="Web_Search">Etsi verkosta</string>
+
+<string name="Protection_is_active">Suojaus on toiminnassa!</string>
+
+<string name="Protect_your_friends_Help_our_community">Suojele ystäviäsi!\nAuta yhteisöämme!</string>
+
+<string name="Show_me_how">Näytä miten</string>
+
+<string name="Recommend_app_to_your_friends">Suosittele sovellusta ystävillesi</string>
+
+<string name="Recommend_now">Suosittele nyt</string>
+
+<string name="Recommend_App_To_Friends">Suosittele sovellusta ystäville</string>
+
+<string name="Promo_message_1">Ei enää ongelmia ei-toivottujen puhelujen kanssa!</string>
+
+<string name="Promo_message_2">Ei enää puhelinmyyjiä! Lataa ShouldIAnswer-sovellus ilmaiseksi!</string>
+
+<string name="Promo_message_4">Täydellinen sovellus puhelinmyyjiä ja spämmejä vastaan!</string>
+
+<string name="Experimental_Function">Kokeellinen toiminto</string>
+
+<string name="pickAndHang_description">Tämä toiminto estää saapuvan puhelun vastaamalla ja sulkemalla sitten puhelun. Sovellus ei vastaa puheluun, jos puhelin on roaming-tilassa. Käytä tätä toimintoa vain, kun olet varma että sinua ei laskuteta puheluun vastaamisesta.</string>
+
+<string name="Service_as_Foreground_Process">Palvelun toiminta edustalla</string>
+
+<string name="Service_as_foreground_process_description">Ottamalla tämän käyttöön nopeutat ei-toivottujen numeroiden estämistä (puhelin ei luultavasti ehdi edes soida). Sivuvaikutuksena sovelluskuvake ja ilmoitus käyttöönotetusta suojauksesta näkyvät pysyvästi puhelimesi tilarivillä.</string>
+
+<string name="Database_Needs_Update">Tietokanta tarvitsee päivityksen</string>
+
+<string name="Advanced">Lisäasetukset</string>
+
+<string name="You_must_set_QKSMS_as_default_manager">Sinun täytyy asettaa QKSMS oletusviestintäsovellukseksi aktivoidaksesi tämän toiminnon</string>
+
+<string name="Disable_this_if_your_device_doesnt_display_alerts_properly">Poista tämä käytöstä, jos laitteesi ei näytä hälytyksiä oikein.</string>
+
+<string name="SMS_restriction_info">Järjestelmän rajoitusten takia sinun täytyy käyttää yhteensopivaa viestintäsovellusta. QK Labsin tekemä QKSMS on ILMAINEN vaihtoehto, joka tukee sovelluksemme käyttämää tekstiviestien suodattamista. Olkaa hyvä ja asentakaa se, jotta voitte ottaa tämän toiminnon käyttöön.</string>
+
+<string name="Required_compatible_SMS_manager">Vaaditaan yhteensopiva viestintäsovellus</string>
+
+<string name="Blocking">Estäminen</string>
+
+<string name="Alerts">Hälytykset</string>
+
+<string name="Terms_and_Privacy">Käyttöehdot ja Yksityisyys</string>
+
+<string name="Should_I_Answer">Should I Answer</string>
+
+<string name="Ratings">Luokitukset</string>
+
+<string name="App_is_now_updated_to_latest_version">Sovellus on nyt päivitetty uusimpaan versioon</string>
+
+<string name="migration8_info1">Tämä päivitys sisältää merkittäviä muutoksia ja parannuksia käyttöliittymään. Me toivomme, että koet päivityksen intuitiivisemmaksi ja joustavammaksi. Katso Asetukset, jos haluat muuttaa teeman takaisin tummaksi.</string>
+
+<string name="migration8_info2">Konfigurointi on jaettu näihin osiin:</string>
+
+<string name="migration8_info3">Täällä voit määritellä, mitkä puhelinnumerot saavat negatiivisen, neutraalin tai positiivisen arvion, tiedät kuinka arvioida puhelimesi yhteystiedot ja kuinka käytät yhteisömme tietokantaa arviointiin.</string>
+
+<string name="migration8_info4">Täällä voit määritellä, millaisen ilmoituksen haluat saapuvista/lähtevistä puheluista</string>
+
+<string name="migration8_info5">Täällä voit määritellä, miten haluat toimia saapuvien/lähtevien puheluiden kanssa</string>
+
+<string name="migration8_info6">Täältä löydät yleiset sovellusasetukset</string>
+
+<string name="Number">Numero</string>
+
+<string name="Rate">Arvioi</string>
+
+<string name="Reviews">Arvostelut</string>
+
+<string name="Your_Ratings">Sinun arviosi</string>
+
+<string name="Push_the_RATE_button_to_add_your_rating">Paina ARVIOI-painiketta lisätäksesi arviointisi.</string>
+
+<string name="Community_Reviews">Yhteisön arvostelut</string>
+
+<string name="You_have_disabled_automatic_reviews_info">Olet kytkenyt pois päältä automaattisen arvostelujen lataamisen palvelimelta. Paina ARVOSTELUT-paniketta nähdäksesi yhteisön arvostelut. Automaattisen arvostelujen latauksen voit ottaa käyttöön Asetuksista.</string>
+
+<string name="notification_rating">Kuinka estää puhelinnumero? Arvioi numero negatiiviseksi ja ota käyttöön negatiivisiksi arvioitujen numeroiden esto.</string>
+
+<string name="Phone_Number">Puhelinnumero</string>
+
+<string name="Rating_Phone_Number_Hint">Numeron täytyy olla kansainvälisessä muodossa, joka alkaa \'+\', jatkuu kansainvälisellä maatunnuksella ja sen jälkeen puhelinnumerolla. Voit arvioida ryhmän numeroita käyttämällä *-merkkiä. Esimerkiksi: +4412345* asettaa säännön kaikille puheluille, joiden numero alkaa +4412345xxxx.</string>
+
+<string name="Private_Rating_or_Number">Yksityinen arvio tai numero</string>
+
+<string name="Private_Rating_or_Number_hint">Rastita tämä, jos numero on yksityinen tai et halua jakaa arviotasi yhteisömme kanssa</string>
+
+<string name="Select_Rating">Valitse arvio</string>
+
+<string name="Select_Category">Valitse kategoria</string>
+
+<string name="Comment">Kommentoi</string>
+
+<string name="Enter_Your_Comment">Syötä kommenttisi</string>
+
+<string name="Your_Name_or_Nickname">Nimesi tai nimimerkkisi</string>
+
+<string name="Enter_Name_or_Nickname">Syötä nimi tai nimimerkki</string>
+
+<string name="Delete">Poista</string>
+
+<string name="notification_alerts">Täällä voit määritellä, mitkä hälytykset haluat esille.</string>
+
+<string name="Show_Alerts_for_INCOMING_calls_rated_as">Näytä hälytykset SAAPUVILLE puheluille arvostelulla</string>
+
+<string name="except_contacts">Paitsi yhteystietoni</string>
+
+<string name="Show_Alerts_for_OUTGOING_calls_rated_as">Näytä hälytykset LÄHTEVILLE puheluille arvostelulla</string>
+
+<string name="Use_System_Overlay_for_displaying_of_the_alerts">Näytä hälytykset päälimmäisenä näyttötilassa (System Overlay -toiminto)</string>
+
+<string name="notification_blocking">Estäminen on lisätoiminto, jonka täytyy käyttää kiertoteitä, koska Android-järjestelmä ei tue sitä. Joidenkin puhelinvalmistajien järjestelmämuunnokset estävät nämä kiertotiet tietyissä puhelinmalleissa.</string>
+
+<string name="Block_INCOMING_Calls_from">Estä SAAPUVAT puhelut</string>
+
+<string name="Negative_rated_numbers">Negatiiviseksi arvioidut numerot</string>
+
+<string name="All_numbers">Kaikki numerot</string>
+
+<string name="Hidden_numbers">Piilotetut numerot</string>
+
+<string name="Block_OUTGOING_Calls_to">Estä LÄHTEVÄT puhelut</string>
+
+<string name="Premium_numbers">Lisämaksulliset numerot</string>
+
+<string name="Foreign_numbers">Ulkomaiset numerot</string>
+
+
+-<string name="Block_SMS_and_MMS_from">
+
+-<![CDATA[Estä tekstiviestit ja multimediaviestit]]>
+</string>
+
+<string name="Set_Default_SMS_Manager">Aseta oletusviestintäsovellus</string>
+
+<string name="Use_pick_and_hang_up_to_protect_voice_mail">Käytä vastaa-ja-sulje -toimintoa puhelinvastaajan suojeluun</string>
+
+<string name="Checked_Calls_And_Messages">Tarkistetut puhelut ja viestit</string>
+
+<string name="Blocked_Calls_and_Messages">Estetyt puhelut ja viestit</string>
+
+<string name="Application_Status">Sovelluksen tila</string>
+
+<string name="Access_to_Phone_Contacts">Pääsy puhelimen yhteystietoihin</string>
+
+<string name="norification_ratings">Täällä voit määritellä, kuinka puhelinnumerot arvioidaan.</string>
+
+<string name="Phone_Number_Ratings_Filter">Hae puhelinnumeroiden arvioita</string>
+
+<string name="Enter_Phone_NUmber_To_Filter_Ratings">Syötä puhelinnumero arvioiden hakua varten</string>
+
+<string name="Use_Light_Theme">Käytä vaaleaa teemaa</string>
+
+<string name="Edit">Muokkaa</string>
+
+<string name="There_is_no_item_yet">Täällä ei ole vielä mitään</string>
+
+<string name="Foreign_Number">Ulkomainen numero</string>
+
+<string name="Hidden_Number">Piilotettu numero</string>
+
+<string name="Negative_Rating">Negatiivinen luokittelu</string>
+
+<string name="Premium_Rate_Number">Lisämaksullinen numero</string>
+
+<string name="Unallowed_All_Numbers">Kaikki numerot rajoitettu</string>
+
+<string name="Unallowed_Unknown_Numbers">Tuntemattomat numerot rajoitettu</string>
+
+<string name="Phone_Log_is_loading">Puhelulokia ladataan</string>
+
+<string name="Use_Community_Database_Rating">Käytä yhteisötietokannan arviota</string>
+
+<string name="General_Ratings_Rules">Yleiset arviointisäännöt</string>
+
+<string name="for_numbers_with_mask">Peitetyille numeroille %s</string>
+
+<string name="for_number_x">Numerolle %s</string>
+
+<string name="There_is_no_rating_yet">Tätä ei ole vielä arvioitu</string>
+
+<string name="for_Contact_x">Yhteystiedolle %s</string>
+
+<string name="Phone_Number_Details">Puhelinnumeron yksityiskohdat</string>
+
+<string name="New_Number_Rating">Uuden numeron arviointi</string>
+
+<string name="Edit_Number_Rating">Muokkaa numeron arviota</string>
+
+<string name="Rating_for_this_number_already_exists">Tälle numerolle on jo arvio</string>
+
+<string name="You_must_select_rating">Sinun täytyy valita arvio</string>
+
+<string name="You_must_select_category">Sinun täytyy valita kategoria</string>
+
+<string name="Comment_is_too_short_">Kommentti on liian lyhyt!</string>
+
+<string name="Nick_is_too_short_">Nimimerkki on liian lyhyt!</string>
+
+<string name="Blocked_call_from_negative_rated_number_x">Estetty puhelu negatiiviseksi arvioidusta numerosta %s.</string>
+
+<string name="Blocked_call_to_negative_rated_number_x">Estetty puhelu negatiiviseksi arvioituun numeroon %s.</string>
+
+<string name="Pick_Contact">Valitse yhteystieto</string>
+
+<string name="Really_clear_this_log_">Haluatko varmasti tyhjentää tämän toimintalokin?</string>
+
+<string name="Checked_Numbers">Tarkistetut numerot</string>
+
+<string name="Blocked_Numbers">Estetyt numerot</string>
+
+<string name="for_Contacts_without_yours_rating">Yhteystiedoille, joita et ole arvioinut</string>
+
+<string name="for_Contacts_without_yours_and_community_rating">Yhteystiedoille, joita sinä tai yhteisö ei ole arvioinut</string>
+
+<string name="Export_Import">Vie / Tuo</string>
+
+<string name="Export_Application_Data">Vie sovellusdataa</string>
+
+<string name="Export_data_description">Kaikki sovellusasetukset ja numeroarviosi pakataan yhteen, jonka jälkeen voit lähettää tai tuoda ne toiseen laitteeseen</string>
+
+<string name="Export">Vie dataa</string>
+
+<string name="Import_Application_Data">Tuo sovellusdataa</string>
+
+<string name="Import_Data_Description">Asenna Should I Answer -sovellus kohdelaitteeseen ja avaa sitten viety tiedosto. Tiedostolaajennus on yhdistetty tähän sovellukseen, joten tuontinäytön pitäisi näkyä automaattisesti.</string>
+
+<string name="Import">Tuo dataa</string>
+
+<string name="Phone_Number_Ratings">Puhelinnumeroiden arviot</string>
+
+<string name="Alerts_Settings">Hälytysasetukset</string>
+
+<string name="Blocking_Settings">Estoasetukset</string>
+
+<string name="Clear_actual_ratings">Tyhjennä varsinaiset arviot</string>
+
+<string name="Invalid_Data_Format_">Epäkelpo datamuoto!</string>
+
+<string name="Should_I_Answer_Data_Export">Should I Answer datan vienti</string>
+
+<string name="Data_Export_Email_Body">Datasi on sähköpostiviestin liitteenä. Terveisin Should I Answer -sovellus</string>
+
+<string name="There_are_no_email_clients_installed">Yhtään sähköpostiasiakasta ei ole asennettu.</string>
+
+<string name="Settings_successfully_imported_">Asetukset on tuotu onnistuneesti!</string>
+
+<string name="Invitation_not_finished_">Kutsu ei ole valmis!</string>
+
+<string name="Contact_x">Yhteystieto %s</string>
+
+<string name="Install">Asenna</string>
+
+<string name="Phone_Number_Hint_New">Voit arvioida ryhmän numeroita käyttämällä *-merkkiä. Esimerkiksi: 800* asettaa säännön kaikille puheluille, joiden numero alkaa 800.</string>
 
 </resources>

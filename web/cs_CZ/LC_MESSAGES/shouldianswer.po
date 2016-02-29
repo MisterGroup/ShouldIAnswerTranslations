@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: shouldianswer\n"
 "POT-Creation-Date: 2016-02-18 07:07+0100\n"
-"PO-Revision-Date: 2016-02-18 07:07+0100\n"
+"PO-Revision-Date: 2016-02-27 13:07+0100\n"
 "Last-Translator: \n"
 "Language-Team: topolar@gmail.com\n"
 "Language: cs\n"
@@ -1229,7 +1229,7 @@ msgstr "muzutozvednout.cz"
 
 #: app/templates/layout_default.tpl:27 app/templates/layout_defaultNew.tpl:20
 msgid "ShouldIAnswer Logo"
-msgstr ""
+msgstr "MůžuToZvednout Logo"
 
 #: app/templates/layout_default.tpl:40
 msgid "For Your <strong>Phone</strong>"
@@ -2589,95 +2589,115 @@ msgstr "Všeobecné podmínky"
 
 #: app/templates/mobilemanual/8.tpl:155
 msgid "This document describes features and user interface of version 8.x."
-msgstr ""
+msgstr "Tento dokument popisuje vlastnosti a uživatelské rozhraní verze 8.x."
 
 #: app/templates/mobilemanual/8.tpl:159
 msgid "It is developed by company Mister Group s.r.o."
-msgstr ""
+msgstr "Je vyvinut firmou Mister Group s.r.o."
 
 #: app/templates/mobilemanual/8.tpl:174
 msgid "Main Features"
-msgstr ""
+msgstr "Hlavní funkčnosti"
 
 #: app/templates/mobilemanual/8.tpl:176
 msgid "Easy check of phone numbers ratings in your Phone Call History."
 msgstr ""
+"Snadná kontrola hodnocení telefonních čísel v historii Telefonních hovorů."
 
 #: app/templates/mobilemanual/8.tpl:177
 msgid ""
 "Displaying ratings of incoming/outgoing call via special notification "
 "(Alert)."
 msgstr ""
+"Zobrazení hodnocení příchozího/odchozího volání prostřednictvím zvláštních "
+"notofikací (Alertů)."
 
 #: app/templates/mobilemanual/8.tpl:178
 msgid "Displaying after-call information with possibility to write own rating."
 msgstr ""
+"Zobrazení informací o uskutečněném hovoru s možností napsání vlastního "
+"hodnocení."
 
 #: app/templates/mobilemanual/8.tpl:179
 msgid "Flexible rating system."
-msgstr ""
+msgstr "Flexibilní systém hodnocení."
 
 #: app/templates/mobilemanual/8.tpl:180
 msgid "Fully customizable alerts."
-msgstr ""
+msgstr "Plně přizpůsobitelné alerty."
 
 #: app/templates/mobilemanual/8.tpl:181
 msgid "Optional automatic blocking of unwanted incoming/outgoing calls."
 msgstr ""
+"Volitelné automatické blokování nevyžádaných příchozích/odchozích hovorů."
 
 #: app/templates/mobilemanual/8.tpl:182
 msgid "Daily updated Community Database."
-msgstr ""
+msgstr "Denně aktualizovaná komunitní databáze."
 
 #: app/templates/mobilemanual/8.tpl:188
 msgid "How it works"
-msgstr ""
+msgstr "Podívejte se, jak to funguje"
 
 #: app/templates/mobilemanual/8.tpl:190
 msgid ""
 "When some number calls, application shows phone number rating via "
 "<strong>security rating notifications</strong> (Alerts)."
 msgstr ""
+"Když vám nějaké číslo zavolá, aplikace zobrazí hodnocení telefonního čísla "
+"pomocí <strong>notifikace bezpečnostního hodnocení</strong> (Alertu)."
 
 #: app/templates/mobilemanual/8.tpl:191
 msgid ""
 "Each rating is based on reviews in Community Database, your Phone Contacts "
 "and your own ratings."
 msgstr ""
+"Každé hodnocení je založeno na hodnocení v Komunitní databázi, vašich "
+"telefonní Kontaktech a vašem vlastním hodnocení."
 
 #: app/templates/mobilemanual/8.tpl:192
 msgid ""
 "All above is combined into single <strong>POSITIVE, NEUTRAL, NEGATIVE or "
 "UNKNOWN</strong> rating."
 msgstr ""
+"Všechny výše uvedené faktory se sloučí do výsledného hodnocení : "
+"<strong>POZITIVNÍ, NEUTRÁLNÍ, NEGATIVNÍ nebo NEZNÁMÉ</strong>."
 
 #: app/templates/mobilemanual/8.tpl:193
 msgid ""
 "How all the information sources will be combined is fully customizable in "
 "the <strong>RATINGS</strong> tab."
 msgstr ""
+"Jak se všechny zdroje informací zkombinují, je plně nastavitelné na záložce "
+"<strong>Hodnocení</strong>."
 
 #: app/templates/mobilemanual/8.tpl:194
 msgid ""
 "How and what alerts will be displayed can be configured in the "
 "<strong>ALERTS</strong> tab."
 msgstr ""
+"Jak a jaké výstrahy (Alerty) se budou zobrazovat lze nakonfigurovat na "
+"záložce <strong>VAROVÁNÍ</strong>."
 
 #: app/templates/mobilemanual/8.tpl:195
 msgid ""
 "How the incoming/outgoing calls will be maintained and blocked can be "
 "configured in the <strong>BLOCKING</strong> tab."
 msgstr ""
+"Jak budou spravovány a blokovány příchozí/odchozí hovory lze konfigurovat na "
+"záložce <strong>BLOKOVÁNÍ</strong>."
 
 #: app/templates/mobilemanual/8.tpl:207
 msgid ""
 "This section contains the summary of basic protection statistics and "
 "statuses of application components."
 msgstr ""
+"Tato sekce obsahuje souhrn statistiky základní ochrany a stavy komponent "
+"aplikace."
 
 #: app/templates/mobilemanual/8.tpl:209
 msgid "Components statuses provides a short list of major components."
-msgstr ""
+msgstr "Stavy komponent poskytují krátký seznam hlavních komponent."
 
 #: app/templates/mobilemanual/8.tpl:210
 msgid ""
@@ -2685,38 +2705,46 @@ msgid ""
 "situation a button for fixing the issue below the components list will be "
 "provided."
 msgstr ""
+"Komponenty s nějakou chybou jsou označeny červeným vykřičníkem. V takové "
+"situaci bude pod seznamem komponent k dispozici tlačítko pro vyřešení chyby."
 
 #: app/templates/mobilemanual/8.tpl:216
 msgid "The Logs screen provides you access to 3 types of logs:"
-msgstr ""
+msgstr "Obrazovka Protokolů poskytuje přístup ke 3 typům protokolů:"
 
 #: app/templates/mobilemanual/8.tpl:218
 msgid ""
 "Phone Logs - contains the Phone Call History, is read from phone system log."
 msgstr ""
+"Záznamy telefonu - obsahuje Historii telefonních hovorů, která je načtena ze "
+"systémového logu telefonu."
 
 #: app/templates/mobilemanual/8.tpl:219
 msgid "Checked Numbers - contains a list of the latest checked phone numbers."
 msgstr ""
+"Zkontrolovaná čísla - obsahuje seznam posledně zkontrolovaných telefonních "
+"čísel."
 
 #: app/templates/mobilemanual/8.tpl:220
 msgid "Blocked Numbers - contains a list of the latest blocked numbers."
-msgstr ""
+msgstr "Zablokovaná čísla - obsahuje seznam posledně zablokovaných čísel."
 
 #: app/templates/mobilemanual/8.tpl:223
 msgid ""
 "Icon on the left side indicates the Phone Number Rating with following "
 "meaning:"
 msgstr ""
+"Ikona na levé straně ukazuje Hodnocení telefonního čísla s následujícím "
+"významem:"
 
 #: app/templates/mobilemanual/8.tpl:236
 msgid "Next icon informs you about call type and taken action:"
-msgstr ""
+msgstr "Další ikona vás informuje o druhu volání a provedené akci:"
 
 #: app/templates/mobilemanual/8.tpl:251 app/templates/mobilemanual/8.tpl:293
 #: app/templates/mobilemanual/8.tpl:408
 msgid "Available Actions:"
-msgstr ""
+msgstr "Možné akce:"
 
 #: app/templates/mobilemanual/8.tpl:253
 msgid ""
@@ -2724,6 +2752,9 @@ msgid ""
 "Details screen with detailed information and further actions: Call, Block, "
 "Rate and download reviews for the number."
 msgstr ""
+"<strong>Kliknutí na telefonní číslo</strong> : tato akce otevře obrazovku "
+"Detail telefonního čísla s podrobnými informacemi a dalšími možnostmi: "
+"Volat, Blokovat, Hodnotit a stáhnout Recenze pro dané číslo."
 
 #: app/templates/mobilemanual/8.tpl:254
 msgid ""
@@ -2732,6 +2763,10 @@ msgid ""
 "Number, Copy number to clipboard, and Web Search which opens our web page "
 "with the respective number."
 msgstr ""
+"<strong>Dlouhé podržení telefonního čísla</strong> : podržíte-li chvíli prst "
+"na čísle, zobrazí se kontextové menu s akcemi: Zobrazit detaily, Volat "
+"číslo, Zkopírovat číslo do schránky a Hledat na webu- tato akce otevře naše "
+"webové stránky s příslušným číslem."
 
 #: app/templates/mobilemanual/8.tpl:255
 msgid ""
@@ -2739,24 +2774,30 @@ msgid ""
 "the system log your phone log is not touched, the action will affect only "
 "the application view of the log."
 msgstr ""
+"<strong>Kliknutí na tlačítko koše</strong> : vymaže vybraný protokol - v "
+"případě systémového protokolu zůstává váš systémový telefonní log nedotčen, "
+"akce ovlivní pouze způsob zobrazení protokolu v aplikaci."
 
 #: app/templates/mobilemanual/8.tpl:262 app/templates/mobilemanual/8.tpl:566
 msgid "Ratings"
-msgstr ""
+msgstr "Hodnocení"
 
 #: app/templates/mobilemanual/8.tpl:264
 msgid "In this section you can:"
-msgstr ""
+msgstr "V této sekci můžete:"
 
 #: app/templates/mobilemanual/8.tpl:266
 msgid ""
 "configure how to combine the ratings from Community Database, your Phone "
 "Contacts and your own ratings into one final Phone Number Rating."
 msgstr ""
+"nakonfigurovat způsob, jak kombinovat hodnocení z Komunitní databáze, vašich "
+"Telefonních kontaktů a vašich vlastních hodnocení do jednoho výsledného "
+"Hodnocení telefonního čísla."
 
 #: app/templates/mobilemanual/8.tpl:267
 msgid "create and manage your ratings."
-msgstr ""
+msgstr "vytvořit a spravovat vaše hodnocení."
 
 #: app/templates/mobilemanual/8.tpl:271
 msgid ""
@@ -2765,16 +2806,22 @@ msgid ""
 "always applied in the top-to-bottom order, e.g. the active rule closer to "
 "the bottom of the list will be used."
 msgstr ""
+"V zásadě je zde možné nastavit, jak bude aplikace posuzovat všechny hovory. "
+"Současně může být aktivních více pravidel. Kombinace pravidel je vždy "
+"použita v pořadí shora dolů, což znamená, že aktivní pravidlo blíže k dolní "
+"části seznamu pravidel bude použito."
 
 #: app/templates/mobilemanual/8.tpl:274
 msgid "There are 3 general rating rules:"
-msgstr ""
+msgstr "Existují 3 hlavní pravidla hodnocení:"
 
 #: app/templates/mobilemanual/8.tpl:276
 msgid ""
 "<strong>Use Community Database Rating</strong> : if this one is activated, "
 "it sets the initial number rating according to our Community Database."
 msgstr ""
+"<strong>Použít hodnocení z komunitní databáze</strong> : pokud je toto "
+"aktivováno, nastaví základní hodnocení čísla dle naší Komunitní databáze."
 
 #: app/templates/mobilemanual/8.tpl:277
 msgid ""
@@ -2783,6 +2830,10 @@ msgid ""
 "Contacts (if they do not have your other rating - in such case your rating "
 "rules)."
 msgstr ""
+"<strong>Vždy pozitivní pro Kontakty bez vašeho hodnocení</strong> : Pokud je "
+"toto aktivováno, nastaví pozitivní hodnocení pro všechna čísla uložená v "
+"Kontaktech vašeho mobilu (pokud po ně nemáte jiné vlastní hodnocení - v "
+"takovém případě vaše hodnocení zvítězí)."
 
 #: app/templates/mobilemanual/8.tpl:278
 msgid ""
@@ -2792,26 +2843,36 @@ msgid ""
 "database rating exists (if there is a yours and/or community database rating "
 "for some of those numbers, then the rating is used)."
 msgstr ""
+"<strong>Vždy pozitivní pro Kontakty bez vašeho a komunitního hodnocení</"
+"strong> : pokud je toto aktivováno, nastaví pozitivní hodnocení na taková "
+"čísla uložená v Kontaktech vašeho mobilu, pro která neexistuje žádné vaše "
+"hodnocení a/nebo hodnocení v komunitní databázi (pokud existuje vaše nebo "
+"komunitní hodnocení pro některé z těchto čísel, pak bude toto hodnocení "
+"použito)."
 
 #: app/templates/mobilemanual/8.tpl:283
 msgid "The last two rules are mutually exclusive, just one can be activated."
-msgstr ""
+msgstr "Poslední dvě pravidla se vzájemně vylučují, lze aktivovat pouze jedno."
 
 #: app/templates/mobilemanual/8.tpl:287
 msgid "At the bottom of this screen the list of Your Ratings follows."
-msgstr ""
+msgstr "V dolní části této obrazovky následuje seznam vašich Hodnocení ."
 
 #: app/templates/mobilemanual/8.tpl:288
 msgid ""
 "Remember that these ratings at the bottom of the screen will rule all the "
 "above rules."
 msgstr ""
+"Pamatujte, že hodnocení v dolní části obrazovky bude mít přednost nad "
+"pravidly, která jsou na seznamu výše."
 
 #: app/templates/mobilemanual/8.tpl:289
 msgid ""
 "Your rating can be defined for single or multiple phone numbers by using a "
 "mask."
 msgstr ""
+"Vaše hodnocení může být definováno pro jedno či více telefonních čísel "
+"pomocí masky."
 
 #: app/templates/mobilemanual/8.tpl:295
 msgid ""
@@ -2819,12 +2880,19 @@ msgid ""
 "the rating rules by phone number. Useful if you search for some specific "
 "number rule. Just tick on the line and fill any number or a part of it."
 msgstr ""
+"<strong>Filtr Hodnocení:</strong> (v horní části obrazovky) pomáhá filtrovat "
+"pravidla hodnocení podle telefonního čísla. Užitečné, pokud hledáte některé "
+"konkrétní pravidlo pro specifické číslo. Stačí klepnout na řádek a vyplnit "
+"libovolné číslonebo jeho část."
 
 #: app/templates/mobilemanual/8.tpl:296
 msgid ""
 "<strong>General Rating Rules Click</strong> : if you click on any of the 3 "
 "lines this action switches the rule on or off."
 msgstr ""
+"<strong>Klepnutí na Hlavní pravidla hodnocení:</strong> pokud kliknete na "
+"řádek některého ze 3 pravidel, tato akce přepne pravidlo na zapnuto nebo "
+"vypnuto."
 
 #: app/templates/mobilemanual/8.tpl:297
 msgid ""
@@ -2832,42 +2900,54 @@ msgid ""
 "open a screen for edition of the respective rating. There you can set the "
 "rating attributes, delete the rating, save it or cancel the changes."
 msgstr ""
+"<strong>Klepnutí na Vaše Hodnocení:</strong> kliknutím na některé z vašich "
+"hodnocení se otevře obrazovka pro editaci příslušného hodnocení. Zde můžete "
+"nastavit hodnotící atributy, odstranit hodnocení, uložit jej, nebo zrušit "
+"změny."
 
 #: app/templates/mobilemanual/8.tpl:298
 msgid ""
 "<strong>Plus Button Click</strong> : this action opens the screen for "
 "creation of new rating, see below the <strong>Phone Number Rating</strong>."
 msgstr ""
+"<strong>Klik na tlačítko Plus</strong>: tato akce otevře okno pro vytvoření "
+"nového hodnocení, viz níže <strong>Hodnocení telefonního čísla</strong>."
 
 #: app/templates/mobilemanual/8.tpl:304 app/templates/mobilemanual/8.tpl:567
 msgid "Alerts"
-msgstr ""
+msgstr "Upozornění"
 
 #: app/templates/mobilemanual/8.tpl:306
 msgid ""
 "Alert is security rating notification displayed during calling phase (can be "
 "done for both INCOMING or OUTGOING calls)."
 msgstr ""
+"Upozornění je notifikace bezpečnostního hodnocení zobrazená během fáze "
+"vyzvánění (lze zobrazovat jak pro PŘÍCHOZÍ, tak pro ODCHOZÍ hovory)."
 
 #: app/templates/mobilemanual/8.tpl:307
 msgid "In this screen you can configure the Alerts displaying."
-msgstr ""
+msgstr "Na této obrazovce můžete nastavit zobrazování Upozornění."
 
 #: app/templates/mobilemanual/8.tpl:308
 msgid "This setting here is done based on the phone number rating."
-msgstr ""
+msgstr "Nastavení zde je vztaženo k hodnocení telefonních čísel."
 
 #: app/templates/mobilemanual/8.tpl:309
 msgid ""
 "For each rating you can check if you want to display the alert also for "
 "numbers from your Contacts or exclude your phone Contacts."
 msgstr ""
+"U každého hodnocení můžete zaškrtnout, zda chcete zobrazit výstrahu také pro "
+"čísla z Kontaktů, nebo své telefonní kontakty vyloučit."
 
 #: app/templates/mobilemanual/8.tpl:312
 msgid ""
 "In the <strong>Advanced</strong> section at the bottom of the screen a "
 "system overlay can be enabled."
 msgstr ""
+"V sekci <strong>Pokročilé</strong> v dolní části obrazovky lze aktivovat "
+"použití překryvných oken."
 
 #: app/templates/mobilemanual/8.tpl:313
 msgid ""
@@ -2875,16 +2955,21 @@ msgid ""
 "disable the usage of system overlays - this will cause the displaying of "
 "alert in another fashion which can work better on your device."
 msgstr ""
+"Pokud máte problémy se zobrazování upozornění, můžete zkusit zakázat "
+"používání překryvných oken - to způsobí zobrazení upozornění v jiném módu, "
+"který na vašem zařízení může pracovat lépe."
 
 #: app/templates/mobilemanual/8.tpl:318 app/templates/mobilemanual/8.tpl:568
 msgid "Blocking"
-msgstr ""
+msgstr "Blokování"
 
 #: app/templates/mobilemanual/8.tpl:320
 msgid ""
 "In this section you can configure which incoming/outgoing calls should be "
 "blocked."
 msgstr ""
+"V této sekci můžete nastavit, které příchozí / odchozí hovory by měly být "
+"blokovány."
 
 #: app/templates/mobilemanual/8.tpl:321
 msgid ""
@@ -2892,6 +2977,9 @@ msgid ""
 "the number, now we will use it for the blocking functionality of the "
 "application."
 msgstr ""
+"Nezapomeňte, že v obrazovce  <strong>Hodnocení</strong> jste nastavili, jak "
+"hodnotit čísla - teď toto nastavení využijeme pro blokovací funkčnost "
+"aplikace."
 
 #: app/templates/mobilemanual/8.tpl:323
 msgid ""
@@ -2899,6 +2987,9 @@ msgid ""
 "all numbers. Each selection can be provided except numbers stored in your "
 "Contacts."
 msgstr ""
+"Pro příchozí hovory lze blokovat negativně hodnocená čísla, skrytá čísla a "
+"nebo všechna čísla. Každý výběr může upraven tak, aby ignoroval čísla "
+"uložená ve vašich Kontaktech."
 
 #: app/templates/mobilemanual/8.tpl:324
 msgid ""
@@ -2906,6 +2997,9 @@ msgid ""
 "foreign numbers and all numbers. Again each selection can be provided except "
 "numbers stored in your Contacts."
 msgstr ""
+"Pro odchozí hovory lze blokovat negativně hodnocená, prémiová čísla, "
+"zahraniční čísla a nebo všechna čísla. Opět každý výběr může být upraven "
+"tak, aby ignoroval čísla uložená ve vašich Kontaktech."
 
 #: app/templates/mobilemanual/8.tpl:325
 msgid ""
@@ -2913,6 +3007,10 @@ msgid ""
 "numbers. For this functionality, a compatible SMS manager must be installed, "
 "please read the help screen displayed if you check this item."
 msgstr ""
+"Co se týče příchozích SMS a MMS, můžete blokovat SMS a MMS z negativně "
+"hodnocených čísel. Pro tuto funkci musí být nainstalován kompatibilní SMS "
+"manažer, přečtěte si prosím nápovědnou obrazovku, která se zobrazí pokud "
+"zaškrtnete tuto položku."
 
 #: app/templates/mobilemanual/8.tpl:326
 msgid ""
@@ -2921,6 +3019,11 @@ msgid ""
 "Alerts give you the information about call in progress, where Notification "
 "only displays info about the action taken by the application."
 msgstr ""
+"Můžete si také vybrat, zda chcete být upozorněni, když dojde k nějakému "
+"zablokování. Upozornění na zablokované volání je jiná funkčnost než "
+"zobrazování Upozornění - Upozornění vám poskytnou informace o probíhajícím "
+"hovoru, kdežto toto oznámení zobrazí pouze informace o opatřeních přijatých "
+"aplikací."
 
 #: app/templates/mobilemanual/8.tpl:327
 msgid ""
@@ -2931,26 +3034,36 @@ msgid ""
 "use this feature only if you are sure you will not be charged for picking up "
 "the incoming calls."
 msgstr ""
+"Volitelně můžete zkusit použít <strong>Metodu Zvednutí & Položení</strong> "
+"pro chranu své hlasové schránky. Při výběru této funkce bude aplikace "
+"blokovat příchozí hovor tak, že jej přijme a zavěsit ve stejném okamžiku. "
+"Aplikace ovšem nepřijme hovor, pokud je telefon v režimu roamingu. Použijte "
+"tuto funkci pouze pokud jste si jisti, že vám nehroyí poplatky za přijmutí "
+"příchozího hovoru."
 
 #: app/templates/mobilemanual/8.tpl:336
 msgid "This section contains main application settings."
-msgstr ""
+msgstr "Tato část obsahuje obecné nastavení aplikace."
 
 #: app/templates/mobilemanual/8.tpl:342
 msgid ""
 "Here you can enable/disable displaying of phone number details after "
 "finishing the call."
 msgstr ""
+"Zde můžete povolit / zakázat zobrazování detailů telefonního čísla po "
+"ukončení hovoru."
 
 #: app/templates/mobilemanual/8.tpl:348
 msgid ""
 "Privacy is important for us, so we don't sends stats about numbers stored in "
 "your Phone Contacts!"
 msgstr ""
+"Ochrana soukromí je pro nás důležitá, tudíž neodesíláme statistické údaje o "
+"číslech uložených v Kontaktech vašeho telefonu!"
 
 #: app/templates/mobilemanual/8.tpl:359
 msgid "Service as Foreground Process"
-msgstr ""
+msgstr "Služba jako proces na popředí"
 
 #: app/templates/mobilemanual/8.tpl:361
 msgid ""
@@ -2959,16 +3072,22 @@ msgid ""
 "will permanently see the app icon in status bar and notification about "
 "enabled protection."
 msgstr ""
+"Povolením této funkce urychlíte blokování nežádoucích hovorů - aplikace "
+"stále poběží v aktivní paměti. Jako vedlejší efekt ale permanentně uvidíte "
+"ikonu aplikace ve stavovém řádku a bude se vám zobrazovat oznámení o "
+"aktivované ochraně."
 
 #: app/templates/mobilemanual/8.tpl:362
 msgid ""
 "As a benefit on most devices the speed of blocking should be much faster "
 "than phone ringing phase."
 msgstr ""
+"Na druhé straně by mělo být blokování na většině zařízení rychlejší než "
+"vyzváněcí fáze telefonu."
 
 #: app/templates/mobilemanual/8.tpl:365
 msgid "Statistics Notification"
-msgstr ""
+msgstr "Notifikace statistiky"
 
 #: app/templates/mobilemanual/8.tpl:367
 msgid ""
@@ -2976,38 +3095,50 @@ msgid ""
 "will show system statistics as a notification after 2 weeks with a list of "
 "performed actions."
 msgstr ""
+"Je-li zvolena \"Notifikace statistik (jednou za 2 týdny)\", zobrazí aplikace "
+"systémové statistiky jako oznámení po 2 týdnech, se seznamem provedených "
+"akcí."
 
 #: app/templates/mobilemanual/8.tpl:368
 msgid ""
 "This way user can easily check the overall application functionality and "
 "efficiency."
 msgstr ""
+"Tímto způsob může uživatel snadno ověřit celkovou funkčnost aplikace a její "
+"efektivitu."
 
 #: app/templates/mobilemanual/8.tpl:371
 msgid "Use Light Theme"
-msgstr ""
+msgstr "Použití Světlé Téma"
 
 #: app/templates/mobilemanual/8.tpl:373
 msgid ""
 "There are two layout themes - light and dark. This item serves as a switch "
 "for them."
 msgstr ""
+"Máme dva motivy témat - světlé a tmavé. Tato položka slouží jako přepínač "
+"pro obě."
 
 #: app/templates/mobilemanual/8.tpl:374
 msgid ""
 "Check it on your device which theme suits you better and which is more "
 "readable (e.g. on a direct sun)."
 msgstr ""
+"Ověřte si na vašem zařízení, které téma vám vyhovuje lépe a které je "
+"čitelnější (například na přímém slunci)."
 
 #: app/templates/mobilemanual/8.tpl:402
 msgid "This screen shows detailed information for selected phone number."
 msgstr ""
+"Tato obrazovka zobrazuje podrobné informace o zvoleném telefonním čísle."
 
 #: app/templates/mobilemanual/8.tpl:404
 msgid ""
 "You can also see how much positive/neutral/negative rating number received "
 "from community."
 msgstr ""
+"Můžete také vidět, kolik čísel hodnocených komunitou pozitivně / neutrálně / "
+"negativně bylo přijato."
 
 #: app/templates/mobilemanual/8.tpl:410
 msgid ""
@@ -3016,12 +3147,17 @@ msgid ""
 "of negative rated numbers in the application <strong>Blocking</strong> "
 "screen."
 msgstr ""
+"<strong>Blokovat</strong> vám pomůže vytvořit negativní hodnocení pro toto "
+"číslo jako blokační pravidlo. Pro aktivaci blokování musíte zapnou blokování "
+"negativně hodnocených čísel na obrazovce <strong>Blokování</strong>."
 
 #: app/templates/mobilemanual/8.tpl:411
 msgid ""
 "<strong>Rate</strong> shows the form for filling your new phone number "
 "rating - see below."
 msgstr ""
+"<strong>Hodnotit</strong> zobrazí formulář pro vyplnění nového hodnocení "
+"telefonního čísla - viz níže."
 
 #: app/templates/mobilemanual/8.tpl:412
 msgid ""
@@ -3030,47 +3166,61 @@ msgid ""
 "is presented, it is displayed automatically (all of them are stored in your "
 "phone) and EDIT button is presented for further edit of the your review."
 msgstr ""
+"<strong>Recenze</strong> stáhne a zobrazí komunitní recenze k tomuto číslu. "
+"Tato funkce vyžaduje přístup k internetu. Je-li také vyplněno vaše vlastní "
+"(osobní) hodnocení, bude automaticky zobrazeno (všechna jsou uložena ve "
+"vašem telefonu) zároveň s tlačítkem Editovat pro další úpravy tohoto vašeho "
+"hodnocení."
 
 #: app/templates/mobilemanual/8.tpl:413
 msgid "<strong>Call Button Click</strong> initiates calling to the number."
 msgstr ""
+"<strong>Klepnutí na tlačítko hovoru</strong> zahájí volání na dané číslo."
 
 #: app/templates/mobilemanual/8.tpl:419 app/templates/mobilemanual/8.tpl:572
 msgid "Phone Number Rating"
-msgstr ""
+msgstr "Hodnocení Telefonního čísla"
 
 #: app/templates/mobilemanual/8.tpl:421
 msgid "Single or Group of numbers"
-msgstr ""
+msgstr "Samostatné číslo nebo skupina čísel"
 
 #: app/templates/mobilemanual/8.tpl:422
 msgid ""
 "Phone Number Rating can be defined for single number or for group of numbers."
 msgstr ""
+"Hodnocení Telefonního čísla lze definovat pro samostatné číslo, nebo skupinu "
+"čísel."
 
 #: app/templates/mobilemanual/8.tpl:423
 msgid "Group can be defined using * char at the end of the number."
-msgstr ""
+msgstr "Skupina může být definována pomocí znaku * na konci čísla."
 
 #: app/templates/mobilemanual/8.tpl:424
 msgid "For example 800* will define rating for all numbers starting with 800."
 msgstr ""
+"Například 800 * definuje hodnocení pro všechna telefonní čísla začínající na "
+"800."
 
 #: app/templates/mobilemanual/8.tpl:425
 msgid ""
 "The <strong>PICK CONTACT</strong> enables you to pick a number from the list "
 "of Contacts and create a rule for it."
 msgstr ""
+"<strong>VYBRAT  KONTAKT</strong> umožňuje vybrat číslo ze seznamu Kontaktů a "
+"vytvořit pro ně pravidlo."
 
 #: app/templates/mobilemanual/8.tpl:429
 msgid "Public or Private"
-msgstr ""
+msgstr "Veřejné nebo Soukromé"
 
 #: app/templates/mobilemanual/8.tpl:430
 msgid ""
 "By default the rating is submitted to our community database for benefit of "
 "other users."
 msgstr ""
+"Ve výchozím nastavení je hodnocení vždy odesíláno do naší komunitní "
+"databáze, z čehož mohou těžit i další uživatelé."
 
 #: app/templates/mobilemanual/8.tpl:431
 msgid ""
@@ -3078,50 +3228,66 @@ msgid ""
 "select this to avoid of sending it to our database - in such case the rating "
 "will be stored in your mobile only."
 msgstr ""
+"Pokud nechcete, aby se hodnocení příslušného čísla stalo veřejným, "
+"zaškrtněte tuto položku a tím zabráníte zasílání tohoto hodnocení do naší "
+"databáze - v takovém případě bude hodnocení uloženo pouze ve vašem mobilu."
 
 #: app/templates/mobilemanual/8.tpl:437 app/templates/mobilemanual/8.tpl:573
 msgid "Rating Alert"
-msgstr ""
+msgstr "Upozornění na hodnocení"
 
 #: app/templates/mobilemanual/8.tpl:439
 msgid ""
 "In the Alert displayed for the phone call you can find all required "
 "information for making the decision to accept the call or hang up."
 msgstr ""
+"V Upozornění zobrazeném pro příslušný telefonát najdete všechny potřebné "
+"informace pro rozhodnutí, zda hovor přijmout nebo zavěsit."
 
 #: app/templates/mobilemanual/8.tpl:441
 msgid ""
 "<strong>Contact</strong> shows name of the contact associated with phone "
 "number (if available)."
 msgstr ""
+"<strong>Kontakt</strong> zobrazuje jméno kontaktu, přiřazené k telefonnímu "
+"číslu (je-li k dispozici)."
 
 #: app/templates/mobilemanual/8.tpl:442
 msgid "<strong>Number</strong> shows phone number the alert is displayed for."
 msgstr ""
+"<strong>Číslo</strong> zobrazuje telefonní číslo, pro které se zobrazuje "
+"upozornění."
 
 #: app/templates/mobilemanual/8.tpl:443
 msgid ""
 "<strong>Rating</strong> shows one of positive, neutral, negative or unknown "
 "rating."
 msgstr ""
+"<strong>Hodnocení</strong> ukazuje buď pozitivní, neutrální, negativní nebo "
+"neznámé hodnocení."
 
 #: app/templates/mobilemanual/8.tpl:444
 msgid ""
 "<strong>Category</strong> shows the most used Category for the respective "
 "phone number"
 msgstr ""
+"<strong>Kategorie</strong> ukazuje nejpoužívanější kategorii pro dané "
+"telefonní číslo"
 
 #: app/templates/mobilemanual/8.tpl:445
 msgid ""
 "<strong>Community</strong> shows the total statistic counts of positive,"
 "neutral and negative ratings from the community"
 msgstr ""
+"<strong>Komunita</strong> ukazuje celkové statistické počty pozitivních, "
+"neutrálních a negativních hodnocení z komunitní databáze"
 
 #: app/templates/mobilemanual/8.tpl:453
 msgid ""
 "In this section you can access additional information and export/import "
 "function"
 msgstr ""
+"V této sekci můžete nalézt další informacím a exportní / importní funkce"
 
 #: app/templates/mobilemanual/8.tpl:455
 msgid ""
@@ -3131,10 +3297,17 @@ msgid ""
 "prepared automatically with pre-filled information about your app "
 "configuration."
 msgstr ""
+"Potřebujete-li nás kontaktovat, použijte uvedenou e-mailovou adresu. "
+"Kliknutím na <strong>e-mailovou adresu</strong> otevřete obrazovku, kde lze "
+"zvolit některýho z e-mailových klientů. Po této akci bude automaticky "
+"připraven e-mail k odeslání na naši podporu, s předvyplněnými informacemi o "
+"konfiguraci vaší aplikace."
 
 #: app/templates/mobilemanual/8.tpl:456
 msgid "strong>Online Manual</strong> opens the internet page with this manual."
 msgstr ""
+"<strong>Manuál k aplikaci</strong> otevře internetovou stránku s tímto "
+"návodem."
 
 #: app/templates/mobilemanual/8.tpl:457
 msgid ""
@@ -3143,18 +3316,26 @@ msgid ""
 "problem reporting to our technical staff is prepared there - please use it "
 "to report any application problem."
 msgstr ""
+"<strong>Kontrola kompatibility</strong> kontroluje konfiguraci a hledá známé "
+"problémy. Následně se otevře internetová stránka s výsledkem kontroly. Také "
+"je na ní připraven formulář pro hlášení problému našemu technickému "
+"personálu - prosím použijte jej pro nahlášení možného problému s aplikace."
 
 #: app/templates/mobilemanual/8.tpl:458
 msgid ""
 "strong>Terms of Use</strong> opens the internet page with terms of use of "
 "this product."
 msgstr ""
+"<strong>Podmínky používání</strong> otevřou internetovou stránku s "
+"podmínkami používání tohoto výrobku."
 
 #: app/templates/mobilemanual/8.tpl:459
 msgid ""
 "<strong>Privacy Policy</strong> opens the internet page with privacy policy "
 "for out product."
 msgstr ""
+"<strong>Ochrana soukromí</strong> otevře internetovou stránku s ochranou "
+"osobních údajů týkající se tohoto produkt."
 
 #: app/templates/mobilemanual/8.tpl:460
 msgid ""
@@ -3163,24 +3344,29 @@ msgid ""
 "another device in a form of backup and restore. A simple wizard for this "
 "functionality is provided."
 msgstr ""
+"<strong>Export / Import</strong> zobrazí obrazovku pro export a import dat : "
+"všechna nastavení aplikace lze uložit a použít později / na jiném zařízení v "
+"podobě zálohy a obnovení. Zobrazí se jednoduchý průvodce touto funkcí."
 
 #: app/templates/mobilemanual/8.tpl:469
 msgid "Q: How to block phone number?"
-msgstr ""
+msgstr "Otázka: Jak blokovat telefonní číslo?"
 
 #: app/templates/mobilemanual/8.tpl:471
 msgid ""
 "Create negative rating for the phone number and enable blocking of negative "
 "rated numbers."
 msgstr ""
+"Vytvořte negativní hodnocení pro telefonní číslo a zapněte blokování "
+"negativně hodnocených čísel."
 
 #: app/templates/mobilemanual/8.tpl:474
 msgid "Q: Why blocking does not work for me?"
-msgstr ""
+msgstr "Otázka: Proč u mě blokování nefunguje?"
 
 #: app/templates/mobilemanual/8.tpl:476
 msgid "Unfortunately there are some phone models where blocking does not work."
-msgstr ""
+msgstr "Bohužel existují některé modely telefonů, kde blokování nefunguje."
 
 #: app/templates/mobilemanual/8.tpl:477
 msgid ""
@@ -3188,10 +3374,13 @@ msgid ""
 "system and used workarounds can be sometimes broken by phone manufacturer "
 "when they use their own system enhancements."
 msgstr ""
+"Blokování telefonního hovoru není standardní, systémem Android podporovaná "
+"funkce a použité řešení může někdy být znemožněno výrobcem telefonu, pokud "
+"používají své vlastní vylepšení nebo nadstavbu systému."
 
 #: app/templates/mobilemanual/8.tpl:561
 msgid "How It Works"
-msgstr ""
+msgstr "Jak to funguje"
 
 #: app/templates/phonenumber/accessLimited.tpl:16
 #: app/templates/phonenumber/accessLimited.tpl:22

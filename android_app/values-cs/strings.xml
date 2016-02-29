@@ -178,7 +178,7 @@
     <string name="SMS_restriction_info">Z důvodu systémových omezení musíte používat kompatibilní SMS manažer. QKSMS od QK Labs je bezplatná alternativa s podporou filtrování SMS pomocí naší aplikace. Pro aktivaci této funkce je potřeba ji nainstalovat.</string>
     <string name="Required_compatible_SMS_manager">Vyžadován kompatibilní manažer SMS</string>
     <string name="Blocking">Blokování</string>
-    <string name="Alerts">Varování</string>
+    <string name="Alerts">Upozornění</string>
     <string name="Terms_and_Privacy">Pravidla používání a ochrana dat</string>
     <string name="Should_I_Answer">Můžu to zvednout?</string>
     <string name="Ratings">Hodnocení</string>

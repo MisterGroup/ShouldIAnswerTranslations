@@ -1,0 +1,863 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shouldianswer\n"
+"POT-Creation-Date: 2014-08-22 12:13+0100\n"
+"PO-Revision-Date: 2016-02-21 21:08+0100\n"
+"Last-Translator: \n"
+"Language-Team: topolar@gmail.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: c:/work/web/shouldianswer.com\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: d:/work/web/shouldianswer.com/app\n"
+
+#: c:\work\web\shouldianswer.com\app/500.php:9
+msgid "Internal server error"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/500.php:10
+msgid "Oooops something is wrong"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/500.php:11
+msgid "We are sorry but requested page have problems."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/500.php:12
+msgid ""
+"Our staff were informed about this accident and will fix it as soon as "
+"possible."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/500.php:13
+msgid "Please come back to this page later. Thank you."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:115
+msgid ""
+"Your rating is submited and waiting for publication to other visitors. Thank "
+"you!"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:139
+msgid "This phone number is marked as "
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:160
+msgid "What is Your experience with this number?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:161
+msgid "Do You have any experience with this phone number?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:162
+msgid "What is Your experience with this phone number?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:163
+msgid "Do You have any bad experience with this number?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:164
+msgid "Have You seen this number before?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:165
+msgid "Have You ever spot this number?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:166
+msgid "Does this number remind You something?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:167
+msgid "Do You have any bad experience with this phone number?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:168
+msgid "Have You ever seen this number?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:169
+msgid "Does this number look familiar to You?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:172
+msgid "Do You have any experience with this?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:173
+msgid "Have this number called You before?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:174
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:180
+msgid "Have this number annoyed You before?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:175
+msgid "Did someone offer You unwanted services from this number?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:176
+msgid "Did someone offer You products You haven't ordered from this number?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:177
+msgid "You have become a victim of harassment?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:178
+msgid "Did someone offer You some insurance?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:179
+msgid "Have You been facing the unwanted services?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:181
+msgid "Did someone offer You apparently beneficial contracts?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:185
+msgid "Or is this rally some good service?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:186
+msgid "Or is this Your friend's phone number?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:187
+msgid "Or is this a phone number serving for Your company?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:188
+msgid "Or is this a phone number of a reliable financial advisor?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:189
+msgid "Or is this a safe phone number?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:190
+msgid "Or is this a purely private phone number?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:191
+msgid "Or is this someone You know?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:192
+msgid "Or is this phone number useful?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:193
+msgid "Or does this number belong to some of Your friends?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:194
+msgid "Or is this Your own phone number?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:198
+msgid "Share Your experience."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:199
+msgid "Do not keep the information just for yourself."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:200
+msgid "Share Your experience with the others."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:201
+msgid "Pass Your experience to the other users."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:202
+msgid "Is there something You would like to tell the others?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:203
+msgid "Is there some info You can share?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:204
+msgid "Do You know more?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:205
+msgid "Do You know more? Share it with the others."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:206
+msgid "Do You know more? Pass Your experience to the other users."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:207
+msgid "Do You know more? Share Your experience with the others."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:211
+msgid "Write to us, "
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:212
+msgid "Fill the form, "
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:213
+msgid "Fill the form and "
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:214
+msgid "Write to us (it is not necessary to state Your real name) and "
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:215
+msgid "Leave a message using our form and "
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:216
+msgid "Share Your experience and "
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:217
+msgid "Leave a message and "
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:218
+msgid "Describe Your experience using our form and "
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:219
+msgid "Give us Your opinion and "
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:220
+msgid "Rate this phone number using the form and "
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:224
+msgid "this will help the other users."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:225
+msgid "this will help the other users to have a more clear information."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:226
+msgid "other users can use this information."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:227
+msgid "the information can be used by the other users."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:228
+msgid "the other users will appreciate it."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:229
+msgid "the other users will use it for their benefit."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:230
+msgid "the information can be useful for other users."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:231
+msgid "You will help also the other users."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:232
+msgid "thanks to You the others will be better informed."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:233
+msgid "the other users can benefit from this information."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:237
+msgid "Thank You for Your review."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:238
+msgid "Thank You for Your reaction."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:239
+msgid "We would appreciate Your reaction."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:240
+msgid "We would appreciate Your review."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:241
+msgid "We would appreciate if You share Your experience."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:242
+msgid "Thank You in advance for Your review."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:243
+msgid "Thank You for Your comment."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:244
+msgid "Thank You in advance for Your comment."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:245
+msgid "We would appreciate if You share Your statement."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:246
+msgid "Thank You for Your post."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:254
+msgid "Phone number should be fixed line."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:255
+msgid "Phone number should be mobile line."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:256
+msgid "Phone number should be fixed or mobile line."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:257
+msgid "Phone number should be toll free."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:258
+msgid "Phone number should be for premium rate. Be carefull."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:259
+msgid ""
+"Phone number should be for shared rate. It should be cheaper than standard "
+"call."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:260
+msgid "Phone number should be voice over ip."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:261
+msgid "Phone number should be personal line."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:262
+msgid "Phone number should be pager."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:263
+msgid "Phone number should belong some  company."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/presenters/p_phonenumber.php:264
+msgid "Phone number should be for emergency call."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_phones.php:152
+msgid "Phone number has positive rating"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_phones.php:153
+msgid "Phone number has negative rating"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_phones.php:154
+msgid "Phone number has neutral rating"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_phones.php:155
+msgid "Phone number has no rating yet"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:17
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:29
+msgid "Telemarketer"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:18
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:34
+msgid "Call centre"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:19
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:35
+msgid "Financial services"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:20
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:31
+msgid "Silent call"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:21
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:32
+msgid "Nuisance call"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:22
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:33
+msgid "Unsolicited call"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:23
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:39
+msgid "Scam call"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:24
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:40
+msgid "Prank call"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:25
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:42
+msgid "Survey"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:26
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:43
+msgid "Other"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:30
+msgid "Debt collector"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:36
+msgid "Fax machine"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:37
+msgid "Non-profit Organization"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:38
+msgid "Political call"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/repositories/r_reviews.php:41
+msgid "SMS"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:65
+msgid "Add to Home"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:87
+#, php-format
+msgid "You are logged as moderator. You can visit %sAdministration%s."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:99
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:16
+msgid "About"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:100
+msgid "Terms "
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:101
+#: c:\work\web\shouldianswer.com\app/templates/contact/default.tpl:16
+#: c:\work\web\shouldianswer.com\app/templates/contact/default.tpl:21
+msgid "Contact"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:106
+msgid "Should I <strong>answer?</strong>"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:111
+msgid "search for phone number"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:116
+msgid "search"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:159
+msgid "about"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:160
+msgid "terms"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:161
+msgid "contact"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:162
+msgid "history"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:173
+msgid "Phone Information for United Kingdom"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:174
+msgid "Phone Information for USA"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:175
+msgid "Phone Information for India"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:176
+msgid "Phone Information for Czech Republic"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:177
+msgid "Phone Information for Slovakia"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:178
+msgid "Phone Information for Germany"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:179
+msgid "Phone Information for Poland"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:180
+msgid "Phone Information for Russia"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:210
+#, php-format
+msgid "For phone numbers in your location (%s) use "
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout.tpl:211
+msgid "Close"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout_default.tpl:22
+msgid ""
+"Is someone calling You from an unknown number and You are not sure if "
+"picking it up is a good idea? Search for the number and find out who can be "
+"the caller."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout_default.tpl:27
+msgid "shouldianswer.com Logo"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout_default.tpl:105
+msgid "<strong>Latest visited</strong> phone numbers"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout_default.tpl:133
+msgid "Dialing Codes"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout_detail.tpl:86
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:38
+msgid "<strong>Popular</strong> phone numbers"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/layout_detail.tpl:111
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:93
+msgid " <strong>Latest rated</strong> phone numbers"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/404/default.tpl:17
+msgid "Page not found"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/404/default.tpl:18
+msgid "Requested page is not found on server. Please use navigation."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/404/default.tpl:25
+msgid "Page Not Found"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/404/default.tpl:26
+msgid ""
+"We are sorry but page you are searching is not found! Please use site "
+"navigation to find your content."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/503/default.tpl:23
+#: c:\work\web\shouldianswer.com\app/templates/503/default.tpl:33
+msgid "Service Temporarily Unavailable"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/503/default.tpl:29
+msgid "503 Service Temporarily Unavailable"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/503/default.tpl:34
+msgid ""
+"The server is temporarily unable to service your request due to maintenance "
+"downtime or capacity problems. Please try again later."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:17
+msgid "Service description and basic information how to use it."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:21
+msgid "About the service"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:22
+msgid ""
+"Should I answer the call? This question can c+ome into a mind of every "
+"person who sees an unknown calling number. Each of us had (or will have) the "
+"opportunity to face the s unsolicited call, telemarketing campaign, "
+"advertisement or another kind of fraud call."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:23
+msgid ""
+"How should we find out that the calling number is harmless and to answer it "
+"will not cost us tens of minutes of precious time or significant amount of "
+"money? The purpose and meaning of this service is to give everybody who has "
+"met such call a chance to warn the others and report a number which acts as "
+"annoying or even harmful in some way. This community web offers everybody a "
+"chance to insert own statement for the respective phone number and also "
+"offers everybody to search any number and read the reviews of the other "
+"users for some number to find what category the number is out of :"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:25
+msgid "Neutral number"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:25
+msgid "not decided yet if the number is harmful/scam or legitimate"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:26
+msgid "Scam number"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:26
+msgid "answering this call will cost a precious time or money"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:27
+msgid "Useful number"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:27
+msgid "there is no danger in answering this call"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:30
+msgid ""
+"If the user has such information always accessible and in a readable way we "
+"would be able to limit or even stop the incorrect behavior from the side of "
+"unwanted marketing campaigns or companies trying to make a profit from "
+"unfair situations where the “customer” (in this case we) can not protect "
+"ourselves adequately."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/about/default.tpl:32
+msgid ""
+"Let’s fight together against the telephonic kind of harassment, let’s share "
+"our knowledge and situations and most important, the ways how to protect."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/adminlogin/default.tpl:16
+msgid "Login page"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/adminlogin/default.tpl:48
+msgid "Administration Login"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/contact/default.tpl:17
+msgid "Contact information"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/contact/default.tpl:22
+msgid "Thank You for using this Service."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/contact/default.tpl:23
+msgid ""
+"If You need to contact us please send us email to "
+"<strong>contact@shouldianswer.com</strong>. Your question will be processed "
+"in the shortest time possible."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:17
+msgid "Main Page"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:18
+msgid ""
+"See what phone numbers are most searched and find ratings and users reviews."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:115
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:118
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:121
+msgid "Latest rating was"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:115
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:70
+msgid "positive"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:118
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:69
+msgid "negative"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/default/default.tpl:121
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:68
+msgid "neutral"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/history/default.tpl:19
+#: c:\work\web\shouldianswer.com\app/templates/history/default.tpl:24
+msgid "Latest Searched Numbers"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/history/default.tpl:40
+msgid "Next Page"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/historyinfo/default.tpl:16
+msgid "Contacts Check"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:22
+#, php-format
+msgid "Who called you from %s ?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:23
+#, php-format
+msgid ""
+"We have information about phone number %s. Visit us to find who called you "
+"and read users reviews."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:58
+msgid "Who called you from "
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:90
+msgid "You rating can help the others to be informed about this number."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:93
+msgid "Small Logo"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:121
+msgid "Add Your <strong>rating</strong>"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:125
+msgid "want rate"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:133
+msgid "<strong>positive</strong> rating"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:136
+msgid "<strong>neutral</strong> rating"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:139
+msgid "<strong>negative</strong> rating"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:152
+msgid "Select Category"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:162
+msgid "name or nickname"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:163
+msgid "email (optional)"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:165
+msgid "title (optional)"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:167
+msgid "write your comment (required)"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:169
+msgid "send rating"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:221
+msgid "Phone number <strong>ratings</strong>"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:238
+#, php-format
+msgid "This phone number has %s reviews with average rating \"%s\"."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:264
+msgid "positive rating"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:268
+msgid "negative rating"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:272
+msgid "neutral rating"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:300
+msgid ""
+"If you have any useful information about this number then please add your "
+"rating and help others find who called."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:321
+#, php-format
+msgid "Possible <strong>formats</strong> of the  %s"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/default.tpl:340
+msgid "<strong>Searching</strong> for similar phone numbers?"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/invalid.tpl:16
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/invalid.tpl:22
+msgid "Invalid phone number"
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/phonenumber/invalid.tpl:23
+msgid "Please try to search your number in international format."
+msgstr ""
+
+#: c:\work\web\shouldianswer.com\app/templates/terms/default.tpl:17
+msgid "Terms of Use"
+msgstr ""
