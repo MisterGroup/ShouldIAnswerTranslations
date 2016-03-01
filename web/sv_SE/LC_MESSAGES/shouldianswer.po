@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: shouldianswer\n"
-"POT-Creation-Date: 2016-02-26 08:44+0100\n"
-"PO-Revision-Date: 2016-02-26 08:45+0100\n"
+"POT-Creation-Date: 2016-02-21 21:08+0100\n"
+"PO-Revision-Date: 2016-03-01 21:17+0100\n"
 "Last-Translator: Fredrik Eriksson <Bazeon@hotmail.com>\n"
 "Language-Team: topolar@gmail.com\n"
 "Language: sv\n"
@@ -25,11 +25,11 @@ msgstr "Internt serverfel"
 
 #: app/500.php:10
 msgid "Oooops something is wrong"
-msgstr "Woops någonting är fel"
+msgstr "Ooops någonting är fel"
 
 #: app/500.php:11
 msgid "We are sorry but requested page have problems."
-msgstr "Vi ber om ursäkt men sidan du har begärt har problem."
+msgstr "Vi ber om ursäkt men någt är fel med sidan du efterfrågat."
 
 #: app/500.php:12
 msgid ""
@@ -46,7 +46,7 @@ msgstr "Var vänlig och kom tillbaka till den här sidan senare. Tack.  "
 #: app/presenters/p_phonenumber.php:235
 msgid "Outdated or invalid form submitted! Please send it again."
 msgstr ""
-"Ouppdaterat eller ogiltigt formulär skickad! Var vänlig att skicka igen."
+"Ouppdaterat eller ogiltigt formulär skickat! Var vänlig att skicka igen."
 
 #: app/presenters/p_phonenumber.php:292
 msgid "Submit failed. Please do not use Tags!"
@@ -110,7 +110,7 @@ msgstr "Ser det här numret bekant ut för dig? "
 
 #: app/presenters/p_phonenumber.php:342
 msgid "Do You have any experience with this?"
-msgstr "Har du någon erfarenhet med det här?"
+msgstr "Har du någon erfarenhet av det här?"
 
 #: app/presenters/p_phonenumber.php:343
 msgid "Have this number called You before?"
@@ -131,7 +131,7 @@ msgstr ""
 
 #: app/presenters/p_phonenumber.php:347
 msgid "You have become a victim of harassment?"
-msgstr "Har du blivit ett offer av trakasseri?"
+msgstr "Har du blivit ett offer för trakasseri?"
 
 #: app/presenters/p_phonenumber.php:348
 msgid "Did someone offer You some insurance?"
@@ -139,7 +139,7 @@ msgstr "Erbjöd någon dig en försäkring? "
 
 #: app/presenters/p_phonenumber.php:349
 msgid "Have You been facing the unwanted services?"
-msgstr "Har du mött de oönskade tjänsterna?"
+msgstr "Har du blivit utsatt för de oönskade tjänsterna?"
 
 #: app/presenters/p_phonenumber.php:351
 msgid "Did someone offer You apparently beneficial contracts?"
@@ -180,7 +180,7 @@ msgstr "Eller är det här telefonnumret användbart?"
 
 #: app/presenters/p_phonenumber.php:363
 msgid "Or does this number belong to some of Your friends?"
-msgstr "Eller tillhör det här numret några av dina vänner?"
+msgstr "Eller tillhör det här numret någon av dina vänner?"
 
 #: app/presenters/p_phonenumber.php:364
 msgid "Or is this Your own phone number?"
@@ -200,7 +200,7 @@ msgstr "Dela din erfarenhet med andra."
 
 #: app/presenters/p_phonenumber.php:371
 msgid "Pass Your experience to the other users."
-msgstr "Passa din upplevelse vidare till de andra användarna."
+msgstr "Dela med dig av din upplevelse till de andra användarna."
 
 #: app/presenters/p_phonenumber.php:372
 msgid "Is there something You would like to tell the others?"
@@ -325,7 +325,7 @@ msgstr "Vi skulle uppskatta din recension."
 
 #: app/presenters/p_phonenumber.php:411
 msgid "We would appreciate if You share Your experience."
-msgstr "Vi skulle uppskatta det om du delar din erfarenhet."
+msgstr "Vi skulle uppskatta om du delar din erfarenhet."
 
 #: app/presenters/p_phonenumber.php:412
 msgid "Thank You in advance for Your review."
@@ -341,7 +341,7 @@ msgstr "Tack så mycket i förväg för din kommentar."
 
 #: app/presenters/p_phonenumber.php:415
 msgid "We would appreciate if You share Your statement."
-msgstr "Vi skulle uppskatta det om du delar ditt yttrande."
+msgstr "Vi skulle uppskatta om du delar ditt yttrande."
 
 #: app/presenters/p_phonenumber.php:416
 msgid "Thank You for Your post."
@@ -365,14 +365,14 @@ msgstr "Telefonnumret borde vara avgiftsfritt."
 
 #: app/presenters/p_phonenumber.php:429
 msgid "Phone number should be for premium rate. Be carefull."
-msgstr "Telefonnumret kan kosta en avgift. Var försiktig."
+msgstr "Telefonnumret kan innebära en avgift. Var försiktig."
 
 #: app/presenters/p_phonenumber.php:430
 msgid ""
 "Phone number should be for shared rate. It should be cheaper than standard "
 "call."
 msgstr ""
-"Telefonnumret borde vara delad avgift. Det borde vara billigare än ett "
+"Telefonnumret borde innebära delad avgift. Det borde vara billigare än ett "
 "vanligt samtal."
 
 #: app/presenters/p_phonenumber.php:431
@@ -510,7 +510,7 @@ msgstr "Busringning"
 
 #: app/repositories/r_reviews.php:103
 msgid "Fax machine"
-msgstr "Fax apparat"
+msgstr "Fax-apparat"
 
 #: app/repositories/r_reviews.php:104
 msgid "SMS"
@@ -564,8 +564,8 @@ msgid ""
 "If you have any useful information about this number then please add your "
 "rating and help others find who called."
 msgstr ""
-"Om du har någon användbar information om det här numret så snälla lägg till "
-"din rankning och hjälp andra få reda på vem som ringde."
+"Om du har någon användbar information om det här numret så var vänlig och "
+"lägg till ditt omdöme och hjälp andra få reda på vem som ringde."
 
 #: app/templates/404/default.tpl:17 app/templates/net/numbers.tpl:34
 msgid "Page not found"
@@ -579,7 +579,7 @@ msgstr ""
 
 #: app/templates/404/default.tpl:26 app/templates/net/numbers.tpl:40
 msgid "Page Not Found"
-msgstr "Sidan Går Inte Att Hitta"
+msgstr "Sidan går inte att hitta"
 
 #: app/templates/404/default.tpl:27 app/templates/net/numbers.tpl:41
 msgid ""
@@ -603,7 +603,7 @@ msgid ""
 "downtime or capacity problems. Please try again later."
 msgstr ""
 "Servern kan inte visa ditt önskemål just nu på grund av underhåll eller "
-"kapacitets problem. Var vänlig att försök igen senare."
+"kapacitetsproblem. Var vänlig att försök igen senare."
 
 #: app/templates/about/default.tpl:16 app/templates/mobilemanual/8.tpl:451
 #: app/templates/mobilemanual/8.tpl:570
@@ -612,7 +612,7 @@ msgstr "Om"
 
 #: app/templates/about/default.tpl:17
 msgid "Service description and basic information how to use it."
-msgstr "Tjänst beskrivning och vanlig information, hur man använder det."
+msgstr "Tjänstebeskrivning och grundläggande information om användning."
 
 #: app/templates/about/default.tpl:21
 msgid "About the service"
@@ -626,7 +626,7 @@ msgid ""
 "advertisement or another kind of fraud call."
 msgstr ""
 "Ska jag svara? Den frågan kan dyka upp ofta när man ser att ett okänt nummer "
-"ringer. Alla har (eller kommer ha) upplevt oönskade samtal, "
+"ringer. Alla har (eller kommer att ha) upplevt oönskade samtal, "
 "telemarketingkampanjer, reklam eller andra typer av bedrägerisamtal."
 
 #: app/templates/about/default.tpl:23
@@ -655,11 +655,11 @@ msgstr "Neutralt nummer"
 
 #: app/templates/about/default.tpl:25
 msgid "not decided yet if the number is harmful/scam or legitimate"
-msgstr "inte bestämt än om numret är skadligt/lureri eller giltligt"
+msgstr "inte bestämt än om numret är skadligt/lurendrejeri eller giltligt"
 
 #: app/templates/about/default.tpl:26
 msgid "Scam number"
-msgstr "Svindlar nummer"
+msgstr "Svindlar-nummer"
 
 #: app/templates/about/default.tpl:26
 msgid "answering this call will cost a precious time or money"
@@ -697,7 +697,7 @@ msgstr ""
 
 #: app/templates/adminlogin/default.tpl:16
 msgid "Login page"
-msgstr "Login sida"
+msgstr "Login-sida"
 
 #: app/templates/adminlogin/default.tpl:48
 msgid "Administration Login"
@@ -785,7 +785,7 @@ msgstr ""
 msgid ""
 "If you or some utility kills our service intentionally the icon disappears."
 msgstr ""
-"Om du eller något verktyg stänger vår service medveten kommer ikonen "
+"Om du eller något verktyg stänger vår service medvetet kommer ikonen att "
 "försvinna."
 
 #: app/templates/compatibility/default.tpl:153
@@ -794,7 +794,7 @@ msgid ""
 "please try to disable the use of overlay in app Settings."
 msgstr ""
 "Om vår tjänst körs och du inte ser meddelanden för okända nummer, vänligen "
-"försök stänga av överlappande meddelande i appens inställningar."
+"försök stänga av överlappande meddelanden i appens inställningar."
 
 #: app/templates/compatibility/default.tpl:155
 msgid "Unwanted calls are not blocked"
@@ -846,7 +846,7 @@ msgstr "Appen har inte tillgång till dina kontakter"
 #: app/templates/compatibility/default.tpl:171
 msgid "Please be sure you granted contacts access to our application."
 msgstr ""
-"Vänligen försäkra dig om att du tillåtet tillgång till kontakter för vår app."
+"Vänligen försäkra dig om att du tillåtit tillgång till kontakter för vår app."
 
 #: app/templates/compatibility/default.tpl:173
 msgid "Do you have idea why we don't have access to contacts?"
@@ -862,7 +862,7 @@ msgstr "Använder du någon app som skyddar dina kontakter?"
 
 #: app/templates/compatibility/default.tpl:176
 msgid "Let us know."
-msgstr "Låt oss får veta."
+msgstr "Låt oss få veta."
 
 #: app/templates/compatibility/default.tpl:178
 msgid "Other issue"
@@ -873,8 +873,8 @@ msgid ""
 "Please explain your issue to description. More information you send, higher "
 "chance to catch and fix the bug."
 msgstr ""
-"Vänligen förklara din problembeskrivning. Ju mer information du skickar, "
-"desto högre chans att vi lyckas lösa problemet."
+"Vänligen ange din problembeskrivning. Ju mer information du skickar, desto "
+"högre chans att vi lyckas lösa problemet."
 
 #: app/templates/compatibility/default.tpl:184
 msgid "Please select the issue type"
@@ -897,7 +897,7 @@ msgstr "Vänligen fyll i problembeskrivningen"
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:385
 #: app/templates/removalrequest/default.tpl:202
 msgid "Email"
-msgstr "Email"
+msgstr "E-post"
 
 #: app/templates/compatibility/default.tpl:203
 #: app/templates/removalrequest/default.tpl:203
@@ -1038,8 +1038,8 @@ msgid ""
 "Install our free security application into your mobile phone and stop "
 "unsolicited calls once forever!"
 msgstr ""
-"Installera våran gratis säkerhets app i din mobiltelefon och stoppa oönskade "
-"samtal för alltid!"
+"Installera vår kostnadsfria säkerhets-app i din mobiltelefon och stoppa "
+"oönskade samtal för alltid!"
 
 #: app/templates/default/defaultDefault.tpl:55
 #: app/templates/default/defaultNew.tpl:64
@@ -1153,7 +1153,7 @@ msgstr "Beskrivning hur du <strong>blockerar</strong> oönskade nummer?"
 
 #: app/templates/default/defaultNew.tpl:151 app/templates/layout_default.tpl:84
 msgid "Dialing Codes"
-msgstr "Uppringnings koder"
+msgstr "Uppringningskoder"
 
 #: app/templates/default/default_ww.tpl:39
 msgid "Our service is available in many countries with country specific domain"
@@ -1173,7 +1173,7 @@ msgstr "Nästa Sida"
 
 #: app/templates/historyinfo/default.tpl:16
 msgid "Contacts Check"
-msgstr "Kontakt Kontroll"
+msgstr "Kontakt-kontroll"
 
 #: app/templates/layout.tpl:118 app/templates/layoutAmp.tpl:188
 #: app/templates/layoutNew.tpl:114 app/templates/layoutNew.tpl:210
@@ -1281,12 +1281,12 @@ msgid ""
 "Get <strong>free</strong> and <strong>effective</strong> protection against "
 "unwanted calls!"
 msgstr ""
-"Skaffa <strong>gratis</strong> och <strong>effektivt</strong> skydd mot "
-"oönskade samtal!"
+"Skaffa <strong>kostnadsfritt</strong> och <strong>effektivt</strong> skydd "
+"mot oönskade samtal!"
 
 #: app/templates/layout_default_ww.tpl:27
 msgid "shouldianswer.com Logo"
-msgstr "shouldianswer.com Logga"
+msgstr "shouldianswer.com-logga"
 
 #: app/templates/layout_mobileapp.tpl:69 app/templates/mobilemanual/8.tpl:556
 msgid "Should I Answer?"
@@ -1294,7 +1294,7 @@ msgstr "Borde Jag Svara?"
 
 #: app/templates/mobileapp/default.tpl:17
 msgid "Phone Protection"
-msgstr "Telefon Skydd"
+msgstr "Telefonskydd"
 
 #: app/templates/mobileapp/default.tpl:40
 msgid "Protects you and your loved ones"
@@ -1306,7 +1306,7 @@ msgstr "Slut på alla sorters oönskade samtal"
 
 #: app/templates/mobileapp/default.tpl:44
 msgid "Show rating of incoming calls"
-msgstr "Visa rating hos inkommande samtal"
+msgstr "Visa omdöme om inkommande samtal"
 
 #: app/templates/mobileapp/default.tpl:45
 msgid "Several protection levels and simple settings"
@@ -1318,7 +1318,7 @@ msgstr "Automatiskt blockera oönskade samtal"
 
 #: app/templates/mobileapp/default.tpl:49
 msgid "Optional feature for higher protection"
-msgstr "Alternativ tillägg för högre skydd"
+msgstr "Alternativt tillägg för högre skydd"
 
 #: app/templates/mobileapp/default.tpl:52
 msgid "Allow calls from phone contacts only"
@@ -1326,7 +1326,7 @@ msgstr "Tillåt samtal från enbart telefonkontaker"
 
 #: app/templates/mobileapp/default.tpl:53
 msgid "Optional feature for maximal protection"
-msgstr "Alternativ tillägg för maximalt skydd"
+msgstr "Alternativt tillägg för maximalt skydd"
 
 #: app/templates/mobileapp/default.tpl:56
 #: app/templates/mobileapp/default.tpl:75
@@ -1338,19 +1338,19 @@ msgstr "Skaffa Appen"
 msgid ""
 "Our free application will protect you against all kind of harassment calls"
 msgstr ""
-"Våran gratis applikation kommer skydda dig mot alla sorters trakasserisamtal"
+"Vår gratisapplikation kommer skydda dig mot alla sorters trakasserisamtal"
 
 #: app/templates/mobileapp/default.tpl:70
 msgid "Protect your privacy with our new mobile application."
-msgstr "Skydda din integritet med våran nya mobilapplikation."
+msgstr "Skydda din integritet med vår nya mobilapplikation."
 
 #: app/templates/mobileapp/default.tpl:72
 msgid ""
 "\"Should I Answer\" is free security application for mobiles with Android™ "
 "operting system which can protect you against all kinds of unsolicited calls."
 msgstr ""
-"\"Should I Answer\" är en gratis säkerhets applikation för mobiler med "
-"Android™ operativsystem som kan skydda dig emot alla sorters oönskade samtal."
+"\"Ska jag svara?\" är en gratis säkerhetsapplikation för mobiler med "
+"Android™-operativsystem som kan skydda dig mot alla sorters oönskade samtal."
 
 #: app/templates/mobileapp/default.tpl:73
 msgid ""
@@ -1362,7 +1362,7 @@ msgstr ""
 
 #: app/templates/mobileapp/default.tpl:88
 msgid "Show rating of incoming call"
-msgstr "Visa rankning av inkommande samtal"
+msgstr "Visa omdöme för inkommande samtal"
 
 #: app/templates/mobileapp/default.tpl:90
 msgid ""
@@ -1370,9 +1370,9 @@ msgid ""
 "saved in your contact list will be checked and the automatic notification "
 "with security rating is shown including users comments."
 msgstr ""
-"Med den här skyddsnivån aktiverad, alla inkommande samtal från nummer som "
-"inte är sparade i din kontaktlista kommer bli kollade och den automatiska "
-"noteringen med säkerhets bedömingen visas med användarkommentarer."
+"Med den här skyddsnivån aktiverad, kommer alla inkommande samtal från nummer "
+"som inte är sparade i din kontaktlista kollas upp och den automatiska "
+"noteringen med säkerhetsbedömingen visas med användarkommentarer."
 
 #: app/templates/mobileapp/default.tpl:93
 msgid "This gives you a sufficient time to decide if answer the call or not."
@@ -1382,7 +1382,7 @@ msgstr ""
 
 #: app/templates/mobileapp/default.tpl:99
 msgid "Block the numbers with negative rating"
-msgstr "Blockera nummren med negativ rating"
+msgstr "Blockera nummer med negativt omdöme"
 
 #: app/templates/mobileapp/default.tpl:101
 msgid ""
@@ -1391,7 +1391,7 @@ msgid ""
 "notification area about blocked calls."
 msgstr ""
 "Om den här skyddsnivån är aktiverad så blockeras alla inkommande samtal med "
-"negativ ranking och det visas bara en notis med blockerat samtal."
+"negativt omdöme och det visas bara en notis med blockerat samtal."
 
 #: app/templates/mobileapp/default.tpl:104
 #: app/templates/mobileapp/default.tpl:115
@@ -1421,7 +1421,7 @@ msgstr ""
 #: app/templates/mobileapp/default.tpl:126
 msgid ""
 "Protect yourself, Your family and your friends against unsolicited calls!"
-msgstr "Skydda dig själv, Din familj och dina vänner från oönskade samtal!"
+msgstr "Skydda dig själv, din familj och dina vänner från oönskade samtal!"
 
 #: app/templates/mobileapp/default.tpl:127
 msgid "No more worries with nuisance calls and tele-harassment!"
@@ -1433,8 +1433,8 @@ msgid ""
 "relatives do not hesitate and download the application for <strong>free</"
 "strong> to your mobile phone."
 msgstr ""
-"Om du är intresserad i några av de här skyddsnivåerna för din eller dina "
-"närmastes användning så tveka inte och ladda ner appaen <strong>gratis</"
+"Om du är intresserad av några av de här skyddsnivåerna för din eller dina "
+"närmastes användning så tveka inte att ladda ner appen <strong>gratis</"
 "strong> till din mobiltelefon. "
 
 #: app/templates/mobilemanual/8.tpl:18
@@ -1443,7 +1443,7 @@ msgstr "Användarmanual"
 
 #: app/templates/mobilemanual/8.tpl:144
 msgid "Should I Answer Manual"
-msgstr "Should I Answer Användarmanual"
+msgstr "Ska Jag Svara - användarmanual"
 
 #: app/templates/mobilemanual/8.tpl:152 app/templates/mobilemanual/8.tpl:557
 msgid "Introduction"
@@ -1457,7 +1457,7 @@ msgid ""
 "or expensive outgoing calls like call to premium number or call to a foreign "
 "country."
 msgstr ""
-"<b>Should I Answer</b> (SIA) är en gratis community-baserad säkerhetsapp för "
+"<b>Ska jag svara?</b> (SIA) är en gratis community-baserad säkerhetsapp för "
 "mobiltelefoner med Androids operativsystem som designats för att skydda dig "
 "mot oönskade samtal, all sorts oönskad telefonförsäljning eller dyra samtal, "
 "som betalsamtal eller samtal till utlandet."
@@ -1478,7 +1478,7 @@ msgid ""
 "support@shouldianswer.net\">support@shouldianswer.net</a>."
 msgstr ""
 "Om du har några frågor gällande installation, funktioner eller företaget, "
-"kan du kontakta oss på vår support via mail på <a href=\"mailto:"
+"kan du kontakta oss på vår support via e-post på <a href=\"mailto:"
 "support@shouldianswer.net\">support@shouldianswer.net</a>."
 
 #: app/templates/mobilemanual/8.tpl:165 app/templates/mobilemanual/8.tpl:559
@@ -1494,7 +1494,7 @@ msgid ""
 msgstr ""
 "Den bästa installationsmetoden är via Google Play Store som du kan hitta "
 "direkt i din mobil eller via <a href=\"https://play.google.com/store/apps/"
-"details?id=org.mistergroup.muzutozvednout\">Google Play webbplats</a>."
+"details?id=org.mistergroup.muzutozvednout\">Google Plays webbplats</a>."
 
 #: app/templates/mobilemanual/8.tpl:168
 msgid "There is no other official distribution channel of installer APK."
@@ -1518,14 +1518,14 @@ msgstr "Grundfunktioner"
 
 #: app/templates/mobilemanual/8.tpl:176
 msgid "Easy check of phone numbers ratings in your Phone Call History."
-msgstr "Enkel koll av telefonnummers ranking i din samtalshistorik"
+msgstr "Enkel koll av telefonnummers omdömen i din samtalshistorik"
 
 #: app/templates/mobilemanual/8.tpl:177
 msgid ""
 "Displaying ratings of incoming/outgoing call via special notification "
 "(Alert)."
 msgstr ""
-"Visar rankning av inkommande/utgående samtal via speciella meddelanden "
+"Visar omdöme för inkommande/utgående samtal via speciella meddelanden "
 "(notifieringar)."
 
 #: app/templates/mobilemanual/8.tpl:178
@@ -1535,7 +1535,7 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:179
 msgid "Flexible rating system."
-msgstr "Flexibelt rankningssystem."
+msgstr "Flexibelt omdömessystem."
 
 #: app/templates/mobilemanual/8.tpl:180
 msgid "Fully customizable alerts."
@@ -1644,7 +1644,7 @@ msgstr "Loggar"
 
 #: app/templates/mobilemanual/8.tpl:216
 msgid "The Logs screen provides you access to 3 types of logs:"
-msgstr "Log-skärmen ger dig tillgång till tre typer av loggar:"
+msgstr "Logg-skärmen ger dig tillgång till tre typer av loggar:"
 
 #: app/templates/mobilemanual/8.tpl:218
 msgid ""
@@ -1721,7 +1721,7 @@ msgstr "Blockerat Inkommande Samtal"
 
 #: app/templates/mobilemanual/8.tpl:244
 msgid "Successful Outgoing Call"
-msgstr "Lyckat Utgåendee samtal"
+msgstr "Lyckat Utgående samtal"
 
 #: app/templates/mobilemanual/8.tpl:245
 msgid "Missed Outgoing Call"
@@ -2092,7 +2092,7 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:353
 msgid "Download reviews automatically"
-msgstr "Ladda ner recensioner automatiskt"
+msgstr "Ladda ner omdömen automatiskt"
 
 #: app/templates/mobilemanual/8.tpl:355
 msgid ""
@@ -2609,7 +2609,7 @@ msgid ""
 "If you fill and send some phone number rating, you agree with publishing the "
 "phone number and all filled information on our website."
 msgstr ""
-"Om du fyller i och skickar nummerrecensioner godkänner du att publicera "
+"Om du fyller i och skickar nummeromdömet godkänner du att publicera "
 "telefonnumret och all ifylld information på vår webbsida."
 
 #: app/templates/mobilemanual/8.tpl:532
@@ -2763,7 +2763,7 @@ msgstr "Tack för din hjälp!"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:68
 msgid "ShouldIAnswer Team"
-msgstr "ShouldIAnswer Teamet"
+msgstr "SkaJagSvar-teamet"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:76
 #: app/templates/phonenumber/defaultDefault.tpl:629
@@ -2922,7 +2922,7 @@ msgstr "Välj rankning"
 #: app/templates/phonenumber/defaultNext.tpl:415
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:357
 msgid "Please select rating!"
-msgstr "Var vänlig att välja rankning!"
+msgstr "Var vänlig välj omdöme!"
 
 #: app/templates/phonenumber/defaultAmp.tpl:346
 #: app/templates/phonenumber/defaultDefault.tpl:327
@@ -2949,7 +2949,7 @@ msgstr "välj kategori"
 #: app/templates/phonenumber/defaultNext.tpl:433
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:375
 msgid "Please select category!"
-msgstr "Var vänlig att välja kategori!"
+msgstr "Var vänlig välj kategori!"
 
 #: app/templates/phonenumber/defaultAmp.tpl:366
 #: app/templates/phonenumber/defaultAmp.tpl:663
@@ -2982,7 +2982,7 @@ msgstr "namn eller smeknamn"
 #: app/templates/phonenumber/defaultNext.tpl:445
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:390
 msgid "Please enter your name or nickname!"
-msgstr "Var vänlig att ange ditt namn eller smeknamn!"
+msgstr "Var vänlig ange ditt namn eller smeknamn!"
 
 #: app/templates/phonenumber/defaultAmp.tpl:376
 #: app/templates/phonenumber/defaultDefault.tpl:357
@@ -3033,7 +3033,7 @@ msgstr "skriv din kommentar"
 #: app/templates/phonenumber/defaultNext.tpl:461
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:406
 msgid "Please enter your comment!"
-msgstr "Var vänlig att skriva din kommentar!"
+msgstr "Var vänlig skriv din kommentar!"
 
 #: app/templates/phonenumber/defaultAmp.tpl:393
 #: app/templates/phonenumber/defaultDefault.tpl:374
@@ -3301,7 +3301,7 @@ msgstr "Rapportera ägande för det här numret och att osann information visas.
 #: app/templates/phonenumber/defaultModerator.tpl:235
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:386
 msgid "email (optional)"
-msgstr "email (valfri)"
+msgstr "e-post (valfri)"
 
 #: app/templates/phonenumber/invalid.tpl:16
 #: app/templates/phonenumber/invalid.tpl:23
@@ -3374,8 +3374,8 @@ msgid ""
 "This information reflects commentator's opinion regarding the phone number "
 "and don't represent the opinion of our team."
 msgstr ""
-"Den här informationen reflekterar kommentatorns åsikt om numret och "
-"representerar inte vårt teams åsikter."
+"Den här informationen visar kommentatorns åsikt om numret och representerar "
+"inte vårt teams åsikter."
 
 #: app/templates/privacypolicy/default.tpl:51
 msgid ""
@@ -3411,7 +3411,7 @@ msgstr ""
 
 #: app/templates/privacypolicy/default.tpl:61
 msgid "Measuring our visitors"
-msgstr "Mått av våra besökare"
+msgstr "Analys av våra besökare"
 
 #: app/templates/privacypolicy/default.tpl:63
 msgid "We are using Google Analytics to measure visitors to our websites."
