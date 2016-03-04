@@ -284,4 +284,8 @@
     <string name="Contact_x">联系人 %s</string>
     <string name="Install">设置</string>
     <string name="Phone_Number_Hint_New">您可以使用*评价号码的组合。比如800*会评价所有的800*的号码。</string>
+    <string name="Report_Issue">Report Issue</string>
+    <string name="Please_Enter_The_Issue_Description_Here">Please Enter The Issue Description Here! If you can communicate in English! Thank you!</string>
+    <string name="Required_Community_Ratings_To_Block">Required Community Ratings To Block</string>
+    <string name="DISABLED">DISABLED</string>
 </resources>

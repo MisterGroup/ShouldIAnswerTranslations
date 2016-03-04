@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Global-->
-    <string name="app_name">Не брать трубку?</string>
+    <string name="app_name">Небери Трубку</string>
     <string name="search">Поиск</string>
     <string name="Settings">Настройка</string>
     <string name="privacy">Охрана частных данных</string>
@@ -285,4 +285,8 @@
     <string name="Contact_x">Контакт %s</string>
     <string name="Install">Установить</string>
     <string name="Phone_Number_Hint_New">Можете оценить группу номеров с помощью *. На пример: 800* создаст правило для оценки всех номеров от 800*.</string>
+    <string name="Report_Issue">Report Issue</string>
+    <string name="Please_Enter_The_Issue_Description_Here">Please Enter The Issue Description Here! If you can communicate in English! Thank you!</string>
+    <string name="Required_Community_Ratings_To_Block">Required Community Ratings To Block</string>
+    <string name="DISABLED">DISABLED</string>
 </resources>

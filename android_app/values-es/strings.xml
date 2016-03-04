@@ -287,4 +287,8 @@
     <string name="Contact_x">Contacto %s</string>
     <string name="Install">Instalar</string>
     <string name="Phone_Number_Hint_New">Puede evaluar un grupo de números utilizando *. Por ejemplo: 800* establecerá una regla para todas llamads de 800*.</string>
+    <string name="Report_Issue">Report Issue</string>
+    <string name="Please_Enter_The_Issue_Description_Here">Please Enter The Issue Description Here! If you can communicate in English! Thank you!</string>
+    <string name="Required_Community_Ratings_To_Block">Required Community Ratings To Block</string>
+    <string name="DISABLED">DISABLED</string>
 </resources>

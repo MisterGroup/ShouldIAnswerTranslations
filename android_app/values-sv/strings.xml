@@ -307,4 +307,8 @@
     <string name="Contact_x">Kontakta %s</string>
     <string name="Install">Installera</string>
     <string name="Phone_Number_Hint_New">Du kan ranka en grupp av nummer genom att använda *. Till exempel: 800* kommer sätta en regel för att samtal för 800* intervallet.</string>
+    <string name="Report_Issue">Report Issue</string>
+    <string name="Please_Enter_The_Issue_Description_Here">Please Enter The Issue Description Here! If you can communicate in English! Thank you!</string>
+    <string name="Required_Community_Ratings_To_Block">Required Community Ratings To Block</string>
+    <string name="DISABLED">DISABLED</string>
 </resources>

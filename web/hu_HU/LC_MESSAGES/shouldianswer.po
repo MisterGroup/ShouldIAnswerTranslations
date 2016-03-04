@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: shouldianswer\n"
-"POT-Creation-Date: 2016-02-21 21:08+0100\n"
-"PO-Revision-Date: 2016-02-21 21:08+0100\n"
+"POT-Creation-Date: 2016-03-02 08:56+0100\n"
+"PO-Revision-Date: 2016-03-02 08:56+0100\n"
 "Last-Translator: \n"
 "Language-Team: topolar@gmail.com\n"
 "Language: hu\n"
@@ -43,15 +43,15 @@ msgstr ""
 msgid "Please come back to this page later. Thank you."
 msgstr "Kérem, jöjjön vissza erre az oldalra később. köszönöm."
 
-#: app/presenters/p_phonenumber.php:235
+#: app/presenters/p_phonenumber.php:241
 msgid "Outdated or invalid form submitted! Please send it again."
 msgstr "Lejárt vagy helytelen nyomtatványt adott le! Kérjük, küldje el újra."
 
-#: app/presenters/p_phonenumber.php:292
+#: app/presenters/p_phonenumber.php:298
 msgid "Submit failed. Please do not use Tags!"
 msgstr "Leadás sikertelen. Kérjük, ne használjon tageket!"
 
-#: app/presenters/p_phonenumber.php:298
+#: app/presenters/p_phonenumber.php:304
 #, fuzzy
 msgid ""
 "Your rating is submitted and waiting for publication to other visitors. "
@@ -60,316 +60,316 @@ msgstr ""
 "A maga értékelése elküldve és vár az értékelésekre a többi bejelentkezötöl "
 "köszönyük"
 
-#: app/presenters/p_phonenumber.php:302
+#: app/presenters/p_phonenumber.php:308
 msgid "Rating has been stored and published!"
 msgstr ""
 
-#: app/presenters/p_phonenumber.php:312
+#: app/presenters/p_phonenumber.php:318
 msgid "This phone number is marked as "
 msgstr " Telefonszám megjelölve mint"
 
-#: app/presenters/p_phonenumber.php:330
+#: app/presenters/p_phonenumber.php:336
 msgid "What is Your experience with this number?"
 msgstr "Mijen a tapasztalata az ijen a telefonszámról?"
 
-#: app/presenters/p_phonenumber.php:331
+#: app/presenters/p_phonenumber.php:337
 msgid "Do You have any experience with this phone number?"
 msgstr " Rossz tapasztalata van erröl a telefonszámról?"
 
-#: app/presenters/p_phonenumber.php:332
+#: app/presenters/p_phonenumber.php:338
 msgid "What is Your experience with this phone number?"
 msgstr "Mijen  tapasztalatya van evel a telefonszámmal"
 
-#: app/presenters/p_phonenumber.php:333
+#: app/presenters/p_phonenumber.php:339
 msgid "Do You have any bad experience with this number?"
 msgstr "Van egy rossz tapasztalata, ezzel a telefonszámal?"
 
-#: app/presenters/p_phonenumber.php:334
+#: app/presenters/p_phonenumber.php:340
 msgid "Have You seen this number before?"
 msgstr "Látta már ezt a számot  valahol?"
 
-#: app/presenters/p_phonenumber.php:335
+#: app/presenters/p_phonenumber.php:341
 msgid "Have You ever spot this number?"
 msgstr "Látta már valahol ezt a telefonszámot?"
 
-#: app/presenters/p_phonenumber.php:336
+#: app/presenters/p_phonenumber.php:342
 msgid "Does this number remind You something?"
 msgstr "A telefonszám ismerős?"
 
-#: app/presenters/p_phonenumber.php:337
+#: app/presenters/p_phonenumber.php:343
 msgid "Do You have any bad experience with this phone number?"
 msgstr "Van egy rossz tapasztalata, ezzel a telefonszámal?"
 
-#: app/presenters/p_phonenumber.php:338
+#: app/presenters/p_phonenumber.php:344
 msgid "Have You ever seen this number?"
 msgstr "A telefonszám ismerős?"
 
-#: app/presenters/p_phonenumber.php:339
+#: app/presenters/p_phonenumber.php:345
 msgid "Does this number look familiar to You?"
 msgstr "Ez a telefonszam feltünö"
 
-#: app/presenters/p_phonenumber.php:342
+#: app/presenters/p_phonenumber.php:348
 msgid "Do You have any experience with this?"
 msgstr "Van valami rossz tapasztalata ezzel a telefonnal?"
 
-#: app/presenters/p_phonenumber.php:343
+#: app/presenters/p_phonenumber.php:349
 msgid "Have this number called You before?"
 msgstr "Meg történt , hogy magát véletlenül  becsengette?"
 
-#: app/presenters/p_phonenumber.php:344 app/presenters/p_phonenumber.php:350
+#: app/presenters/p_phonenumber.php:350 app/presenters/p_phonenumber.php:356
 msgid "Have this number annoyed You before?"
 msgstr "Már zavarta ez a szám?"
 
-#: app/presenters/p_phonenumber.php:345
+#: app/presenters/p_phonenumber.php:351
 msgid "Did someone offer You unwanted services from this number?"
 msgstr ""
 "Felajánlotta már valaki magának erröl a telefonszámró valamijen "
 "szolgáltatást,ami nem vólt amaga érdekében?"
 
-#: app/presenters/p_phonenumber.php:346
+#: app/presenters/p_phonenumber.php:352
 msgid "Did someone offer You products You haven't ordered from this number?"
 msgstr ""
 "Felkínalta már valaki erröl a telefonszámról magának valamijen termékeket , "
 "amit  nem rendelt?"
 
-#: app/presenters/p_phonenumber.php:347
+#: app/presenters/p_phonenumber.php:353
 msgid "You have become a victim of harassment?"
 msgstr "A zaklatás áldozata lettél?"
 
-#: app/presenters/p_phonenumber.php:348
+#: app/presenters/p_phonenumber.php:354
 msgid "Did someone offer You some insurance?"
 msgstr "Felkínálta már valaki Önnek a biztosítást?"
 
-#: app/presenters/p_phonenumber.php:349
+#: app/presenters/p_phonenumber.php:355
 msgid "Have You been facing the unwanted services?"
 msgstr ""
 "Megtörtént veled, hogy valaki zaklatott nem kezdeményezett szolgáltatásokkal?"
 
-#: app/presenters/p_phonenumber.php:351
+#: app/presenters/p_phonenumber.php:357
 msgid "Did someone offer You apparently beneficial contracts?"
 msgstr "Felkinált már önnek valaki látszólag előnyös szerződés?"
 
-#: app/presenters/p_phonenumber.php:355
+#: app/presenters/p_phonenumber.php:361
 msgid "Or is this rally some good service?"
 msgstr "Vagy ez egy igazán jó szolgáltatás?"
 
-#: app/presenters/p_phonenumber.php:356
+#: app/presenters/p_phonenumber.php:362
 msgid "Or is this Your friend's phone number?"
 msgstr "Vagy éppen ellenkezőleg, a telefon a barátjáé?"
 
-#: app/presenters/p_phonenumber.php:357
+#: app/presenters/p_phonenumber.php:363
 msgid "Or is this a phone number serving for Your company?"
 msgstr "Vagy is a kapcsolatos telefon  a maga cégjéhez  tartozik?"
 
-#: app/presenters/p_phonenumber.php:358
+#: app/presenters/p_phonenumber.php:364
 msgid "Or is this a phone number of a reliable financial advisor?"
 msgstr "Vagy a  telefonon egy jó pénzügyi tanácsadó?"
 
-#: app/presenters/p_phonenumber.php:359
+#: app/presenters/p_phonenumber.php:365
 msgid "Or is this a safe phone number?"
 msgstr "Vagy is ez a telefonszám biztonságos?"
 
-#: app/presenters/p_phonenumber.php:360
+#: app/presenters/p_phonenumber.php:366
 msgid "Or is this a purely private phone number?"
 msgstr "Vagy ellenkezőleg ezegy  privát telefonszám?"
 
-#: app/presenters/p_phonenumber.php:361
+#: app/presenters/p_phonenumber.php:367
 msgid "Or is this someone You know?"
 msgstr "Vagy is a tulajdonost ismeri?"
 
-#: app/presenters/p_phonenumber.php:362
+#: app/presenters/p_phonenumber.php:368
 msgid "Or is this phone number useful?"
 msgstr "Vagy hasznos telefonszám?"
 
-#: app/presenters/p_phonenumber.php:363
+#: app/presenters/p_phonenumber.php:369
 msgid "Or does this number belong to some of Your friends?"
 msgstr "Vagy ez a telefonszám egy maga ismerösének a telefonszama?"
 
-#: app/presenters/p_phonenumber.php:364
+#: app/presenters/p_phonenumber.php:370
 msgid "Or is this Your own phone number?"
 msgstr "Vagy ez a saját telefonszáma?"
 
-#: app/presenters/p_phonenumber.php:368
+#: app/presenters/p_phonenumber.php:374
 msgid "Share Your experience."
 msgstr "Ossza meg tapasztalatait."
 
-#: app/presenters/p_phonenumber.php:369
+#: app/presenters/p_phonenumber.php:375
 msgid "Do not keep the information just for yourself."
 msgstr "Nehadja meg magának"
 
-#: app/presenters/p_phonenumber.php:370
+#: app/presenters/p_phonenumber.php:376
 msgid "Share Your experience with the others."
 msgstr "Ossza meg tapasztalatait másokkal."
 
-#: app/presenters/p_phonenumber.php:371
+#: app/presenters/p_phonenumber.php:377
 msgid "Pass Your experience to the other users."
 msgstr "Adja továb tapastalatát."
 
-#: app/presenters/p_phonenumber.php:372
+#: app/presenters/p_phonenumber.php:378
 msgid "Is there something You would like to tell the others?"
 msgstr "Ossza fel az élményt másokkal."
 
-#: app/presenters/p_phonenumber.php:373
+#: app/presenters/p_phonenumber.php:379
 msgid "Is there some info You can share?"
 msgstr "Ezt az információt ne tartsa meg magának."
 
-#: app/presenters/p_phonenumber.php:374
+#: app/presenters/p_phonenumber.php:380
 msgid "Do You know more?"
 msgstr "Tudo, többet?"
 
-#: app/presenters/p_phonenumber.php:375
+#: app/presenters/p_phonenumber.php:381
 msgid "Do You know more? Share it with the others."
 msgstr "Tud többet? netartja meg magának."
 
-#: app/presenters/p_phonenumber.php:376
+#: app/presenters/p_phonenumber.php:382
 msgid "Do You know more? Pass Your experience to the other users."
 msgstr "Tud többet? adja tapasztalatát továb"
 
-#: app/presenters/p_phonenumber.php:377
+#: app/presenters/p_phonenumber.php:383
 msgid "Do You know more? Share Your experience with the others."
 msgstr "Tud többet ossza meg tapasztalatait."
 
-#: app/presenters/p_phonenumber.php:381
+#: app/presenters/p_phonenumber.php:387
 msgid "Write to us, "
 msgstr "Írjon nekünk és"
 
-#: app/presenters/p_phonenumber.php:382
+#: app/presenters/p_phonenumber.php:388
 msgid "Fill the form, "
 msgstr "Töltse ki az űrlapot, és"
 
-#: app/presenters/p_phonenumber.php:383
+#: app/presenters/p_phonenumber.php:389
 msgid "Fill the form and "
 msgstr "Töltse ki a mi űrlapunkat és"
 
-#: app/presenters/p_phonenumber.php:384
+#: app/presenters/p_phonenumber.php:390
 msgid "Write to us (it is not necessary to state Your real name) and "
 msgstr "Írjon nekünk (nem muszáj elöadni  igazi nevet) és"
 
-#: app/presenters/p_phonenumber.php:385
+#: app/presenters/p_phonenumber.php:391
 msgid "Leave a message using our form and "
 msgstr "Hagyjon üzeneteta vissza jelzö ürlapon,és"
 
-#: app/presenters/p_phonenumber.php:386
+#: app/presenters/p_phonenumber.php:392
 msgid "Share Your experience and "
 msgstr "Kérjük, ismertesse a tapasztalat és a"
 
-#: app/presenters/p_phonenumber.php:387
+#: app/presenters/p_phonenumber.php:393
 msgid "Leave a message and "
 msgstr "Hagyjon üzenetet, és"
 
-#: app/presenters/p_phonenumber.php:388
+#: app/presenters/p_phonenumber.php:394
 msgid "Describe Your experience using our form and "
 msgstr "Irja le tapasztalatát es az élményét, az űrlapon keresztül, és"
 
-#: app/presenters/p_phonenumber.php:389
+#: app/presenters/p_phonenumber.php:395
 msgid "Give us Your opinion and "
 msgstr "Írja le értékelését, és"
 
-#: app/presenters/p_phonenumber.php:390
+#: app/presenters/p_phonenumber.php:396
 msgid "Rate this phone number using the form and "
 msgstr "Kérjük, értékelje a telefonszámot, a képernyőn és"
 
-#: app/presenters/p_phonenumber.php:394
+#: app/presenters/p_phonenumber.php:400
 msgid "this will help the other users."
 msgstr "Segítcsen másoknak."
 
-#: app/presenters/p_phonenumber.php:395
+#: app/presenters/p_phonenumber.php:401
 msgid "this will help the other users to have a more clear information."
 msgstr "  Segicsd orientálni, a többieket."
 
-#: app/presenters/p_phonenumber.php:396
+#: app/presenters/p_phonenumber.php:402
 msgid "other users can use this information."
 msgstr "Magamiat a többiek is okosabbak lehetnek."
 
-#: app/presenters/p_phonenumber.php:397
+#: app/presenters/p_phonenumber.php:403
 msgid "the information can be used by the other users."
 msgstr "tájékoztatja a többi felhasználókat."
 
-#: app/presenters/p_phonenumber.php:398
+#: app/presenters/p_phonenumber.php:404
 msgid "the other users will appreciate it."
 msgstr "A többi felhasztnálók hálások lesznek magának"
 
-#: app/presenters/p_phonenumber.php:399
+#: app/presenters/p_phonenumber.php:405
 msgid "the other users will use it for their benefit."
 msgstr "A többi keresö felhasztnáló lesz informálva."
 
-#: app/presenters/p_phonenumber.php:400
+#: app/presenters/p_phonenumber.php:406
 msgid "the information can be useful for other users."
 msgstr "Köszönyük magának,hogy a többi felhasználók már többet nemkeresnek"
 
-#: app/presenters/p_phonenumber.php:401
+#: app/presenters/p_phonenumber.php:407
 msgid "You will help also the other users."
 msgstr "Segicsen a többi keresö felhasztnálóaknak"
 
-#: app/presenters/p_phonenumber.php:402
+#: app/presenters/p_phonenumber.php:408
 msgid "thanks to You the others will be better informed."
 msgstr "Hála önnek hogy a többiek is tudnak tájekozódni"
 
-#: app/presenters/p_phonenumber.php:403
+#: app/presenters/p_phonenumber.php:409
 msgid "the other users can benefit from this information."
 msgstr "Tájékoztasa a többi felhasználót."
 
-#: app/presenters/p_phonenumber.php:407
+#: app/presenters/p_phonenumber.php:413
 msgid "Thank You for Your review."
 msgstr "Köszönyük a maga hozzájárulását."
 
-#: app/presenters/p_phonenumber.php:408
+#: app/presenters/p_phonenumber.php:414
 msgid "Thank You for Your reaction."
 msgstr "Köszönönyük a maga reakcióját."
 
-#: app/presenters/p_phonenumber.php:409
+#: app/presenters/p_phonenumber.php:415
 msgid "We would appreciate Your reaction."
 msgstr "Nagyra értékeljük,a reakcióját"
 
-#: app/presenters/p_phonenumber.php:410
+#: app/presenters/p_phonenumber.php:416
 msgid "We would appreciate Your review."
 msgstr "Nagyra értékeljük hogy ha ír nekünk"
 
-#: app/presenters/p_phonenumber.php:411
+#: app/presenters/p_phonenumber.php:417
 msgid "We would appreciate if You share Your experience."
 msgstr "Nagyra értékeljük hogy ha megossza tapasztalatát"
 
-#: app/presenters/p_phonenumber.php:412
+#: app/presenters/p_phonenumber.php:418
 msgid "Thank You in advance for Your review."
 msgstr "Előre is köszönönyük a hozzájárulását."
 
-#: app/presenters/p_phonenumber.php:413
+#: app/presenters/p_phonenumber.php:419
 msgid "Thank You for Your comment."
 msgstr "Köszönyük a maga magyarázattát"
 
-#: app/presenters/p_phonenumber.php:414
+#: app/presenters/p_phonenumber.php:420
 msgid "Thank You in advance for Your comment."
 msgstr "Elöre is köszönyük a maga kifejezesét"
 
-#: app/presenters/p_phonenumber.php:415
+#: app/presenters/p_phonenumber.php:421
 msgid "We would appreciate if You share Your statement."
 msgstr "Örülni fogunk hogy ha megossza tapasztalatát"
 
-#: app/presenters/p_phonenumber.php:416
+#: app/presenters/p_phonenumber.php:422
 msgid "Thank You for Your post."
 msgstr "Köszönyük a hozzájárulást"
 
-#: app/presenters/p_phonenumber.php:425
+#: app/presenters/p_phonenumber.php:431
 msgid "Phone number should be fixed line."
 msgstr "Telefonszám sort rögzíteni kell."
 
-#: app/presenters/p_phonenumber.php:426
+#: app/presenters/p_phonenumber.php:432
 msgid "Phone number should be mobile line."
 msgstr "Telefonszám álitólag   aktualis vonal."
 
-#: app/presenters/p_phonenumber.php:427
+#: app/presenters/p_phonenumber.php:433
 msgid "Phone number should be fixed or mobile line."
 msgstr "Ez a telefonszám vezetékes vagy mobil telefon vonala."
 
-#: app/presenters/p_phonenumber.php:428
+#: app/presenters/p_phonenumber.php:434
 msgid "Phone number should be toll free."
 msgstr "A telefonszám álitólag egy ingyenes vonal"
 
-#: app/presenters/p_phonenumber.php:429
+#: app/presenters/p_phonenumber.php:435
 msgid "Phone number should be for premium rate. Be carefull."
 msgstr "Emelt díjas telefonszám. Legyen óvatos."
 
-#: app/presenters/p_phonenumber.php:430
+#: app/presenters/p_phonenumber.php:436
 msgid ""
 "Phone number should be for shared rate. It should be cheaper than standard "
 "call."
@@ -377,34 +377,34 @@ msgstr ""
 "Ennek a  telefonszámnak,kell leni egy támogatott árának. A hívás lehetseges "
 "hogy olcsóbb."
 
-#: app/presenters/p_phonenumber.php:431
+#: app/presenters/p_phonenumber.php:437
 msgid "Phone number should be voice over ip."
 msgstr "Telefoni szám álitólag VOIP. ( internet segitsegi hívas)"
 
-#: app/presenters/p_phonenumber.php:432
+#: app/presenters/p_phonenumber.php:438
 msgid "Phone number should be personal line."
 msgstr "Ez a telefonszám lehetöleg   személyes."
 
-#: app/presenters/p_phonenumber.php:433
+#: app/presenters/p_phonenumber.php:439
 msgid "Phone number should be pager."
 msgstr "Ez a telefonszám álitölag egy pager."
 
-#: app/presenters/p_phonenumber.php:434
+#: app/presenters/p_phonenumber.php:440
 msgid "Phone number should belong some  company."
 msgstr "Telefonszám  ingyenesen hívható."
 
-#: app/presenters/p_phonenumber.php:435
+#: app/presenters/p_phonenumber.php:441
 msgid "Phone number should be for emergency call."
 msgstr "Segélyhívó telefonszám."
 
-#: app/presenters/p_phonenumber.php:446
+#: app/presenters/p_phonenumber.php:452
 msgid ""
 "During the last days this number has been very often searched also by other "
 "users. This can be a mark of global call centre or marketing action, so be "
 "aware."
 msgstr ""
 
-#: app/presenters/p_phonenumber.php:447
+#: app/presenters/p_phonenumber.php:453
 msgid ""
 "This number very probably doesn't belong to any individual - we have noticed "
 "very frequent searches of this number during last days, which can be a mark "
@@ -412,21 +412,21 @@ msgid ""
 "source of unwanted calls."
 msgstr ""
 
-#: app/presenters/p_phonenumber.php:448
+#: app/presenters/p_phonenumber.php:454
 msgid ""
 "Users were searching for this number very often recently also here on our "
 "pages, which can be a sing of some telemarketing company or call centre "
 "using it. Be aware if this number call you."
 msgstr ""
 
-#: app/presenters/p_phonenumber.php:449
+#: app/presenters/p_phonenumber.php:455
 msgid ""
 "Even the number has no review actually it was searched many time in last few "
 "days. It probably doesn't belong to some individual and is widely used by "
 "some telemarketing company, it can be unsolicited call for you."
 msgstr ""
 
-#: app/presenters/p_phonenumber.php:450
+#: app/presenters/p_phonenumber.php:456
 msgid ""
 "This number was frequently searched during last couple of days. It is very "
 "likely used for telemarketing actions and doesn't belong to a private "
@@ -539,7 +539,7 @@ msgstr ""
 #: app/repositories/r_reviews.php:152
 #: app/templates/phonenumber/defaultAmp.tpl:573
 #: app/templates/phonenumber/defaultDefault.tpl:587
-#: app/templates/phonenumber/defaultModerator.tpl:465
+#: app/templates/phonenumber/defaultModerator.tpl:595
 #: app/templates/phonenumber/defaultNew.tpl:570
 #: app/templates/phonenumber/defaultNext.tpl:655
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:586
@@ -842,7 +842,7 @@ msgid "Please fill the issue description"
 msgstr ""
 
 #: app/templates/compatibility/default.tpl:202
-#: app/templates/phonenumber/defaultModerator.tpl:234
+#: app/templates/phonenumber/defaultModerator.tpl:378
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:385
 #: app/templates/removalrequest/default.tpl:202
 msgid "Email"
@@ -1026,8 +1026,9 @@ msgstr "Utolsó értékelés "
 #: app/templates/phonenumber/defaultAmp.tpl:335
 #: app/templates/phonenumber/defaultDefault.tpl:113
 #: app/templates/phonenumber/defaultDefault.tpl:316
-#: app/templates/phonenumber/defaultModerator.tpl:63
-#: app/templates/phonenumber/defaultModerator.tpl:201
+#: app/templates/phonenumber/defaultModerator.tpl:113
+#: app/templates/phonenumber/defaultModerator.tpl:150
+#: app/templates/phonenumber/defaultModerator.tpl:345
 #: app/templates/phonenumber/defaultNew.tpl:144
 #: app/templates/phonenumber/defaultNew.tpl:181
 #: app/templates/phonenumber/defaultNew.tpl:332
@@ -1045,8 +1046,9 @@ msgstr "pozitív"
 #: app/templates/phonenumber/defaultAmp.tpl:337
 #: app/templates/phonenumber/defaultDefault.tpl:112
 #: app/templates/phonenumber/defaultDefault.tpl:318
-#: app/templates/phonenumber/defaultModerator.tpl:62
-#: app/templates/phonenumber/defaultModerator.tpl:203
+#: app/templates/phonenumber/defaultModerator.tpl:112
+#: app/templates/phonenumber/defaultModerator.tpl:153
+#: app/templates/phonenumber/defaultModerator.tpl:347
 #: app/templates/phonenumber/defaultNew.tpl:143
 #: app/templates/phonenumber/defaultNew.tpl:184
 #: app/templates/phonenumber/defaultNew.tpl:334
@@ -1064,8 +1066,9 @@ msgstr "negatív"
 #: app/templates/phonenumber/defaultAmp.tpl:336
 #: app/templates/phonenumber/defaultDefault.tpl:111
 #: app/templates/phonenumber/defaultDefault.tpl:317
-#: app/templates/phonenumber/defaultModerator.tpl:61
-#: app/templates/phonenumber/defaultModerator.tpl:202
+#: app/templates/phonenumber/defaultModerator.tpl:111
+#: app/templates/phonenumber/defaultModerator.tpl:156
+#: app/templates/phonenumber/defaultModerator.tpl:346
 #: app/templates/phonenumber/defaultNew.tpl:142
 #: app/templates/phonenumber/defaultNew.tpl:187
 #: app/templates/phonenumber/defaultNew.tpl:333
@@ -1551,7 +1554,7 @@ msgstr ""
 #: app/templates/mobilemanual/8.tpl:228
 #: app/templates/phonenumber/defaultAmp.tpl:422
 #: app/templates/phonenumber/defaultDefault.tpl:426
-#: app/templates/phonenumber/defaultModerator.tpl:311
+#: app/templates/phonenumber/defaultModerator.tpl:455
 #: app/templates/phonenumber/defaultNew.tpl:419
 #: app/templates/phonenumber/defaultNext.tpl:497
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:462
@@ -1561,7 +1564,7 @@ msgstr " Negatív Értékelés"
 #: app/templates/mobilemanual/8.tpl:229
 #: app/templates/phonenumber/defaultAmp.tpl:426
 #: app/templates/phonenumber/defaultDefault.tpl:430
-#: app/templates/phonenumber/defaultModerator.tpl:315
+#: app/templates/phonenumber/defaultModerator.tpl:459
 #: app/templates/phonenumber/defaultNew.tpl:423
 #: app/templates/phonenumber/defaultNext.tpl:501
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:466
@@ -1571,7 +1574,7 @@ msgstr "semleges Értékelés"
 #: app/templates/mobilemanual/8.tpl:230
 #: app/templates/phonenumber/defaultAmp.tpl:418
 #: app/templates/phonenumber/defaultDefault.tpl:422
-#: app/templates/phonenumber/defaultModerator.tpl:307
+#: app/templates/phonenumber/defaultModerator.tpl:451
 #: app/templates/phonenumber/defaultNew.tpl:415
 #: app/templates/phonenumber/defaultNext.tpl:493
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:458
@@ -2369,7 +2372,7 @@ msgstr ""
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:23
 #: app/templates/phonenumber/defaultAmp.tpl:24
 #: app/templates/phonenumber/defaultDefault.tpl:21
-#: app/templates/phonenumber/defaultModerator.tpl:20
+#: app/templates/phonenumber/defaultModerator.tpl:21
 #: app/templates/phonenumber/defaultNew.tpl:21
 #: app/templates/phonenumber/defaultNext.tpl:20
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:26
@@ -2380,7 +2383,7 @@ msgstr "Ki hívott a telefonszámról %s ?"
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:24
 #: app/templates/phonenumber/defaultAmp.tpl:25
 #: app/templates/phonenumber/defaultDefault.tpl:23
-#: app/templates/phonenumber/defaultModerator.tpl:21
+#: app/templates/phonenumber/defaultModerator.tpl:22
 #: app/templates/phonenumber/defaultNew.tpl:22
 #: app/templates/phonenumber/defaultNext.tpl:22
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:27
@@ -2395,7 +2398,7 @@ msgstr ""
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:54
 #: app/templates/phonenumber/defaultAmp.tpl:135
 #: app/templates/phonenumber/defaultDefault.tpl:101
-#: app/templates/phonenumber/defaultModerator.tpl:38
+#: app/templates/phonenumber/defaultModerator.tpl:87
 #: app/templates/phonenumber/defaultNew.tpl:132
 #: app/templates/phonenumber/defaultNext.tpl:216
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:63
@@ -2432,7 +2435,7 @@ msgstr ""
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:76
 #: app/templates/phonenumber/defaultDefault.tpl:629
-#: app/templates/phonenumber/defaultModerator.tpl:500
+#: app/templates/phonenumber/defaultModerator.tpl:625
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:628
 #, php-format
 msgid "Possible <strong>formats</strong> of the  %s"
@@ -2441,7 +2444,7 @@ msgstr "Tudgya írni a számot '% s'"
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:95
 #: app/templates/phonenumber/defaultAmp.tpl:631
 #: app/templates/phonenumber/defaultDefault.tpl:652
-#: app/templates/phonenumber/defaultModerator.tpl:521
+#: app/templates/phonenumber/defaultModerator.tpl:646
 #: app/templates/phonenumber/defaultNew.tpl:628
 #: app/templates/phonenumber/defaultNext.tpl:720
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:647
@@ -2457,42 +2460,49 @@ msgid "We have details about phone number %s. "
 msgstr ""
 
 #: app/templates/phonenumber/defaultAmp.tpl:167
+#: app/templates/phonenumber/defaultModerator.tpl:133
 #: app/templates/phonenumber/defaultNew.tpl:164
 #: app/templates/phonenumber/defaultNext.tpl:247
 msgid "ratings"
 msgstr ""
 
 #: app/templates/phonenumber/defaultAmp.tpl:168
+#: app/templates/phonenumber/defaultModerator.tpl:134
 #: app/templates/phonenumber/defaultNew.tpl:165
 #: app/templates/phonenumber/defaultNext.tpl:248
 msgid "reviews"
 msgstr ""
 
 #: app/templates/phonenumber/defaultAmp.tpl:169
+#: app/templates/phonenumber/defaultModerator.tpl:135
 #: app/templates/phonenumber/defaultNew.tpl:166
 #: app/templates/phonenumber/defaultNext.tpl:249
 msgid "no ratings"
 msgstr ""
 
 #: app/templates/phonenumber/defaultAmp.tpl:170
+#: app/templates/phonenumber/defaultModerator.tpl:136
 #: app/templates/phonenumber/defaultNew.tpl:167
 #: app/templates/phonenumber/defaultNext.tpl:250
 msgid "no reviews"
 msgstr ""
 
 #: app/templates/phonenumber/defaultAmp.tpl:171
+#: app/templates/phonenumber/defaultModerator.tpl:137
 #: app/templates/phonenumber/defaultNew.tpl:168
 #: app/templates/phonenumber/defaultNext.tpl:251
 msgid "single rating"
 msgstr ""
 
 #: app/templates/phonenumber/defaultAmp.tpl:172
+#: app/templates/phonenumber/defaultModerator.tpl:138
 #: app/templates/phonenumber/defaultNew.tpl:169
 #: app/templates/phonenumber/defaultNext.tpl:252
 msgid "single review"
 msgstr ""
 
 #: app/templates/phonenumber/defaultAmp.tpl:173
+#: app/templates/phonenumber/defaultModerator.tpl:139
 #: app/templates/phonenumber/defaultNew.tpl:170
 #: app/templates/phonenumber/defaultNext.tpl:253
 #, php-format
@@ -2500,6 +2510,7 @@ msgid "We have %s and %s for this phone number."
 msgstr ""
 
 #: app/templates/phonenumber/defaultAmp.tpl:198
+#: app/templates/phonenumber/defaultModerator.tpl:164
 #: app/templates/phonenumber/defaultNew.tpl:195
 #: app/templates/phonenumber/defaultNext.tpl:277
 #, php-format
@@ -2507,6 +2518,7 @@ msgid "Single user marked it with %s rating"
 msgstr ""
 
 #: app/templates/phonenumber/defaultAmp.tpl:200
+#: app/templates/phonenumber/defaultModerator.tpl:166
 #: app/templates/phonenumber/defaultNew.tpl:197
 #: app/templates/phonenumber/defaultNext.tpl:279
 #, php-format
@@ -2514,12 +2526,14 @@ msgid "%s users marked it with %s rating"
 msgstr ""
 
 #: app/templates/phonenumber/defaultAmp.tpl:203
+#: app/templates/phonenumber/defaultModerator.tpl:169
 #: app/templates/phonenumber/defaultNew.tpl:200
 #: app/templates/phonenumber/defaultNext.tpl:282
 msgid "and"
 msgstr ""
 
 #: app/templates/phonenumber/defaultAmp.tpl:207
+#: app/templates/phonenumber/defaultModerator.tpl:173
 #: app/templates/phonenumber/defaultNew.tpl:204
 #: app/templates/phonenumber/defaultNext.tpl:286
 #, php-format
@@ -2527,6 +2541,7 @@ msgid "single user with %s rating"
 msgstr ""
 
 #: app/templates/phonenumber/defaultAmp.tpl:209
+#: app/templates/phonenumber/defaultModerator.tpl:175
 #: app/templates/phonenumber/defaultNew.tpl:206
 #: app/templates/phonenumber/defaultNext.tpl:288
 #, php-format
@@ -2534,6 +2549,7 @@ msgid "%s users with %s rating"
 msgstr ""
 
 #: app/templates/phonenumber/defaultAmp.tpl:265
+#: app/templates/phonenumber/defaultModerator.tpl:231
 #: app/templates/phonenumber/defaultNew.tpl:262
 #: app/templates/phonenumber/defaultNext.tpl:340
 #, php-format
@@ -2555,7 +2571,7 @@ msgstr ""
 
 #: app/templates/phonenumber/defaultAmp.tpl:319
 #: app/templates/phonenumber/defaultDefault.tpl:300
-#: app/templates/phonenumber/defaultModerator.tpl:185
+#: app/templates/phonenumber/defaultModerator.tpl:328
 #: app/templates/phonenumber/defaultNew.tpl:316
 #: app/templates/phonenumber/defaultNext.tpl:395
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:336
@@ -2564,7 +2580,7 @@ msgstr "Kattintson ide, hogy megmutassuk a kiértékelő nyomtatványt"
 
 #: app/templates/phonenumber/defaultAmp.tpl:332
 #: app/templates/phonenumber/defaultDefault.tpl:313
-#: app/templates/phonenumber/defaultModerator.tpl:198
+#: app/templates/phonenumber/defaultModerator.tpl:342
 #: app/templates/phonenumber/defaultNew.tpl:329
 #: app/templates/phonenumber/defaultNext.tpl:407
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:349
@@ -2573,7 +2589,7 @@ msgstr "Kiértékelés"
 
 #: app/templates/phonenumber/defaultAmp.tpl:334
 #: app/templates/phonenumber/defaultDefault.tpl:315
-#: app/templates/phonenumber/defaultModerator.tpl:200
+#: app/templates/phonenumber/defaultModerator.tpl:344
 #: app/templates/phonenumber/defaultNew.tpl:331
 #: app/templates/phonenumber/defaultNext.tpl:409
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:351
@@ -2582,7 +2598,7 @@ msgstr "Válasszon értékelést"
 
 #: app/templates/phonenumber/defaultAmp.tpl:340
 #: app/templates/phonenumber/defaultDefault.tpl:321
-#: app/templates/phonenumber/defaultModerator.tpl:206
+#: app/templates/phonenumber/defaultModerator.tpl:350
 #: app/templates/phonenumber/defaultNew.tpl:337
 #: app/templates/phonenumber/defaultNext.tpl:415
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:357
@@ -2591,7 +2607,7 @@ msgstr "Kérjük, válasszon értékelést!"
 
 #: app/templates/phonenumber/defaultAmp.tpl:346
 #: app/templates/phonenumber/defaultDefault.tpl:327
-#: app/templates/phonenumber/defaultModerator.tpl:212
+#: app/templates/phonenumber/defaultModerator.tpl:356
 #: app/templates/phonenumber/defaultNew.tpl:343
 #: app/templates/phonenumber/defaultNext.tpl:421
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:363
@@ -2600,7 +2616,7 @@ msgstr "Kategória"
 
 #: app/templates/phonenumber/defaultAmp.tpl:348
 #: app/templates/phonenumber/defaultDefault.tpl:329
-#: app/templates/phonenumber/defaultModerator.tpl:214
+#: app/templates/phonenumber/defaultModerator.tpl:358
 #: app/templates/phonenumber/defaultNew.tpl:345
 #: app/templates/phonenumber/defaultNext.tpl:423
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:365
@@ -2610,7 +2626,7 @@ msgstr "Válasszon kategóriát"
 
 #: app/templates/phonenumber/defaultAmp.tpl:358
 #: app/templates/phonenumber/defaultDefault.tpl:339
-#: app/templates/phonenumber/defaultModerator.tpl:224
+#: app/templates/phonenumber/defaultModerator.tpl:368
 #: app/templates/phonenumber/defaultNew.tpl:355
 #: app/templates/phonenumber/defaultNext.tpl:433
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:375
@@ -2621,8 +2637,8 @@ msgstr "Kérjük, válasszon kategóriát!"
 #: app/templates/phonenumber/defaultAmp.tpl:663
 #: app/templates/phonenumber/defaultDefault.tpl:347
 #: app/templates/phonenumber/defaultDefault.tpl:702
-#: app/templates/phonenumber/defaultModerator.tpl:232
-#: app/templates/phonenumber/defaultModerator.tpl:558
+#: app/templates/phonenumber/defaultModerator.tpl:376
+#: app/templates/phonenumber/defaultModerator.tpl:683
 #: app/templates/phonenumber/defaultNew.tpl:363
 #: app/templates/phonenumber/defaultNew.tpl:660
 #: app/templates/phonenumber/defaultNext.tpl:441
@@ -2634,7 +2650,7 @@ msgstr "Név"
 
 #: app/templates/phonenumber/defaultAmp.tpl:367
 #: app/templates/phonenumber/defaultDefault.tpl:348
-#: app/templates/phonenumber/defaultModerator.tpl:233
+#: app/templates/phonenumber/defaultModerator.tpl:377
 #: app/templates/phonenumber/defaultNew.tpl:364
 #: app/templates/phonenumber/defaultNext.tpl:442
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:384
@@ -2643,7 +2659,7 @@ msgstr "név vagy becenév"
 
 #: app/templates/phonenumber/defaultAmp.tpl:370
 #: app/templates/phonenumber/defaultDefault.tpl:351
-#: app/templates/phonenumber/defaultModerator.tpl:239
+#: app/templates/phonenumber/defaultModerator.tpl:383
 #: app/templates/phonenumber/defaultNew.tpl:367
 #: app/templates/phonenumber/defaultNext.tpl:445
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:390
@@ -2652,7 +2668,7 @@ msgstr "Kérjük, adja meg a nevét vagy a becenevét!"
 
 #: app/templates/phonenumber/defaultAmp.tpl:376
 #: app/templates/phonenumber/defaultDefault.tpl:357
-#: app/templates/phonenumber/defaultModerator.tpl:245
+#: app/templates/phonenumber/defaultModerator.tpl:389
 #: app/templates/phonenumber/defaultNew.tpl:373
 #: app/templates/phonenumber/defaultNext.tpl:451
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:396
@@ -2661,7 +2677,7 @@ msgstr "Cím"
 
 #: app/templates/phonenumber/defaultAmp.tpl:377
 #: app/templates/phonenumber/defaultDefault.tpl:358
-#: app/templates/phonenumber/defaultModerator.tpl:246
+#: app/templates/phonenumber/defaultModerator.tpl:390
 #: app/templates/phonenumber/defaultNew.tpl:374
 #: app/templates/phonenumber/defaultNext.tpl:452
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:397
@@ -2672,8 +2688,8 @@ msgstr "Cím (nem kötelező)"
 #: app/templates/phonenumber/defaultAmp.tpl:668
 #: app/templates/phonenumber/defaultDefault.tpl:363
 #: app/templates/phonenumber/defaultDefault.tpl:707
-#: app/templates/phonenumber/defaultModerator.tpl:251
-#: app/templates/phonenumber/defaultModerator.tpl:563
+#: app/templates/phonenumber/defaultModerator.tpl:395
+#: app/templates/phonenumber/defaultModerator.tpl:688
 #: app/templates/phonenumber/defaultNew.tpl:379
 #: app/templates/phonenumber/defaultNew.tpl:665
 #: app/templates/phonenumber/defaultNext.tpl:457
@@ -2685,7 +2701,7 @@ msgstr "Megjegyzés"
 
 #: app/templates/phonenumber/defaultAmp.tpl:383
 #: app/templates/phonenumber/defaultDefault.tpl:364
-#: app/templates/phonenumber/defaultModerator.tpl:252
+#: app/templates/phonenumber/defaultModerator.tpl:396
 #: app/templates/phonenumber/defaultNew.tpl:380
 #: app/templates/phonenumber/defaultNext.tpl:458
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:403
@@ -2694,7 +2710,7 @@ msgstr "írja meg saját kommentárját"
 
 #: app/templates/phonenumber/defaultAmp.tpl:386
 #: app/templates/phonenumber/defaultDefault.tpl:367
-#: app/templates/phonenumber/defaultModerator.tpl:255
+#: app/templates/phonenumber/defaultModerator.tpl:399
 #: app/templates/phonenumber/defaultNew.tpl:383
 #: app/templates/phonenumber/defaultNext.tpl:461
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:406
@@ -2703,7 +2719,7 @@ msgstr "Kérjük, írja be saját kommentárját!"
 
 #: app/templates/phonenumber/defaultAmp.tpl:393
 #: app/templates/phonenumber/defaultDefault.tpl:374
-#: app/templates/phonenumber/defaultModerator.tpl:262
+#: app/templates/phonenumber/defaultModerator.tpl:406
 #: app/templates/phonenumber/defaultNew.tpl:390
 #: app/templates/phonenumber/defaultNext.tpl:468
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:413
@@ -2712,7 +2728,7 @@ msgstr " értékeléseket küld"
 
 #: app/templates/phonenumber/defaultAmp.tpl:460
 #: app/templates/phonenumber/defaultDefault.tpl:463
-#: app/templates/phonenumber/defaultModerator.tpl:349
+#: app/templates/phonenumber/defaultModerator.tpl:493
 #: app/templates/phonenumber/defaultNew.tpl:457
 #: app/templates/phonenumber/defaultNext.tpl:534
 msgid "owner"
@@ -2720,7 +2736,7 @@ msgstr ""
 
 #: app/templates/phonenumber/defaultAmp.tpl:461
 #: app/templates/phonenumber/defaultDefault.tpl:464
-#: app/templates/phonenumber/defaultModerator.tpl:350
+#: app/templates/phonenumber/defaultModerator.tpl:494
 #: app/templates/phonenumber/defaultNew.tpl:458
 #: app/templates/phonenumber/defaultNext.tpl:535
 msgid "moderator"
@@ -2728,7 +2744,7 @@ msgstr ""
 
 #: app/templates/phonenumber/defaultAmp.tpl:462
 #: app/templates/phonenumber/defaultDefault.tpl:465
-#: app/templates/phonenumber/defaultModerator.tpl:351
+#: app/templates/phonenumber/defaultModerator.tpl:495
 #: app/templates/phonenumber/defaultNew.tpl:459
 #: app/templates/phonenumber/defaultNext.tpl:536
 msgid "censored"
@@ -2736,7 +2752,7 @@ msgstr ""
 
 #: app/templates/phonenumber/defaultAmp.tpl:463
 #: app/templates/phonenumber/defaultDefault.tpl:466
-#: app/templates/phonenumber/defaultModerator.tpl:352
+#: app/templates/phonenumber/defaultModerator.tpl:496
 #: app/templates/phonenumber/defaultNew.tpl:460
 #: app/templates/phonenumber/defaultNext.tpl:537
 msgid "system"
@@ -2744,7 +2760,7 @@ msgstr ""
 
 #: app/templates/phonenumber/defaultAmp.tpl:469
 #: app/templates/phonenumber/defaultDefault.tpl:472
-#: app/templates/phonenumber/defaultModerator.tpl:358
+#: app/templates/phonenumber/defaultModerator.tpl:502
 #: app/templates/phonenumber/defaultNew.tpl:466
 #: app/templates/phonenumber/defaultNext.tpl:543
 msgid "featured"
@@ -2752,7 +2768,7 @@ msgstr ""
 
 #: app/templates/phonenumber/defaultAmp.tpl:482
 #: app/templates/phonenumber/defaultDefault.tpl:487
-#: app/templates/phonenumber/defaultModerator.tpl:374
+#: app/templates/phonenumber/defaultModerator.tpl:515
 #: app/templates/phonenumber/defaultNew.tpl:479
 #: app/templates/phonenumber/defaultNext.tpl:558
 msgid "This comment has been removed because violated terms of use"
@@ -2762,8 +2778,8 @@ msgstr ""
 #: app/templates/phonenumber/defaultAmp.tpl:533
 #: app/templates/phonenumber/defaultDefault.tpl:495
 #: app/templates/phonenumber/defaultDefault.tpl:543
-#: app/templates/phonenumber/defaultModerator.tpl:380
-#: app/templates/phonenumber/defaultModerator.tpl:432
+#: app/templates/phonenumber/defaultModerator.tpl:521
+#: app/templates/phonenumber/defaultModerator.tpl:566
 #: app/templates/phonenumber/defaultNew.tpl:485
 #: app/templates/phonenumber/defaultNew.tpl:530
 #: app/templates/phonenumber/defaultNext.tpl:563
@@ -2778,8 +2794,8 @@ msgstr "Egyetért"
 #: app/templates/phonenumber/defaultAmp.tpl:538
 #: app/templates/phonenumber/defaultDefault.tpl:502
 #: app/templates/phonenumber/defaultDefault.tpl:550
-#: app/templates/phonenumber/defaultModerator.tpl:387
-#: app/templates/phonenumber/defaultModerator.tpl:439
+#: app/templates/phonenumber/defaultModerator.tpl:526
+#: app/templates/phonenumber/defaultModerator.tpl:571
 #: app/templates/phonenumber/defaultNew.tpl:490
 #: app/templates/phonenumber/defaultNew.tpl:535
 #: app/templates/phonenumber/defaultNext.tpl:570
@@ -2792,7 +2808,7 @@ msgstr "Nem ért egyet"
 
 #: app/templates/phonenumber/defaultAmp.tpl:499
 #: app/templates/phonenumber/defaultDefault.tpl:510
-#: app/templates/phonenumber/defaultModerator.tpl:395
+#: app/templates/phonenumber/defaultModerator.tpl:532
 #: app/templates/phonenumber/defaultNew.tpl:496
 #: app/templates/phonenumber/defaultNext.tpl:578
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:523
@@ -2803,8 +2819,8 @@ msgstr "Hozzászólások"
 #: app/templates/phonenumber/defaultAmp.tpl:659
 #: app/templates/phonenumber/defaultDefault.tpl:517
 #: app/templates/phonenumber/defaultDefault.tpl:698
-#: app/templates/phonenumber/defaultModerator.tpl:402
-#: app/templates/phonenumber/defaultModerator.tpl:554
+#: app/templates/phonenumber/defaultModerator.tpl:540
+#: app/templates/phonenumber/defaultModerator.tpl:679
 #: app/templates/phonenumber/defaultNew.tpl:504
 #: app/templates/phonenumber/defaultNew.tpl:656
 #: app/templates/phonenumber/defaultNext.tpl:585
@@ -2818,8 +2834,8 @@ msgstr "Szóljon hozzá"
 #: app/templates/phonenumber/defaultAmp.tpl:543
 #: app/templates/phonenumber/defaultDefault.tpl:523
 #: app/templates/phonenumber/defaultDefault.tpl:557
-#: app/templates/phonenumber/defaultModerator.tpl:408
-#: app/templates/phonenumber/defaultModerator.tpl:446
+#: app/templates/phonenumber/defaultModerator.tpl:546
+#: app/templates/phonenumber/defaultModerator.tpl:576
 #: app/templates/phonenumber/defaultNew.tpl:510
 #: app/templates/phonenumber/defaultNew.tpl:540
 #: app/templates/phonenumber/defaultNext.tpl:591
@@ -2841,7 +2857,7 @@ msgstr "Hogyan tiltsa le ezt a számot?"
 
 #: app/templates/phonenumber/defaultAmp.tpl:673
 #: app/templates/phonenumber/defaultDefault.tpl:712
-#: app/templates/phonenumber/defaultModerator.tpl:568
+#: app/templates/phonenumber/defaultModerator.tpl:693
 #: app/templates/phonenumber/defaultNew.tpl:670
 #: app/templates/phonenumber/defaultNext.tpl:775
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:709
@@ -2850,7 +2866,7 @@ msgstr "Beküldése"
 
 #: app/templates/phonenumber/defaultAmp.tpl:814
 #: app/templates/phonenumber/defaultDefault.tpl:850
-#: app/templates/phonenumber/defaultModerator.tpl:706
+#: app/templates/phonenumber/defaultModerator.tpl:831
 #: app/templates/phonenumber/defaultNew.tpl:812
 #: app/templates/phonenumber/defaultNext.tpl:915
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:841
@@ -2859,7 +2875,7 @@ msgstr "Kérjük, adja meg nevét vagy nick"
 
 #: app/templates/phonenumber/defaultAmp.tpl:820
 #: app/templates/phonenumber/defaultDefault.tpl:856
-#: app/templates/phonenumber/defaultModerator.tpl:712
+#: app/templates/phonenumber/defaultModerator.tpl:837
 #: app/templates/phonenumber/defaultNew.tpl:818
 #: app/templates/phonenumber/defaultNext.tpl:921
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:847
@@ -2871,13 +2887,11 @@ msgid "Actualization"
 msgstr ""
 
 #: app/templates/phonenumber/defaultDefault.tpl:137
-#: app/templates/phonenumber/defaultModerator.tpl:81
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:92
 msgid "Details"
 msgstr ""
 
 #: app/templates/phonenumber/defaultDefault.tpl:143
-#: app/templates/phonenumber/defaultModerator.tpl:87
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:98
 msgid "You rating can help the others to be informed about this number."
 msgstr "Értékelésed segít másoknak és add informaciót  erről a telefonszámról"
@@ -2922,19 +2936,19 @@ msgid ""
 msgstr ""
 
 #: app/templates/phonenumber/defaultDefault.tpl:297
-#: app/templates/phonenumber/defaultModerator.tpl:182
+#: app/templates/phonenumber/defaultModerator.tpl:324
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:333
 msgid "Add Your <strong>rating</strong>"
 msgstr "Adja hozzá a hitelminősítőt"
 
 #: app/templates/phonenumber/defaultDefault.tpl:383
-#: app/templates/phonenumber/defaultModerator.tpl:271
+#: app/templates/phonenumber/defaultModerator.tpl:415
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:422
 msgid "Phone number <strong>ratings</strong>"
 msgstr " Telefonszám értékelések "
 
 #: app/templates/phonenumber/defaultDefault.tpl:400
-#: app/templates/phonenumber/defaultModerator.tpl:284
+#: app/templates/phonenumber/defaultModerator.tpl:428
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:435
 #, php-format
 msgid "This phone number has %s reviews with average rating \"%s\"."
@@ -2943,12 +2957,11 @@ msgstr ""
 "% s."
 
 #: app/templates/phonenumber/defaultDefault.tpl:612
-#: app/templates/phonenumber/defaultModerator.tpl:483
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:611
 msgid "Report ownership of this number or untruthful information presented."
 msgstr ""
 
-#: app/templates/phonenumber/defaultModerator.tpl:235
+#: app/templates/phonenumber/defaultModerator.tpl:379
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:386
 msgid "email (optional)"
 msgstr "e-mail (nem kötelező)"
