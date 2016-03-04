@@ -286,9 +286,13 @@
     <string name="Contact_x">Contact %s</string>
     <string name="Install">Installer</string>
     <string name="Phone_Number_Hint_New">Vous pouvez évaluer groupe de numéros en utilisant le *. Par exemple: 800* aura définir une règle pour tous les appels à partir de la étendue 800*.</string>
+<<<<<<< HEAD
     <string name="Report_Issue">Report Issue</string>
     <string name="Please_Enter_The_Issue_Description_Here">Please Enter The Issue Description Here! If you can communicate in English! Thank you!</string>
     <string name="Required_Community_Ratings_To_Block">Required Community Ratings To Block</string>
     <string name="DISABLED">DISABLED</string>
 
 </resources>
+=======
+</resources>
+>>>>>>> origin/master
