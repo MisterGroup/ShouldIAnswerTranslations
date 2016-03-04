@@ -80,7 +80,7 @@
     <string name="Neutral">Neutre</string>
     <string name="Send_Logs_to_Developer">Envoyer les journaux aux développeurs</string>
     <string name="Drag_me_for_better_positioning">Glissez-moi pour une meilleure position</string>
-	<string name="Service_is_temporarily_unavailable">Le service est temporairement indisponible ! Réessayez plus tard !</string>
+    <string name="Service_is_temporarily_unavailable">Le service est temporairement indisponible ! Réessayez plus tard !</string>
     <string name="For_receiving_user_reviews_we_need_to_send">Pour recevoir des avis d\'utilisateurs nous devons envoyer le numéro de téléphone correspondant sur notre serveur. Êtes-vous d\'accord pour envoyer des numéros ?</string>
     <string name="Agree">Accorder</string>
     <string name="Disagree">Refuser</string>
@@ -144,7 +144,7 @@
     <string name="Show_aftercall_information">Afficher des informations après l\'appel</string>
     <string name="Allow_Access_To_Call_Info">Permettre l\'accès à info d\'appel</string>
     <string name="Allow_Access_To_Contacts">Permettre l\'accès à contacts</string>
-    <string name="Allow_Create_System_Overlays">Permettre création du système de superposition</string>
+    <string name="Allow_Create_System_Overlays">Permettre la création du système de superposition</string>
     <string name="Fix_Contacts_Issues">Corriger le problème avec les contacts</string>
     <string name="We_Are_Using_contacts_for_whitelisting">Nous utilisons des contacts pour la liste blanche, mais nous ne pouvons pas les trouver dans votre téléphone. Si vous avez des contacts stockés sur votre téléphone et vous ne savez pas pourquoi l\'application ne peut pas y accéder, veuillez contacter notre support.</string>
     <string name="Unaccessible_Contacts">Contacts non disponibles</string>
@@ -195,7 +195,7 @@
     <string name="Number">Numéro</string>
     <string name="Rate">Évaluer</string>
     <string name="Reviews">Commentaires</string>
-    <string name="Your_Ratings">Votre évaluations</string>
+    <string name="Your_Ratings">Vos évaluations</string>
     <string name="Push_the_RATE_button_to_add_your_rating">Appuyez sur le bouton ÉVALUER pour ajouter votre évaluation.</string>
     <string name="Community_Reviews">Commentaires des utilisateurs</string>
     <string name="You_have_disabled_automatic_reviews_info">Vous avez désactivé le chargement automatique des commentaires du serveur. Appuyez sur \'COMMENTAIRES\' pour voir les commentaires des autres utilisateurs. Chargement automatique des commentaires peut être activées dans les Paramètres.</string>
@@ -286,9 +286,8 @@
     <string name="Contact_x">Contact %s</string>
     <string name="Install">Installer</string>
     <string name="Phone_Number_Hint_New">Vous pouvez évaluer groupe de numéros en utilisant le *. Par exemple: 800* aura définir une règle pour tous les appels à partir de la étendue 800*.</string>
-    <string name="Report_Issue">Report Issue</string>
-    <string name="Please_Enter_The_Issue_Description_Here">Please Enter The Issue Description Here! If you can communicate in English! Thank you!</string>
-    <string name="Required_Community_Ratings_To_Block">Required Community Ratings To Block</string>
-    <string name="DISABLED">DISABLED</string>
+    <string name="Report_Issue">Rapport d\'erreur</string>
+    <string name="Please_Enter_The_Issue_Description_Here">Veuillez entrer la description du problème ici ! Si vous pouvez communiquer en Anglais, merci !</string>
+    <string name="Required_Community_Ratings_To_Block">Évaluations communautaires requises pour bloquer</string>
+    <string name="DISABLED">DÉSACTIVÉ</string>
 </resources>
-
