@@ -261,7 +261,7 @@
     <string name="You_must_select_rating">Musisz wybrać ocenę</string>
     <string name="You_must_select_category">Musisz wybrać kategorię</string>
     <string name="Comment_is_too_short_">Komentarz jest zbyt krótki!</string>
-    <string name="Nick_is_too_short_">Pseudonim jest za krótki!</string>
+    <string name="Nick_is_too_short_">Podaj dłuższe imię lub pseudonim!</string>
     <string name="Blocked_call_from_negative_rated_number_x">Zablokowano połączenie przychodzące z numeru o negatywnej ocenie %s.</string>
     <string name="Blocked_call_to_negative_rated_number_x">Zablokowano połączenie wychodzące z numerem o negatywnej ocenie %s.</string>
     <string name="Pick_Contact">Wybierz kontakt</string>
@@ -286,7 +286,7 @@
     <string name="Data_Export_Email_Body">Twoje dane zostały dołączone do wiadomości e-mail. Aplikacja \'Odebrać telefon?\'</string>
     <string name="There_are_no_email_clients_installed">Brak klientów pocztowych w systemie.</string>
     <string name="Settings_successfully_imported_">Ustawienia zaimportowane!</string>
-    <string name="Invitation_not_finished_">Zaproszenie nie zakończyło się!</string>
+    <string name="Invitation_not_finished_">Wysłanie zaproszenia nie zostało zakończone!</string>
     <string name="Contact_x">Kontakt %s</string>
     <string name="Install">Instaluj</string>
     <string name="Phone_Number_Hint_New">Za pomocą znaku * można ocenić grupę numerów. Na przykład: wpisując frazę 800* ustawisz regułę dla wszystkich numerów zaczynających się 800xxxxxx.
