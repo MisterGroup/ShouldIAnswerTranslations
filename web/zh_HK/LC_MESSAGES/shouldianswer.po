@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: shouldianswer\n"
 "POT-Creation-Date: 2016-02-27 09:42+0100\n"
-"PO-Revision-Date: 2016-02-27 09:43+0100\n"
+"PO-Revision-Date: 2016-03-08 13:51+0100\n"
 "Last-Translator: \n"
 "Language-Team: topolar@gmail.com\n"
 "Language: zh_HK\n"
@@ -503,11 +503,11 @@ msgstr "問卷調查"
 
 #: repositories/r_reviews.php:106
 msgid "Company"
-msgstr ""
+msgstr "公司"
 
 #: repositories/r_reviews.php:107
 msgid "Service"
-msgstr ""
+msgstr "服務"
 
 #: repositories/r_reviews.php:108
 msgid "Other"
@@ -673,106 +673,107 @@ msgstr "管理員登入"
 
 #: templates/compatibility/default.tpl:16
 msgid "Phone App Compatibility"
-msgstr ""
+msgstr "手機應用程序兼容性"
 
 #: templates/compatibility/default.tpl:117
 msgid "Phone Compatibility Report"
-msgstr ""
+msgstr "手機兼容性報告"
 
 #: templates/compatibility/default.tpl:120
 msgid "Phone API version"
-msgstr ""
+msgstr "手機API版本"
 
 #: templates/compatibility/default.tpl:121
 msgid "App Version"
-msgstr ""
+msgstr "應用的版本"
 
 #: templates/compatibility/default.tpl:125
 msgid "Phone Manufacturer"
-msgstr ""
+msgstr "手機制造商"
 
 #: templates/compatibility/default.tpl:126
 msgid "Phone Model"
-msgstr ""
+msgstr "手機型號"
 
 #: templates/compatibility/default.tpl:130
 msgid "Contacts Support"
-msgstr ""
+msgstr "聯系人程序支持"
 
 #: templates/compatibility/default.tpl:131
 msgid "Auto Disconnect Support"
-msgstr ""
+msgstr "自動挂斷支持"
 
 #: templates/compatibility/default.tpl:136
 msgid "Are you experiencing any issue ?"
-msgstr ""
+msgstr "您經受如何問題嗎？"
 
 #: templates/compatibility/default.tpl:142
 msgid "Issue Type"
-msgstr ""
+msgstr "問題類型"
 
 #: templates/compatibility/default.tpl:143
 msgid "I didn't find any issue yet"
-msgstr ""
+msgstr "我还找不到如何问题。"
 
 #: templates/compatibility/default.tpl:145
 msgid "Hurray! We hope it stays like this ;-)"
-msgstr ""
+msgstr "好哇！我們希望不會出現如何問題。"
 
 #: templates/compatibility/default.tpl:147
 msgid "Alerts are not visible"
-msgstr ""
+msgstr "看不到警告"
 
 #: templates/compatibility/default.tpl:149
 msgid ""
 "Firstly the alerts are visible only for calls from/to phone numbers which "
 "are not stored in your phone contacts."
-msgstr ""
+msgstr "第一，警告隻能看得到在沒有存在聯系人來電致電的號碼。"
 
 #: templates/compatibility/default.tpl:150
 msgid ""
 "Secondly please be sure you did not stop our application by some memory "
 "optimizer or app killer."
-msgstr ""
+msgstr "第二，請看准您沒用內存優化或者殺手級應用來停止我們的應用。"
 
 #: templates/compatibility/default.tpl:151
 #: templates/compatibility/default.tpl:161
 msgid ""
 "Enable \"Show icon in status bar\" in app Settings and keep app icon in "
 "status bar."
-msgstr ""
+msgstr "在應用設置請啟用\"在狀態欄顯示圖標\"的功能，把應用圖標保存在狀態欄。"
 
 #: templates/compatibility/default.tpl:152
 #: templates/compatibility/default.tpl:162
 msgid ""
 "If you or some utility kills our service intentionally the icon disappears."
-msgstr ""
+msgstr "如果您或者其它程序故意地停止我們的應用，圖標會消失。"
 
 #: templates/compatibility/default.tpl:153
 msgid ""
 "If our service is running and you don't see alerts for unknown numbers, "
 "please try to disable the use of overlay in app Settings."
 msgstr ""
+"如果我們的服務在運行， 但是您看不到未知號碼的警告，請嘗試在應用設置停用覆蓋。"
 
 #: templates/compatibility/default.tpl:155
 msgid "Unwanted calls are not blocked"
-msgstr ""
+msgstr "不需要來的電話不被屏蔽的"
 
 #: templates/compatibility/default.tpl:158
 msgid "Your phone should support this feature."
-msgstr ""
+msgstr "您的手機應該支持這個功能。"
 
 #: templates/compatibility/default.tpl:159
 msgid ""
 "Check the “Block Rules” settings in your and also be sure you don't have the "
 "calling number stored in phone contacts."
-msgstr ""
+msgstr "在\"屏蔽规定\"´查您的设置，确定来电话号码不存在您的联系人。"
 
 #: templates/compatibility/default.tpl:160
 msgid ""
 "Please be sure you did not stop our application by some memory optimizer or "
 "app killer."
-msgstr ""
+msgstr "請確定您沒用優化或者殺手級應用來停止我們的應用。"
 
 #: templates/compatibility/default.tpl:163
 msgid ""
@@ -780,62 +781,66 @@ msgid ""
 "details: phone number which should be blocked and reason why you expect the "
 "blocking action."
 msgstr ""
+"如果我們的服務在運行，但是運行不太好，請您發給我們這些詳細：應該屏蔽的電話號"
+"碼，以及您希望屏蔽它的原因。"
 
 #: templates/compatibility/default.tpl:165
 msgid ""
 "Your phone doesn't support this feature. If you have some useful "
 "information, please fill it to Issue description."
-msgstr ""
+msgstr "您的手機不支持這個功能。如果您有有用的信心，請您在問題描述寫它。"
 
 #: templates/compatibility/default.tpl:168
 msgid "App cannot read contacts"
-msgstr ""
+msgstr "應用不能閱覽聯系人"
 
 #: templates/compatibility/default.tpl:171
 msgid "Please be sure you granted contacts access to our application."
-msgstr ""
+msgstr "請確定您允許我們的應用存取您的聯系人。"
 
 #: templates/compatibility/default.tpl:173
 msgid "Do you have idea why we don't have access to contacts?"
-msgstr ""
+msgstr "您知道為什麼我們不能接入您聯系人嗎？"
 
 #: templates/compatibility/default.tpl:174
 msgid "Are your contacts stored in some special way?"
-msgstr ""
+msgstr "恁用特别的方式存在您的联系人吗？"
 
 #: templates/compatibility/default.tpl:175
 msgid "Are you using some app for contact protection?"
-msgstr ""
+msgstr "您使用保戶聯系人的應用嗎？"
 
 #: templates/compatibility/default.tpl:176
 msgid "Let us know."
-msgstr ""
+msgstr "讓我們知道。"
 
 #: templates/compatibility/default.tpl:178
 msgid "Other issue"
-msgstr ""
+msgstr "其它問題"
 
 #: templates/compatibility/default.tpl:180
 msgid ""
 "Please explain your issue to description. More information you send, higher "
 "chance to catch and fix the bug."
 msgstr ""
+"請您在問題描述的表格介紹您的問題。您寫越多信息，就越好，因為有更大的機會找到"
+"和改正錯誤。"
 
 #: templates/compatibility/default.tpl:184
 msgid "Please select the issue type"
-msgstr ""
+msgstr "請選擇問題類型"
 
 #: templates/compatibility/default.tpl:191
 msgid "Issue description"
-msgstr ""
+msgstr "問題的描述"
 
 #: templates/compatibility/default.tpl:192
 msgid "Please explain in detail your issue. Thank you!"
-msgstr ""
+msgstr "請詳細地解釋您的問題。謝謝！"
 
 #: templates/compatibility/default.tpl:196
 msgid "Please fill the issue description"
-msgstr ""
+msgstr "請填問題的描述"
 
 #: templates/compatibility/default.tpl:202
 #: templates/phonenumber/defaultModerator.tpl:363
@@ -847,19 +852,19 @@ msgstr "電子郵件"
 #: templates/compatibility/default.tpl:203
 #: templates/removalrequest/default.tpl:203
 msgid "Please enter your email"
-msgstr ""
+msgstr "請輸入您的電子郵件"
 
 #: templates/compatibility/default.tpl:206
 #: templates/removalrequest/default.tpl:206
 msgid "Please enter your valid email"
-msgstr ""
+msgstr "請輸入你有效的電子郵件"
 
 #: templates/compatibility/default.tpl:212
 #: templates/removalrequest/default.tpl:237
 msgid ""
 "If possible please communicate in English language to speed up the request "
 "processing."
-msgstr ""
+msgstr "如果可能的話，請用英語跟我們溝通，這樣會加快您要求的處理。"
 
 #: templates/compatibility/default.tpl:213
 #: templates/removalrequest/default.tpl:238
@@ -867,30 +872,32 @@ msgid ""
 "If you have problems with submitting this form, please contact us to email "
 "<strong>support@shouldianswer.net</strong>."
 msgstr ""
+"如果您不能提交這個表格, 請用這個電子郵件<strong>support@shouldianswer.net</"
+"strong>跟我們聯系."
 
 #: templates/compatibility/default.tpl:217
 msgid "Send Issue Report"
-msgstr ""
+msgstr "發給問題的報告"
 
 #: templates/compatibility/submited.tpl:16
 msgid "Compatibility Issue Received"
-msgstr ""
+msgstr "收到了兼容性的問題"
 
 #: templates/compatibility/submited.tpl:23
 msgid "Phone Compatibility Issue"
-msgstr ""
+msgstr "手機兼容性問題"
 
 #: templates/compatibility/submited.tpl:25
 msgid "Your information has been succesfully send to our support team."
-msgstr ""
+msgstr "我們把您的信息成功地發給了我們的支持小組。"
 
 #: templates/compatibility/submited.tpl:26
 msgid "We will try to analyze it as soon as possible."
-msgstr ""
+msgstr "我們盡量快一點分析好。"
 
 #: templates/compatibility/submited.tpl:27
 msgid "Thank you for your help!"
-msgstr ""
+msgstr "謝謝您的幫助！"
 
 #: templates/contact/default.tpl:16 templates/contact/default.tpl:21
 #: templates/mobilemanual/8.tpl:579
@@ -1067,7 +1074,7 @@ msgstr "中立"
 
 #: templates/default/defaultNew.tpl:42
 msgid "<strong>Find</strong> who is calling you!"
-msgstr ""
+msgstr "<strong>知道</strong>誰在給您打電話！"
 
 #: templates/default/defaultNew.tpl:44 templates/layout_default.tpl:22
 #: templates/layout_default_ww.tpl:22
@@ -1081,7 +1088,7 @@ msgstr ""
 
 #: templates/default/defaultNew.tpl:49
 msgid "How to <strong>block</strong> unwanted numbers?"
-msgstr ""
+msgstr "怎麼 <strong>屏蔽</strong>不需要來的電話？"
 
 #: templates/default/defaultNew.tpl:151 templates/layout_default.tpl:84
 msgid "Dialing Codes"
@@ -1089,7 +1096,7 @@ msgstr "區號"
 
 #: templates/default/default_ww.tpl:39
 msgid "Our service is available in many countries with country specific domain"
-msgstr ""
+msgstr "我們的服務在許多國家可用，而且每個國家有自己的域名"
 
 #: templates/default/default_ww.tpl:118 templates/net/default.tpl:57
 msgid "How to block unwanted calls?"
@@ -1180,7 +1187,7 @@ msgstr "服務條款"
 #: templates/layout.tpl:272 templates/layoutAmp.tpl:240
 #: templates/layoutNew.tpl:262
 msgid "manual"
-msgstr ""
+msgstr "手冊"
 
 #: templates/layout.tpl:273 templates/layoutAmp.tpl:241
 #: templates/layoutNew.tpl:263
@@ -1199,7 +1206,7 @@ msgstr "hk.shouldianswer.net"
 
 #: templates/layout_default.tpl:27 templates/layout_defaultNew.tpl:20
 msgid "ShouldIAnswer Logo"
-msgstr ""
+msgstr "我應該接電話嗎 商標"
 
 #: templates/layout_default.tpl:40
 msgid "For Your <strong>Phone</strong>"
@@ -1360,11 +1367,11 @@ msgstr "用戶手冊"
 
 #: templates/mobilemanual/8.tpl:144
 msgid "Should I Answer Manual"
-msgstr ""
+msgstr "我應該接電話嗎的手冊"
 
 #: templates/mobilemanual/8.tpl:152 templates/mobilemanual/8.tpl:557
 msgid "Introduction"
-msgstr ""
+msgstr "介紹"
 
 #: templates/mobilemanual/8.tpl:154
 msgid ""
@@ -1374,14 +1381,17 @@ msgid ""
 "or expensive outgoing calls like call to premium number or call to a foreign "
 "country."
 msgstr ""
+"<b>我應該接電話嗎</b> (SIA)是免費的以社區為基礎的 安全應用，它是為了Android操"
+"作系統被設計的，我們的應用會保護您的手機，防止不需要來的電話、各種銷售電話或"
+"者不需要來昂貴的電話，比如付費專線電話或者致外國電話。"
 
 #: templates/mobilemanual/8.tpl:155
 msgid "This document describes features and user interface of version 8.x."
-msgstr ""
+msgstr "這份文件描述7.x版本的特征和用戶借口。"
 
 #: templates/mobilemanual/8.tpl:159
 msgid "It is developed by company Mister Group s.r.o."
-msgstr ""
+msgstr "Mister Group有限公司開發這個應用。"
 
 #: templates/mobilemanual/8.tpl:160
 msgid ""
@@ -1389,10 +1399,13 @@ msgid ""
 "feel free to contact our support via email <a href=\"mailto:"
 "support@shouldianswer.net\">support@shouldianswer.net</a>."
 msgstr ""
+"如果您有關於安裝、功能或者此公司的如何問題，請隨意通過電子郵件<a href="
+"\"mailto:support@shouldianswer.net\">support@shouldianswer.net</a>跟我們聯"
+"系。"
 
 #: templates/mobilemanual/8.tpl:165 templates/mobilemanual/8.tpl:559
 msgid "Installation"
-msgstr ""
+msgstr "安裝"
 
 #: templates/mobilemanual/8.tpl:167
 msgid ""
@@ -1401,10 +1414,13 @@ msgid ""
 "store/apps/details?id=org.mistergroup.muzutozvednout\">Google Play web page</"
 "a>."
 msgstr ""
+"優先安裝的方法是通過Google Play Store，您在您的手機或者在<a href=\"https://"
+"play.google.com/store/apps/details?id=org.mistergroup.muzutozvednout"
+"\">Google Play的網站</a>能找到它."
 
 #: templates/mobilemanual/8.tpl:168
 msgid "There is no other official distribution channel of installer APK."
-msgstr ""
+msgstr "沒有其它正式APK裝機的分銷渠道"
 
 #: templates/mobilemanual/8.tpl:169
 msgid ""
@@ -1412,138 +1428,145 @@ msgid ""
 "separately, feel free to contact us via our email <a href=\"mailto:"
 "support@shouldianswer.net\">support@shouldianswer.net</a>."
 msgstr ""
+"如果您無法使用Google Play安裝軟件，並且需要單獨的APK文件， 您可以隨時發郵件到"
+"<a href=\"mailto:support@shouldianswer.net\">support@shouldianswer.net</a>聯"
+"系我們。"
 
 #: templates/mobilemanual/8.tpl:174
 msgid "Main Features"
-msgstr ""
+msgstr "主要功能"
 
 #: templates/mobilemanual/8.tpl:176
 msgid "Easy check of phone numbers ratings in your Phone Call History."
-msgstr ""
+msgstr "在電話記錄能容易檢查電話的評級。"
 
 #: templates/mobilemanual/8.tpl:177
 msgid ""
 "Displaying ratings of incoming/outgoing call via special notification "
 "(Alert)."
-msgstr ""
+msgstr "通過特別的警告它顯示來電致電的評級 (警告)。"
 
 #: templates/mobilemanual/8.tpl:178
 msgid "Displaying after-call information with possibility to write own rating."
-msgstr ""
+msgstr "顯示電話以后的信息，同時您有機會寫您自己的評級。"
 
 #: templates/mobilemanual/8.tpl:179
 msgid "Flexible rating system."
-msgstr ""
+msgstr "靈活的評級體系"
 
 #: templates/mobilemanual/8.tpl:180
 msgid "Fully customizable alerts."
-msgstr ""
+msgstr "完全定制的警告。"
 
 #: templates/mobilemanual/8.tpl:181
 msgid "Optional automatic blocking of unwanted incoming/outgoing calls."
-msgstr ""
+msgstr "可選不需要來致電的自動屏蔽。"
 
 #: templates/mobilemanual/8.tpl:182
 msgid "Daily updated Community Database."
-msgstr ""
+msgstr "每天會更新共同體的數據庫。"
 
 #: templates/mobilemanual/8.tpl:188
 msgid "How it works"
-msgstr ""
+msgstr "怎麼工作"
 
 #: templates/mobilemanual/8.tpl:190
 msgid ""
 "When some number calls, application shows phone number rating via "
 "<strong>security rating notifications</strong> (Alerts)."
 msgstr ""
+"如果一個號碼致電給您，應用通過<strong>安全評價的通知</strong> (警告) 會顯示電"
+"話號碼的評價."
 
 #: templates/mobilemanual/8.tpl:191
 msgid ""
 "Each rating is based on reviews in Community Database, your Phone Contacts "
 "and your own ratings."
-msgstr ""
+msgstr "每個評價是基於共同體的數據庫、您的聯系人和您自己的評價。"
 
 #: templates/mobilemanual/8.tpl:192
 msgid ""
 "All above is combined into single <strong>POSITIVE, NEUTRAL, NEGATIVE or "
 "UNKNOWN</strong> rating."
 msgstr ""
+"上面提到的因素會融入唯一的<strong>正面、 中立、負面或者未知</strong>評價。"
 
 #: templates/mobilemanual/8.tpl:193
 msgid ""
 "How all the information sources will be combined is fully customizable in "
 "the <strong>RATINGS</strong> tab."
-msgstr ""
+msgstr "在<strong>評價</strong>標簽您可以完全定制信息來源顯示的方法。"
 
 #: templates/mobilemanual/8.tpl:194
 msgid ""
 "How and what alerts will be displayed can be configured in the "
 "<strong>ALERTS</strong> tab."
 msgstr ""
+"在<strong>警告</strong>標簽您可以配置哪些警告會顯示，也會配置警告顯示的方式。"
 
 #: templates/mobilemanual/8.tpl:195
 msgid ""
 "How the incoming/outgoing calls will be maintained and blocked can be "
 "configured in the <strong>BLOCKING</strong> tab."
-msgstr ""
+msgstr "在<strong>屏蔽</strong>標簽您可以選擇安定和屏蔽來致電的方式。"
 
 #: templates/mobilemanual/8.tpl:200 templates/mobilemanual/8.tpl:562
 msgid "User Interface"
-msgstr ""
+msgstr "用戶借口"
 
 #: templates/mobilemanual/8.tpl:205 templates/mobilemanual/8.tpl:564
 msgid "Summary"
-msgstr ""
+msgstr "總結"
 
 #: templates/mobilemanual/8.tpl:207
 msgid ""
 "This section contains the summary of basic protection statistics and "
 "statuses of application components."
-msgstr ""
+msgstr "這個部分包括基本保護統計的總結和應用組件的狀況。"
 
 #: templates/mobilemanual/8.tpl:208
 msgid ""
 "Protection statistics contains summary information of how many calls was "
 "checked and blocked, with figures for actual day/overall."
-msgstr ""
+msgstr "保护统计包括总结关于检查和屏蔽电话的数量，而且包括每天/一共的数字。"
 
 #: templates/mobilemanual/8.tpl:209
 msgid "Components statuses provides a short list of major components."
-msgstr ""
+msgstr "应用组件的状况给您提供一个短的主要组件单。"
 
 #: templates/mobilemanual/8.tpl:210
 msgid ""
 "Component with some issue is marked by red exclamation mark. In such "
 "situation a button for fixing the issue below the components list will be "
 "provided."
-msgstr ""
+msgstr "有問題的零件會有紅叉標記。在這種情況下，在組件單下會出現問題解決的鈕。"
 
 #: templates/mobilemanual/8.tpl:214 templates/mobilemanual/8.tpl:565
 msgid "Logs"
-msgstr ""
+msgstr "有問題的零件會有紅叉標記。在這種情況下，在組件單下會出現問題解決的鈕。"
 
 #: templates/mobilemanual/8.tpl:216
 msgid "The Logs screen provides you access to 3 types of logs:"
-msgstr ""
+msgstr "日志文件的屏幕給您提供三種屏幕："
 
 #: templates/mobilemanual/8.tpl:218
 msgid ""
 "Phone Logs - contains the Phone Call History, is read from phone system log."
-msgstr ""
+msgstr "手機日志文件 - 包括電話記錄，它是在手機系統日志文件裡負載的。"
 
 #: templates/mobilemanual/8.tpl:219
 msgid "Checked Numbers - contains a list of the latest checked phone numbers."
-msgstr ""
+msgstr "檢查的號碼 -包括最近檢查的電話號碼單。"
 
 #: templates/mobilemanual/8.tpl:220
 msgid "Blocked Numbers - contains a list of the latest blocked numbers."
-msgstr ""
+msgstr "屏蔽的号码 - 包括最近屏蔽的电话号码单。"
 
 #: templates/mobilemanual/8.tpl:223
 msgid ""
 "Icon on the left side indicates the Phone Number Rating with following "
 "meaning:"
-msgstr ""
+msgstr "位于左边的图标指示有这些评价的电话号码: "
 
 #: templates/mobilemanual/8.tpl:228 templates/phonenumber/defaultAmp.tpl:422
 #: templates/phonenumber/defaultDefault.tpl:426
@@ -1574,40 +1597,40 @@ msgstr "正面的評級"
 
 #: templates/mobilemanual/8.tpl:231
 msgid "unknown rating"
-msgstr ""
+msgstr "未知的评级"
 
 #: templates/mobilemanual/8.tpl:236
 msgid "Next icon informs you about call type and taken action:"
-msgstr ""
+msgstr "下一個圖標給您提供電話類型和採取行動的信息："
 
 #: templates/mobilemanual/8.tpl:241
 msgid "Successful Incoming Call"
-msgstr ""
+msgstr "成功的來電"
 
 #: templates/mobilemanual/8.tpl:242
 msgid "Missed Incoming Call"
-msgstr ""
+msgstr "未接來電"
 
 #: templates/mobilemanual/8.tpl:243
 msgid "Blocked Incoming Call"
-msgstr ""
+msgstr "屏蔽來電"
 
 #: templates/mobilemanual/8.tpl:244
 msgid "Successful Outgoing Call"
-msgstr ""
+msgstr "成功的致电"
 
 #: templates/mobilemanual/8.tpl:245
 msgid "Missed Outgoing Call"
-msgstr ""
+msgstr "未接致電"
 
 #: templates/mobilemanual/8.tpl:246
 msgid "Blocked Outgoing Call"
-msgstr ""
+msgstr "屏蔽致電"
 
 #: templates/mobilemanual/8.tpl:251 templates/mobilemanual/8.tpl:293
 #: templates/mobilemanual/8.tpl:408
 msgid "Available Actions:"
-msgstr ""
+msgstr "可用行動："
 
 #: templates/mobilemanual/8.tpl:253
 msgid ""
@@ -1615,6 +1638,8 @@ msgid ""
 "Details screen with detailed information and further actions: Call, Block, "
 "Rate and download reviews for the number."
 msgstr ""
+"<strong>電話號碼點擊</strong> ：這個行動打開電話號碼詳細信息的屏幕，它提供詳"
+"細的信息和進一步行動: 打個電話、屏蔽、 估價和下載號碼的評論。"
 
 #: templates/mobilemanual/8.tpl:254
 msgid ""
@@ -1623,6 +1648,9 @@ msgid ""
 "Number, Copy number to clipboard, and Web Search which opens our web page "
 "with the respective number."
 msgstr ""
+"<strong>电话号码长期持有</strong> : 如果您把手指长期持有在电话号码，就会出现"
+"一个上下文菜单，它包括这些行动：显示详细信息、打个电话、把号码复制到剪贴板和"
+"网络搜索。网络搜索会打开有我们相应号码的网站。 "
 
 #: templates/mobilemanual/8.tpl:255
 msgid ""
@@ -1630,24 +1658,27 @@ msgid ""
 "the system log your phone log is not touched, the action will affect only "
 "the application view of the log."
 msgstr ""
+"<strong>垃圾桶按鈕單擊</strong>：刪除選擇的日志文件 - 如果是系統的日志文件，"
+"您手機的日志文件不會改變，這個行動隻會影響應用日志文件顯示的方式。"
 
 #: templates/mobilemanual/8.tpl:262 templates/mobilemanual/8.tpl:566
 msgid "Ratings"
-msgstr ""
+msgstr "評價"
 
 #: templates/mobilemanual/8.tpl:264
 msgid "In this section you can:"
-msgstr ""
+msgstr "在這個部分您可以："
 
 #: templates/mobilemanual/8.tpl:266
 msgid ""
 "configure how to combine the ratings from Community Database, your Phone "
 "Contacts and your own ratings into one final Phone Number Rating."
 msgstr ""
+"構成怎麼結合共同體數據庫、您的聯系人和您自己的評價到一個終極的電話號碼評價。"
 
 #: templates/mobilemanual/8.tpl:267
 msgid "create and manage your ratings."
-msgstr ""
+msgstr "造成與管理您的評價"
 
 #: templates/mobilemanual/8.tpl:271
 msgid ""
@@ -1656,16 +1687,20 @@ msgid ""
 "always applied in the top-to-bottom order, e.g. the active rule closer to "
 "the bottom of the list will be used."
 msgstr ""
+"其實，這裡您可以設置應用判斷電話的辦法。幾個規則可以在同樣的時間被激活。使用"
+"規則的組合總是從上面到下面開始，就是說最下面激活的規則會首先地使用。"
 
 #: templates/mobilemanual/8.tpl:274
 msgid "There are 3 general rating rules:"
-msgstr ""
+msgstr "我們有三個主要的評分規則："
 
 #: templates/mobilemanual/8.tpl:276
 msgid ""
 "<strong>Use Community Database Rating</strong> : if this one is activated, "
 "it sets the initial number rating according to our Community Database."
 msgstr ""
+"<strong>使用共同体数据库的评价</strong>：如果这个规则被激活的话，它根据共同体"
+"数据库会设置基本评价。"
 
 #: templates/mobilemanual/8.tpl:277
 msgid ""
@@ -1674,6 +1709,9 @@ msgid ""
 "Contacts (if they do not have your other rating - in such case your rating "
 "rules)."
 msgstr ""
+"<strong>為了聯系人總是使用正面評級</strong> : 如果這個規則被激活的話，它會把"
+"您所有的聯系人設置有正面評級。(如果您為了如何聯系人已經選擇其它評價，在這種情"
+"況下，您的評價就更重要。"
 
 #: templates/mobilemanual/8.tpl:278
 msgid ""
@@ -1683,26 +1721,31 @@ msgid ""
 "database rating exists (if there is a yours and/or community database rating "
 "for some of those numbers, then the rating is used)."
 msgstr ""
+"<strong>為了聯系人總是使用正面評級</strong>：如果這個規則被激活的話，，它把您"
+"所有的聯系人和已經沒有共同體數據庫的評價設置有正面評級。(如果您為了如何聯系人"
+"已經選擇其它評價或者它已經有了其它共同體數據庫的評價，這個規則沒有用)。"
 
 #: templates/mobilemanual/8.tpl:283
 msgid "The last two rules are mutually exclusive, just one can be activated."
-msgstr ""
+msgstr "最后的两个规则互斥，就是说只启动一个规则。"
 
 #: templates/mobilemanual/8.tpl:287
 msgid "At the bottom of this screen the list of Your Ratings follows."
-msgstr ""
+msgstr "在這個屏幕的下面接著您評價單。"
 
 #: templates/mobilemanual/8.tpl:288
 msgid ""
 "Remember that these ratings at the bottom of the screen will rule all the "
 "above rules."
-msgstr ""
+msgstr "请记住，这些屏幕下面的规则比所有的上面的规则重要。"
 
 #: templates/mobilemanual/8.tpl:289
 msgid ""
 "Your rating can be defined for single or multiple phone numbers by using a "
 "mask."
 msgstr ""
+"您的評價可以是為了一個電話號碼，或者您可以使用“*”，這個樣您會評價幾個電話號"
+"碼。"
 
 #: templates/mobilemanual/8.tpl:295
 msgid ""
@@ -1710,12 +1753,17 @@ msgid ""
 "the rating rules by phone number. Useful if you search for some specific "
 "number rule. Just tick on the line and fill any number or a part of it."
 msgstr ""
+"<strong>評價的過濾</strong>: (在屏幕的上面)根據電話號碼幫助篩選評價。如果您在"
+"搜索具體電話規則，它很有用。隻要在應用線點出和填完全或者一部分的號碼，就可以"
+"了。"
 
 #: templates/mobilemanual/8.tpl:296
 msgid ""
 "<strong>General Rating Rules Click</strong> : if you click on any of the 3 "
 "lines this action switches the rule on or off."
 msgstr ""
+"<strong>主要的評分規則點出</strong> : 如果您在這三個線點出的話，這個行動會打"
+"開或者關閉這個規則。"
 
 #: templates/mobilemanual/8.tpl:297
 msgid ""
@@ -1723,42 +1771,47 @@ msgid ""
 "open a screen for edition of the respective rating. There you can set the "
 "rating attributes, delete the rating, save it or cancel the changes."
 msgstr ""
+"<strong>用戶評價點出</strong> : 如果您在如何評價點出的話，您就打開改變評價的"
+"屏幕。這裡您可以設置評價的屬性、刪除評價、保存或者取消變化。"
 
 #: templates/mobilemanual/8.tpl:298
 msgid ""
 "<strong>Plus Button Click</strong> : this action opens the screen for "
 "creation of new rating, see below the <strong>Phone Number Rating</strong>."
 msgstr ""
+"<strong>加號按鈕點出</strong> : 這個行動為了造成新的評價打開屏幕，您看得到在"
+"下面的 <strong>電話號碼評價</strong>。"
 
 #: templates/mobilemanual/8.tpl:304 templates/mobilemanual/8.tpl:567
 msgid "Alerts"
-msgstr ""
+msgstr "警告"
 
 #: templates/mobilemanual/8.tpl:306
 msgid ""
 "Alert is security rating notification displayed during calling phase (can be "
 "done for both INCOMING or OUTGOING calls)."
 msgstr ""
+"警告是一個安全評價的通知，它在打電話的時候會出現 (它為了來電致電都可以出現)。"
 
 #: templates/mobilemanual/8.tpl:307
 msgid "In this screen you can configure the Alerts displaying."
-msgstr ""
+msgstr "在這個屏幕裡您可以配置警告顯示的方式。"
 
 #: templates/mobilemanual/8.tpl:308
 msgid "This setting here is done based on the phone number rating."
-msgstr ""
+msgstr "這裡的設置跟電話號碼的評價有關系。"
 
 #: templates/mobilemanual/8.tpl:309
 msgid ""
 "For each rating you can check if you want to display the alert also for "
 "numbers from your Contacts or exclude your phone Contacts."
-msgstr ""
+msgstr "每个评价您可以选择是否您希望包括或者排除您联系人显示警告。"
 
 #: templates/mobilemanual/8.tpl:312
 msgid ""
 "In the <strong>Advanced</strong> section at the bottom of the screen a "
 "system overlay can be enabled."
-msgstr ""
+msgstr "在<strong>高級</strong>部分的下面您可以啟動系統覆蓋。"
 
 #: templates/mobilemanual/8.tpl:313
 msgid ""
@@ -1766,16 +1819,18 @@ msgid ""
 "disable the usage of system overlays - this will cause the displaying of "
 "alert in another fashion which can work better on your device."
 msgstr ""
+"如果您有警告顯示的問題，您可以嘗試停用系統覆蓋的使用，這樣他們會用其它辦法來"
+"顯示警告，以后很有可能您的電器就沒問題顯示警告。"
 
 #: templates/mobilemanual/8.tpl:318 templates/mobilemanual/8.tpl:568
 msgid "Blocking"
-msgstr ""
+msgstr "屏蔽"
 
 #: templates/mobilemanual/8.tpl:320
 msgid ""
 "In this section you can configure which incoming/outgoing calls should be "
 "blocked."
-msgstr ""
+msgstr "在這個部分您可以配置哪些來電和致電應該被屏蔽的。"
 
 #: templates/mobilemanual/8.tpl:321
 msgid ""
@@ -1783,6 +1838,8 @@ msgid ""
 "the number, now we will use it for the blocking functionality of the "
 "application."
 msgstr ""
+"請記住，在<strong>評價</strong>的屏幕裡您設置了估價號碼的方式，現在我們用這個"
+"設置為了應用屏蔽的功能。"
 
 #: templates/mobilemanual/8.tpl:323
 msgid ""
@@ -1790,6 +1847,8 @@ msgid ""
 "all numbers. Each selection can be provided except numbers stored in your "
 "Contacts."
 msgstr ""
+"為了來電您可以選擇屏蔽有負面評價的號碼、無法顯示來電的號碼或者所有的號碼。每"
+"個選擇可以排除您的聯系人。"
 
 #: templates/mobilemanual/8.tpl:324
 msgid ""
@@ -1797,6 +1856,8 @@ msgid ""
 "foreign numbers and all numbers. Again each selection can be provided except "
 "numbers stored in your Contacts."
 msgstr ""
+"為了致電您可以選擇屏蔽有負面評價的號碼、付費專線電話號碼、致外國電話或者所有"
+"的號碼。再一次，每個選擇可以排除您的聯系人。"
 
 #: templates/mobilemanual/8.tpl:325
 msgid ""
@@ -1804,6 +1865,8 @@ msgid ""
 "numbers. For this functionality, a compatible SMS manager must be installed, "
 "please read the help screen displayed if you check this item."
 msgstr ""
+"為了來短信和採信您可以選擇屏蔽有負面評價號碼的短信和採信。為了使用這個功能，"
+"您應該設置兼容的短信管理器。如果您點出這個項目，請讀一下幫助屏幕。"
 
 #: templates/mobilemanual/8.tpl:326
 msgid ""
@@ -1812,6 +1875,8 @@ msgid ""
 "Alerts give you the information about call in progress, where Notification "
 "only displays info about the action taken by the application."
 msgstr ""
+"您也可以選擇如果您希望屏蔽以后收到屏蔽的通知。通知功能與警告顯示是不一樣的功"
+"能，警告顯示正在打電話的信心，要不然通知隻會顯示應用完成的行動。"
 
 #: templates/mobilemanual/8.tpl:327
 msgid ""
@@ -1822,32 +1887,35 @@ msgid ""
 "use this feature only if you are sure you will not be charged for picking up "
 "the incoming calls."
 msgstr ""
+"您也可以選擇使用<strong>接和挂的功能</strong>為了保護您的語音郵件。如果您選擇"
+"這個功能的話，應用通過同時接和挂電話屏蔽來電。如果手機在使用漫游模式的話，應"
+"用不會接話。請隻用這個功能如果您知道您一定不會付錢接來電。"
 
 #: templates/mobilemanual/8.tpl:335 templates/mobilemanual/8.tpl:569
 msgid "Settings"
-msgstr ""
+msgstr "設置"
 
 #: templates/mobilemanual/8.tpl:336
 msgid "This section contains main application settings."
-msgstr ""
+msgstr "這個部分含有應用主要的設置。"
 
 #: templates/mobilemanual/8.tpl:338
 msgid "General"
-msgstr ""
+msgstr "普遍"
 
 #: templates/mobilemanual/8.tpl:340
 msgid "Show after-call information"
-msgstr ""
+msgstr "顯示電話以后的信息"
 
 #: templates/mobilemanual/8.tpl:342
 msgid ""
 "Here you can enable/disable displaying of phone number details after "
 "finishing the call."
-msgstr ""
+msgstr "這裡您可以啟用或者停用電話以后電話號碼信息的顯示。"
 
 #: templates/mobilemanual/8.tpl:345
 msgid "Send anonymous stats about incoming calls"
-msgstr ""
+msgstr "發給關於來電的匿名統計"
 
 #: templates/mobilemanual/8.tpl:347
 msgid ""
@@ -1856,16 +1924,19 @@ msgid ""
 "this means that only the number is send, without any further info, no "
 "personal data are never transferred from your mobile phone."
 msgstr ""
+"如果您選擇\"發給關於來電的匿名統計\"的功能，用戶同意給我們可能性把來電話號碼"
+"發到我們的服務器裡，就是說我們隻發給電話號碼，非包括其它信息，從來不會有您個"
+"人資料轉移您的手機。"
 
 #: templates/mobilemanual/8.tpl:348
 msgid ""
 "Privacy is important for us, so we don't sends stats about numbers stored in "
 "your Phone Contacts!"
-msgstr ""
+msgstr "隱私對我們來說很重要，所以我們不要發給存在您聯系人的號碼統計！"
 
 #: templates/mobilemanual/8.tpl:349
 msgid "Only unknown numbers are sent if this option is checked."
-msgstr ""
+msgstr "如果您選擇這個選項的話，我們隻會發到未知的號碼。"
 
 #: templates/mobilemanual/8.tpl:350
 msgid ""
@@ -1874,10 +1945,13 @@ msgid ""
 "number calls multiple people, we dig some info for it and create review with "
 "rating, which will be stored afterwards in your local database."
 msgstr ""
+"這樣給我們有機會從各種來源收集未知電話號碼，以后我們的團體檢查它們，並且如果"
+"有一樣的號碼致電給多人，我們就查一些信息，造成新的評論和評價。以后這些信息都"
+"會被存在您當地的數據庫。"
 
 #: templates/mobilemanual/8.tpl:353
 msgid "Download reviews automatically"
-msgstr ""
+msgstr "自動地下載評論"
 
 #: templates/mobilemanual/8.tpl:355
 msgid ""
@@ -1886,6 +1960,8 @@ msgid ""
 "displayed during the phone ringing phase - otherwise only global rating of "
 "the number is shown."
 msgstr ""
+"如果您選擇\"自動地下載評論\"的話，而且您的手機連接到互聯網，手機響時會顯示關"
+"於在來電話號碼用戶的評論，不然的話隻會顯示號碼的總體評價。"
 
 #: templates/mobilemanual/8.tpl:356
 msgid ""
@@ -1895,10 +1971,13 @@ msgid ""
 "it, or he/she is satisfied just with the global rating displayed "
 "automatically for each incoming call)."
 msgstr ""
+"如果您沒選擇這選項，但是您的手機在連接到互聯網的話，手機響時您可以手動地下載"
+"用戶的評論 (這樣用戶可以決定他希望接話以前看一看電話號碼的信息，或者他覺得隻"
+"看每個來電自動的總體評價夠了)。"
 
 #: templates/mobilemanual/8.tpl:359
 msgid "Service as Foreground Process"
-msgstr ""
+msgstr "使用服務為前台進程"
 
 #: templates/mobilemanual/8.tpl:361
 msgid ""
@@ -1907,16 +1986,18 @@ msgid ""
 "will permanently see the app icon in status bar and notification about "
 "enabled protection."
 msgstr ""
+"如果您啟動這個功能，它會加快屏蔽不需要來電話的功能  -應用一致運行在主動記憶"
+"裡。副作用您在狀態欄經久看得到應用圖標和啟動保護的通知。"
 
 #: templates/mobilemanual/8.tpl:362
 msgid ""
 "As a benefit on most devices the speed of blocking should be much faster "
 "than phone ringing phase."
-msgstr ""
+msgstr "另一方面，在大部分的电器里屏蔽功能比手机响的阶段应该快得多。"
 
 #: templates/mobilemanual/8.tpl:365
 msgid "Statistics Notification"
-msgstr ""
+msgstr "统计通知"
 
 #: templates/mobilemanual/8.tpl:367
 msgid ""
@@ -1924,40 +2005,42 @@ msgid ""
 "will show system statistics as a notification after 2 weeks with a list of "
 "performed actions."
 msgstr ""
+"如果您選擇\"(每兩個星期的)統計通知\"的話，每兩個星期以后就顯示系統統計通，包"
+"括完成的運動單。"
 
 #: templates/mobilemanual/8.tpl:368
 msgid ""
 "This way user can easily check the overall application functionality and "
 "efficiency."
-msgstr ""
+msgstr "這樣用戶可以方便的檢查應用完全的功能性與效率。"
 
 #: templates/mobilemanual/8.tpl:371
 msgid "Use Light Theme"
-msgstr ""
+msgstr "使用白色的主題"
 
 #: templates/mobilemanual/8.tpl:373
 msgid ""
 "There are two layout themes - light and dark. This item serves as a switch "
 "for them."
-msgstr ""
+msgstr "我們提供兩種布局主題 - 白色的與黑色的。這個選項與交換按鈕為使用。"
 
 #: templates/mobilemanual/8.tpl:374
 msgid ""
 "Check it on your device which theme suits you better and which is more "
 "readable (e.g. on a direct sun)."
-msgstr ""
+msgstr "嘗試哪一個主題更適合您的電器，哪一個讀得更方便 (比如在陽光直射下等)。"
 
 #: templates/mobilemanual/8.tpl:378
 msgid "System Permissions"
-msgstr ""
+msgstr "系統權限"
 
 #: templates/mobilemanual/8.tpl:380
 msgid "System permissions are displayed only on Android 6 devices."
-msgstr ""
+msgstr "系統權限隻在Android 6電器被顯示。"
 
 #: templates/mobilemanual/8.tpl:383
 msgid "Read Call Information"
-msgstr ""
+msgstr "閱覽電話的信息"
 
 #: templates/mobilemanual/8.tpl:385
 msgid ""
@@ -1965,34 +2048,38 @@ msgid ""
 "against our database. Without this permission we can't find out who is "
 "calling you."
 msgstr ""
+"如果有人給您打電話，應用就在數據庫裡檢查具體的電話號碼。非有這個允許我們找不"
+"到誰在給您打電話。"
 
 #: templates/mobilemanual/8.tpl:387
 msgid "Read Contacts"
-msgstr ""
+msgstr "阅览联系人"
 
 #: templates/mobilemanual/8.tpl:389
 msgid ""
 "As written above, we take your stored contacts as your whitelist. Without "
 "this permission we don't know what phone numbers you consider to be safe."
 msgstr ""
+"根據上面提到的一樣，我們把您存在的聯系人作為是您的白單。非有這個允許，我們就"
+"不知道哪些電話號碼您覺得是安全的。"
 
 #: templates/mobilemanual/8.tpl:391
 msgid "Allow System Overlays"
-msgstr ""
+msgstr "可用系統覆蓋"
 
 #: templates/mobilemanual/8.tpl:393
 msgid ""
 "The application shows alerts in foreground of incoming call screen. Without "
 "this permission we can't make the alerts fully interactive."
-msgstr ""
+msgstr "應用在來電屏幕的前台顯示警告。非有這個允許我們不能完全互動那些警告。"
 
 #: templates/mobilemanual/8.tpl:400 templates/mobilemanual/8.tpl:571
 msgid "Phone Number Details"
-msgstr ""
+msgstr "電話號碼的信息"
 
 #: templates/mobilemanual/8.tpl:402
 msgid "This screen shows detailed information for selected phone number."
-msgstr ""
+msgstr "這個屏幕會顯示關於選擇號碼詳細的信息。"
 
 #: templates/mobilemanual/8.tpl:403
 msgid ""
@@ -2000,12 +2087,14 @@ msgid ""
 "Neutral/Negative ratings and the category mostly used for this number (this "
 "information is stored off-line in the database of your mobile phone)."
 msgstr ""
+"這裡您找得到總體號碼的評價，我們綜合正面/中立/負面的評價，並且我們選擇這個號"
+"碼最常使用的類型 (這個信息存在您手機離線的數據庫)。"
 
 #: templates/mobilemanual/8.tpl:404
 msgid ""
 "You can also see how much positive/neutral/negative rating number received "
 "from community."
-msgstr ""
+msgstr "您也看得到該號碼獲到共同體正面/中立/負面評價的數量。"
 
 #: templates/mobilemanual/8.tpl:410
 msgid ""
@@ -2014,12 +2103,15 @@ msgid ""
 "of negative rated numbers in the application <strong>Blocking</strong> "
 "screen."
 msgstr ""
+"<strong>屏蔽</strong>的功能幫助您造成負面的評價，下次就會被自動地屏蔽。為了啟"
+"動屏蔽的功能，您需要在應用<strong>屏蔽</strong> 的屏幕啟動屏蔽負面評價號碼的"
+"功能。"
 
 #: templates/mobilemanual/8.tpl:411
 msgid ""
 "<strong>Rate</strong> shows the form for filling your new phone number "
 "rating - see below."
-msgstr ""
+msgstr "<strong>估價</strong>顯示填新號碼評價的表格  - 請看下面。"
 
 #: templates/mobilemanual/8.tpl:412
 msgid ""
@@ -2028,47 +2120,52 @@ msgid ""
 "is presented, it is displayed automatically (all of them are stored in your "
 "phone) and EDIT button is presented for further edit of the your review."
 msgstr ""
+"<strong>評論</strong>下載和顯示該號碼共同體的評論。這個功能需要上互聯網。如果"
+"您有自己(個人)的評價，它們就被自動地顯示 (它們都存在您的手機裡), 另外，為了編"
+"輯的評論就會出現編輯按鈕。"
 
 #: templates/mobilemanual/8.tpl:413
 msgid "<strong>Call Button Click</strong> initiates calling to the number."
-msgstr ""
+msgstr "<strong>打個電話按鈕點出</strong>開始至電話。"
 
 #: templates/mobilemanual/8.tpl:419 templates/mobilemanual/8.tpl:572
 msgid "Phone Number Rating"
-msgstr ""
+msgstr "电话号码的评价"
 
 #: templates/mobilemanual/8.tpl:421
 msgid "Single or Group of numbers"
-msgstr ""
+msgstr "一個或者一組電話號碼"
 
 #: templates/mobilemanual/8.tpl:422
 msgid ""
 "Phone Number Rating can be defined for single number or for group of numbers."
-msgstr ""
+msgstr "通過電話號碼的評價您能確定一個或者一組電話號碼。"
 
 #: templates/mobilemanual/8.tpl:423
 msgid "Group can be defined using * char at the end of the number."
-msgstr ""
+msgstr "為了確定一組電話號碼，您可以在號碼的后面使用´*´字。"
 
 #: templates/mobilemanual/8.tpl:424
 msgid "For example 800* will define rating for all numbers starting with 800."
-msgstr ""
+msgstr "比如800*会评价所有开始800*的号码。"
 
 #: templates/mobilemanual/8.tpl:425
 msgid ""
 "The <strong>PICK CONTACT</strong> enables you to pick a number from the list "
 "of Contacts and create a rule for it."
 msgstr ""
+"如果您使用<strong>選擇聯系人</strong>的功能的話，您就可以隨便選擇聯系人給它造"
+"成新的規則。"
 
 #: templates/mobilemanual/8.tpl:429
 msgid "Public or Private"
-msgstr ""
+msgstr "公共或者私人"
 
 #: templates/mobilemanual/8.tpl:430
 msgid ""
 "By default the rating is submitted to our community database for benefit of "
 "other users."
-msgstr ""
+msgstr "默認所有的評價都發給我們共同體數據庫為了其它用戶的利益。"
 
 #: templates/mobilemanual/8.tpl:431
 msgid ""
@@ -2076,50 +2173,52 @@ msgid ""
 "select this to avoid of sending it to our database - in such case the rating "
 "will be stored in your mobile only."
 msgstr ""
+"如果您不要使該號碼的評價公開，為了避免發給我們的數據庫，您就選擇這個選項，在"
+"這個情況下，評價就隻會存在您的手機。"
 
 #: templates/mobilemanual/8.tpl:437 templates/mobilemanual/8.tpl:573
 msgid "Rating Alert"
-msgstr ""
+msgstr "評價警告"
 
 #: templates/mobilemanual/8.tpl:439
 msgid ""
 "In the Alert displayed for the phone call you can find all required "
 "information for making the decision to accept the call or hang up."
-msgstr ""
+msgstr "在關於電話顯示的警告，您找得到所有需要決定您是否接挂電話的信息。"
 
 #: templates/mobilemanual/8.tpl:441
 msgid ""
 "<strong>Contact</strong> shows name of the contact associated with phone "
 "number (if available)."
-msgstr ""
+msgstr "<strong>聯系人</strong>顯示該電話相關聯系人的名字 (如果可用的話)。"
 
 #: templates/mobilemanual/8.tpl:442
 msgid "<strong>Number</strong> shows phone number the alert is displayed for."
-msgstr ""
+msgstr "<strong>電話號碼</strong>顯示有警告顯示的電話。"
 
 #: templates/mobilemanual/8.tpl:443
 msgid ""
 "<strong>Rating</strong> shows one of positive, neutral, negative or unknown "
 "rating."
-msgstr ""
+msgstr "<strong>評價</strong>顯示號碼正面、中立、負面或者未知的評價之一。"
 
 #: templates/mobilemanual/8.tpl:444
 msgid ""
 "<strong>Category</strong> shows the most used Category for the respective "
 "phone number"
-msgstr ""
+msgstr "<strong>類型</strong>顯示最常使用的該號碼的類型。"
 
 #: templates/mobilemanual/8.tpl:445
 msgid ""
 "<strong>Community</strong> shows the total statistic counts of positive,"
 "neutral and negative ratings from the community"
-msgstr ""
+msgstr "<strong>共同體</strong>顯示共同體正面、中立和負面的總結計數。"
 
 #: templates/mobilemanual/8.tpl:453
 msgid ""
 "In this section you can access additional information and export/import "
 "function"
-msgstr ""
+msgstr "在這個部分您能進接附加的信息，輸出/ 輸入的功能。"
 
 #: templates/mobilemanual/8.tpl:455
 msgid ""
@@ -2129,10 +2228,13 @@ msgid ""
 "prepared automatically with pre-filled information about your app "
 "configuration."
 msgstr ""
+"如果您需要跟我們聯系，請使用我們提供的電子郵件。如果您在<strong>電子郵件</"
+"strong>點出，您就打開屏幕，這裡您可以選擇一些電子郵件客戶端。完成這個運行以"
+"后，會准備好預填的電子郵件，而且它也包括您應用組態的信息。"
 
 #: templates/mobilemanual/8.tpl:456
 msgid "strong>Online Manual</strong> opens the internet page with this manual."
-msgstr ""
+msgstr "<strong>在線手冊</strong>打開有這個手冊的網頁。"
 
 #: templates/mobilemanual/8.tpl:457
 msgid ""
@@ -2141,18 +2243,20 @@ msgid ""
 "problem reporting to our technical staff is prepared there - please use it "
 "to report any application problem."
 msgstr ""
+"<strong>兼容性檢查</strong>檢查您的配置為了找知道的問題。包括檢查的結果網頁會"
+"打開。在這裡也有准備好的報告問題的表格 -為了報告如何應用問題，請您使用它。"
 
 #: templates/mobilemanual/8.tpl:458
 msgid ""
 "strong>Terms of Use</strong> opens the internet page with terms of use of "
 "this product."
-msgstr ""
+msgstr "<strong>使用條件</strong 打開關於這個產品使用條件的網頁。"
 
 #: templates/mobilemanual/8.tpl:459
 msgid ""
 "<strong>Privacy Policy</strong> opens the internet page with privacy policy "
 "for out product."
-msgstr ""
+msgstr "<strong>隱私政策</strong>打開關於我們的產品隱私政策的網頁。"
 
 #: templates/mobilemanual/8.tpl:460
 msgid ""
@@ -2161,28 +2265,30 @@ msgid ""
 "another device in a form of backup and restore. A simple wizard for this "
 "functionality is provided."
 msgstr ""
+"<strong>輸出/ 輸入</strong>顯示輸出與 輸入資料的屏幕：通過備份還原的構成，您"
+"能存在和以后在其它電器再使用所有的應用設置。簡單功能的指導被顯示。"
 
 #: templates/mobilemanual/8.tpl:467 templates/mobilemanual/8.tpl:576
 msgid "FAQ"
-msgstr ""
+msgstr "常問問題"
 
 #: templates/mobilemanual/8.tpl:469
 msgid "Q: How to block phone number?"
-msgstr ""
+msgstr "問題：怎麼屏蔽電話號碼？"
 
 #: templates/mobilemanual/8.tpl:471
 msgid ""
 "Create negative rating for the phone number and enable blocking of negative "
 "rated numbers."
-msgstr ""
+msgstr "首先造成負面的评价，以后就启用有負面评价号码的屏蔽。"
 
 #: templates/mobilemanual/8.tpl:474
 msgid "Q: Why blocking does not work for me?"
-msgstr ""
+msgstr "問題：為什麼不能啟動屏蔽的功能？"
 
 #: templates/mobilemanual/8.tpl:476
 msgid "Unfortunately there are some phone models where blocking does not work."
-msgstr ""
+msgstr "可惜有一些不能屏蔽號碼的手機型號。"
 
 #: templates/mobilemanual/8.tpl:477
 msgid ""
@@ -2190,32 +2296,37 @@ msgid ""
 "system and used workarounds can be sometimes broken by phone manufacturer "
 "when they use their own system enhancements."
 msgstr ""
+"屏蔽電話不是Android系統支持的默認功能，使用屏蔽的有時候是被手機制造商停用的，"
+"因為他們使用自己系統增強。"
 
 #: templates/mobilemanual/8.tpl:480
 msgid "Q: Where can I find version for iPhone?"
-msgstr ""
+msgstr "問題：在哪兒找到iPhone版本？"
 
 #: templates/mobilemanual/8.tpl:482
 msgid "There is no version for iPhone yet."
-msgstr ""
+msgstr "現在還沒有iPhone版本。"
 
 #: templates/mobilemanual/8.tpl:483
 msgid ""
 "iPhone's operating system doesn't provide access to contacts, incoming or "
 "outgoing calls or some reliable way how to intercept or block calls."
 msgstr ""
+"iPhone 操作系統不提供聯系人的接入、來電致電的信息，另外它也不提供可靠阻止與屏"
+"蔽的方法。"
 
 #: templates/mobilemanual/8.tpl:484
 msgid ""
 "With such conditions the application could provide just manual phone info "
 "search - nearly same functionality as provided by our web pages."
 msgstr ""
+"在這個情況下，應用隻能提供手工手機信息的搜索-跟我們網站提供的功能大概同樣。"
 
 #: templates/mobilemanual/8.tpl:485
 msgid ""
 "Due to this limitation there is very low priority to make any iPhone native "
 "app."
-msgstr ""
+msgstr "由於這個局限性，因而造成iPhone 應用出版的優先很小。"
 
 #: templates/mobilemanual/8.tpl:490 templates/removalrequest/default.tpl:239
 #: templates/termsapp/default.tpl:17
@@ -2233,100 +2344,108 @@ msgid ""
 "Privacy matters but it can be confusing. Please read this explanation of our "
 "approach to privacy in our application."
 msgstr ""
+"隐私事情很重要，但是有时候很芜杂。请阅览这个关于我们应用隐私政策态度的解释。"
 
 #: templates/mobilemanual/8.tpl:511
 msgid "Phone Contacts"
-msgstr ""
+msgstr "聯系人"
 
 #: templates/mobilemanual/8.tpl:513
 msgid "Our app doesn't send your contact information to server."
-msgstr ""
+msgstr "我們的應用不發給您聯系人的信息到服務器。"
 
 #: templates/mobilemanual/8.tpl:516
 msgid "History of Incoming and Outgoing Calls"
-msgstr ""
+msgstr "來電與致電話記錄"
 
 #: templates/mobilemanual/8.tpl:518
 msgid ""
 "In default, the app doesn't send any information about incoming or outgoing "
 "calls."
-msgstr ""
+msgstr "根據基本設置應用不發給關於來電與致電的信息。"
 
 #: templates/mobilemanual/8.tpl:519
 msgid ""
 "Because information about incoming unknown calls can help us improve our "
 "service, you can enable sending of this information in the settings."
 msgstr ""
+"因為這個關於來未知電話的信息可以幫助我們改善我們的服務，所以您在設置能啟動這"
+"個信息。"
 
 #: templates/mobilemanual/8.tpl:520
 msgid "Thank you for your help."
-msgstr ""
+msgstr "謝謝您的幫助。"
 
 #: templates/mobilemanual/8.tpl:523
 msgid "Displaying of Phone Number User Reviews"
-msgstr ""
+msgstr "顯示用戶電話號碼的評論"
 
 #: templates/mobilemanual/8.tpl:525
 msgid ""
 "Displaying of user reviews for the respective number needs your permission "
 "to send respective phone number to server."
-msgstr ""
+msgstr "顯示用戶電話號碼的評論，需要您的允可發給此號碼到服務器。"
 
 #: templates/mobilemanual/8.tpl:526
 msgid ""
 "This can't be done without your permission, so Permission dialog is "
 "displayed before start of reviews download."
-msgstr ""
+msgstr "這個運行需要有您的允可，所以下載評論以前會出現一個允可的對話框。"
 
 #: templates/mobilemanual/8.tpl:529
 msgid "Submitting of own phone number review"
-msgstr ""
+msgstr "您自己電話號碼評論的提交"
 
 #: templates/mobilemanual/8.tpl:531
 msgid ""
 "If you fill and send some phone number rating, you agree with publishing the "
 "phone number and all filled information on our website."
 msgstr ""
+"如果您填和發給如何電話號碼的評價，您就同意在我們的網站出版這個號碼和如何填的"
+"信息。"
 
 #: templates/mobilemanual/8.tpl:532
 msgid ""
 "We also store technical information about the request (time, IP and agent) "
 "for solving problems with illegal activity."
 msgstr ""
+"我們也儲存關於要求一些技術的信息 (時間、IP與媒介)，如果將來會出生如何非法行為"
+"的問題。"
 
 #: templates/mobilemanual/8.tpl:535
 msgid "Using our web service"
-msgstr ""
+msgstr "使用我們網絡服務"
 
 #: templates/mobilemanual/8.tpl:536
 msgid ""
 "Some features like reviews download, database update, phone info search.. "
 "uses our web service."
 msgstr ""
+"有些功能比如下載評論、數據庫更新、手機信息的搜索... ...被我們的網站使用。"
 
 #: templates/mobilemanual/8.tpl:537
 msgid ""
 "Our web service collects anonymous statistics about visitors and service "
 "usage."
-msgstr ""
+msgstr "我們的網絡服務收集用戶和服務使用的匿名統計。"
 
 #: templates/mobilemanual/8.tpl:538
 msgid "Please read privacy policy of our web service for detailed information."
-msgstr ""
+msgstr "為了得到詳細的信息，請閱覽我們網站的隱私政策。"
 
 #: templates/mobilemanual/8.tpl:540
 msgid "Updates to this policy"
-msgstr ""
+msgstr "這個政策的更新"
 
 #: templates/mobilemanual/8.tpl:541
 msgid ""
 "We may update this privacy policy anytime to keep this description in sync "
 "with used technology."
-msgstr ""
+msgstr "任何時候我們能更新這個隱私政策，這樣隱私政策與使用的技術一樣。"
 
 #: templates/mobilemanual/8.tpl:544
 msgid "Any questions?"
-msgstr ""
+msgstr "您有如何問題嗎？"
 
 #: templates/mobilemanual/8.tpl:546
 msgid ""
@@ -2334,14 +2453,16 @@ msgid ""
 "write to us by email to <a href=\"mailto:support@shouldianswer.net"
 "\">support@shouldianswer.net</a>"
 msgstr ""
+"如果您有關於我們的產品、使用條件或者隱私政策如何問題，請您發郵件到 <a href="
+"\"mailto:support@shouldianswer.net\">support@shouldianswer.net</a>聯系我們。"
 
 #: templates/mobilemanual/8.tpl:560
 msgid "Features"
-msgstr ""
+msgstr "功能"
 
 #: templates/mobilemanual/8.tpl:561
 msgid "How It Works"
-msgstr ""
+msgstr "怎麼工作"
 
 #: templates/mobilemanual/8.tpl:577 templates/terms/default.tpl:17
 msgid "Terms of Use"
@@ -2350,13 +2471,15 @@ msgstr "服務條款"
 #: templates/phonenumber/accessLimited.tpl:16
 #: templates/phonenumber/accessLimited.tpl:22
 msgid "No information found about this number"
-msgstr ""
+msgstr "沒有關於這個號碼如何信息"
 
 #: templates/phonenumber/accessLimited.tpl:24
 msgid ""
 "We are sorry, but we don't have any information about this phone number. "
 "Please try different number, we have huge database. Thank you!"
 msgstr ""
+"對不起，但是我們沒有關於這個號碼如何信息。請您再嘗試搜索其它號碼，我們的數據"
+"庫真巨大。謝謝您！"
 
 #: templates/phonenumber/accessTemporalyLimited.tpl:23
 #: templates/phonenumber/defaultAmp.tpl:24
@@ -2391,9 +2514,8 @@ msgstr ""
 #: templates/phonenumber/defaultNew.tpl:132
 #: templates/phonenumber/defaultNext.tpl:216
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:63
-#, fuzzy
 msgid "Who called you from "
-msgstr "誰從號碼         給致電"
+msgstr "誰從這個號碼致電給您"
 
 #: templates/phonenumber/accessTemporalyLimited.tpl:59
 msgid "Dear users,"
@@ -2450,49 +2572,49 @@ msgstr "<strong>要搜索</strong>相似的電話號碼嗎？"
 #: templates/phonenumber/defaultNext.tpl:29
 #, php-format
 msgid "We have details about phone number %s. "
-msgstr ""
+msgstr "我們有%s的號碼詳細的信息。"
 
 #: templates/phonenumber/defaultAmp.tpl:167
 #: templates/phonenumber/defaultModerator.tpl:118
 #: templates/phonenumber/defaultNew.tpl:164
 #: templates/phonenumber/defaultNext.tpl:247
 msgid "ratings"
-msgstr ""
+msgstr "評價"
 
 #: templates/phonenumber/defaultAmp.tpl:168
 #: templates/phonenumber/defaultModerator.tpl:119
 #: templates/phonenumber/defaultNew.tpl:165
 #: templates/phonenumber/defaultNext.tpl:248
 msgid "reviews"
-msgstr ""
+msgstr "評論"
 
 #: templates/phonenumber/defaultAmp.tpl:169
 #: templates/phonenumber/defaultModerator.tpl:120
 #: templates/phonenumber/defaultNew.tpl:166
 #: templates/phonenumber/defaultNext.tpl:249
 msgid "no ratings"
-msgstr ""
+msgstr "無評價"
 
 #: templates/phonenumber/defaultAmp.tpl:170
 #: templates/phonenumber/defaultModerator.tpl:121
 #: templates/phonenumber/defaultNew.tpl:167
 #: templates/phonenumber/defaultNext.tpl:250
 msgid "no reviews"
-msgstr ""
+msgstr "無評論"
 
 #: templates/phonenumber/defaultAmp.tpl:171
 #: templates/phonenumber/defaultModerator.tpl:122
 #: templates/phonenumber/defaultNew.tpl:168
 #: templates/phonenumber/defaultNext.tpl:251
 msgid "single rating"
-msgstr ""
+msgstr "唯一個評價"
 
 #: templates/phonenumber/defaultAmp.tpl:172
 #: templates/phonenumber/defaultModerator.tpl:123
 #: templates/phonenumber/defaultNew.tpl:169
 #: templates/phonenumber/defaultNext.tpl:252
 msgid "single review"
-msgstr ""
+msgstr "唯一個評論"
 
 #: templates/phonenumber/defaultAmp.tpl:173
 #: templates/phonenumber/defaultModerator.tpl:124
@@ -2500,7 +2622,7 @@ msgstr ""
 #: templates/phonenumber/defaultNext.tpl:253
 #, php-format
 msgid "We have %s and %s for this phone number."
-msgstr ""
+msgstr "我們關於這個號碼有%s與%s。"
 
 #: templates/phonenumber/defaultAmp.tpl:198
 #: templates/phonenumber/defaultModerator.tpl:149
@@ -2508,7 +2630,7 @@ msgstr ""
 #: templates/phonenumber/defaultNext.tpl:277
 #, php-format
 msgid "Single user marked it with %s rating"
-msgstr ""
+msgstr "一個用戶選擇了%s的評價"
 
 #: templates/phonenumber/defaultAmp.tpl:200
 #: templates/phonenumber/defaultModerator.tpl:151
@@ -2516,14 +2638,14 @@ msgstr ""
 #: templates/phonenumber/defaultNext.tpl:279
 #, php-format
 msgid "%s users marked it with %s rating"
-msgstr ""
+msgstr "%s個用戶選擇了%s的評價"
 
 #: templates/phonenumber/defaultAmp.tpl:203
 #: templates/phonenumber/defaultModerator.tpl:154
 #: templates/phonenumber/defaultNew.tpl:200
 #: templates/phonenumber/defaultNext.tpl:282
 msgid "and"
-msgstr ""
+msgstr "以及"
 
 #: templates/phonenumber/defaultAmp.tpl:207
 #: templates/phonenumber/defaultModerator.tpl:158
@@ -2531,7 +2653,7 @@ msgstr ""
 #: templates/phonenumber/defaultNext.tpl:286
 #, php-format
 msgid "single user with %s rating"
-msgstr ""
+msgstr "唯一個有%s評價的用戶"
 
 #: templates/phonenumber/defaultAmp.tpl:209
 #: templates/phonenumber/defaultModerator.tpl:160
@@ -2539,7 +2661,7 @@ msgstr ""
 #: templates/phonenumber/defaultNext.tpl:288
 #, php-format
 msgid "%s users with %s rating"
-msgstr ""
+msgstr "%s有%s評價的用戶"
 
 #: templates/phonenumber/defaultAmp.tpl:265
 #: templates/phonenumber/defaultModerator.tpl:216
@@ -2547,20 +2669,20 @@ msgstr ""
 #: templates/phonenumber/defaultNext.tpl:340
 #, php-format
 msgid "Possible phone number formats are "
-msgstr ""
+msgstr "可能使用電話號碼格式都是"
 
 #: templates/phonenumber/defaultAmp.tpl:309
 #: templates/phonenumber/defaultNew.tpl:306
 #: templates/phonenumber/defaultNext.tpl:385
 #, php-format
 msgid "<strong>Reviews</strong> for phone number %s"
-msgstr ""
+msgstr "關於%s的<strong>評論</strong>"
 
 #: templates/phonenumber/defaultAmp.tpl:315
 #: templates/phonenumber/defaultNew.tpl:312
 #: templates/phonenumber/defaultNext.tpl:392
 msgid "Add <strong>Your rating</strong>"
-msgstr ""
+msgstr "加入 <strong>您的評價</strong>"
 
 #: templates/phonenumber/defaultAmp.tpl:319
 #: templates/phonenumber/defaultDefault.tpl:300
@@ -2578,7 +2700,7 @@ msgstr "為了顯示評價表格，情點擊這裡。"
 #: templates/phonenumber/defaultNext.tpl:407
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:349
 msgid "Rating"
-msgstr "評級"
+msgstr "評價"
 
 #: templates/phonenumber/defaultAmp.tpl:334
 #: templates/phonenumber/defaultDefault.tpl:315
@@ -2724,7 +2846,7 @@ msgstr "發送評級"
 #: templates/phonenumber/defaultNew.tpl:457
 #: templates/phonenumber/defaultNext.tpl:534
 msgid "owner"
-msgstr ""
+msgstr "業主"
 
 #: templates/phonenumber/defaultAmp.tpl:461
 #: templates/phonenumber/defaultDefault.tpl:464
@@ -2732,7 +2854,7 @@ msgstr ""
 #: templates/phonenumber/defaultNew.tpl:458
 #: templates/phonenumber/defaultNext.tpl:535
 msgid "moderator"
-msgstr ""
+msgstr "版主"
 
 #: templates/phonenumber/defaultAmp.tpl:462
 #: templates/phonenumber/defaultDefault.tpl:465
@@ -2740,7 +2862,7 @@ msgstr ""
 #: templates/phonenumber/defaultNew.tpl:459
 #: templates/phonenumber/defaultNext.tpl:536
 msgid "censored"
-msgstr ""
+msgstr "審查的"
 
 #: templates/phonenumber/defaultAmp.tpl:463
 #: templates/phonenumber/defaultDefault.tpl:466
@@ -2748,7 +2870,7 @@ msgstr ""
 #: templates/phonenumber/defaultNew.tpl:460
 #: templates/phonenumber/defaultNext.tpl:537
 msgid "system"
-msgstr ""
+msgstr "系統"
 
 #: templates/phonenumber/defaultAmp.tpl:469
 #: templates/phonenumber/defaultDefault.tpl:472
@@ -2756,7 +2878,7 @@ msgstr ""
 #: templates/phonenumber/defaultNew.tpl:466
 #: templates/phonenumber/defaultNext.tpl:543
 msgid "featured"
-msgstr ""
+msgstr "建議的"
 
 #: templates/phonenumber/defaultAmp.tpl:482
 #: templates/phonenumber/defaultDefault.tpl:487
@@ -2764,7 +2886,7 @@ msgstr ""
 #: templates/phonenumber/defaultNew.tpl:479
 #: templates/phonenumber/defaultNext.tpl:558
 msgid "This comment has been removed because violated terms of use"
-msgstr ""
+msgstr "由於違反使用條件，這個留信被刪除的"
 
 #: templates/phonenumber/defaultAmp.tpl:488
 #: templates/phonenumber/defaultAmp.tpl:533
@@ -2833,7 +2955,7 @@ msgstr "添加留信"
 #: templates/phonenumber/defaultNext.tpl:591
 #: templates/phonenumber/defaultNext.tpl:625
 msgid "Delete"
-msgstr ""
+msgstr "刪除"
 
 #: templates/phonenumber/defaultAmp.tpl:595
 #: templates/phonenumber/defaultDefault.tpl:195
@@ -2876,7 +2998,7 @@ msgstr "您的留信必須有最小五個字"
 
 #: templates/phonenumber/defaultDefault.tpl:98
 msgid "Actualization"
-msgstr ""
+msgstr "更新"
 
 #: templates/phonenumber/defaultDefault.tpl:137
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:92
@@ -2979,7 +3101,7 @@ msgstr "請嘗試以正確的國際號碼格式搜索電話號碼。"
 msgid ""
 "Do you know country of the phone number? Try search via country dedicated "
 "service. Here is list of supported countries:"
-msgstr ""
+msgstr "您知道您搜索號碼的國家？嘗試通過國家國家域名搜索它。這裡有支持國家單。"
 
 #: templates/privacypolicy/default.tpl:29
 msgid "This page explains our approach to privacy on all of our web services."
@@ -3120,127 +3242,127 @@ msgstr ""
 
 #: templates/removalrequest/default.tpl:16
 msgid "Removal Request"
-msgstr ""
+msgstr "刪除要求"
 
 #: templates/removalrequest/default.tpl:17
 #: templates/removalrequest/default.tpl:155
 msgid "Removal Request Form"
-msgstr ""
+msgstr "刪除要求的表格"
 
 #: templates/removalrequest/default.tpl:34
 #, php-format
 msgid "Removal of Review ID: %s"
-msgstr ""
+msgstr "刪除ID的評論： %s"
 
 #: templates/removalrequest/default.tpl:44
 #, php-format
 msgid "Removal of Comment ID: %s"
-msgstr ""
+msgstr "刪除ID的留信： %s"
 
 #: templates/removalrequest/default.tpl:158
 msgid "Your request has been succesfully send to our support team."
-msgstr ""
+msgstr "您的要求被成功地發給到我們的支持團隊。"
 
 #: templates/removalrequest/default.tpl:159
 msgid "We should process it in max 3 work days."
-msgstr ""
+msgstr "三工作日內我們應該辦理它。"
 
 #: templates/removalrequest/default.tpl:161
 msgid "Thank you very much!"
-msgstr ""
+msgstr "非常感謝您！"
 
 #: templates/removalrequest/default.tpl:163
 msgid "Something wrong happened during storing your request."
-msgstr ""
+msgstr "儲存您要求時，出現了如何問題。"
 
 #: templates/removalrequest/default.tpl:164
 msgid "Please contact us at <strong>support@shouldianswer.net</strong>"
-msgstr ""
+msgstr "請使用<strong>support@shouldianswer.net</strong>聯系我們。"
 
 #: templates/removalrequest/default.tpl:168
 msgid "Please fix errors marked with red description"
-msgstr ""
+msgstr "請修改有紅色描述的問題"
 
 #: templates/removalrequest/default.tpl:175
 msgid ""
 "Before filling the form you could find useful basic information about "
 "solving content issues on our site"
-msgstr ""
+msgstr "填表格以前，您能在我們的網站找到基本有用解決內容問題的信息"
 
 #: templates/removalrequest/default.tpl:183
 msgid "Subject"
-msgstr ""
+msgstr "主題"
 
 #: templates/removalrequest/default.tpl:186
 msgid "Content was submitted for number"
-msgstr ""
+msgstr "關於電話的內容被提交的。"
 
 #: templates/removalrequest/default.tpl:187
 msgid "Content"
-msgstr ""
+msgstr "內容"
 
 #: templates/removalrequest/default.tpl:192
 msgid "Your Name"
-msgstr ""
+msgstr "您的名字"
 
 #: templates/removalrequest/default.tpl:193
 #: templates/removalrequest/default.tpl:196
 msgid "Please enter full real name"
-msgstr ""
+msgstr "請輸入您完全的真正名字"
 
 #: templates/removalrequest/default.tpl:212
 msgid "Reason Type"
-msgstr ""
+msgstr "原因的類型"
 
 #: templates/removalrequest/default.tpl:213
 msgid "Contains personal information"
-msgstr ""
+msgstr "含有個人資料"
 
 #: templates/removalrequest/default.tpl:214
 msgid "Contains false information"
-msgstr ""
+msgstr "含有假的信息"
 
 #: templates/removalrequest/default.tpl:215
 msgid "Breaks the rules of this service"
-msgstr ""
+msgstr "違反服務的規則"
 
 #: templates/removalrequest/default.tpl:216
 msgid "I'm author of review and I want to remove it"
-msgstr ""
+msgstr "我是評論的作者，希望刪除它"
 
 #: templates/removalrequest/default.tpl:217
 msgid "Other reason"
-msgstr ""
+msgstr "其它原因"
 
 #: templates/removalrequest/default.tpl:220
 msgid "Please select the reason type"
-msgstr ""
+msgstr "請選擇原因的類型"
 
 #: templates/removalrequest/default.tpl:227
 msgid "Reason details"
-msgstr ""
+msgstr "原因的信息"
 
 #: templates/removalrequest/default.tpl:228
 msgid "Please explain in detail why you want to remove this content."
-msgstr ""
+msgstr "請您解釋您希望刪除這個內容的原因。"
 
 #: templates/removalrequest/default.tpl:232
 msgid "Please fill the reason details"
-msgstr ""
+msgstr "請您填原因的信息"
 
 #: templates/removalrequest/default.tpl:239
 #, php-format
 msgid ""
 "You can also check our %s for detailed description of using of our service."
-msgstr ""
+msgstr "您也可以閱覽%s，看使用我們夫去詳細的描述。"
 
 #: templates/removalrequest/default.tpl:248
 msgid "Please check the reCAPTCHA"
-msgstr ""
+msgstr "請檢查驗証碼"
 
 #: templates/removalrequest/default.tpl:252
 msgid "Send Request"
-msgstr ""
+msgstr "發給要求"
 
 #: templates/solveissues/default.tpl:17
 msgid "Solving Issues"
@@ -3433,7 +3555,7 @@ msgstr "您希望跟我們聯系嗎？"
 
 #: templates/websearch/default.tpl:7
 msgid "Web Search"
-msgstr ""
+msgstr "網絡搜索"
 
 #~ msgid "<strong>Latest visited</strong> phone numbers"
 #~ msgstr " <strong>近期瀏覽</strong>的電話號碼 "
