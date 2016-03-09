@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: shouldianswer\n"
 "POT-Creation-Date: 2016-03-02 08:56+0100\n"
-"PO-Revision-Date: 2016-03-02 08:56+0100\n"
+"PO-Revision-Date: 2016-03-10 00:24+0100\n"
 "Last-Translator: \n"
 "Language-Team: topolar@gmail.com\n"
 "Language: hu\n"
@@ -25,377 +25,383 @@ msgstr "Belső kiszolgálóhiba"
 
 #: app/500.php:10
 msgid "Oooops something is wrong"
-msgstr "Hoppá valami baj történt"
+msgstr "Hoppá, valamilyen probléma történt"
 
 #: app/500.php:11
 msgid "We are sorry but requested page have problems."
-msgstr "Sajnáljuk, de a kért oldal problémás."
+msgstr "Sajnáljuk, de a megtekinteni kívánt oldallal problémák merültek fel."
 
 #: app/500.php:12
 msgid ""
 "Our staff were informed about this accident and will fix it as soon as "
 "possible."
 msgstr ""
-".Munkatársaink tájékoztatást kaptak a balesetröl,  a javítás a lehető "
-"legrövidebb időn belül kerül sorra."
+"Munkatársaink tájékoztatást kaptak a problémáról, a hiba kijavítása rövid "
+"időn belül megtörténik."
 
 #: app/500.php:13
 msgid "Please come back to this page later. Thank you."
-msgstr "Kérem, jöjjön vissza erre az oldalra később. köszönöm."
+msgstr "Kérjük keresse fel később ezt az oldalt. Köszönjük!"
 
 #: app/presenters/p_phonenumber.php:241
 msgid "Outdated or invalid form submitted! Please send it again."
-msgstr "Lejárt vagy helytelen nyomtatványt adott le! Kérjük, küldje el újra."
+msgstr "Lejárt vagy nem megfelelően kitöltött űrlap! Kérjük, küldje el újra."
 
 #: app/presenters/p_phonenumber.php:298
 msgid "Submit failed. Please do not use Tags!"
-msgstr "Leadás sikertelen. Kérjük, ne használjon tageket!"
+msgstr "Az elküldés sikertelen. Kérjük, ne használjon Tageket!"
 
 #: app/presenters/p_phonenumber.php:304
-#, fuzzy
 msgid ""
 "Your rating is submitted and waiting for publication to other visitors. "
 "Thank you!"
 msgstr ""
-"A maga értékelése elküldve és vár az értékelésekre a többi bejelentkezötöl "
-"köszönyük"
+"Az értékelése rögzítésre került, a feldolgozást követően hamarosan "
+"megtekinthetővé válik más felhasználók számára. Köszönjük!"
 
 #: app/presenters/p_phonenumber.php:308
 msgid "Rating has been stored and published!"
-msgstr ""
+msgstr "Az értékelés eltárolva és közzétéve!"
 
 #: app/presenters/p_phonenumber.php:318
 msgid "This phone number is marked as "
-msgstr " Telefonszám megjelölve mint"
+msgstr "Ez a telefonszám úgy van megjelölve mint"
 
 #: app/presenters/p_phonenumber.php:336
 msgid "What is Your experience with this number?"
-msgstr "Mijen a tapasztalata az ijen a telefonszámról?"
+msgstr "Milyen tapasztalata van Önnek ezzel a számmal kapcsolatban?"
 
 #: app/presenters/p_phonenumber.php:337
 msgid "Do You have any experience with this phone number?"
-msgstr " Rossz tapasztalata van erröl a telefonszámról?"
+msgstr "Van bármilyen tapasztalata ezzel a telefonszámmal kapcsolatban?"
 
 #: app/presenters/p_phonenumber.php:338
 msgid "What is Your experience with this phone number?"
-msgstr "Mijen  tapasztalatya van evel a telefonszámmal"
+msgstr "Milyen tapasztalata van Önnek ezzel a telefonszámmal kapcsolatban?"
 
 #: app/presenters/p_phonenumber.php:339
 msgid "Do You have any bad experience with this number?"
-msgstr "Van egy rossz tapasztalata, ezzel a telefonszámal?"
+msgstr "Van Önnek bármilyen negatív tapasztalata ezzel a számmal kapcsolatban?"
 
 #: app/presenters/p_phonenumber.php:340
 msgid "Have You seen this number before?"
-msgstr "Látta már ezt a számot  valahol?"
+msgstr "Látta már Ön ezt a számot ezelőtt?"
 
 #: app/presenters/p_phonenumber.php:341
 msgid "Have You ever spot this number?"
-msgstr "Látta már valahol ezt a telefonszámot?"
+msgstr "Megfigyelte már Ön ezt a számot bármikor?"
 
 #: app/presenters/p_phonenumber.php:342
 msgid "Does this number remind You something?"
-msgstr "A telefonszám ismerős?"
+msgstr "Emlékezteti Önt ezt a szám valamire?"
 
 #: app/presenters/p_phonenumber.php:343
 msgid "Do You have any bad experience with this phone number?"
-msgstr "Van egy rossz tapasztalata, ezzel a telefonszámal?"
+msgstr ""
+"Van Önnek bármilyen negatív tapasztalata ezzel a telefonszámmal kapcsolatban?"
 
 #: app/presenters/p_phonenumber.php:344
 msgid "Have You ever seen this number?"
-msgstr "A telefonszám ismerős?"
+msgstr "Látta már Ön ezt a számot bármikor?"
 
 #: app/presenters/p_phonenumber.php:345
 msgid "Does this number look familiar to You?"
-msgstr "Ez a telefonszam feltünö"
+msgstr "Ismerős Önnek ez a szám?"
 
 #: app/presenters/p_phonenumber.php:348
 msgid "Do You have any experience with this?"
-msgstr "Van valami rossz tapasztalata ezzel a telefonnal?"
+msgstr "Van bármilyen tapasztalata vele kapcsolatban?"
 
 #: app/presenters/p_phonenumber.php:349
 msgid "Have this number called You before?"
-msgstr "Meg történt , hogy magát véletlenül  becsengette?"
+msgstr "Hívták már Önt erről a számról korábban?"
 
 #: app/presenters/p_phonenumber.php:350 app/presenters/p_phonenumber.php:356
 msgid "Have this number annoyed You before?"
-msgstr "Már zavarta ez a szám?"
+msgstr "Okozott már Önnek kellemetlenséget ez a szám?"
 
 #: app/presenters/p_phonenumber.php:351
 msgid "Did someone offer You unwanted services from this number?"
 msgstr ""
-"Felajánlotta már valaki magának erröl a telefonszámró valamijen "
-"szolgáltatást,ami nem vólt amaga érdekében?"
+"Hívta már Önt valaki kéretlen ajánlatokkal, szolgáltatásokkal kapcsolatban "
+"erről a számról?"
 
 #: app/presenters/p_phonenumber.php:352
 msgid "Did someone offer You products You haven't ordered from this number?"
 msgstr ""
-"Felkínalta már valaki erröl a telefonszámról magának valamijen termékeket , "
-"amit  nem rendelt?"
+"Ajánlott már Önnek valaki kéretlenül termékeket, szolgáltatásokat erről a "
+"számról?"
 
 #: app/presenters/p_phonenumber.php:353
 msgid "You have become a victim of harassment?"
-msgstr "A zaklatás áldozata lettél?"
+msgstr "Zaklatás áldozatává vált?"
 
 #: app/presenters/p_phonenumber.php:354
 msgid "Did someone offer You some insurance?"
-msgstr "Felkínálta már valaki Önnek a biztosítást?"
+msgstr "Ajánlott Önnek valaki biztosítási szolgáltatásokat?"
 
 #: app/presenters/p_phonenumber.php:355
 msgid "Have You been facing the unwanted services?"
-msgstr ""
-"Megtörtént veled, hogy valaki zaklatott nem kezdeményezett szolgáltatásokkal?"
+msgstr "Zaklatták már Önt kéretlen szolgáltatásokkal?"
 
 #: app/presenters/p_phonenumber.php:357
 msgid "Did someone offer You apparently beneficial contracts?"
-msgstr "Felkinált már önnek valaki látszólag előnyös szerződés?"
+msgstr ""
+"Kapott már korábban valakitől látszólag előnyösnek tűnő szerződéses "
+"ajánlatokat? "
 
 #: app/presenters/p_phonenumber.php:361
 msgid "Or is this rally some good service?"
-msgstr "Vagy ez egy igazán jó szolgáltatás?"
+msgstr "Vagy ez egy ténylegesen egy jó szolgáltatás?"
 
 #: app/presenters/p_phonenumber.php:362
 msgid "Or is this Your friend's phone number?"
-msgstr "Vagy éppen ellenkezőleg, a telefon a barátjáé?"
+msgstr "Vagy ez egy Barátjának a telefonszáma?"
 
 #: app/presenters/p_phonenumber.php:363
 msgid "Or is this a phone number serving for Your company?"
-msgstr "Vagy is a kapcsolatos telefon  a maga cégjéhez  tartozik?"
+msgstr "Vagy ez a telefonszám az Ön cégéhez tartozik?"
 
 #: app/presenters/p_phonenumber.php:364
 msgid "Or is this a phone number of a reliable financial advisor?"
-msgstr "Vagy a  telefonon egy jó pénzügyi tanácsadó?"
+msgstr "Vagy ez a szám egy megbízható, pénzügyi tanácsadóé?"
 
 #: app/presenters/p_phonenumber.php:365
 msgid "Or is this a safe phone number?"
-msgstr "Vagy is ez a telefonszám biztonságos?"
+msgstr "Vagy ez egy biztonságosnak számító telefonszám?"
 
 #: app/presenters/p_phonenumber.php:366
 msgid "Or is this a purely private phone number?"
-msgstr "Vagy ellenkezőleg ezegy  privát telefonszám?"
+msgstr "Vagy ez egy privát, otthoni telefonszám?"
 
 #: app/presenters/p_phonenumber.php:367
 msgid "Or is this someone You know?"
-msgstr "Vagy is a tulajdonost ismeri?"
+msgstr "Vagy ez az Ön egyik ismerősének a száma?"
 
 #: app/presenters/p_phonenumber.php:368
 msgid "Or is this phone number useful?"
-msgstr "Vagy hasznos telefonszám?"
+msgstr "Vagy ez egy hasznos telefonszám?"
 
 #: app/presenters/p_phonenumber.php:369
 msgid "Or does this number belong to some of Your friends?"
-msgstr "Vagy ez a telefonszám egy maga ismerösének a telefonszama?"
+msgstr "Vagy ez a szám az Ön egyik barátjának a telefonszáma?"
 
 #: app/presenters/p_phonenumber.php:370
 msgid "Or is this Your own phone number?"
-msgstr "Vagy ez a saját telefonszáma?"
+msgstr "Vagy ez az Ön saját telefonszáma?"
 
 #: app/presenters/p_phonenumber.php:374
 msgid "Share Your experience."
-msgstr "Ossza meg tapasztalatait."
+msgstr "Ossza meg a Saját tapasztalatait."
 
 #: app/presenters/p_phonenumber.php:375
 msgid "Do not keep the information just for yourself."
-msgstr "Nehadja meg magának"
+msgstr "Ne tartsa meg az információt kizárólag csak saját magának."
 
 #: app/presenters/p_phonenumber.php:376
 msgid "Share Your experience with the others."
-msgstr "Ossza meg tapasztalatait másokkal."
+msgstr "Ossza meg a Saját tapasztalatait másokkal is."
 
 #: app/presenters/p_phonenumber.php:377
 msgid "Pass Your experience to the other users."
-msgstr "Adja továb tapastalatát."
+msgstr ""
+"Tegye közkinccsé a Saját tapasztalatait, ossza meg őket más felhasználókkal "
+"is."
 
 #: app/presenters/p_phonenumber.php:378
 msgid "Is there something You would like to tell the others?"
-msgstr "Ossza fel az élményt másokkal."
+msgstr "Van valami, amit Ön el szeretne mondani másoknak is?"
 
 #: app/presenters/p_phonenumber.php:379
 msgid "Is there some info You can share?"
-msgstr "Ezt az információt ne tartsa meg magának."
+msgstr "Van Önnek olyan információja, amit meg tudna osztani?"
 
 #: app/presenters/p_phonenumber.php:380
 msgid "Do You know more?"
-msgstr "Tudo, többet?"
+msgstr "Ön többet is tud?"
 
 #: app/presenters/p_phonenumber.php:381
 msgid "Do You know more? Share it with the others."
-msgstr "Tud többet? netartja meg magának."
+msgstr "Ön többet is tud? Ossza meg másokkal is."
 
 #: app/presenters/p_phonenumber.php:382
 msgid "Do You know more? Pass Your experience to the other users."
-msgstr "Tud többet? adja tapasztalatát továb"
+msgstr "Ön többet is tud? Adja tovább a tapasztalatait más felhasználóknak is."
 
 #: app/presenters/p_phonenumber.php:383
 msgid "Do You know more? Share Your experience with the others."
-msgstr "Tud többet ossza meg tapasztalatait."
+msgstr ""
+"Ön többet is tud? Ossza meg Saját tapasztalatait más felhasználókkal is."
 
 #: app/presenters/p_phonenumber.php:387
 msgid "Write to us, "
-msgstr "Írjon nekünk és"
+msgstr "Írjon nekünk,"
 
 #: app/presenters/p_phonenumber.php:388
 msgid "Fill the form, "
-msgstr "Töltse ki az űrlapot, és"
+msgstr "Töltse ki az űrlapot,"
 
 #: app/presenters/p_phonenumber.php:389
 msgid "Fill the form and "
-msgstr "Töltse ki a mi űrlapunkat és"
+msgstr "Töltse ki az űrlapot, és"
 
 #: app/presenters/p_phonenumber.php:390
 msgid "Write to us (it is not necessary to state Your real name) and "
-msgstr "Írjon nekünk (nem muszáj elöadni  igazi nevet) és"
+msgstr "Írjon nekünk (nem muszáj megadnia a valódi nevét), és"
 
 #: app/presenters/p_phonenumber.php:391
 msgid "Leave a message using our form and "
-msgstr "Hagyjon üzeneteta vissza jelzö ürlapon,és"
+msgstr "Küldjön üzenetet az űrlapunkat használva, és"
 
 #: app/presenters/p_phonenumber.php:392
 msgid "Share Your experience and "
-msgstr "Kérjük, ismertesse a tapasztalat és a"
+msgstr "Ossza meg Saját tapasztalatait, és"
 
 #: app/presenters/p_phonenumber.php:393
 msgid "Leave a message and "
-msgstr "Hagyjon üzenetet, és"
+msgstr "Hagyjon egy üzenetet, és"
 
 #: app/presenters/p_phonenumber.php:394
 msgid "Describe Your experience using our form and "
-msgstr "Irja le tapasztalatát es az élményét, az űrlapon keresztül, és"
+msgstr "Írja le a Saját személyes tapasztalatait az űrlapunkat használva, és"
 
 #: app/presenters/p_phonenumber.php:395
 msgid "Give us Your opinion and "
-msgstr "Írja le értékelését, és"
+msgstr "Ossza meg velünk az Ön véleményét, és"
 
 #: app/presenters/p_phonenumber.php:396
 msgid "Rate this phone number using the form and "
-msgstr "Kérjük, értékelje a telefonszámot, a képernyőn és"
+msgstr "Értékelje ezt a telefonszámot az űrlapot használva, és"
 
 #: app/presenters/p_phonenumber.php:400
 msgid "this will help the other users."
-msgstr "Segítcsen másoknak."
+msgstr "ez segítséget nyújt más felhasználóknak."
 
 #: app/presenters/p_phonenumber.php:401
 msgid "this will help the other users to have a more clear information."
-msgstr "  Segicsd orientálni, a többieket."
+msgstr ""
+"ez segítséget nyújt más felhasználóknak, hogy minél pontosabb információkhoz "
+"juthassanak."
 
 #: app/presenters/p_phonenumber.php:402
 msgid "other users can use this information."
-msgstr "Magamiat a többiek is okosabbak lehetnek."
+msgstr "más felhasználók számára is hasznos lehet ez az információ."
 
 #: app/presenters/p_phonenumber.php:403
 msgid "the information can be used by the other users."
-msgstr "tájékoztatja a többi felhasználókat."
+msgstr "ez az információ más felhasználóknak is hasznos lehet."
 
 #: app/presenters/p_phonenumber.php:404
 msgid "the other users will appreciate it."
-msgstr "A többi felhasztnálók hálások lesznek magának"
+msgstr "a többi felhasználó hálás lesz érte."
 
 #: app/presenters/p_phonenumber.php:405
 msgid "the other users will use it for their benefit."
-msgstr "A többi keresö felhasztnáló lesz informálva."
+msgstr "a többi felhasználóknak előnye fog származni belőle."
 
 #: app/presenters/p_phonenumber.php:406
 msgid "the information can be useful for other users."
-msgstr "Köszönyük magának,hogy a többi felhasználók már többet nemkeresnek"
+msgstr "az információ hasznos lehet más felhasználók számára."
 
 #: app/presenters/p_phonenumber.php:407
 msgid "You will help also the other users."
-msgstr "Segicsen a többi keresö felhasztnálóaknak"
+msgstr "Így Ön más felhasználóknak is segítséget fog nyújtani."
 
 #: app/presenters/p_phonenumber.php:408
 msgid "thanks to You the others will be better informed."
-msgstr "Hála önnek hogy a többiek is tudnak tájekozódni"
+msgstr "Önnek köszönhetően mások is tájékozottabbak lesznek."
 
 #: app/presenters/p_phonenumber.php:409
 msgid "the other users can benefit from this information."
-msgstr "Tájékoztasa a többi felhasználót."
+msgstr "a többi felhasználó hasznára válhat ez az információ."
 
 #: app/presenters/p_phonenumber.php:413
 msgid "Thank You for Your review."
-msgstr "Köszönyük a maga hozzájárulását."
+msgstr "Köszönjük az Ön felhasználói értékelését."
 
 #: app/presenters/p_phonenumber.php:414
 msgid "Thank You for Your reaction."
-msgstr "Köszönönyük a maga reakcióját."
+msgstr "Köszönjük az Ön közreműködését."
 
 #: app/presenters/p_phonenumber.php:415
 msgid "We would appreciate Your reaction."
-msgstr "Nagyra értékeljük,a reakcióját"
+msgstr "Nagyra értékelnénk az Ön közreműködését."
 
 #: app/presenters/p_phonenumber.php:416
 msgid "We would appreciate Your review."
-msgstr "Nagyra értékeljük hogy ha ír nekünk"
+msgstr "Nagyra értékelnénk az Ön felhasználó értékelését."
 
 #: app/presenters/p_phonenumber.php:417
 msgid "We would appreciate if You share Your experience."
-msgstr "Nagyra értékeljük hogy ha megossza tapasztalatát"
+msgstr "Nagyra értékelnénk, ha Ön megosztaná saját, személyes tapasztalatait."
 
 #: app/presenters/p_phonenumber.php:418
 msgid "Thank You in advance for Your review."
-msgstr "Előre is köszönönyük a hozzájárulását."
+msgstr "Előre is köszönjük, az Ön felhasználói értékelését."
 
 #: app/presenters/p_phonenumber.php:419
 msgid "Thank You for Your comment."
-msgstr "Köszönyük a maga magyarázattát"
+msgstr "Köszönjük szépen a hozzászólását."
 
 #: app/presenters/p_phonenumber.php:420
 msgid "Thank You in advance for Your comment."
-msgstr "Elöre is köszönyük a maga kifejezesét"
+msgstr "Előre is köszönjük a hozzászólását."
 
 #: app/presenters/p_phonenumber.php:421
 msgid "We would appreciate if You share Your statement."
-msgstr "Örülni fogunk hogy ha megossza tapasztalatát"
+msgstr "Nagyra értékelnénk, ha Ön megosztaná a saját álláspontját."
 
 #: app/presenters/p_phonenumber.php:422
 msgid "Thank You for Your post."
-msgstr "Köszönyük a hozzájárulást"
+msgstr "Köszönjük szépen a posztját."
 
 #: app/presenters/p_phonenumber.php:431
 msgid "Phone number should be fixed line."
-msgstr "Telefonszám sort rögzíteni kell."
+msgstr "A telefonszám vezetékes telefonszám lehet."
 
 #: app/presenters/p_phonenumber.php:432
 msgid "Phone number should be mobile line."
-msgstr "Telefonszám álitólag   aktualis vonal."
+msgstr "A telefonszám mobil telefonszám lehet."
 
 #: app/presenters/p_phonenumber.php:433
 msgid "Phone number should be fixed or mobile line."
-msgstr "Ez a telefonszám vezetékes vagy mobil telefon vonala."
+msgstr "A telefonszám vezetékes, vagy mobil telefonszám lehet."
 
 #: app/presenters/p_phonenumber.php:434
 msgid "Phone number should be toll free."
-msgstr "A telefonszám álitólag egy ingyenes vonal"
+msgstr "A telefonszám ingyenesen hívható telefonszám lehet."
 
 #: app/presenters/p_phonenumber.php:435
 msgid "Phone number should be for premium rate. Be carefull."
-msgstr "Emelt díjas telefonszám. Legyen óvatos."
+msgstr "A telefonszám valószínűleg emeltdíjas telefonszám. Legyen óvatos."
 
 #: app/presenters/p_phonenumber.php:436
 msgid ""
 "Phone number should be for shared rate. It should be cheaper than standard "
 "call."
 msgstr ""
-"Ennek a  telefonszámnak,kell leni egy támogatott árának. A hívás lehetseges "
-"hogy olcsóbb."
+"A telefonszám kedvezményesen hívható telefonszám lehet. A hívás díja kisebb, "
+"mint a hagyományos számoké."
 
 #: app/presenters/p_phonenumber.php:437
 msgid "Phone number should be voice over ip."
-msgstr "Telefoni szám álitólag VOIP. ( internet segitsegi hívas)"
+msgstr "A telefonszám VoIP (interneten keresztül hívható) telefonszám lehet."
 
 #: app/presenters/p_phonenumber.php:438
 msgid "Phone number should be personal line."
-msgstr "Ez a telefonszám lehetöleg   személyes."
+msgstr "A telefonszám személyes telefonszám lehet."
 
 #: app/presenters/p_phonenumber.php:439
 msgid "Phone number should be pager."
-msgstr "Ez a telefonszám álitölag egy pager."
+msgstr "A telefonszám személyhívó (csipogó) száma lehet."
 
 #: app/presenters/p_phonenumber.php:440
 msgid "Phone number should belong some  company."
-msgstr "Telefonszám  ingyenesen hívható."
+msgstr "A telefonszám valószínűleg egy céges telefonszám."
 
 #: app/presenters/p_phonenumber.php:441
 msgid "Phone number should be for emergency call."
-msgstr "Segélyhívó telefonszám."
+msgstr "A telefonszám valószínűleg egy segélyhívó szám."
 
 #: app/presenters/p_phonenumber.php:452
 msgid ""
@@ -403,6 +409,9 @@ msgid ""
 "users. This can be a mark of global call centre or marketing action, so be "
 "aware."
 msgstr ""
+"Az elmúlt napok során, erre a számra rendkívül gyakran kerestek rá más "
+"felhasználók is. Ez egy globális call centerre, vagy valamilyen marketing "
+"tevékenységre utaló jel lehet, legyen elővigyázatos."
 
 #: app/presenters/p_phonenumber.php:453
 msgid ""
@@ -411,6 +420,11 @@ msgid ""
 "of wide usage of it, probably for marketing purposes. Probably it can be "
 "source of unwanted calls."
 msgstr ""
+"Ez a szám nagy valószínűséggel nem magánszemélyhez tartozik. Az elmúlt napok "
+"során, igen sok rákeresést észleltünk ezzel a számmal kapcsolatban. Mindez a "
+"szám rendkívül gyakori használatára utal, és ebből kiindulva, valamilyen "
+"marketing tevékenység állhat a háttérben, ezért a telefonszám kéretlen "
+"hívások forrása lehet."
 
 #: app/presenters/p_phonenumber.php:454
 msgid ""
@@ -418,6 +432,9 @@ msgid ""
 "pages, which can be a sing of some telemarketing company or call centre "
 "using it. Be aware if this number call you."
 msgstr ""
+"Erre a számra eléggé gyakran kerestek rá más felhasználók az oldalunkon, ami "
+"annak a jele lehet, hogy a szám egy telemarketinges céghez, vagy call "
+"centerhez tartozik. Legyen elővigyázatos, ha erről a számról hívják Önt."
 
 #: app/presenters/p_phonenumber.php:455
 msgid ""
@@ -425,6 +442,10 @@ msgid ""
 "days. It probably doesn't belong to some individual and is widely used by "
 "some telemarketing company, it can be unsolicited call for you."
 msgstr ""
+"Bár ezzel a számmal kapcsolatban még nem érkezett felhasználói visszajelzés, "
+"meglehetősen sokan kerestek rá az elmúlt napok folyamán, így "
+"valószínűsíthető, hogy nem magánszemélyhez, hanem valamilyen telemarketinges "
+"céghez tartozik, ezért Ön kéretlen hívásokat kaphat erről a számról."
 
 #: app/presenters/p_phonenumber.php:456
 msgid ""
@@ -432,38 +453,41 @@ msgid ""
 "likely used for telemarketing actions and doesn't belong to a private "
 "person. Be aware."
 msgstr ""
+"Erre a számra rendkívül gyakran kerestek rá az elmúlt néhány napban. "
+"Valószínűleg telemarketinges célokra használják, vagyis nem magánszemélyhez "
+"tartozik, ezért legyen vele óvatos."
 
 #: app/repositories/r_phones.php:170
 msgid "Phone number has positive rating"
-msgstr "Telefonszám  pozitív Értékelése"
+msgstr "Pozitív értékelésű telefonszám"
 
 #: app/repositories/r_phones.php:171
 msgid "Phone number has negative rating"
-msgstr "Telefon szám negatív minősítéssel rendelkezik."
+msgstr "Negatív értékelésű telefonszám"
 
 #: app/repositories/r_phones.php:172
 msgid "Phone number has neutral rating"
-msgstr "Telefonszám semleges minősítéssel rendelkezik."
+msgstr "Semleges értékelésű telefonszám"
 
 #: app/repositories/r_phones.php:173
 msgid "Phone number has no rating yet"
-msgstr "Telefonszám,még nincsen Értékelés"
+msgstr "Még nem értékelt telefonszám"
 
 #: app/repositories/r_reviews.php:92
 msgid "Telemarketer"
-msgstr "Telemarketing"
+msgstr "Telemarketinges"
 
 #: app/repositories/r_reviews.php:93
 msgid "Call centre"
-msgstr "Call centrum"
+msgstr "Call center"
 
 #: app/repositories/r_reviews.php:94
 msgid "Silent call"
-msgstr "Csengetes/csendes hívás"
+msgstr "Néma hívás (hívás automatától)"
 
 #: app/repositories/r_reviews.php:95
 msgid "Nuisance call"
-msgstr "Zaklató telefonhívás"
+msgstr "Zaklató hívás"
 
 #: app/repositories/r_reviews.php:96
 msgid "Unsolicited call"
@@ -471,35 +495,35 @@ msgstr "Kéretlen hívás"
 
 #: app/repositories/r_reviews.php:97
 msgid "Financial services"
-msgstr "A pénzügyi szolgáltatások"
+msgstr "Pénzügyi szolgáltatások"
 
 #: app/repositories/r_reviews.php:98
 msgid "Debt collector"
-msgstr "Tartozás igazságosztó"
+msgstr "Adósság behajtó"
 
 #: app/repositories/r_reviews.php:99
 msgid "Non-profit Organization"
-msgstr "Egy nonprofit szervezet"
+msgstr "Nonprofit szervezet"
 
 #: app/repositories/r_reviews.php:100
 msgid "Political call"
-msgstr "Politikai hívás"
+msgstr "Politikai jellegű hívás"
 
 #: app/repositories/r_reviews.php:101
 msgid "Scam call"
-msgstr "Hamis telefonhívás"
+msgstr "Telefonos csalás"
 
 #: app/repositories/r_reviews.php:102
 msgid "Prank call"
-msgstr "Trefás hívás"
+msgstr "Hamis hívás (telefonbetyár)"
 
 #: app/repositories/r_reviews.php:103
 msgid "Fax machine"
-msgstr "Fax gép"
+msgstr "Fax"
 
 #: app/repositories/r_reviews.php:104
 msgid "SMS"
-msgstr "SMS-BEN"
+msgstr "SMS"
 
 #: app/repositories/r_reviews.php:105
 msgid "Survey"
@@ -507,11 +531,11 @@ msgstr "Felmérés"
 
 #: app/repositories/r_reviews.php:106
 msgid "Company"
-msgstr ""
+msgstr "Vállalat"
 
 #: app/repositories/r_reviews.php:107
 msgid "Service"
-msgstr ""
+msgstr "Szolgáltatás"
 
 #: app/repositories/r_reviews.php:108
 msgid "Other"
@@ -519,15 +543,15 @@ msgstr "Egyéb"
 
 #: app/repositories/r_reviews.php:144
 msgid "SYSTEM"
-msgstr ""
+msgstr "RENDSZER"
 
 #: app/repositories/r_reviews.php:146
 msgid "Probably Safe"
-msgstr ""
+msgstr "Valószínűleg Biztonságos"
 
 #: app/repositories/r_reviews.php:149
 msgid "This number doesn't have any negative ratings."
-msgstr ""
+msgstr "Ennek a számnak nincsenek negatív értékelései."
 
 #: app/repositories/r_reviews.php:150
 #, php-format
@@ -535,6 +559,8 @@ msgid ""
 "We also haven't detected any unusual activity regarding number %s, so it "
 "looks safe now."
 msgstr ""
+"Mi sem állapítottunk meg semmilyen szokatlan tevékenységet a %s számmal "
+"kapcsolatban, ezért biztonságosnak tekinthető."
 
 #: app/repositories/r_reviews.php:152
 #: app/templates/phonenumber/defaultAmp.tpl:573
@@ -547,8 +573,9 @@ msgid ""
 "If you have any useful information about this number then please add your "
 "rating and help others find who called."
 msgstr ""
-" Hogyha van hasznos információja erről a telefonszámról , akkor majd kérjük "
-"az értékelését és  segítcsen másokon, hogy megtudja, ki hív."
+"Ha van valamilyen használható információja ezzel a számmal kapcsolatban, "
+"akkor kérjük értékelje, és segítsen mások, hogy kiderüljön ki volt a hívó "
+"fél."
 
 #: app/templates/404/default.tpl:17 app/templates/net/numbers.tpl:34
 msgid "Page not found"
@@ -557,49 +584,49 @@ msgstr "Az oldal nem található"
 #: app/templates/404/default.tpl:18 app/templates/net/numbers.tpl:35
 msgid "Requested page is not found on server. Please use navigation."
 msgstr ""
-"A kért oldal nem található a kiszolgálón. Kérjük, használja a navigációt"
+"A keresett oldal nem található a kiszolgálón. Kérjük, használja a navigációt."
 
 #: app/templates/404/default.tpl:26 app/templates/net/numbers.tpl:40
 msgid "Page Not Found"
-msgstr "Az oldal nem található"
+msgstr "Az Oldal Nem Található"
 
 #: app/templates/404/default.tpl:27 app/templates/net/numbers.tpl:41
 msgid ""
 "We are sorry but page you are searching is not found! Please use site "
 "navigation to find your content."
 msgstr ""
-"Sajnáljuk, de a kért oldal nem található! Használja a webhely-navigációt és "
-"megtalálja a keresett tartalmat."
+"Sajnáljuk, de az ön által keresett oldal nem található! Kérjük használja az "
+"oldal navigációját a keresett tartalom megtalálásához."
 
 #: app/templates/503/default.tpl:23 app/templates/503/default.tpl:33
 msgid "Service Temporarily Unavailable"
-msgstr "Szolgáltatás átmenetileg nem érhető "
+msgstr "A Szolgáltatás Átmenetileg Nem Elérhető"
 
 #: app/templates/503/default.tpl:29
 msgid "503 Service Temporarily Unavailable"
-msgstr "503 szolgáltatás átmenetileg nem érhető "
+msgstr "503-as hiba történt! A Szolgáltatás Átmenetileg Nem Elérhető"
 
 #: app/templates/503/default.tpl:34
 msgid ""
 "The server is temporarily unable to service your request due to maintenance "
 "downtime or capacity problems. Please try again later."
 msgstr ""
-"A kiszolgáló  átmenetileg nem tudja,kiszolgalni a maga kéretet elvégzett "
-"karbantartás vagy a probléma  kapacitás. Kérjük, próbálkozzon később."
+"A kiszolgáló átmenetileg nem tudja teljesíteni a kérést karbantartás, vagy "
+"túlterheltség miatt. Kérjük próbálja meg később."
 
 #: app/templates/about/default.tpl:16 app/templates/mobilemanual/8.tpl:451
 #: app/templates/mobilemanual/8.tpl:570
 msgid "About"
-msgstr "A szolgáltatásról"
+msgstr "Információk"
 
 #: app/templates/about/default.tpl:17
 msgid "Service description and basic information how to use it."
 msgstr ""
-"Szolgáltatások és alapvető információk, hogyan kell használni a leírását"
+"A termék szolgáltatásainak leírása és alapvető információk a használatáról."
 
 #: app/templates/about/default.tpl:21
 msgid "About the service"
-msgstr "A szolgáltatásról"
+msgstr "Információk a szolgáltatásról"
 
 #: app/templates/about/default.tpl:22
 msgid ""
@@ -608,6 +635,12 @@ msgid ""
 "opportunity to face the s?unsolicited call, telemarketing campaign, "
 "advertisement or another kind of fraud call."
 msgstr ""
+"Vajon fel kéne vennem a telefont? Ez a kérdés gyakran, és teljes joggal "
+"merül fel bárkiben, aki azt tapasztalja, hogy valamilyen ismeretlen számáról "
+"hívják. Sajnos biztosra vehető, hogy korábban már mindannyian ki voltunk "
+"(vagy ki leszünk) téve, a legkülönfélébb kéretlen telefonhívásoknak, "
+"marketinges cégek, reklámügynökségek, részéről, vagy bármilyen más jellegű "
+"megkeresés, esetleg telefonos csalások, átverések miatt."
 
 #: app/templates/about/default.tpl:23
 msgid ""
@@ -620,37 +653,44 @@ msgid ""
 "offers everybody to search any number and read the reviews of the other "
 "users for some number to find what category the number is out of :"
 msgstr ""
-"Hogyan állapítható meg, hogy az ismeretlen hívó száma ártalmatlan vagy sem "
-"az emelés kifossza a penzet es a percet ? Értelme és célja  ezen az oldalon, "
-"hogy mindenki, aki találkozott ilyen bűncselekményekkel, amely figyelmezteti "
-"a többiek előtt a telefonszámot, ami zaklatja, vagy károsítja magát. "
-"Közösségi vitafórum webhelyen bárki helyezze be a telefon számot  és más "
-"felhasználók számára,is hogy megítélje, hogy a hívó szám rossz kategóriák "
-"egyikébe esik"
+"Adja magát a kérdés, hogy hogyan lehetne egy-egy szám kapcsán biztosra "
+"venni, hogy semmilyen veszélyt nem jelent a számunkra, illetve, hogy nem fog "
+"majd elvenni hosszú perceket az értékes időnkből, esetlegesen még jelentős "
+"mértékű pénzveszteséget is okozva nekünk? Ennek a szolgáltatásnak az "
+"elsődleges célja, hogy bárki, aki potenciálisan veszélyes, vagy bármilyen "
+"jellegű, kéretlen hívást tapasztal, figyelmeztetni tudjon másokat, valamint, "
+"hogy minderről értesítéseket is tudjon írni a többi felhasználó számára. Ez "
+"a világhálón működő közösségi rendszer, lehetőséget biztosít mindenki "
+"számára, hogy kifejthesse saját véleményét egy-egy adott telefonszámról. "
+"Emellett a rendszer azt is lehetővé teszi, hogy bárki rákereshessen egy "
+"adott telefonszámra az adatbázisban, és megtekinthesse más felhasználók "
+"véleményt és értékelését az érintett számmal kapcsolatban, illetve, hogy "
+"megtudhassa, hogy a szóban forgó telefonszám milyen kategóriába van "
+"besorolva:"
 
 #: app/templates/about/default.tpl:25
 msgid "Neutral number"
-msgstr "Semleges száma"
+msgstr "Semleges szám"
 
 #: app/templates/about/default.tpl:25
 msgid "not decided yet if the number is harmful/scam or legitimate"
-msgstr "nem egyértelmű megmondani, hogy ez káros vagy hasznos"
+msgstr "még nem derült ki, hogy a szám veszélyes/átverés vagy veszélytelen"
 
 #: app/templates/about/default.tpl:26
 msgid "Scam number"
-msgstr "Káros száma"
+msgstr "Scam telefonszám"
 
 #: app/templates/about/default.tpl:26
 msgid "answering this call will cost a precious time or money"
-msgstr "emelés  előkészíti időben vagy a pénz formájában"
+msgstr "a hívás fogadása ennél a számnál idő vagy pénzveszteséget okoz."
 
 #: app/templates/about/default.tpl:27
 msgid "Useful number"
-msgstr "Hasznos száma"
+msgstr "Hasznos telefonszám"
 
 #: app/templates/about/default.tpl:27
 msgid "there is no danger in answering this call"
-msgstr "nem veszélyes ez a hívás fogadása"
+msgstr "a hívás fogadás ennél a számnál nem jár semmilyen veszéllyel."
 
 #: app/templates/about/default.tpl:30
 msgid ""
@@ -660,84 +700,97 @@ msgid ""
 "unfair situations where the ?customer? (in this case we) can not protect "
 "ourselves adequately."
 msgstr ""
+"Ha ezek az információk a felhasználók számára mindig rendelkezésre állnak és "
+"bármikor megtekinthetők, képesek leszünk jelentős mértékben korlátozni, vagy "
+"akár teljesen meg is akadályozni, hogy a kéretlen hívások, marketing "
+"kampányok révén egyes cégek tisztességtelen módon profitálhassanak abból, "
+"hogy a felhasználók (jelen esetben mi) nem tudják kellőképpen megvédeni "
+"magukat velük szemben."
 
 #: app/templates/about/default.tpl:32
 msgid ""
 "Let's fight together against the telephonic kind of harassment, let's share "
 "our knowledge and situations and most important, the ways how to protect."
 msgstr ""
+"Küzdjünk együtt a telefonos zaklatások minden típusa ellen, osszuk meg a "
+"tudásunkat és a tapasztalatainkat, de ami a legfontosabb, a hatékony "
+"védekezés módját is."
 
 #: app/templates/adminlogin/default.tpl:16
 msgid "Login page"
-msgstr "Bejelentkező oldal"
+msgstr "Bejelentkezési oldal"
 
 #: app/templates/adminlogin/default.tpl:48
 msgid "Administration Login"
-msgstr "Felügyeleti belépés"
+msgstr "Admin belépés"
 
 #: app/templates/compatibility/default.tpl:16
 msgid "Phone App Compatibility"
-msgstr ""
+msgstr "Telefonos Applikáció Kompatibilitás"
 
 #: app/templates/compatibility/default.tpl:117
 msgid "Phone Compatibility Report"
-msgstr ""
+msgstr "Készülék Kompatibilitási Jelentés"
 
 #: app/templates/compatibility/default.tpl:120
 msgid "Phone API version"
-msgstr ""
+msgstr "Készülék API verziója"
 
 #: app/templates/compatibility/default.tpl:121
 msgid "App Version"
-msgstr ""
+msgstr "Applikáció Verzió"
 
 #: app/templates/compatibility/default.tpl:125
 msgid "Phone Manufacturer"
-msgstr ""
+msgstr "Készülék Gyártó"
 
 #: app/templates/compatibility/default.tpl:126
 msgid "Phone Model"
-msgstr ""
+msgstr "Telefon Modell "
 
 #: app/templates/compatibility/default.tpl:130
 msgid "Contacts Support"
-msgstr ""
+msgstr "Névjegyzék Támogatás"
 
 #: app/templates/compatibility/default.tpl:131
 msgid "Auto Disconnect Support"
-msgstr ""
+msgstr "Automatikus Kapcsolatbontás Támogatás"
 
 #: app/templates/compatibility/default.tpl:136
 msgid "Are you experiencing any issue ?"
-msgstr ""
+msgstr "Tapasztal bármilyen hibát?"
 
 #: app/templates/compatibility/default.tpl:142
 msgid "Issue Type"
-msgstr ""
+msgstr "Hiba Típusa"
 
 #: app/templates/compatibility/default.tpl:143
 msgid "I didn't find any issue yet"
-msgstr ""
+msgstr "Még nem tapasztaltam semmilyen hibát"
 
 #: app/templates/compatibility/default.tpl:145
 msgid "Hurray! We hope it stays like this ;-)"
-msgstr ""
+msgstr "Szuper! Reméljük, ez így is marad ;-)"
 
 #: app/templates/compatibility/default.tpl:147
 msgid "Alerts are not visible"
-msgstr ""
+msgstr "A figyelmezetések nem láthatók"
 
 #: app/templates/compatibility/default.tpl:149
 msgid ""
 "Firstly the alerts are visible only for calls from/to phone numbers which "
 "are not stored in your phone contacts."
 msgstr ""
+"Először is, csak az olyan ki- és bemenő hívások esetében láthatók a "
+"figyelmeztetések, amelyek számai nincsenek tárolva a telefon névjegyzékében."
 
 #: app/templates/compatibility/default.tpl:150
 msgid ""
 "Secondly please be sure you did not stop our application by some memory "
 "optimizer or app killer."
 msgstr ""
+"Másodszor, kérjük győződjön meg róla, hogy nem állított le az applikációt, "
+"valamilyen memória optimalizáló, vagy más szoftver használatával."
 
 #: app/templates/compatibility/default.tpl:151
 #: app/templates/compatibility/default.tpl:161
@@ -745,38 +798,50 @@ msgid ""
 "Enable \"Show icon in status bar\" in app Settings and keep app icon in "
 "status bar."
 msgstr ""
+"Engedélyezze az \"Ikonok megjelenítése a status bar-on\" opciót, az "
+"applikáció Beállítások részében és hagyja ott az applikáció ikonját a status "
+"bar-on."
 
 #: app/templates/compatibility/default.tpl:152
 #: app/templates/compatibility/default.tpl:162
 msgid ""
 "If you or some utility kills our service intentionally the icon disappears."
 msgstr ""
+"Ha ön, vagy vagy valamilyen segédprogram leállítja az alkalmazást, az ikon "
+"eltűnik."
 
 #: app/templates/compatibility/default.tpl:153
 msgid ""
 "If our service is running and you don't see alerts for unknown numbers, "
 "please try to disable the use of overlay in app Settings."
 msgstr ""
+"Ha az alkalmazás fut, de ön nem látja a figyelmeztetéseket az ismeretlen "
+"számokról, kérjük kapcsolja ki az átfedés használatát az applikáció "
+"Beállításoknál."
 
 #: app/templates/compatibility/default.tpl:155
 msgid "Unwanted calls are not blocked"
-msgstr ""
+msgstr "A kéretlen hívások nincsenek blokkolva"
 
 #: app/templates/compatibility/default.tpl:158
 msgid "Your phone should support this feature."
-msgstr ""
+msgstr "A készülékének támogatnia kellene ezt a funkciót."
 
 #: app/templates/compatibility/default.tpl:159
 msgid ""
 "Check the “Block Rules” settings in your and also be sure you don't have the "
 "calling number stored in phone contacts."
 msgstr ""
+"Ellenőrizze a saját \"Blokkolási\" beállításait és győződjön meg arról is, "
+"hogy az érintett szám nincs-e eltárolva a készüléke névjegyzékében."
 
 #: app/templates/compatibility/default.tpl:160
 msgid ""
 "Please be sure you did not stop our application by some memory optimizer or "
 "app killer."
 msgstr ""
+"Kérjük nézzen utána, hogy nem állította-e le az alkalmazást, valamilyen "
+"memória optimalizálóval, vagy app killer applikációval."
 
 #: app/templates/compatibility/default.tpl:163
 msgid ""
@@ -784,62 +849,76 @@ msgid ""
 "details: phone number which should be blocked and reason why you expect the "
 "blocking action."
 msgstr ""
+"Abban az esetben, ha az alkalmazás fut, de nem az elvárásoknak megfelelően "
+"működik, kérjük írja meg nekünk a probléma részleteit: azt a telefonszámot "
+"amelynek blokkolva kéne lennie, illetve, hogy milyen okból kifolyólag akarja "
+"blokkolni."
 
 #: app/templates/compatibility/default.tpl:165
 msgid ""
 "Your phone doesn't support this feature. If you have some useful "
 "information, please fill it to Issue description."
 msgstr ""
+"Az ön készüléke nem támogatja ezt a funkciót. Ha van valamilyen használható "
+"információja ezzel kapcsolatban, kérjük írja meg nekünk a Hiba leírása "
+"űrlapon."
 
 #: app/templates/compatibility/default.tpl:168
 msgid "App cannot read contacts"
-msgstr ""
+msgstr "Az applikáció nem fér hozzá a névjegyzékhez"
 
 #: app/templates/compatibility/default.tpl:171
 msgid "Please be sure you granted contacts access to our application."
 msgstr ""
+"Kérjük, hogy győződjön meg róla, hogy engedélyezte az applikáció számára a "
+"hozzáférést a névjegyzékhez."
 
 #: app/templates/compatibility/default.tpl:173
 msgid "Do you have idea why we don't have access to contacts?"
-msgstr ""
+msgstr "Van ötlete arról, hogy miért nem tudunk hozzáférni a névjegyzékhez?"
 
 #: app/templates/compatibility/default.tpl:174
 msgid "Are your contacts stored in some special way?"
 msgstr ""
+"A névjegyzékében tárolt adatok valamilyen speciális formában vannak rögzítve?"
 
 #: app/templates/compatibility/default.tpl:175
 msgid "Are you using some app for contact protection?"
 msgstr ""
+"Használ valamilyen applikációt a névjegyzékben tárolt adatok védelméhez?"
 
 #: app/templates/compatibility/default.tpl:176
 msgid "Let us know."
-msgstr ""
+msgstr "Kérjük, tudassa velünk."
 
 #: app/templates/compatibility/default.tpl:178
 msgid "Other issue"
-msgstr ""
+msgstr "Egyéb hiba"
 
 #: app/templates/compatibility/default.tpl:180
 msgid ""
 "Please explain your issue to description. More information you send, higher "
 "chance to catch and fix the bug."
 msgstr ""
+"Kérjük írja meg nekünk a probléma jellegét, a hiba leírása űrlapon. Minél "
+"több és pontosabb információt oszt meg velünk, annál nagyobb az esélye "
+"annak, hogy megtalálhassuk és kijavíthassuk a hibát."
 
 #: app/templates/compatibility/default.tpl:184
 msgid "Please select the issue type"
-msgstr ""
+msgstr "Kérjük válasza ki a hiba típusát"
 
 #: app/templates/compatibility/default.tpl:191
 msgid "Issue description"
-msgstr ""
+msgstr "Hiba leírása"
 
 #: app/templates/compatibility/default.tpl:192
 msgid "Please explain in detail your issue. Thank you!"
-msgstr ""
+msgstr "Kérjük írja le részletesen a hibát. Köszönjük!"
 
 #: app/templates/compatibility/default.tpl:196
 msgid "Please fill the issue description"
-msgstr ""
+msgstr "Kérjük töltse ki a hiba leírása mezőt"
 
 #: app/templates/compatibility/default.tpl:202
 #: app/templates/phonenumber/defaultModerator.tpl:378
@@ -851,12 +930,12 @@ msgstr "E-mail"
 #: app/templates/compatibility/default.tpl:203
 #: app/templates/removalrequest/default.tpl:203
 msgid "Please enter your email"
-msgstr ""
+msgstr "Kérjük adja meg az e-mail címét"
 
 #: app/templates/compatibility/default.tpl:206
 #: app/templates/removalrequest/default.tpl:206
 msgid "Please enter your valid email"
-msgstr ""
+msgstr "Kérjük, hogy érvényes e-mail címet adjon meg"
 
 #: app/templates/compatibility/default.tpl:212
 #: app/templates/removalrequest/default.tpl:237
@@ -864,6 +943,8 @@ msgid ""
 "If possible please communicate in English language to speed up the request "
 "processing."
 msgstr ""
+"Ha megoldható, akkor kérjük, hogy angol nyelvet használjon, a folyamat "
+"felgyorsítása érdekében."
 
 #: app/templates/compatibility/default.tpl:213
 #: app/templates/removalrequest/default.tpl:238
@@ -871,30 +952,33 @@ msgid ""
 "If you have problems with submitting this form, please contact us to email "
 "<strong>support@shouldianswer.net</strong>."
 msgstr ""
+"Ha valamilyen problémája adódna az űrlap használatával, akkor kérjük, hogy "
+"erre az e-mail címre írjon nekünk: <strong>support@shouldianswer.net</"
+"strong>."
 
 #: app/templates/compatibility/default.tpl:217
 msgid "Send Issue Report"
-msgstr ""
+msgstr "Hibajelentés Küldése"
 
 #: app/templates/compatibility/submited.tpl:16
 msgid "Compatibility Issue Received"
-msgstr ""
+msgstr "Kompatibilitási Probléma Észlelve"
 
 #: app/templates/compatibility/submited.tpl:23
 msgid "Phone Compatibility Issue"
-msgstr ""
+msgstr "Készülék Kompatibilitási Hiba"
 
 #: app/templates/compatibility/submited.tpl:25
 msgid "Your information has been succesfully send to our support team."
-msgstr ""
+msgstr "Ön által megadott adatokat továbbítottuk illetékes kollégáink felé."
 
 #: app/templates/compatibility/submited.tpl:26
 msgid "We will try to analyze it as soon as possible."
-msgstr ""
+msgstr "Igyekszünk a kapott adatokat minél gyorsabban feldolgozni."
 
 #: app/templates/compatibility/submited.tpl:27
 msgid "Thank you for your help!"
-msgstr ""
+msgstr "Köszönjük szépen a segítségét!"
 
 #: app/templates/contact/default.tpl:16 app/templates/contact/default.tpl:21
 #: app/templates/mobilemanual/8.tpl:579
@@ -915,14 +999,15 @@ msgid ""
 "<strong>contact@shouldianswer.com</strong>. Your question will be processed "
 "in the shortest time possible."
 msgstr ""
-"Ha van szüksége, lépjen kapcsolatba velünk, kérjük, írjon nekünk: "
-"kontakt@felvehetem.hu"
+"Ha fel szeretné venni velünk a kapcsolatot, akkor kérjük írjon a "
+"<strong>contact@shouldianswer.com</strong> e-mail címre. Levelére igyekszünk "
+"a lehető legrövidebb időn belül válaszolni."
 
 #: app/templates/default/defaultDefault.tpl:17
 #: app/templates/default/defaultNew.tpl:17
 #: app/templates/default/default_ww.tpl:17
 msgid "Main Page"
-msgstr "Fő oldal"
+msgstr "Főoldal"
 
 #: app/templates/default/defaultDefault.tpl:18
 #: app/templates/default/defaultNew.tpl:18
@@ -930,8 +1015,8 @@ msgstr "Fő oldal"
 msgid ""
 "See what phone numbers are most searched and find ratings and users reviews."
 msgstr ""
-"Nézze meg a leginkább keresetteb telefonszámot és talája meg a  minőségét és "
-"felhasználói Értékelését."
+"Tekintse meg a leggyakrabban keresett telefonszámokat, nézze meg az "
+"értékelésüket és a más felhasználók által írt tájékoztatókat."
 
 #: app/templates/default/defaultDefault.tpl:41 app/templates/layout.tpl:291
 #: app/templates/layoutAmp.tpl:259 app/templates/layoutNew.tpl:281
@@ -945,7 +1030,7 @@ msgstr ""
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:271
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:309
 msgid "How to block unwanted numbers?"
-msgstr "Hogyan tiltson le nem kívánt számokat?"
+msgstr "Hogyan blokkolja a kéretlen hívásokat?"
 
 #: app/templates/default/defaultDefault.tpl:46
 #: app/templates/default/defaultNew.tpl:55
@@ -982,8 +1067,8 @@ msgid ""
 "Install our free security application into your mobile phone and stop "
 "unsolicited calls once forever!"
 msgstr ""
-"Telepítse az új biztonsági alkalmazásunkat a mobiltelefonjára és mindörökre "
-"akadályozza meg a kívánatlan hívásokat!"
+"Telepítse az ingyenes biztonsági applikációnkat a mobiltelefonjára, és "
+"szabaduljon meg örökre a kéretlen hívásoktól!"
 
 #: app/templates/default/defaultDefault.tpl:55
 #: app/templates/default/defaultNew.tpl:64
@@ -1000,19 +1085,19 @@ msgstr ""
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:296
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:323
 msgid "Download from Google Play"
-msgstr "Töltsd le a Google Play"
+msgstr "Letöltés a Google Play-ből"
 
 #: app/templates/default/defaultDefault.tpl:78
 #: app/templates/default/defaultNew.tpl:72 app/templates/layout_detail.tpl:27
 #: app/templates/layout_detailAmp.tpl:26 app/templates/layout_detailNew.tpl:26
 msgid "<strong>Popular</strong> phone numbers"
-msgstr "Népszerű telefonszámok"
+msgstr "<strong>Népszerű</strong> telefonszámok"
 
 #: app/templates/default/defaultDefault.tpl:135
 #: app/templates/default/defaultNew.tpl:110 app/templates/layout_detail.tpl:50
 #: app/templates/layout_detailAmp.tpl:44 app/templates/layout_detailNew.tpl:44
 msgid " <strong>Latest rated</strong> phone numbers"
-msgstr "Legújabb névleges telefonszámok"
+msgstr " <strong>Legutóbb értékelt</strong> telefonszámok"
 
 #: app/templates/default/defaultDefault.tpl:157
 #: app/templates/default/defaultDefault.tpl:160
@@ -1082,7 +1167,7 @@ msgstr "semleges"
 
 #: app/templates/default/defaultNew.tpl:42
 msgid "<strong>Find</strong> who is calling you!"
-msgstr ""
+msgstr "<strong>Derítse ki</strong>, hogy ki hívja önt!"
 
 #: app/templates/default/defaultNew.tpl:44 app/templates/layout_default.tpl:22
 #: app/templates/layout_default_ww.tpl:22
@@ -1091,28 +1176,30 @@ msgid ""
 "picking it up is a good idea? Search for the number and find out who can be "
 "the caller."
 msgstr ""
-"Valaki hívot magának  ismeretlen számról, és nem biztos, hogy fel veheti? "
-"kerese ki a telefonszámot es tugya meg ki lehet a hívó."
+"Valaki egy ismeretlen számról hívja Önt, és nem biztos benne, hogy jó ötlet-"
+"e felvenni a telefont? Keressen rá a számra, és derítse ki, hogy ki hívta "
+"önt."
 
 #: app/templates/default/defaultNew.tpl:49
 msgid "How to <strong>block</strong> unwanted numbers?"
-msgstr ""
+msgstr "Hogyan <strong>blokkolja</strong> a kéretlen hívásokat?"
 
 #: app/templates/default/defaultNew.tpl:151 app/templates/layout_default.tpl:84
 msgid "Dialing Codes"
-msgstr "Telefon körzetszámok"
+msgstr "Hívó kódok"
 
 #: app/templates/default/default_ww.tpl:39
 msgid "Our service is available in many countries with country specific domain"
 msgstr ""
+"A szolgáltatásunk számos országban elérhető az országspecifikus domain alatt."
 
 #: app/templates/default/default_ww.tpl:118 app/templates/net/default.tpl:57
 msgid "How to block unwanted calls?"
-msgstr ""
+msgstr "Hogyan blokkolja a kéretlen hívásokat?"
 
 #: app/templates/history/default.tpl:19 app/templates/history/default.tpl:24
 msgid "Latest Searched Numbers"
-msgstr "Legújabb keresett számok"
+msgstr "Utoljára keresett számok"
 
 #: app/templates/history/default.tpl:41
 msgid "Next Page"
@@ -1120,13 +1207,13 @@ msgstr "Következő oldal"
 
 #: app/templates/historyinfo/default.tpl:16
 msgid "Contacts Check"
-msgstr "Névjegyalbum ellenőrzése"
+msgstr "Névjegyzék ellenőrzése"
 
 #: app/templates/layout.tpl:118 app/templates/layoutAmp.tpl:188
 #: app/templates/layoutNew.tpl:114 app/templates/layoutNew.tpl:210
 #: app/templates/layout_white.tpl:72
 msgid "Should I Answer"
-msgstr ""
+msgstr "Should I Answer"
 
 #: app/templates/layout.tpl:153 app/templates/layoutAmp.tpl:127
 #: app/templates/layoutNew.tpl:149
@@ -1134,43 +1221,46 @@ msgid ""
 "Cookies help us deliver our services. By using our services, you agree to "
 "our use of cookies."
 msgstr ""
+"A cookie-k segítenek szolgáltatásaink biztosításában. Szolgáltatásaink "
+"igénybevételével Ön beleegyezik a cookie-k használatába. "
 
 #: app/templates/layout.tpl:154 app/templates/layoutAmp.tpl:128
 #: app/templates/layoutNew.tpl:150
 msgid "Got it"
-msgstr ""
+msgstr "Megértettem"
 
 #: app/templates/layout.tpl:155 app/templates/layoutAmp.tpl:129
 #: app/templates/layoutNew.tpl:151
 msgid "Find out more"
-msgstr ""
+msgstr "Tudjon meg többet"
 
 #: app/templates/layout.tpl:188 app/templates/layoutAmp.tpl:162
 #: app/templates/layoutNew.tpl:184
 #, php-format
 msgid "For phone numbers in your location (%s) use "
-msgstr "A telefonszámok a helyen (%s) használata"
+msgstr ""
+"Az ön tartózkodási helyének (%s) telefonszámaihoz használja ezt az oldalt:"
 
 #: app/templates/layout.tpl:192 app/templates/layoutAmp.tpl:166
 #: app/templates/layoutNew.tpl:188
 msgid "Close"
-msgstr "Zár"
+msgstr "Bezár"
 
 #: app/templates/layout.tpl:206 app/templates/layoutAmp.tpl:181
 #: app/templates/layoutNew.tpl:203
 #, php-format
 msgid "You are logged as moderator."
-msgstr ""
+msgstr "Ön moderátorként van belépve."
 
 #: app/templates/layout.tpl:225 app/templates/layoutAmp.tpl:191
 #: app/templates/layoutNew.tpl:213
 msgid "Should I <strong>answer?</strong>"
-msgstr "felvehetem?"
+msgstr "Should I <strong>answer?</strong>"
 
 #: app/templates/layout.tpl:232 app/templates/layoutAmp.tpl:199
 #: app/templates/layoutNew.tpl:221
 msgid "search for phone number"
-msgstr "Telefonszámok keresése"
+msgstr "Telefonszám keresése"
 
 #: app/templates/layout.tpl:237 app/templates/layoutAmp.tpl:205
 #: app/templates/layoutNew.tpl:227
@@ -1180,12 +1270,12 @@ msgstr "keresés"
 #: app/templates/layout.tpl:269 app/templates/layoutAmp.tpl:237
 #: app/templates/layoutNew.tpl:259
 msgid "about"
-msgstr "A szolgáltatásról"
+msgstr "információk"
 
 #: app/templates/layout.tpl:270 app/templates/layoutAmp.tpl:238
 #: app/templates/layoutNew.tpl:260
 msgid "blog"
-msgstr ""
+msgstr "blog"
 
 #: app/templates/layout.tpl:271 app/templates/layoutAmp.tpl:239
 #: app/templates/layoutNew.tpl:261
@@ -1195,7 +1285,7 @@ msgstr "Általános szerződési feltételek"
 #: app/templates/layout.tpl:272 app/templates/layoutAmp.tpl:240
 #: app/templates/layoutNew.tpl:262
 msgid "manual"
-msgstr ""
+msgstr "használati útmutató"
 
 #: app/templates/layout.tpl:273 app/templates/layoutAmp.tpl:241
 #: app/templates/layoutNew.tpl:263
@@ -1205,103 +1295,111 @@ msgstr "Kapcsolat"
 #: app/templates/layout.tpl:274 app/templates/layoutAmp.tpl:242
 #: app/templates/layoutNew.tpl:264
 msgid "history"
-msgstr " Történelem "
+msgstr "előzmények"
 
 #: app/templates/layout.tpl:275 app/templates/layoutAmp.tpl:243
 #: app/templates/layoutNew.tpl:265
 msgid "shouldianswer.net"
-msgstr ""
+msgstr "shouldianswer.net"
 
 #: app/templates/layout_default.tpl:27 app/templates/layout_defaultNew.tpl:20
 msgid "ShouldIAnswer Logo"
-msgstr ""
+msgstr "ShouldIAnswer Logo"
 
 #: app/templates/layout_default.tpl:40
 msgid "For Your <strong>Phone</strong>"
-msgstr "<strong>Telefon</strong>"
+msgstr "Szerezze meg a <strong>Mobiltelefonjához</strong>"
 
 #: app/templates/layout_default.tpl:48
 msgid ""
 "Get <strong>free</strong> and <strong>effective</strong> protection against "
 "unwanted calls!"
 msgstr ""
-"Get <strong>szabad</ strong> és <strong>hatékony</ strong> elleni védelmet a "
-"nem kívánt hívásokat!"
+"ezt az<strong>ingyenes</ strong> és <strong>hatékony</ strong> védelmet "
+"nyújtó alkalmazást a kéretlen hívások ellen!"
 
 #: app/templates/layout_default_ww.tpl:27
 msgid "shouldianswer.com Logo"
-msgstr "felvehetem.hu Logó"
+msgstr "shouldianswer.com Logo"
 
 #: app/templates/layout_mobileapp.tpl:69 app/templates/mobilemanual/8.tpl:556
 msgid "Should I Answer?"
-msgstr ""
+msgstr "Should I Answer?"
 
 #: app/templates/mobileapp/default.tpl:17
 msgid "Phone Protection"
-msgstr ""
+msgstr "Telefon Védelem "
 
 #: app/templates/mobileapp/default.tpl:40
 msgid "Protects you and your loved ones"
-msgstr ""
+msgstr "Megvédi önt és a szeretteit"
 
 #: app/templates/mobileapp/default.tpl:41
 msgid "Immediate end for all kinds of unsolicited calls"
-msgstr ""
+msgstr "Azonnal véget vet a kéretlen hívásoknak"
 
 #: app/templates/mobileapp/default.tpl:44
 msgid "Show rating of incoming calls"
-msgstr ""
+msgstr "Mutatja a bejövő hívások értékelését"
 
 #: app/templates/mobileapp/default.tpl:45
 msgid "Several protection levels and simple settings"
-msgstr ""
+msgstr "Számos védelmi szint és könnyű beállítások"
 
 #: app/templates/mobileapp/default.tpl:48
 msgid "Auto block unwanted calls"
-msgstr ""
+msgstr "Kéretlen hívások automatikus blokkolása"
 
 #: app/templates/mobileapp/default.tpl:49
 msgid "Optional feature for higher protection"
-msgstr ""
+msgstr "Opcionális kiegészítő a magasabb szintű védelemhez"
 
 #: app/templates/mobileapp/default.tpl:52
 msgid "Allow calls from phone contacts only"
-msgstr ""
+msgstr "Csak a névjegyzékben lévő számok hívásait engedélyezi"
 
 #: app/templates/mobileapp/default.tpl:53
 msgid "Optional feature for maximal protection"
-msgstr ""
+msgstr "Opcinális funkció a maximális védelemhez"
 
 #: app/templates/mobileapp/default.tpl:56
 #: app/templates/mobileapp/default.tpl:75
 #: app/templates/mobileapp/default.tpl:131
 msgid "Get the App"
-msgstr ""
+msgstr "Szerezze meg az Alkalmazást"
 
 #: app/templates/mobileapp/default.tpl:69
 msgid ""
 "Our free application will protect you against all kind of harassment calls"
 msgstr ""
+"Az ingyenes alkalmazásunk védelmet nyújt önnek bármilyen telefonos zaklatás "
+"ellen"
 
 #: app/templates/mobileapp/default.tpl:70
 msgid "Protect your privacy with our new mobile application."
 msgstr ""
+"Védje meg a privát szféráját az új mobiltelefonos alkalmazásunk segítségével."
 
 #: app/templates/mobileapp/default.tpl:72
 msgid ""
 "\"Should I Answer\" is free security application for mobiles with Android™ "
 "operting system which can protect you against all kinds of unsolicited calls."
 msgstr ""
+"A \"Should I Answer\", egy olyan ingyenes, biztonsági alkalmazás Android™ "
+"operációs rendszerű telefonokhoz, amely megvédi önt a kéretlen "
+"telefonhívások minden típusától."
 
 #: app/templates/mobileapp/default.tpl:73
 msgid ""
 "It offers several protection levels - from simple notification to automatic "
 "blocking of unsolicited calls."
 msgstr ""
+"Az alkalmazás több védelmi szintet nyújt - az egyszerű értesítésektől a "
+"kéretlen hívások automatikus blokkolásáig."
 
 #: app/templates/mobileapp/default.tpl:88
 msgid "Show rating of incoming call"
-msgstr ""
+msgstr "A bejövő hívások értékelésének kijelzése"
 
 #: app/templates/mobileapp/default.tpl:90
 msgid ""
@@ -1309,14 +1407,21 @@ msgid ""
 "saved in your contact list will be checked and the automatic notification "
 "with security rating is shown including users comments."
 msgstr ""
+"Ennek a védelmi szintnek az aktiválásával, minden olyan számról érkező "
+"bejövő hívás ami nincs benne a névjegyzékében, ellenőrzésre kerül a "
+"rendszerben és olyan automatikus értesítés jelenik meg a készüléken, amely a "
+"szám értékelését és a vele kapcsolatos felhasználói visszajelzéseket is "
+"tartalmazza."
 
 #: app/templates/mobileapp/default.tpl:93
 msgid "This gives you a sufficient time to decide if answer the call or not."
 msgstr ""
+"Önnek minden alkalommal elegendő ideje van arra, hogy eldöntse felveszi-e a "
+"telefont, vagy sem."
 
 #: app/templates/mobileapp/default.tpl:99
 msgid "Block the numbers with negative rating"
-msgstr ""
+msgstr "A negatív értékelésű számok blokkolása"
 
 #: app/templates/mobileapp/default.tpl:101
 msgid ""
@@ -1324,6 +1429,10 @@ msgid ""
 "ranking will be automatically dropped and just a notice is shown in the "
 "notification area about blocked calls."
 msgstr ""
+"Ha ez a biztonsági szint aktiválva van, akkor minden negatív értékelésű "
+"számról érkező hívás automatikusan el lesz utasítva, és csak egy "
+"figyelmeztetés jelenik meg a készülék értesítési szekciójába a blokkolt "
+"hívásról."
 
 #: app/templates/mobileapp/default.tpl:104
 #: app/templates/mobileapp/default.tpl:115
@@ -1331,10 +1440,13 @@ msgid ""
 "In the application main menu user can find info showing how many incoming "
 "calls were blocked and also a possibility to show these numbers."
 msgstr ""
+"Az alkalmazás fő menüjében a felhasználó pontos információkat kaphat arról, "
+"hogy hány hívás lett blokkolva, illetve lehetősége van megtekinteni is az "
+"érintett számokat."
 
 #: app/templates/mobileapp/default.tpl:110
 msgid "Blocking of numbers not stored in contacts"
-msgstr ""
+msgstr "A névjegyzékben nem szereplő számok blokkolása"
 
 #: app/templates/mobileapp/default.tpl:112
 msgid ""
@@ -1343,15 +1455,20 @@ msgid ""
 "blocked and short message is shown in the notification area about the "
 "blocking action."
 msgstr ""
+"Ennek a biztonsági szintnek az aktiválásával, az összes olyan számról bejövő "
+"hívás, amely nincs tárolva az ön mobiltelefonjának a névjegyzékben "
+"automatikusan blokkolva lesz, és egy rövid üzenet jelenik meg a értesítési "
+"területen a blokkolásról."
 
 #: app/templates/mobileapp/default.tpl:126
 msgid ""
 "Protect yourself, Your family and your friends against unsolicited calls!"
 msgstr ""
+"Védje meg önmagát, családtagjait és a barátait a kéretlen telefonhívásoktól! "
 
 #: app/templates/mobileapp/default.tpl:127
 msgid "No more worries with nuisance calls and tele-harassment!"
-msgstr ""
+msgstr "Nem kell soha többé aggódnia a zaklató, kéretlen telefonhívások miatt!"
 
 #: app/templates/mobileapp/default.tpl:129
 msgid ""
@@ -1359,18 +1476,21 @@ msgid ""
 "relatives do not hesitate and download the application for <strong>free</"
 "strong> to your mobile phone."
 msgstr ""
+"Amennyiben ön igényt tart, egy ilyen magas szintű védelmet kínáló "
+"applikációra saját maga, vagy a rokonai számára, akkor ne hezitáljon, és "
+"töltse le az alkalmazást <strong>ingyenesen</strong> a mobiltelefonjára."
 
 #: app/templates/mobilemanual/8.tpl:18
 msgid "User Manual"
-msgstr ""
+msgstr "Használati Útmutató"
 
 #: app/templates/mobilemanual/8.tpl:144
 msgid "Should I Answer Manual"
-msgstr ""
+msgstr "Should I Answer Használati útmutató"
 
 #: app/templates/mobilemanual/8.tpl:152 app/templates/mobilemanual/8.tpl:557
 msgid "Introduction"
-msgstr ""
+msgstr "Beveztés"
 
 #: app/templates/mobilemanual/8.tpl:154
 msgid ""
@@ -1380,14 +1500,22 @@ msgid ""
 "or expensive outgoing calls like call to premium number or call to a foreign "
 "country."
 msgstr ""
+"A <b>Should I Answer</b> (SIA), egy olyan ingyenes, közösségi alapú, "
+"biztonsági alkalmazás Androidos operációs rendszerű mobiltelefonok számára, "
+"amely hatékony védelmet biztosít mindenféle kéretlen telefonhívással "
+"szemben, beleértve a marketinges jellegű telefonos megkereséseket, és a "
+"nemkívánatos vagy magas költségű, emelt díjas más országokból érkező "
+"hívásokat is."
 
 #: app/templates/mobilemanual/8.tpl:155
 msgid "This document describes features and user interface of version 8.x."
 msgstr ""
+"Ez a dokumentum a 8.x. verzió funkcióinak leírását és a felhasználó felület "
+"ismertetőjét tartalmazza."
 
 #: app/templates/mobilemanual/8.tpl:159
 msgid "It is developed by company Mister Group s.r.o."
-msgstr ""
+msgstr "Az alkalmazást a Mister Group s.r.o. készítette."
 
 #: app/templates/mobilemanual/8.tpl:160
 msgid ""
@@ -1395,10 +1523,14 @@ msgid ""
 "feel free to contact our support via email <a href=\"mailto:"
 "support@shouldianswer.net\">support@shouldianswer.net</a>."
 msgstr ""
+"Ha bármilyen kérdése lenne az alkalmazás telepítésével, funkcióival, vagy "
+"magával a céggel kapcsolatban, kérjük vegye fel a kapcsolatot "
+"munkatársainkkal e-mailen keresztül: <a href=\"mailto:support@shouldianswer."
+"net\">support@shouldianswer.net</a>."
 
 #: app/templates/mobilemanual/8.tpl:165 app/templates/mobilemanual/8.tpl:559
 msgid "Installation"
-msgstr ""
+msgstr "Telepítés"
 
 #: app/templates/mobilemanual/8.tpl:167
 msgid ""
@@ -1407,10 +1539,15 @@ msgid ""
 "store/apps/details?id=org.mistergroup.muzutozvednout\">Google Play web page</"
 "a>."
 msgstr ""
+"A telepítés legjobb módja, ha azt a Google Play Áruházat használva végzi el, "
+"amelyet megtalálhat a mobiltelefonjában, vagy ezen a <a href=\"https://play."
+"google.com/store/apps/details?id=org.mistergroup.muzutozvednout\">Google "
+"Play oldalon</a>."
 
 #: app/templates/mobilemanual/8.tpl:168
 msgid "There is no other official distribution channel of installer APK."
 msgstr ""
+"Más hivatalos forrás nem áll rendelkezésre az applikáció telepítéséhez."
 
 #: app/templates/mobilemanual/8.tpl:169
 msgid ""
@@ -1418,104 +1555,131 @@ msgid ""
 "separately, feel free to contact us via our email <a href=\"mailto:"
 "support@shouldianswer.net\">support@shouldianswer.net</a>."
 msgstr ""
+"Amennyiben ön nem tudja használni a Google Play-t a telepítéshez és szüksége "
+"van az APK file-ra, kérjük vegye fel velünk e-mailen a kapcsolatot: <a href="
+"\"mailto:support@shouldianswer.net\">support@shouldianswer.net</a>."
 
 #: app/templates/mobilemanual/8.tpl:174
 msgid "Main Features"
-msgstr ""
+msgstr "Fő Jellemzők"
 
 #: app/templates/mobilemanual/8.tpl:176
 msgid "Easy check of phone numbers ratings in your Phone Call History."
 msgstr ""
+"A telefonszámok értékelésének könnyű ellenőrzése a Hívás Előzményekben."
 
 #: app/templates/mobilemanual/8.tpl:177
 msgid ""
 "Displaying ratings of incoming/outgoing call via special notification "
 "(Alert)."
 msgstr ""
+"A bejövő/kimenő hívások értékelésének megjelenítése speciális értesítésekben "
+"(Figyelmeztetés)."
 
 #: app/templates/mobilemanual/8.tpl:178
 msgid "Displaying after-call information with possibility to write own rating."
 msgstr ""
+"A hívás utáni információk megjelenítése, saját értékelés megírásának "
+"lehetőségével. "
 
 #: app/templates/mobilemanual/8.tpl:179
 msgid "Flexible rating system."
-msgstr ""
+msgstr "Rugalmas értékelési rendszer."
 
 #: app/templates/mobilemanual/8.tpl:180
 msgid "Fully customizable alerts."
-msgstr ""
+msgstr "Teljesen testreszabható értesítések."
 
 #: app/templates/mobilemanual/8.tpl:181
 msgid "Optional automatic blocking of unwanted incoming/outgoing calls."
 msgstr ""
+"Opcionális automatikus blokkolási funkció a kéretlen bejövő/kimenő hívásokra."
 
 #: app/templates/mobilemanual/8.tpl:182
 msgid "Daily updated Community Database."
-msgstr ""
+msgstr "Napi frissítésű Közösségi Adatbázis."
 
 #: app/templates/mobilemanual/8.tpl:188
 msgid "How it works"
-msgstr ""
+msgstr "Működés"
 
 #: app/templates/mobilemanual/8.tpl:190
 msgid ""
 "When some number calls, application shows phone number rating via "
 "<strong>security rating notifications</strong> (Alerts)."
 msgstr ""
+"Hívás esetében, az alkalmazás megjeleníti a telefonszám értékelését a "
+"<strong>biztonsági értékelés értesítésekben</strong> (Figyelmeztetések)"
 
 #: app/templates/mobilemanual/8.tpl:191
 msgid ""
 "Each rating is based on reviews in Community Database, your Phone Contacts "
 "and your own ratings."
 msgstr ""
+"Minden értékelés alapját a Közösségi Adatbázis adatai, az ön névjegyzéke és "
+"saját értékelési adják."
 
 #: app/templates/mobilemanual/8.tpl:192
 msgid ""
 "All above is combined into single <strong>POSITIVE, NEUTRAL, NEGATIVE or "
 "UNKNOWN</strong> rating."
 msgstr ""
+"Minden összegezve az adott szám, egy egyszerű <strong>POZITÍV, SEMLEGES, "
+"NEGATÍV vagy ISMERETLEN</strong> értékelést kap."
 
 #: app/templates/mobilemanual/8.tpl:193
 msgid ""
 "How all the information sources will be combined is fully customizable in "
 "the <strong>RATINGS</strong> tab."
 msgstr ""
+"Minden rendelkezésre álló információ forrás beállítása teljes mértékben "
+"testreszabható az alkalmazás<strong>ÉRTÉKELÉSEK</strong> menüpontjában."
 
 #: app/templates/mobilemanual/8.tpl:194
 msgid ""
 "How and what alerts will be displayed can be configured in the "
 "<strong>ALERTS</strong> tab."
 msgstr ""
+"Az értékelések beállításai, illetve, hogy azok hogyan jelenjenek meg, az "
+"alkalmazás <strong>FIGYELMEZTETÉSEK</strong> menüpontjában állíthatók be."
 
 #: app/templates/mobilemanual/8.tpl:195
 msgid ""
 "How the incoming/outgoing calls will be maintained and blocked can be "
 "configured in the <strong>BLOCKING</strong> tab."
 msgstr ""
+"A bejövő/kimenő hívások kezelésének és blokkolásának opciói az alkalmazás "
+"<strong>BLOKKOLÁS</strong> menüpontjában állítható be."
 
 #: app/templates/mobilemanual/8.tpl:200 app/templates/mobilemanual/8.tpl:562
 msgid "User Interface"
-msgstr ""
+msgstr "Felhasználó Felület"
 
 #: app/templates/mobilemanual/8.tpl:205 app/templates/mobilemanual/8.tpl:564
 msgid "Summary"
-msgstr ""
+msgstr "Összegzés "
 
 #: app/templates/mobilemanual/8.tpl:207
 msgid ""
 "This section contains the summary of basic protection statistics and "
 "statuses of application components."
 msgstr ""
+"Ez a szekció az alapvető beállítások statisztikai adatait és az alkalmazás "
+"komponenseinek státuszát tartalmazza."
 
 #: app/templates/mobilemanual/8.tpl:208
 msgid ""
 "Protection statistics contains summary information of how many calls was "
 "checked and blocked, with figures for actual day/overall."
 msgstr ""
+"A védelem statisztikai adataiban összegezve tekinthető meg, hogy hány hívás "
+"volt leellenőrizve, és blokkolva az aktuális napon és összességében."
 
 #: app/templates/mobilemanual/8.tpl:209
 msgid "Components statuses provides a short list of major components."
 msgstr ""
+"Az alkalmazás komponenseinek státuszát megjelenítő rész egy rövid listát "
+"tartalmaz a fő komponensek állapotáról. "
 
 #: app/templates/mobilemanual/8.tpl:210
 msgid ""
@@ -1523,33 +1687,43 @@ msgid ""
 "situation a button for fixing the issue below the components list will be "
 "provided."
 msgstr ""
+"Az alkalmazásnak azon komponensei, amelyekkel valamilyen probléma merült "
+"fel, piros színű felkiáltójellel vannak megjelölve. Ilyen esetekben egy "
+"javítás gomb is látható a komponensek listája alatt."
 
 #: app/templates/mobilemanual/8.tpl:214 app/templates/mobilemanual/8.tpl:565
 msgid "Logs"
-msgstr ""
+msgstr "Napló"
 
 #: app/templates/mobilemanual/8.tpl:216
 msgid "The Logs screen provides you access to 3 types of logs:"
-msgstr ""
+msgstr "A Napló részben háromféle napló típus található:"
 
 #: app/templates/mobilemanual/8.tpl:218
 msgid ""
 "Phone Logs - contains the Phone Call History, is read from phone system log."
 msgstr ""
+"Hívás Napló - ez tartalmazza a Telefon Hívás Előzményeit, amelyet az "
+"alkalmazás a készülék saját hívás előzményeiből olvas ki."
 
 #: app/templates/mobilemanual/8.tpl:219
 msgid "Checked Numbers - contains a list of the latest checked phone numbers."
 msgstr ""
+"Ellenőrzött Számok - az alkalmazás által utoljára leellenőrzött "
+"telefonszámok listáját tartalmazza."
 
 #: app/templates/mobilemanual/8.tpl:220
 msgid "Blocked Numbers - contains a list of the latest blocked numbers."
 msgstr ""
+"Blokkol Számok - az alkalmazás által utoljára blokkolt számok listáját "
+"tartalmazza."
 
 #: app/templates/mobilemanual/8.tpl:223
 msgid ""
 "Icon on the left side indicates the Phone Number Rating with following "
 "meaning:"
 msgstr ""
+"A bal oldalon található Telefonszám Értékelés ikon a következőket jelentheti:"
 
 #: app/templates/mobilemanual/8.tpl:228
 #: app/templates/phonenumber/defaultAmp.tpl:422
@@ -1559,7 +1733,7 @@ msgstr ""
 #: app/templates/phonenumber/defaultNext.tpl:497
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:462
 msgid "negative rating"
-msgstr " Negatív Értékelés"
+msgstr "negatív értékelés"
 
 #: app/templates/mobilemanual/8.tpl:229
 #: app/templates/phonenumber/defaultAmp.tpl:426
@@ -1569,7 +1743,7 @@ msgstr " Negatív Értékelés"
 #: app/templates/phonenumber/defaultNext.tpl:501
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:466
 msgid "neutral rating"
-msgstr "semleges Értékelés"
+msgstr "semleges értékelés"
 
 #: app/templates/mobilemanual/8.tpl:230
 #: app/templates/phonenumber/defaultAmp.tpl:418
@@ -1579,44 +1753,44 @@ msgstr "semleges Értékelés"
 #: app/templates/phonenumber/defaultNext.tpl:493
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:458
 msgid "positive rating"
-msgstr "Pozitív elbírálás"
+msgstr "pozitív értékelés"
 
 #: app/templates/mobilemanual/8.tpl:231
 msgid "unknown rating"
-msgstr ""
+msgstr "ismeretlen értékelés"
 
 #: app/templates/mobilemanual/8.tpl:236
 msgid "Next icon informs you about call type and taken action:"
-msgstr ""
+msgstr "Az alábbi ikonok informálják önt a hívások típusáról és státuszáról:"
 
 #: app/templates/mobilemanual/8.tpl:241
 msgid "Successful Incoming Call"
-msgstr ""
+msgstr "Fogadott  Bejövő Hívás"
 
 #: app/templates/mobilemanual/8.tpl:242
 msgid "Missed Incoming Call"
-msgstr ""
+msgstr "Nem Fogadott Hívás"
 
 #: app/templates/mobilemanual/8.tpl:243
 msgid "Blocked Incoming Call"
-msgstr ""
+msgstr "Blokkolt Bejövő Hívás"
 
 #: app/templates/mobilemanual/8.tpl:244
 msgid "Successful Outgoing Call"
-msgstr ""
+msgstr "Kimenő Hívás"
 
 #: app/templates/mobilemanual/8.tpl:245
 msgid "Missed Outgoing Call"
-msgstr ""
+msgstr "Nem Fogadott Kimenő Hívás"
 
 #: app/templates/mobilemanual/8.tpl:246
 msgid "Blocked Outgoing Call"
-msgstr ""
+msgstr "Blokkolt Kimenő Hívás"
 
 #: app/templates/mobilemanual/8.tpl:251 app/templates/mobilemanual/8.tpl:293
 #: app/templates/mobilemanual/8.tpl:408
 msgid "Available Actions:"
-msgstr ""
+msgstr "Rendelkezésre Álló Opciók:"
 
 #: app/templates/mobilemanual/8.tpl:253
 msgid ""
@@ -1624,6 +1798,11 @@ msgid ""
 "Details screen with detailed information and further actions: Call, Block, "
 "Rate and download reviews for the number."
 msgstr ""
+"<strong>Telefonszámra Kattintás</strong>: a telefonszámra helyezve az "
+"ujjunkat, ez az opció megnyitja a Telefonszám Részletes Adatai képernyőt, "
+"ahol megtekinthető minden, az adott számmal kapcsolatos adat, és a következő "
+"műveletek is elvégezhetők: Hívás, Blokkolás, Értékelés és az adott számhoz "
+"kacsolódó tájékoztatók, vélemények letöltése."
 
 #: app/templates/mobilemanual/8.tpl:254
 msgid ""
@@ -1632,6 +1811,11 @@ msgid ""
 "Number, Copy number to clipboard, and Web Search which opens our web page "
 "with the respective number."
 msgstr ""
+"<strong>Telefonszám Hosszabb Idejű Érintése</strong>: ha az ujját hosszabb "
+"ideig rajta tartja az egyik telefonszámon, akkor egy olyan menü jelenik meg "
+"a képernyőn, ahol a következő műveleteket végezheti el: Részletek "
+"Megtekintése, Szám Hívása, Szám másolása a vágólapra és a Webes keresés, "
+"amely megnyitja a weboldalunkat az adott telefonszámmal együtt."
 
 #: app/templates/mobilemanual/8.tpl:255
 msgid ""
@@ -1639,24 +1823,31 @@ msgid ""
 "the system log your phone log is not touched, the action will affect only "
 "the application view of the log."
 msgstr ""
+"<strong>Kattintás A Lomtár Gombra</strong>: törli a kiválasztott napló "
+"bejegyzést - abban az esetben ha készülék rendszerének napló szekciója nem "
+"hozzáférhető, akkor ez a művelet csak az alkalmazás napló bejegyezéseire van "
+"hatással."
 
 #: app/templates/mobilemanual/8.tpl:262 app/templates/mobilemanual/8.tpl:566
 msgid "Ratings"
-msgstr ""
+msgstr "Értékelések"
 
 #: app/templates/mobilemanual/8.tpl:264
 msgid "In this section you can:"
-msgstr ""
+msgstr "Ebben a szekcióban ön képes:"
 
 #: app/templates/mobilemanual/8.tpl:266
 msgid ""
 "configure how to combine the ratings from Community Database, your Phone "
 "Contacts and your own ratings into one final Phone Number Rating."
 msgstr ""
+"beállítani, hogy milyen módon jelenjenek meg az értékelések a készülékén, a "
+"Közösség Adatbázis adataink felhasználása, az ön telefonja névjegyzékének, "
+"és a saját értékelései felhasználásának segítségével."
 
 #: app/templates/mobilemanual/8.tpl:267
 msgid "create and manage your ratings."
-msgstr ""
+msgstr "létrehozni és kezelni a saját maga által készített értékeléseket."
 
 #: app/templates/mobilemanual/8.tpl:271
 msgid ""
@@ -1665,16 +1856,23 @@ msgid ""
 "always applied in the top-to-bottom order, e.g. the active rule closer to "
 "the bottom of the list will be used."
 msgstr ""
+"Itt be tudja állítani, hogy az alkalmazás hogyan bírálja el a hívásokat. "
+"Több működési szabályt is aktiválhat egymással párhuzamosan. A szabályok "
+"kombinációi, mindig fentről lefele sorrendben jelennek meg, pl. az éppen "
+"aktív működési szabály közelebb van a lista aljához."
 
 #: app/templates/mobilemanual/8.tpl:274
 msgid "There are 3 general rating rules:"
-msgstr ""
+msgstr "3 általános értékelési szabály opcióval rendelkezik az alkalmazás:"
 
 #: app/templates/mobilemanual/8.tpl:276
 msgid ""
 "<strong>Use Community Database Rating</strong> : if this one is activated, "
 "it sets the initial number rating according to our Community Database."
 msgstr ""
+"<strong>Közösségi Adatbázis Értékeléseinek Használata</strong> : amennyiben "
+"ez a funkció aktiválva van, akkor ez az értékelés kezdőértékét, a Közösség "
+"Adatbázisunk adatai alapján állítja be. "
 
 #: app/templates/mobilemanual/8.tpl:277
 msgid ""
@@ -1683,6 +1881,11 @@ msgid ""
 "Contacts (if they do not have your other rating - in such case your rating "
 "rules)."
 msgstr ""
+"<strong>Tekintse Pozitív értékelésűnek a Névjegyzék számait az ön "
+"értékelései nélkül</strong>: ha ez a funkció aktiválva van, akkor az "
+"alkalmazás minden egyes, a készüléke Névjegyzékében lévő szám értékelését "
+"pozitívra állítja be (amennyiben nem rendelkeznek más értékeléssel az ön "
+"részéről - a saját értékelési szabályai esetében)."
 
 #: app/templates/mobilemanual/8.tpl:278
 msgid ""
@@ -1692,26 +1895,39 @@ msgid ""
 "database rating exists (if there is a yours and/or community database rating "
 "for some of those numbers, then the rating is used)."
 msgstr ""
+"<strong>Tekintse Pozitív értékelésűnek a Névjegyzék számait az ön "
+"értékelései, és a közösségi értékelések nélkül</strong>: amennyiben ez a "
+"funkció aktiválva van, akkor pozitív értékelésűre állítja be azokat a "
+"Névjegyzékében szereplő számokat, amelyeknél nincs más értékelés az ön és/"
+"vagy az adatbázis részéről (ha létezik az ön részéről és/vagy a közösségi "
+"adatbázis oldaláról más értékelés egyes számokhoz, abban az esetben az az "
+"értékelés lesz felhasználva)."
 
 #: app/templates/mobilemanual/8.tpl:283
 msgid "The last two rules are mutually exclusive, just one can be activated."
 msgstr ""
+"A két utolsó funkció (szabályozás) kizárja egymás, ezért egyszeree csak az "
+"egyik lehet aktiválva."
 
 #: app/templates/mobilemanual/8.tpl:287
 msgid "At the bottom of this screen the list of Your Ratings follows."
-msgstr ""
+msgstr "A képernyő alján a Saját Értékeléseinek listáját láthatja."
 
 #: app/templates/mobilemanual/8.tpl:288
 msgid ""
 "Remember that these ratings at the bottom of the screen will rule all the "
 "above rules."
 msgstr ""
+"Vegye figyelembe, hogy a képernyő alsó részén lévő értékelésekre, - mivel "
+"felülírják azokat - nem vonatkoznak a felettük lévőkre érvényes szabályok."
 
 #: app/templates/mobilemanual/8.tpl:289
 msgid ""
 "Your rating can be defined for single or multiple phone numbers by using a "
 "mask."
 msgstr ""
+"Beállíthat úgy is értékeléseket egy adott számhoz, vagy akár több számhoz, "
+"csoportba rendezve azokat egy ún.\"maszk\" használatával is."
 
 #: app/templates/mobilemanual/8.tpl:295
 msgid ""
@@ -1719,12 +1935,19 @@ msgid ""
 "the rating rules by phone number. Useful if you search for some specific "
 "number rule. Just tick on the line and fill any number or a part of it."
 msgstr ""
+"<strong>Értékelés Szűrő</strong>: (a képernyő tetején található) segítséget "
+"nyújt telefonszámok értékelési szabályok szerinti szűrésénél. Kifejezetten "
+"hasznos, ha egy adott számra akar rákeresni a rá vonatkozó szabályok "
+"alapján. Csak tapintson rá a felül lévő vonalra, és írja be a számot, vagy "
+"annak egy részét."
 
 #: app/templates/mobilemanual/8.tpl:296
 msgid ""
 "<strong>General Rating Rules Click</strong> : if you click on any of the 3 "
 "lines this action switches the rule on or off."
 msgstr ""
+"<strong>Általános Értékelési Szabályok</strong>: ha ön bármelyikre rákattint "
+"a 3 közül, akkor az adott szabályozási opciót ki- és bekacsolhatja."
 
 #: app/templates/mobilemanual/8.tpl:297
 msgid ""
@@ -1732,42 +1955,59 @@ msgid ""
 "open a screen for edition of the respective rating. There you can set the "
 "rating attributes, delete the rating, save it or cancel the changes."
 msgstr ""
+"<strong>Felhasználó Értékelésekre Kattintás</strong>: ha rákattint "
+"valamelyikre, az ön értékelései közül, egy új ablak nyílik meg az adott "
+"értékelés szerkesztésére, amelyben beállíthatja az értékelés jellemzőit, "
+"törölheti a minősítését, valamint elmentheti az adatokat, vagy "
+"érvénytelenítheti a változtatásokat. "
 
 #: app/templates/mobilemanual/8.tpl:298
 msgid ""
 "<strong>Plus Button Click</strong> : this action opens the screen for "
 "creation of new rating, see below the <strong>Phone Number Rating</strong>."
 msgstr ""
+"<strong>Plusz Gombra Kattintás</strong>: ez a funkció egy új ablakot nyit "
+"meg, amelyben új értékelést készíthet. Lásd alul a <strong>Telefonszám "
+"Értékelés</strong> menüpontnál."
 
 #: app/templates/mobilemanual/8.tpl:304 app/templates/mobilemanual/8.tpl:567
 msgid "Alerts"
-msgstr ""
+msgstr "Figyelmeztetések"
 
 #: app/templates/mobilemanual/8.tpl:306
 msgid ""
 "Alert is security rating notification displayed during calling phase (can be "
 "done for both INCOMING or OUTGOING calls)."
 msgstr ""
+"A Figyelmeztetések, egy biztonsági értékelések alapú funkció amely a hívás "
+"fázis közben jelenik meg (a BEJÖVŐ és a KIMENŐ hívásokhoz is alkalmas)."
 
 #: app/templates/mobilemanual/8.tpl:307
 msgid "In this screen you can configure the Alerts displaying."
 msgstr ""
+"Az alkalmazásnak ezen a képernyőjén be tudja állítani a Figyelmeztetések "
+"megjelenítésének opcióit."
 
 #: app/templates/mobilemanual/8.tpl:308
 msgid "This setting here is done based on the phone number rating."
-msgstr ""
+msgstr "Ennek a funkciónak az alapjául a telefonszám értékelések szolgálnak."
 
 #: app/templates/mobilemanual/8.tpl:309
 msgid ""
 "For each rating you can check if you want to display the alert also for "
 "numbers from your Contacts or exclude your phone Contacts."
 msgstr ""
+"Mindegyik értékelési típusnál be tudja állítani, hogy meg akarja-e "
+"jeleníteni a figyelmeztetést, a Névjegyzékében szereplő számok esetében is, "
+"illetve ki is kapcsolhatja ezt az opciót."
 
 #: app/templates/mobilemanual/8.tpl:312
 msgid ""
 "In the <strong>Advanced</strong> section at the bottom of the screen a "
 "system overlay can be enabled."
 msgstr ""
+"A <strong>Speciális</strong> beállítások szekcióban, amely a képernyő alján "
+"található, engedélyezheti az átfedés használatát is a készüléke számára."
 
 #: app/templates/mobilemanual/8.tpl:313
 msgid ""
@@ -1775,16 +2015,21 @@ msgid ""
 "disable the usage of system overlays - this will cause the displaying of "
 "alert in another fashion which can work better on your device."
 msgstr ""
+"Ha problémákat tapasztal a figyelmeztetések megjelenítésében, akkor tiltsa "
+"le a átfedés használata funkciót - ennek hatására a figyelmeztetések más "
+"módon jelennek majd meg, és jobban működnek majd az ön készülékén."
 
 #: app/templates/mobilemanual/8.tpl:318 app/templates/mobilemanual/8.tpl:568
 msgid "Blocking"
-msgstr ""
+msgstr "Blokkolás"
 
 #: app/templates/mobilemanual/8.tpl:320
 msgid ""
 "In this section you can configure which incoming/outgoing calls should be "
 "blocked."
 msgstr ""
+"Ebben a szekcióban tudja beállítani, hogy milyen típusú bejövő/kimenő "
+"hívások legyenek blokkolva."
 
 #: app/templates/mobilemanual/8.tpl:321
 msgid ""
@@ -1792,6 +2037,9 @@ msgid ""
 "the number, now we will use it for the blocking functionality of the "
 "application."
 msgstr ""
+"Emlékezzen rá, hogy az <strong>Értékelések</strong> menüpontnál állította "
+"be, hogy hogyan értékelje az alkalmazás a telefonszámokat, így most ezen "
+"beállítások alapján fogjuk használni a blokkolás funkcióját az alkalmazásnak."
 
 #: app/templates/mobilemanual/8.tpl:323
 msgid ""
@@ -1799,6 +2047,9 @@ msgid ""
 "all numbers. Each selection can be provided except numbers stored in your "
 "Contacts."
 msgstr ""
+"A bejövő hívások esetében blokkolni tudja a negatív értékelésű számokat, a "
+"rejtett számokat és minden telefonszámot is. Az egyes opcióknál beállíthatja "
+"azt is, hogy a Névjegyzékében lévő számokra ne vonatkozzon a blokkolás."
 
 #: app/templates/mobilemanual/8.tpl:324
 msgid ""
@@ -1806,6 +2057,10 @@ msgid ""
 "foreign numbers and all numbers. Again each selection can be provided except "
 "numbers stored in your Contacts."
 msgstr ""
+"A kimenő hívások esetében blokkolhatja a negatív értékelésű számokat, az "
+"emelt díjas számokat, a külföldi számokat és az összes számot is. Itt "
+"szintén, az egyes opcióknál beállíthatja azt is, hogy a Névjegyzékében lévő "
+"számokra ne vonatkozzon a blokkolás."
 
 #: app/templates/mobilemanual/8.tpl:325
 msgid ""
@@ -1813,6 +2068,12 @@ msgid ""
 "numbers. For this functionality, a compatible SMS manager must be installed, "
 "please read the help screen displayed if you check this item."
 msgstr ""
+"A bejövő SMS és MMS üzenetek esetében blokkolhatja a negatív értékelésű "
+"számokról érkező SMS és MMS üzeneteket. Ahhoz, hogy ez a funkció használható "
+"legyen az ön készülékén, rendelkeznie kell egy a mobiltelefonjával "
+"kompatibilis SMS manager alkalmazással is, kérjük olvassa el a segítség "
+"képernyőn megjelenő információkat, amennyikor ellenőrzi ez alkalmazásnak ezt "
+"a funkcióját."
 
 #: app/templates/mobilemanual/8.tpl:326
 msgid ""
@@ -1821,6 +2082,12 @@ msgid ""
 "Alerts give you the information about call in progress, where Notification "
 "only displays info about the action taken by the application."
 msgstr ""
+"Ön kiválaszthatja azt az opciót is, amely lehetőséget nyújt minden típusú "
+"blokkolási esemény megjelenítésére. Az értesítés funkció máshogyan működik "
+"mint a figyelmeztetések megjelenítése. A figyelmeztetések többféle "
+"információt nyújtanak önnek a folyamatban lévő hívásról, ellenben az "
+"értesítések csupán azt tudják önnel, hogy blokkolási akciót hajtott végre az "
+"alkalmazás. "
 
 #: app/templates/mobilemanual/8.tpl:327
 msgid ""
@@ -1831,32 +2098,42 @@ msgid ""
 "use this feature only if you are sure you will not be charged for picking up "
 "the incoming calls."
 msgstr ""
+"Opcionálisan ön kipróbálhatja a <strong>Felvesz & Letesz metódus</strong> "
+"használatát is, amely a hangpostája védelmére szolgál. Amennyiben "
+"kiválasztja ezt a funkciót, akkor az alkalmazás úgy blokkolja a bejövő "
+"hívást, hogy felveszi a telefont és ugyanabban a másodpercben egyből le is "
+"teszi azt. Az alkalmazásnak ez a funkciója abban az esetben nem működik, ha "
+"a készülék raming módban van. Kérjük, hogy kizárólag csak abban az esetben "
+"használja ezt a funkciót, ha teljesen biztos benne, hogy nem lesz semmilyen "
+"költsége a telefon felvétele (a bejövő hívás egy másodperces fogadása) miatt."
 
 #: app/templates/mobilemanual/8.tpl:335 app/templates/mobilemanual/8.tpl:569
 msgid "Settings"
-msgstr ""
+msgstr "Beállítások"
 
 #: app/templates/mobilemanual/8.tpl:336
 msgid "This section contains main application settings."
-msgstr ""
+msgstr "Ez a szekció az fő alkalmazásbeállítási opciókat tartalmazza."
 
 #: app/templates/mobilemanual/8.tpl:338
 msgid "General"
-msgstr ""
+msgstr "Általános beállítások"
 
 #: app/templates/mobilemanual/8.tpl:340
 msgid "Show after-call information"
-msgstr ""
+msgstr "Hívás utáni információk megjelenítése"
 
 #: app/templates/mobilemanual/8.tpl:342
 msgid ""
 "Here you can enable/disable displaying of phone number details after "
 "finishing the call."
 msgstr ""
+"Ennél az opciónál ön engedélyezni/letiltani tudja, a hívások befejeztével, a "
+"hívásokra vonatkozó részletes adatok megjelenítését."
 
 #: app/templates/mobilemanual/8.tpl:345
 msgid "Send anonymous stats about incoming calls"
-msgstr ""
+msgstr "Statisztikák küldése névtelenül a bejövő hívásokról"
 
 #: app/templates/mobilemanual/8.tpl:347
 msgid ""
@@ -1865,16 +2142,27 @@ msgid ""
 "this means that only the number is send, without any further info, no "
 "personal data are never transferred from your mobile phone."
 msgstr ""
+"Ha a \"Statisztikák küldése névtelenül a bejövő hívásokról\" opció be van "
+"kapcsolva, akkor a felhasználó révén lehetőségünk nyílik arra, hogy az "
+"ISMERETLEN számokról érkező, bejövő hívásokat továbbítani tudjuk a "
+"szervernek - ez a gyakorlatban azt jelenti, hogy kizárólag csak a szám maga "
+"kerül elküldésre, ezért semmilyen egyéb információ, személyes adat nem kerül "
+"ki az ön mobiltelefonjáról."
 
 #: app/templates/mobilemanual/8.tpl:348
 msgid ""
 "Privacy is important for us, so we don't sends stats about numbers stored in "
 "your Phone Contacts!"
 msgstr ""
+"Az ön személyes adatainak védelme rendkívül fontos a számunkra, ezért mi "
+"soha nem készítünk és nem küldünk ki semmilyen statisztikát az ön készüléke "
+"Névjegyzékében tárolt telefonszámokról!"
 
 #: app/templates/mobilemanual/8.tpl:349
 msgid "Only unknown numbers are sent if this option is checked."
 msgstr ""
+"Csakis és kizárólag az ismeretlen számok kerülnek elküldésre, amennyiben ez "
+"az opció be van állítva az alkalmazásban."
 
 #: app/templates/mobilemanual/8.tpl:350
 msgid ""
@@ -1883,10 +2171,16 @@ msgid ""
 "number calls multiple people, we dig some info for it and create review with "
 "rating, which will be stored afterwards in your local database."
 msgstr ""
+"Ennek a funkciónak a révén, lehetőségünk nyílik, a különböző, kéretlen "
+"hívásokhoz köthető, ismeretlen számok begyűjtésére - amelyek után a "
+"kollégáink leellenőrzik őket, és amennyiben ugyanaz az ismeretlen szám több "
+"felhasználónál is felbukkan, adatokat rögzítünk vele kapcsolatban, majd "
+"készítünk egy értékeléssel egybekötött ismertetőt, amely a későbbiek során "
+"tárolásra kerül az ön helyi adatbázisában."
 
 #: app/templates/mobilemanual/8.tpl:353
 msgid "Download reviews automatically"
-msgstr ""
+msgstr "Tájékoztatók automatikus letöltése"
 
 #: app/templates/mobilemanual/8.tpl:355
 msgid ""
@@ -1895,6 +2189,10 @@ msgid ""
 "displayed during the phone ringing phase - otherwise only global rating of "
 "the number is shown."
 msgstr ""
+"Ha a \"Tájékoztatók automatikus letöltése\" opció ki van választva, és az ön "
+"készüléke kapcsolódik az internetre, az aktuális hívó számmal kapcsolatos "
+"felhasználói vélemények megjelennek az ön készülékén a kicsörgés fázisa "
+"alatt - egyébként az adott szám globális értékelése jelenik meg."
 
 #: app/templates/mobilemanual/8.tpl:356
 msgid ""
@@ -1904,10 +2202,16 @@ msgid ""
 "it, or he/she is satisfied just with the global rating displayed "
 "automatically for each incoming call)."
 msgstr ""
+"Ha ez az opció nincs kiválasztva, de a telefon kapcsolódik az internethez, "
+"lehetőség van a felhasználói értékelések manuális letöltésére is a telefon "
+"csöngési fázisai alatt (így a felhasználó eldöntheti, hogy el akarja-e "
+"olvasni a számmal kapcsolatos információkat, mielőtt felvenné a telefont, "
+"vagy megelégszik a globális értékelési rendszer, automatikusan megjelenített "
+"adataival a beérkező hívások esetében)."
 
 #: app/templates/mobilemanual/8.tpl:359
 msgid "Service as Foreground Process"
-msgstr ""
+msgstr "Alkalmazás Előtérben Futtatása"
 
 #: app/templates/mobilemanual/8.tpl:361
 msgid ""
@@ -1916,16 +2220,23 @@ msgid ""
 "will permanently see the app icon in status bar and notification about "
 "enabled protection."
 msgstr ""
+"Ennek az opciónak az engedélyezésével, felgyorsítható a kéretlen hívások "
+"blokkolásának folyamata - az alkalmazás mindeközben folyamatosan futni fog "
+"az aktív memóriában. Ennek eredményeként, azt fogja tapasztalni, hogy "
+"folyamatosan látható az alkalmazás ikonja a staus baron, és az értesítés is "
+"az védelem engedélyezett állapotáról."
 
 #: app/templates/mobilemanual/8.tpl:362
 msgid ""
 "As a benefit on most devices the speed of blocking should be much faster "
 "than phone ringing phase."
 msgstr ""
+"A legtöbb készülék esetében további előny jelent, hogy a blokkolás sokkal "
+"gyorsabbá válik, mint a telefon csöngetési fázisa."
 
 #: app/templates/mobilemanual/8.tpl:365
 msgid "Statistics Notification"
-msgstr ""
+msgstr "Statisztikák Értesítései"
 
 #: app/templates/mobilemanual/8.tpl:367
 msgid ""
@@ -1933,40 +2244,51 @@ msgid ""
 "will show system statistics as a notification after 2 weeks with a list of "
 "performed actions."
 msgstr ""
+"Ha a \"Statisztikák Értesítései (egyszer kéthetente)\" opció ki van "
+"választva, akkor az alkalmazás kéthetente jeleníti meg a a rendszer "
+"statisztikákat értesítésként, a végrehajtott műveletek listájával együtt."
 
 #: app/templates/mobilemanual/8.tpl:368
 msgid ""
 "This way user can easily check the overall application functionality and "
 "efficiency."
 msgstr ""
+"Ennek köszönhetőn a felhasználó könnyen ellenőrizni tudja az alkalmazás "
+"összes funkcióját és hatékonyságát."
 
 #: app/templates/mobilemanual/8.tpl:371
 msgid "Use Light Theme"
-msgstr ""
+msgstr "Világos Téma Használata"
 
 #: app/templates/mobilemanual/8.tpl:373
 msgid ""
 "There are two layout themes - light and dark. This item serves as a switch "
 "for them."
 msgstr ""
+"Kétféle téma áll rendelkezésre az alkalmazáshoz: világos és sötét. Ezzel a "
+"gombbal lehet váltani a két téma között."
 
 #: app/templates/mobilemanual/8.tpl:374
 msgid ""
 "Check it on your device which theme suits you better and which is more "
 "readable (e.g. on a direct sun)."
 msgstr ""
+"Ellenőrizze a készülékén, hogy melyik téma felel meg jobban önnek, melyik az "
+"amelyik jobban olvasható (pl. közvetlen napfényben)."
 
 #: app/templates/mobilemanual/8.tpl:378
 msgid "System Permissions"
-msgstr ""
+msgstr "Rendszer Jogosultságok"
 
 #: app/templates/mobilemanual/8.tpl:380
 msgid "System permissions are displayed only on Android 6 devices."
 msgstr ""
+"A Rendszer jogosultságok menü csak Android 6 operációs rendszerű "
+"készülékeken jelenik meg."
 
 #: app/templates/mobilemanual/8.tpl:383
 msgid "Read Call Information"
-msgstr ""
+msgstr "Hívásadatok Olvasása"
 
 #: app/templates/mobilemanual/8.tpl:385
 msgid ""
@@ -1974,34 +2296,45 @@ msgid ""
 "against our database. Without this permission we can't find out who is "
 "calling you."
 msgstr ""
+"Abban az esetben, amikor valaki hívja önt az alkalmazás ellenőrzi az adott "
+"telefonszámot az adatbázisunknál. Enélkül a jogosultság nélkül, nem tudjuk "
+"kideríteni, hogy ki hívja önt."
 
 #: app/templates/mobilemanual/8.tpl:387
 msgid "Read Contacts"
-msgstr ""
+msgstr "Névjegyzék Olvasása"
 
 #: app/templates/mobilemanual/8.tpl:389
 msgid ""
 "As written above, we take your stored contacts as your whitelist. Without "
 "this permission we don't know what phone numbers you consider to be safe."
 msgstr ""
+"Mint ahogyan azt fentebb említettük, az ön készüléke névjegyzékében lévő "
+"számokat fehér listásként kezeljük. Enélkül a jogosultság nélkül nem tudjuk, "
+"hogy milyen telefonszámok minősülnek biztonságosnak."
 
 #: app/templates/mobilemanual/8.tpl:391
 msgid "Allow System Overlays"
-msgstr ""
+msgstr "Rendszer Átfedések Engedélyezése"
 
 #: app/templates/mobilemanual/8.tpl:393
 msgid ""
 "The application shows alerts in foreground of incoming call screen. Without "
 "this permission we can't make the alerts fully interactive."
 msgstr ""
+"Az alkalmazás a figyelmeztetéseket a bejövő hívások képernyőjének előterében "
+"jeleníti meg. Enélkül a jogosultság nélkül, nem tudjuk kihasználni az "
+"alkalmazás teljeskörű interaktivitását."
 
 #: app/templates/mobilemanual/8.tpl:400 app/templates/mobilemanual/8.tpl:571
 msgid "Phone Number Details"
-msgstr ""
+msgstr "Telefonszám Részeleti"
 
 #: app/templates/mobilemanual/8.tpl:402
 msgid "This screen shows detailed information for selected phone number."
 msgstr ""
+"Ez a képernyőn a kiválasztott telefonszámmal kapcsolatos részletes "
+"információk jelennek meg."
 
 #: app/templates/mobilemanual/8.tpl:403
 msgid ""
@@ -2009,12 +2342,18 @@ msgid ""
 "Neutral/Negative ratings and the category mostly used for this number (this "
 "information is stored off-line in the database of your mobile phone)."
 msgstr ""
+"Itt megtekintheti az adott szám összegzett értékelését és a besorolása "
+"értékelését: Pozitív/Semleges/Negatív és az ehhez a számhoz leginkább "
+"használt kategóriát (ez az információ off-line formában van tárolva az ön "
+"mobiltelefonján)."
 
 #: app/templates/mobilemanual/8.tpl:404
 msgid ""
 "You can also see how much positive/neutral/negative rating number received "
 "from community."
 msgstr ""
+"Azt is megtekintheti, hogy idáig hány pozitív/semleges/negatív értékelést "
+"kapott a szám a közösség részéről."
 
 #: app/templates/mobilemanual/8.tpl:410
 msgid ""
@@ -2023,12 +2362,18 @@ msgid ""
 "of negative rated numbers in the application <strong>Blocking</strong> "
 "screen."
 msgstr ""
+"A <strong>Blokkolás</strong> opció segít önnek negatív értékelést adni a "
+"kiválasztott számhoz, a szám későbbi blokkolása érdekében. A blokkolás "
+"aktiválásához önnek engedélyeznie kell a negatív értékelésű számok "
+"blokkolását az alkalmazás <strong>Blokkolás</strong> menüjében."
 
 #: app/templates/mobilemanual/8.tpl:411
 msgid ""
 "<strong>Rate</strong> shows the form for filling your new phone number "
 "rating - see below."
 msgstr ""
+"Az <strong>Érékelés</strong> menüpont egy űrlapot jelenít meg, amelyet "
+"kitöltve beállíthatja az új szám értékelését - lásd alul."
 
 #: app/templates/mobilemanual/8.tpl:412
 msgid ""
@@ -2037,47 +2382,63 @@ msgid ""
 "is presented, it is displayed automatically (all of them are stored in your "
 "phone) and EDIT button is presented for further edit of the your review."
 msgstr ""
+"A <strong>Tájékoztatók</strong> menüpont betölti és megjeleníti az ehhez a "
+"számhoz tartozó közösségi értékeléseket, véleményeket. Ehhez a funkcióhoz "
+"internet hozzáférés szükséges. Ha rendelkezésre áll az ön saját (személyes) "
+"értékelése, tájékoztatója is az adott számhoz, akkor az automatikusan "
+"megjelenik a képernyőn (ezek mindegyike a készülékében van eltárolva) és a "
+"SZERKESZTÉS gombra kattintva, szerkesztheti, megváltoztathatja az adott szám "
+"beállításait."
 
 #: app/templates/mobilemanual/8.tpl:413
 msgid "<strong>Call Button Click</strong> initiates calling to the number."
-msgstr ""
+msgstr "A<strong>Hívás Gombra Kattinva</strong kezdeményezheti a szám hívását."
 
 #: app/templates/mobilemanual/8.tpl:419 app/templates/mobilemanual/8.tpl:572
 msgid "Phone Number Rating"
-msgstr ""
+msgstr "Telefonszám Értékelés"
 
 #: app/templates/mobilemanual/8.tpl:421
 msgid "Single or Group of numbers"
-msgstr ""
+msgstr "Egyéni vagy Csoportos számok"
 
 #: app/templates/mobilemanual/8.tpl:422
 msgid ""
 "Phone Number Rating can be defined for single number or for group of numbers."
 msgstr ""
+"A Telefonszám Értékelés funkció az egyéni és a csoportos számok beállítására "
+"szolgál."
 
 #: app/templates/mobilemanual/8.tpl:423
 msgid "Group can be defined using * char at the end of the number."
 msgstr ""
+"Csoportot a * karakter segítségével hozhat létre az szám végéhez hozzáadva."
 
 #: app/templates/mobilemanual/8.tpl:424
 msgid "For example 800* will define rating for all numbers starting with 800."
 msgstr ""
+"Például ha a 800* karaktersort adja itt meg, akkor az applikáció a "
+"beállított értékelést minden 800-zal kezdődő számra fogja alkalmazni."
 
 #: app/templates/mobilemanual/8.tpl:425
 msgid ""
 "The <strong>PICK CONTACT</strong> enables you to pick a number from the list "
 "of Contacts and create a rule for it."
 msgstr ""
+"A <strong>TELEFONSZÁM</strong> gombbal kiválaszthat a telefonjának a "
+"névjegyzékéből egy telefonszámot, és saját szabályokat rendelhet hozzá"
 
 #: app/templates/mobilemanual/8.tpl:429
 msgid "Public or Private"
-msgstr ""
+msgstr "Publikus vagy Privát"
 
 #: app/templates/mobilemanual/8.tpl:430
 msgid ""
 "By default the rating is submitted to our community database for benefit of "
 "other users."
 msgstr ""
+"Az alapbeállítása ennek az értékelési opciónak a publikus, hogy segítséget "
+"nyújthasson a közösség többi felhasználójának számára is."
 
 #: app/templates/mobilemanual/8.tpl:431
 msgid ""
@@ -2085,50 +2446,69 @@ msgid ""
 "select this to avoid of sending it to our database - in such case the rating "
 "will be stored in your mobile only."
 msgstr ""
+"Amennyiben ön nem kívánja az adott szám értéklelését publikussá tenni, akkor "
+"állítsa át privátra ezt az opciót, hogy ezzel elkerülhesse a szám elküldését "
+"az adatbázisba - ebben az esetben az adott számhoz tartozó értékelés csak a "
+"mobiltelefonjában kerül eltárolásra."
 
 #: app/templates/mobilemanual/8.tpl:437 app/templates/mobilemanual/8.tpl:573
 msgid "Rating Alert"
-msgstr ""
+msgstr "Értékelés Figyelmeztetés"
 
 #: app/templates/mobilemanual/8.tpl:439
 msgid ""
 "In the Alert displayed for the phone call you can find all required "
 "information for making the decision to accept the call or hang up."
 msgstr ""
+"A telefonhívásoknál megjelenítésre kerülő Figyelmeztetésnél rendelkezésére "
+"áll minden információ, hogy eldönthesse felveszi-e a telefon, vagy nem "
+"reagál a hívásra."
 
 #: app/templates/mobilemanual/8.tpl:441
 msgid ""
 "<strong>Contact</strong> shows name of the contact associated with phone "
 "number (if available)."
 msgstr ""
+"A <strong>Kapcsolat</strong> szöveg mellett jelenik meg az adott "
+"telefonszmhoz tartozó név (amennyiben az elérhető)."
 
 #: app/templates/mobilemanual/8.tpl:442
 msgid "<strong>Number</strong> shows phone number the alert is displayed for."
 msgstr ""
+"<strong>Szám</strong> szöveg mellett látható az a telefonszám, ami miatt a "
+"figyelmeztetés megjelent."
 
 #: app/templates/mobilemanual/8.tpl:443
 msgid ""
 "<strong>Rating</strong> shows one of positive, neutral, negative or unknown "
 "rating."
 msgstr ""
+"Az <strong>Értékelés</strong> résznél látható, hogy a számnak pozitív, "
+"semleges, negatív, vagy ismeretlen értékelése van."
 
 #: app/templates/mobilemanual/8.tpl:444
 msgid ""
 "<strong>Category</strong> shows the most used Category for the respective "
 "phone number"
 msgstr ""
+"A <strong>Kategória</strong> résznél tekinthető meg, hogy az adott "
+"telefonszám esetében leggyakrabban használt Kategória."
 
 #: app/templates/mobilemanual/8.tpl:445
 msgid ""
 "<strong>Community</strong> shows the total statistic counts of positive,"
 "neutral and negative ratings from the community"
 msgstr ""
+"A <strong>Közösség</strong>résznél az összesített közösségi statisztikai "
+"adatok tekinthetők meg: a pozitív, semleges és a negatív értékelések száma."
 
 #: app/templates/mobilemanual/8.tpl:453
 msgid ""
 "In this section you can access additional information and export/import "
 "function"
 msgstr ""
+"Ebben a szekcióban további információkat találhat, és használhatja az "
+"alkalmazás exportálás/importálás funkcióját."
 
 #: app/templates/mobilemanual/8.tpl:455
 msgid ""
@@ -2138,10 +2518,18 @@ msgid ""
 "prepared automatically with pre-filled information about your app "
 "configuration."
 msgstr ""
+"Amennyiben ön szeretné felvenni a kapcsolatot velünk, akkor kérjük használja "
+"a megadott e-mail címet. Rákattintva az <strong>e-mail cím</strong>-re, egy "
+"új ablak nyílik meg a képernyőn, amelyen néhány e-mail kliens közül "
+"választhat. Ezt a műveletet követően, egy e-mailt állít elő automatikusan a "
+"rendszer az ügyféltámogatást biztosító csapatunk számára, az ön alkalmazás "
+"konfigurációs adatival ellátva. "
 
 #: app/templates/mobilemanual/8.tpl:456
 msgid "strong>Online Manual</strong> opens the internet page with this manual."
 msgstr ""
+"Az <strong>Online Használati Útmutató</strong> a használati útmutató "
+"weboldalát nyitja meg."
 
 #: app/templates/mobilemanual/8.tpl:457
 msgid ""
@@ -2150,18 +2538,29 @@ msgid ""
 "problem reporting to our technical staff is prepared there - please use it "
 "to report any application problem."
 msgstr ""
+"A <strong>Kompatibilitás Ellenőrzése</strong> az ön készülékének "
+"konfigurációját ellenőrzi, hogy feltárja az ismert hibákat. Az ellenőrzés "
+"eredménye egy az ön készülékén automatikusan megnyíló weboldalon lesz "
+"látható. Ugyanitt megtalálható egy probléma bejelentő űrlap is, amelyet "
+"kitöltve az esetleges hibákról jelentést küldhet a technikai csapatunk "
+"számára - kérjük vegye igénybe, ha bármilyen problémát tapasztal az "
+"alkalmazás működésével kapcsolatban."
 
 #: app/templates/mobilemanual/8.tpl:458
 msgid ""
 "strong>Terms of Use</strong> opens the internet page with terms of use of "
 "this product."
 msgstr ""
+"<strong>A Felhasználási Feltételek</strong> egy weboldalt nyit meg a "
+"készülékén, amely ennek a terméknek a felhasználási feltételeit tartalmazza."
 
 #: app/templates/mobilemanual/8.tpl:459
 msgid ""
 "<strong>Privacy Policy</strong> opens the internet page with privacy policy "
 "for out product."
 msgstr ""
+"Az <strong>Adatvédelem</strong> egy olyan weboldalt nyit meg, amely a "
+"termékünkhöz kapcsolódó adatvédelmi irányelveket tartalmazza."
 
 #: app/templates/mobilemanual/8.tpl:460
 msgid ""
@@ -2170,28 +2569,37 @@ msgid ""
 "another device in a form of backup and restore. A simple wizard for this "
 "functionality is provided."
 msgstr ""
+"Az <strong>Exportálás / Importálás</strong> egy az adatok exportálására és "
+"importálására szolgáló oldalt nyit meg: minden alkalmazás beállítás "
+"eltárolható későbbi felhasználásra / más készülékhez, vagy az adatok "
+"helyreállítására. Egy leegyszerűsített varázsló is rendelkezésre áll ehhez a "
+"funkcióhoz."
 
 #: app/templates/mobilemanual/8.tpl:467 app/templates/mobilemanual/8.tpl:576
 msgid "FAQ"
-msgstr ""
+msgstr "GYIK"
 
 #: app/templates/mobilemanual/8.tpl:469
 msgid "Q: How to block phone number?"
-msgstr ""
+msgstr "K: Hogyan blokkoljak egy telefonszámot?"
 
 #: app/templates/mobilemanual/8.tpl:471
 msgid ""
 "Create negative rating for the phone number and enable blocking of negative "
 "rated numbers."
 msgstr ""
+"Készítsen negatív értékelést az adott telefonszámhoz és engedélyezze negatív "
+"érékelésű számok blokkolását."
 
 #: app/templates/mobilemanual/8.tpl:474
 msgid "Q: Why blocking does not work for me?"
-msgstr ""
+msgstr "K: Miért nem működik nálam a blokkolás?"
 
 #: app/templates/mobilemanual/8.tpl:476
 msgid "Unfortunately there are some phone models where blocking does not work."
 msgstr ""
+"Sajnálatos módon egyes mobiltelefon modelleknél a blokkolási funkció nem "
+"működik."
 
 #: app/templates/mobilemanual/8.tpl:477
 msgid ""
@@ -2199,145 +2607,186 @@ msgid ""
 "system and used workarounds can be sometimes broken by phone manufacturer "
 "when they use their own system enhancements."
 msgstr ""
+"A telefonhívás blokkolása nem egy olyan alapfunkció, amely támogatva van az "
+"Android operációs rendszer által, és az ezt megkerülő megoldásokat, bizonyos "
+"esetekben blokkolják a mobilkészülék gyártók a saját rendszereik "
+"teljesítményének növelése érdekében."
 
 #: app/templates/mobilemanual/8.tpl:480
 msgid "Q: Where can I find version for iPhone?"
-msgstr ""
+msgstr "K: Van az alkalmazásnak iPhone verziója?"
 
 #: app/templates/mobilemanual/8.tpl:482
 msgid "There is no version for iPhone yet."
-msgstr ""
+msgstr "Nincs az alkalmazásnak iPhone verziója."
 
 #: app/templates/mobilemanual/8.tpl:483
 msgid ""
 "iPhone's operating system doesn't provide access to contacts, incoming or "
 "outgoing calls or some reliable way how to intercept or block calls."
 msgstr ""
+"Az iPhone operációs rendszer nem biztosítja a hozzáférést a névjegyzékhez, a "
+"bejövő és a kimenő hívásokhoz, illetve egy olyan megbízható metódushoz, "
+"amely révén a hívások blokkolása megoldható lenne. "
 
 #: app/templates/mobilemanual/8.tpl:484
 msgid ""
 "With such conditions the application could provide just manual phone info "
 "search - nearly same functionality as provided by our web pages."
 msgstr ""
+"Ilyen feltételek mellett az alkalmazás csupán a manuális információ keresés "
+"funkcióját tudja biztosítani, amely gyakorlatilag ugyanolyan "
+"funkcionalitással rendelkezik, amely a weboldalainkon keresztül is elérhető."
 
 #: app/templates/mobilemanual/8.tpl:485
 msgid ""
 "Due to this limitation there is very low priority to make any iPhone native "
 "app."
 msgstr ""
+"Az ismert korlátozások miatt, az alkalmazás iPhone verziójának a "
+"kifejlesztése rendkívül alacsony prioritással rendelkezik."
 
 #: app/templates/mobilemanual/8.tpl:490
 #: app/templates/removalrequest/default.tpl:239
 #: app/templates/termsapp/default.tpl:17
 msgid "Terms Of Use"
-msgstr "Általános feltételek"
+msgstr "Felhasználási Feltételek"
 
 #: app/templates/mobilemanual/8.tpl:506 app/templates/mobilemanual/8.tpl:578
 #: app/templates/privacyapp/default.tpl:17
 #: app/templates/privacypolicy/default.tpl:17
 #: app/templates/privacypolicy/default.tpl:27
 msgid "Privacy Policy"
-msgstr "Adatvédelmi irányelvek"
+msgstr "Adatvédelmi Irányelvek"
 
 #: app/templates/mobilemanual/8.tpl:508
 msgid ""
 "Privacy matters but it can be confusing. Please read this explanation of our "
 "approach to privacy in our application."
 msgstr ""
+"Az adatvédelem rendkívüli fontosságú, de ugyanakkor az értelmezése "
+"meglehetősen zavarba ejtő lehet. Kérjük olvassa el az alkalmazásunk esetében "
+"használt adatvédelmi irányelveink magyarázatát."
 
 #: app/templates/mobilemanual/8.tpl:511
 msgid "Phone Contacts"
-msgstr ""
+msgstr "Névjegyzék "
 
 #: app/templates/mobilemanual/8.tpl:513
 msgid "Our app doesn't send your contact information to server."
 msgstr ""
+"Az alkalmazásunk semmilyen kapcsolati adatát nem továbbítja a szerver felé."
 
 #: app/templates/mobilemanual/8.tpl:516
 msgid "History of Incoming and Outgoing Calls"
-msgstr ""
+msgstr "Bejövő és Kimenő Hívások Előzményei"
 
 #: app/templates/mobilemanual/8.tpl:518
 msgid ""
 "In default, the app doesn't send any information about incoming or outgoing "
 "calls."
 msgstr ""
+"Az alapértelmezett beállításainak megfelelően az alkalmazás nem küld el "
+"semmilyen információt a bejövő vagy a kimenő hívásokról."
 
 #: app/templates/mobilemanual/8.tpl:519
 msgid ""
 "Because information about incoming unknown calls can help us improve our "
 "service, you can enable sending of this information in the settings."
 msgstr ""
+"A szolgáltatásinak fejlesztésének segítése érdekében, ön engedélyezheti az "
+"alkalmazásnak az adatküldést, a bejövő ismeretlen hívások esetében, az "
+"applikáció beállítások részében."
 
 #: app/templates/mobilemanual/8.tpl:520
 msgid "Thank you for your help."
-msgstr ""
+msgstr "Köszönjük a segítségét."
 
 #: app/templates/mobilemanual/8.tpl:523
 msgid "Displaying of Phone Number User Reviews"
-msgstr ""
+msgstr "Telefonszám Felhasználó Értékeléseinek Megjelenítése"
 
 #: app/templates/mobilemanual/8.tpl:525
 msgid ""
 "Displaying of user reviews for the respective number needs your permission "
 "to send respective phone number to server."
 msgstr ""
+"Az adott telefonszámhoz kapcsolódó felhasználó értékelések, vélemények "
+"megjelenítéséhez az ön jóváhagyása is szükséges, azaz, hogy ön engedélyezze "
+"az adott szám elküldését a szervernek."
 
 #: app/templates/mobilemanual/8.tpl:526
 msgid ""
 "This can't be done without your permission, so Permission dialog is "
 "displayed before start of reviews download."
 msgstr ""
+"Ez a művelet nem végezhető el az ön engedélye nélkül, ezért egy Engedélyező "
+"párbeszédablak jelenik meg a képernyőn, mielőtt a felhasználói értékelések, "
+"vélemények letöltése elkezdődne."
 
 #: app/templates/mobilemanual/8.tpl:529
 msgid "Submitting of own phone number review"
-msgstr ""
+msgstr "Saját értékelés elküldése egy adott számról."
 
 #: app/templates/mobilemanual/8.tpl:531
 msgid ""
 "If you fill and send some phone number rating, you agree with publishing the "
 "phone number and all filled information on our website."
 msgstr ""
+"Amennyiben ön megcsinál, és elküld egy értékelést ez adott számmal "
+"kapcsolatban, akkor a hozzájárulását adja ahhoz, hogy a szám, és minden "
+"megadott információ publikálásra kerüljön a weboldalunkon."
 
 #: app/templates/mobilemanual/8.tpl:532
 msgid ""
 "We also store technical information about the request (time, IP and agent) "
 "for solving problems with illegal activity."
 msgstr ""
+"Annak érdekében, hogy megelőzhessük az illegális tevékenységeket és "
+"elháríthassuk az esetleges hibákat, technikai információkat is eltárolunk a "
+"műveletről (időpont, IP cím agent)."
 
 #: app/templates/mobilemanual/8.tpl:535
 msgid "Using our web service"
-msgstr ""
+msgstr "A webes szolgáltatásunk használata"
 
 #: app/templates/mobilemanual/8.tpl:536
 msgid ""
 "Some features like reviews download, database update, phone info search.. "
 "uses our web service."
 msgstr ""
+"Egyes funkciók, mint például a felhasználói vélemények letöltése, adatbázis "
+"frissítés, telefonszám keresés az webes szolgáltatásunkat használják."
 
 #: app/templates/mobilemanual/8.tpl:537
 msgid ""
 "Our web service collects anonymous statistics about visitors and service "
 "usage."
 msgstr ""
+"A webes szolgáltatásunk névtelen (anonim) statisztikákat készít a "
+"látogatókról és a szolgáltatás használatáról."
 
 #: app/templates/mobilemanual/8.tpl:538
 msgid "Please read privacy policy of our web service for detailed information."
 msgstr ""
+"Kérjük olvassa el a webes szolgáltatásunkra vonatkozó, részletes "
+"adatvédelmi, adatkezelési irányelveinket, információinkat."
 
 #: app/templates/mobilemanual/8.tpl:540
 msgid "Updates to this policy"
-msgstr ""
+msgstr "Adatvédelmi irányelvek módosulása"
 
 #: app/templates/mobilemanual/8.tpl:541
 msgid ""
 "We may update this privacy policy anytime to keep this description in sync "
 "with used technology."
 msgstr ""
+"Az adatvédelmi irányelveinket a jövőben esetlegesen megváltoztathatjuk, hogy "
+"az összhangban lehessen az általunk használt technológiával. "
 
 #: app/templates/mobilemanual/8.tpl:544
 msgid "Any questions?"
-msgstr ""
+msgstr "Kérdése van?"
 
 #: app/templates/mobilemanual/8.tpl:546
 msgid ""
@@ -2345,29 +2794,36 @@ msgid ""
 "write to us by email to <a href=\"mailto:support@shouldianswer.net"
 "\">support@shouldianswer.net</a>"
 msgstr ""
+"Ha önnek bármilyen kérdése merülne fel a termékünkkel, a felhasználás "
+"feltételeivel, vagy az adatvédelmi irányelveinkkel kapcsolatban, akkor "
+"kérjük írjon nekünk a: <a href=\"mailto:support@shouldianswer.net"
+"\">support@shouldianswer.net</a> e-mail címre."
 
 #: app/templates/mobilemanual/8.tpl:560
 msgid "Features"
-msgstr ""
+msgstr "Jellemzők"
 
 #: app/templates/mobilemanual/8.tpl:561
 msgid "How It Works"
-msgstr ""
+msgstr "Működés"
 
 #: app/templates/mobilemanual/8.tpl:577 app/templates/terms/default.tpl:17
 msgid "Terms of Use"
-msgstr "Általános feltételek"
+msgstr "Felhasználási Feltételek"
 
 #: app/templates/phonenumber/accessLimited.tpl:16
 #: app/templates/phonenumber/accessLimited.tpl:22
 msgid "No information found about this number"
-msgstr ""
+msgstr "Nem található információ erről a számról"
 
 #: app/templates/phonenumber/accessLimited.tpl:24
 msgid ""
 "We are sorry, but we don't have any information about this phone number. "
 "Please try different number, we have huge database. Thank you!"
 msgstr ""
+"Sajnáljuk, de nincs semmilyen információnk erről a telefonszámról. Kérjük "
+"próbáljon meg egy másik számot, rendkívül nagyméretű adatbázissal "
+"rendelkezünk. Köszönjük!"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:23
 #: app/templates/phonenumber/defaultAmp.tpl:24
@@ -2378,7 +2834,7 @@ msgstr ""
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:26
 #, php-format
 msgid "Who called you from %s ?"
-msgstr "Ki hívott a telefonszámról %s ?"
+msgstr "Ki hívta önt a %s telefonszámról?"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:24
 #: app/templates/phonenumber/defaultAmp.tpl:25
@@ -2392,8 +2848,9 @@ msgid ""
 "We have information about phone number %s. Visit us to find who called you "
 "and read users reviews."
 msgstr ""
-"Van információ a telefon számhoz: % s. látogasson meg minket, es találja "
-"meg, ki hívta magát, és olvassa el a felhasználói véleményekeket."
+"Információink vannak a %s telefonszámról. Látogasson el hozzánk, hogy "
+"megtudhassa ki hívta önt, és olvassa el a számmal kapcsolatos felhasználói "
+"értékeléseket, visszajelzéseket."
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:54
 #: app/templates/phonenumber/defaultAmp.tpl:135
@@ -2407,31 +2864,39 @@ msgstr "Ki hívott a telefonszámról"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:59
 msgid "Dear users,"
-msgstr ""
+msgstr "Kedves felhasználók,"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:60
 msgid ""
 "The information for this phone number is temporary unavailable due to legal "
 "investigation conducted for users reviews published for this number."
 msgstr ""
+"Az ezzel a telefonszámmal kapcsolatos információk jelenleg nem elérhetők, az "
+"ehhez a számhoz kapcsolódó felhasználói, vélemények és visszajelzések "
+"folyamatban lévő, hivatalos kivizsgálása miatt."
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:63
 msgid "We do our best to provide the information again for the public usage."
 msgstr ""
+"Mindent megteszünk annak érdekében, hogy az információkat ismét "
+"rendelkezésre tudjuk bocsájtani nyilvános használatra."
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:64
 msgid ""
 "If you have any important information for this number that can be helpful, "
 "please send it via email to <strong>contact@shouldianswer.net</strong>."
 msgstr ""
+"Ha van önnek bármilyen információja ezzel a számmal kapcsolatban, akkor nagy "
+"segítséget nyújtana, ha e-mailen keresztül értesítene minket: "
+"<strong>contact@shouldianswer.net</strong>."
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:67
 msgid "Thank you for your support!"
-msgstr ""
+msgstr "Köszönjük a támogatását!"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:68
 msgid "ShouldIAnswer Team"
-msgstr ""
+msgstr "A ShouldIAnswer csapata"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:76
 #: app/templates/phonenumber/defaultDefault.tpl:629
@@ -2439,7 +2904,7 @@ msgstr ""
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:628
 #, php-format
 msgid "Possible <strong>formats</strong> of the  %s"
-msgstr "Tudgya írni a számot '% s'"
+msgstr "A %s más lehetséges <strong>formátumai</strong> "
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:95
 #: app/templates/phonenumber/defaultAmp.tpl:631
@@ -2449,7 +2914,7 @@ msgstr "Tudgya írni a számot '% s'"
 #: app/templates/phonenumber/defaultNext.tpl:720
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:647
 msgid "<strong>Searching</strong> for similar phone numbers?"
-msgstr "Keresés hasonló telefonszámokat?"
+msgstr "<strong>Rákeres</strong> hasonló telefonszámokra?"
 
 #: app/templates/phonenumber/defaultAmp.tpl:32
 #: app/templates/phonenumber/defaultDefault.tpl:30
@@ -2457,49 +2922,49 @@ msgstr "Keresés hasonló telefonszámokat?"
 #: app/templates/phonenumber/defaultNext.tpl:29
 #, php-format
 msgid "We have details about phone number %s. "
-msgstr ""
+msgstr "Részletes információink vannak erről a telefonszámról: %s."
 
 #: app/templates/phonenumber/defaultAmp.tpl:167
 #: app/templates/phonenumber/defaultModerator.tpl:133
 #: app/templates/phonenumber/defaultNew.tpl:164
 #: app/templates/phonenumber/defaultNext.tpl:247
 msgid "ratings"
-msgstr ""
+msgstr "értékelések"
 
 #: app/templates/phonenumber/defaultAmp.tpl:168
 #: app/templates/phonenumber/defaultModerator.tpl:134
 #: app/templates/phonenumber/defaultNew.tpl:165
 #: app/templates/phonenumber/defaultNext.tpl:248
 msgid "reviews"
-msgstr ""
+msgstr "felhasználói vélemények"
 
 #: app/templates/phonenumber/defaultAmp.tpl:169
 #: app/templates/phonenumber/defaultModerator.tpl:135
 #: app/templates/phonenumber/defaultNew.tpl:166
 #: app/templates/phonenumber/defaultNext.tpl:249
 msgid "no ratings"
-msgstr ""
+msgstr "nincsenek értékelések"
 
 #: app/templates/phonenumber/defaultAmp.tpl:170
 #: app/templates/phonenumber/defaultModerator.tpl:136
 #: app/templates/phonenumber/defaultNew.tpl:167
 #: app/templates/phonenumber/defaultNext.tpl:250
 msgid "no reviews"
-msgstr ""
+msgstr "nincsenek felhasználói vélemények"
 
 #: app/templates/phonenumber/defaultAmp.tpl:171
 #: app/templates/phonenumber/defaultModerator.tpl:137
 #: app/templates/phonenumber/defaultNew.tpl:168
 #: app/templates/phonenumber/defaultNext.tpl:251
 msgid "single rating"
-msgstr ""
+msgstr "egyetlen értékelés"
 
 #: app/templates/phonenumber/defaultAmp.tpl:172
 #: app/templates/phonenumber/defaultModerator.tpl:138
 #: app/templates/phonenumber/defaultNew.tpl:169
 #: app/templates/phonenumber/defaultNext.tpl:252
 msgid "single review"
-msgstr ""
+msgstr "egyetlen felhasználói vélemény"
 
 #: app/templates/phonenumber/defaultAmp.tpl:173
 #: app/templates/phonenumber/defaultModerator.tpl:139
@@ -2508,6 +2973,8 @@ msgstr ""
 #, php-format
 msgid "We have %s and %s for this phone number."
 msgstr ""
+"Jelenleg a rendszerünkben %s és %s található meg ezzel a számmal "
+"kapcsolatban."
 
 #: app/templates/phonenumber/defaultAmp.tpl:198
 #: app/templates/phonenumber/defaultModerator.tpl:164
@@ -2515,7 +2982,7 @@ msgstr ""
 #: app/templates/phonenumber/defaultNext.tpl:277
 #, php-format
 msgid "Single user marked it with %s rating"
-msgstr ""
+msgstr "Egyetlen felhasználó értékelte %s minősítéssel"
 
 #: app/templates/phonenumber/defaultAmp.tpl:200
 #: app/templates/phonenumber/defaultModerator.tpl:166
@@ -2523,14 +2990,14 @@ msgstr ""
 #: app/templates/phonenumber/defaultNext.tpl:279
 #, php-format
 msgid "%s users marked it with %s rating"
-msgstr ""
+msgstr "%s felhasználó értékelte %s minősítéssel"
 
 #: app/templates/phonenumber/defaultAmp.tpl:203
 #: app/templates/phonenumber/defaultModerator.tpl:169
 #: app/templates/phonenumber/defaultNew.tpl:200
 #: app/templates/phonenumber/defaultNext.tpl:282
 msgid "and"
-msgstr ""
+msgstr "és"
 
 #: app/templates/phonenumber/defaultAmp.tpl:207
 #: app/templates/phonenumber/defaultModerator.tpl:173
@@ -2538,7 +3005,7 @@ msgstr ""
 #: app/templates/phonenumber/defaultNext.tpl:286
 #, php-format
 msgid "single user with %s rating"
-msgstr ""
+msgstr "egyetlen felhasználó %s minősítéssel"
 
 #: app/templates/phonenumber/defaultAmp.tpl:209
 #: app/templates/phonenumber/defaultModerator.tpl:175
@@ -2546,7 +3013,7 @@ msgstr ""
 #: app/templates/phonenumber/defaultNext.tpl:288
 #, php-format
 msgid "%s users with %s rating"
-msgstr ""
+msgstr "%s felhasználó %s minősítéssel"
 
 #: app/templates/phonenumber/defaultAmp.tpl:265
 #: app/templates/phonenumber/defaultModerator.tpl:231
@@ -2554,7 +3021,7 @@ msgstr ""
 #: app/templates/phonenumber/defaultNext.tpl:340
 #, php-format
 msgid "Possible phone number formats are "
-msgstr ""
+msgstr "A szám további lehetséges formátumai"
 
 #: app/templates/phonenumber/defaultAmp.tpl:309
 #: app/templates/phonenumber/defaultNew.tpl:306
@@ -2562,12 +3029,13 @@ msgstr ""
 #, php-format
 msgid "<strong>Reviews</strong> for phone number %s"
 msgstr ""
+"A %s telefonszámhoz kapcsolódó <strong>felhasználói visszajelzések</strong>"
 
 #: app/templates/phonenumber/defaultAmp.tpl:315
 #: app/templates/phonenumber/defaultNew.tpl:312
 #: app/templates/phonenumber/defaultNext.tpl:392
 msgid "Add <strong>Your rating</strong>"
-msgstr ""
+msgstr "<strong>Saját értékelés</strong> hozzáadása"
 
 #: app/templates/phonenumber/defaultAmp.tpl:319
 #: app/templates/phonenumber/defaultDefault.tpl:300
@@ -2576,7 +3044,7 @@ msgstr ""
 #: app/templates/phonenumber/defaultNext.tpl:395
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:336
 msgid "click here to show rating form"
-msgstr "Kattintson ide, hogy megmutassuk a kiértékelő nyomtatványt"
+msgstr "Kattintson ide az értékelési űrlap megjelenítéséhez"
 
 #: app/templates/phonenumber/defaultAmp.tpl:332
 #: app/templates/phonenumber/defaultDefault.tpl:313
@@ -2585,7 +3053,7 @@ msgstr "Kattintson ide, hogy megmutassuk a kiértékelő nyomtatványt"
 #: app/templates/phonenumber/defaultNext.tpl:407
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:349
 msgid "Rating"
-msgstr "Kiértékelés"
+msgstr "Értékelés"
 
 #: app/templates/phonenumber/defaultAmp.tpl:334
 #: app/templates/phonenumber/defaultDefault.tpl:315
@@ -2594,7 +3062,7 @@ msgstr "Kiértékelés"
 #: app/templates/phonenumber/defaultNext.tpl:409
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:351
 msgid "select rating"
-msgstr "Válasszon értékelést"
+msgstr "értékelés kiválasztása"
 
 #: app/templates/phonenumber/defaultAmp.tpl:340
 #: app/templates/phonenumber/defaultDefault.tpl:321
@@ -2603,7 +3071,7 @@ msgstr "Válasszon értékelést"
 #: app/templates/phonenumber/defaultNext.tpl:415
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:357
 msgid "Please select rating!"
-msgstr "Kérjük, válasszon értékelést!"
+msgstr "Kérjük, válassza ki az értékelést!"
 
 #: app/templates/phonenumber/defaultAmp.tpl:346
 #: app/templates/phonenumber/defaultDefault.tpl:327
@@ -2620,9 +3088,8 @@ msgstr "Kategória"
 #: app/templates/phonenumber/defaultNew.tpl:345
 #: app/templates/phonenumber/defaultNext.tpl:423
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:365
-#, fuzzy
 msgid "select category"
-msgstr "Válasszon kategóriát"
+msgstr "kategória kiválasztása"
 
 #: app/templates/phonenumber/defaultAmp.tpl:358
 #: app/templates/phonenumber/defaultDefault.tpl:339
@@ -2631,7 +3098,7 @@ msgstr "Válasszon kategóriát"
 #: app/templates/phonenumber/defaultNext.tpl:433
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:375
 msgid "Please select category!"
-msgstr "Kérjük, válasszon kategóriát!"
+msgstr "Kérjük, válassza ki a kategóriát!"
 
 #: app/templates/phonenumber/defaultAmp.tpl:366
 #: app/templates/phonenumber/defaultAmp.tpl:663
@@ -2682,7 +3149,7 @@ msgstr "Cím"
 #: app/templates/phonenumber/defaultNext.tpl:452
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:397
 msgid "title (optional)"
-msgstr "Cím (nem kötelező)"
+msgstr "cím (opcionális)"
 
 #: app/templates/phonenumber/defaultAmp.tpl:382
 #: app/templates/phonenumber/defaultAmp.tpl:668
@@ -2697,7 +3164,7 @@ msgstr "Cím (nem kötelező)"
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:402
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:704
 msgid "Comment"
-msgstr "Megjegyzés"
+msgstr "Hozzászólás"
 
 #: app/templates/phonenumber/defaultAmp.tpl:383
 #: app/templates/phonenumber/defaultDefault.tpl:364
@@ -2706,7 +3173,7 @@ msgstr "Megjegyzés"
 #: app/templates/phonenumber/defaultNext.tpl:458
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:403
 msgid "write your comment"
-msgstr "írja meg saját kommentárját"
+msgstr "írja meg a saját hozzászólását"
 
 #: app/templates/phonenumber/defaultAmp.tpl:386
 #: app/templates/phonenumber/defaultDefault.tpl:367
@@ -2715,7 +3182,7 @@ msgstr "írja meg saját kommentárját"
 #: app/templates/phonenumber/defaultNext.tpl:461
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:406
 msgid "Please enter your comment!"
-msgstr "Kérjük, írja be saját kommentárját!"
+msgstr "Kérjük, írja meg a saját hozzászólását!"
 
 #: app/templates/phonenumber/defaultAmp.tpl:393
 #: app/templates/phonenumber/defaultDefault.tpl:374
@@ -2724,7 +3191,7 @@ msgstr "Kérjük, írja be saját kommentárját!"
 #: app/templates/phonenumber/defaultNext.tpl:468
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:413
 msgid "send rating"
-msgstr " értékeléseket küld"
+msgstr "értékelés küldése"
 
 #: app/templates/phonenumber/defaultAmp.tpl:460
 #: app/templates/phonenumber/defaultDefault.tpl:463
@@ -2732,7 +3199,7 @@ msgstr " értékeléseket küld"
 #: app/templates/phonenumber/defaultNew.tpl:457
 #: app/templates/phonenumber/defaultNext.tpl:534
 msgid "owner"
-msgstr ""
+msgstr "tulajdonos"
 
 #: app/templates/phonenumber/defaultAmp.tpl:461
 #: app/templates/phonenumber/defaultDefault.tpl:464
@@ -2740,7 +3207,7 @@ msgstr ""
 #: app/templates/phonenumber/defaultNew.tpl:458
 #: app/templates/phonenumber/defaultNext.tpl:535
 msgid "moderator"
-msgstr ""
+msgstr "moderátor"
 
 #: app/templates/phonenumber/defaultAmp.tpl:462
 #: app/templates/phonenumber/defaultDefault.tpl:465
@@ -2748,7 +3215,7 @@ msgstr ""
 #: app/templates/phonenumber/defaultNew.tpl:459
 #: app/templates/phonenumber/defaultNext.tpl:536
 msgid "censored"
-msgstr ""
+msgstr "cenzúrázott"
 
 #: app/templates/phonenumber/defaultAmp.tpl:463
 #: app/templates/phonenumber/defaultDefault.tpl:466
@@ -2756,7 +3223,7 @@ msgstr ""
 #: app/templates/phonenumber/defaultNew.tpl:460
 #: app/templates/phonenumber/defaultNext.tpl:537
 msgid "system"
-msgstr ""
+msgstr "rendszer"
 
 #: app/templates/phonenumber/defaultAmp.tpl:469
 #: app/templates/phonenumber/defaultDefault.tpl:472
@@ -2764,7 +3231,7 @@ msgstr ""
 #: app/templates/phonenumber/defaultNew.tpl:466
 #: app/templates/phonenumber/defaultNext.tpl:543
 msgid "featured"
-msgstr ""
+msgstr "előléptetett"
 
 #: app/templates/phonenumber/defaultAmp.tpl:482
 #: app/templates/phonenumber/defaultDefault.tpl:487
@@ -2773,6 +3240,8 @@ msgstr ""
 #: app/templates/phonenumber/defaultNext.tpl:558
 msgid "This comment has been removed because violated terms of use"
 msgstr ""
+"Ez a megjegyzés eltávolításra került a felhasználás feltételinek megsértése "
+"miatt"
 
 #: app/templates/phonenumber/defaultAmp.tpl:488
 #: app/templates/phonenumber/defaultAmp.tpl:533
@@ -2841,7 +3310,7 @@ msgstr "Szóljon hozzá"
 #: app/templates/phonenumber/defaultNext.tpl:591
 #: app/templates/phonenumber/defaultNext.tpl:625
 msgid "Delete"
-msgstr ""
+msgstr "Törlés"
 
 #: app/templates/phonenumber/defaultAmp.tpl:595
 #: app/templates/phonenumber/defaultDefault.tpl:195
@@ -2862,7 +3331,7 @@ msgstr "Hogyan tiltsa le ezt a számot?"
 #: app/templates/phonenumber/defaultNext.tpl:775
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:709
 msgid "Submit"
-msgstr "Beküldése"
+msgstr "Küldés"
 
 #: app/templates/phonenumber/defaultAmp.tpl:814
 #: app/templates/phonenumber/defaultDefault.tpl:850
@@ -2871,7 +3340,7 @@ msgstr "Beküldése"
 #: app/templates/phonenumber/defaultNext.tpl:915
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:841
 msgid "Please enter your name or nick"
-msgstr "Kérjük, adja meg nevét vagy nick"
+msgstr "Kérjük, adja meg nevét vagy a becenevét"
 
 #: app/templates/phonenumber/defaultAmp.tpl:820
 #: app/templates/phonenumber/defaultDefault.tpl:856
@@ -2880,21 +3349,23 @@ msgstr "Kérjük, adja meg nevét vagy nick"
 #: app/templates/phonenumber/defaultNext.tpl:921
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:847
 msgid "Your comment must be longer than 5 characters"
-msgstr "Az Ön megjegyzése hosszabbnak kell lennie, mint 5 karakter"
+msgstr "A hozzászólásának 5 karakternél hosszabbnak kell lennie"
 
 #: app/templates/phonenumber/defaultDefault.tpl:98
 msgid "Actualization"
-msgstr ""
+msgstr "Aktualizálás"
 
 #: app/templates/phonenumber/defaultDefault.tpl:137
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:92
 msgid "Details"
-msgstr ""
+msgstr "Részletek"
 
 #: app/templates/phonenumber/defaultDefault.tpl:143
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:98
 msgid "You rating can help the others to be informed about this number."
-msgstr "Értékelésed segít másoknak és add informaciót  erről a telefonszámról"
+msgstr ""
+"Az ön értékelés segítséget nyújt más felhasználóknak, hogy minél több "
+"infomrációhoz juthassanak erről a számról."
 
 #: app/templates/phonenumber/defaultDefault.tpl:206
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:242
@@ -2903,6 +3374,10 @@ msgid ""
 "strong> unknown numbers? <strong>Install</strong> our application and be "
 "informed who is calling - <strong>for free</strong>!"
 msgstr ""
+"<strong>Zaklatják</strong> önt telefonmarketinges hívásokkal? Nem "
+"akar<strong> foglalkozni</strong> az ismeretlen számokról bejövő hívásokkal? "
+"<strong>Telepítse</strong> az alkalmazásunkat, és tudja meg ki hívja önt - "
+"<strong>teljesen ingyen</strong>!"
 
 #: app/templates/phonenumber/defaultDefault.tpl:207
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:243
@@ -2911,6 +3386,10 @@ msgid ""
 "calls</strong>. With our <strong>application</strong> you will be always "
 "informed who is calling - <strong>for free</strong>!"
 msgstr ""
+"Kerülje el a kéretlen hívásokat. <strong>Ne vesztegesse az idejét</strong> "
+"marketinges telefonhívásokra</strong>. Az <strong>alkalmazásunk</strong> "
+"révén, mindig tudni fogja, hogy ki keresi önt - <strong>teljesen ingyen</"
+"strong>!"
 
 #: app/templates/phonenumber/defaultDefault.tpl:208
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:244
@@ -2919,6 +3398,9 @@ msgid ""
 "<strong>application</strong> You will be aware who is calling - <strong>for "
 "free</strong>!"
 msgstr ""
+"<strong>Kerülje el</strong> a kéretlen <strong>hívásokat</strong>! Ezzel az "
+"<strong>alkalmazással</strong> mindig tudni fogja, hogy ki keresi Önt- "
+"<strong>teljesen ingyen</strong>!"
 
 #: app/templates/phonenumber/defaultDefault.tpl:209
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:245
@@ -2927,6 +3409,9 @@ msgid ""
 "With our <strong>free application</strong> you will be always "
 "<strong>informed who is calling!</strong>"
 msgstr ""
+"Többé soha nem fog kapni <strong>kéretlen hívásokat</strong> telemarketinges "
+"cégektől. Az <strong>ingyenes alkalmazásunk</strong>használatával, ön mindig "
+"<strong>tudni fogja, hogy ki keresi!</strong>"
 
 #: app/templates/phonenumber/defaultDefault.tpl:210
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:246
@@ -2934,18 +3419,20 @@ msgid ""
 "Want to <strong>avoid unsolicited calls</strong>? Download our <strong>free "
 "application</strong>!"
 msgstr ""
+"El akarja <strong>kerülni a kéretlen hívásokat</strong>? Töltse le<strong> "
+"az ingyenes alkalmazást</strong>!"
 
 #: app/templates/phonenumber/defaultDefault.tpl:297
 #: app/templates/phonenumber/defaultModerator.tpl:324
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:333
 msgid "Add Your <strong>rating</strong>"
-msgstr "Adja hozzá a hitelminősítőt"
+msgstr "Saját<strong>értékelés</strong> hozzáadása"
 
 #: app/templates/phonenumber/defaultDefault.tpl:383
 #: app/templates/phonenumber/defaultModerator.tpl:415
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:422
 msgid "Phone number <strong>ratings</strong>"
-msgstr " Telefonszám értékelések "
+msgstr "Telefonszám <strong>értékelések</strong>"
 
 #: app/templates/phonenumber/defaultDefault.tpl:400
 #: app/templates/phonenumber/defaultModerator.tpl:428
@@ -2953,18 +3440,18 @@ msgstr " Telefonszám értékelések "
 #, php-format
 msgid "This phone number has %s reviews with average rating \"%s\"."
 msgstr ""
-"Ennek a telefonszámnak van\"% s\"értékelése egy átlagos eredménnyel mint, "
-"% s."
+"Ennek a telefonszámnak %s felhasználói visszajelzése van. Az átlagos "
+"értékelése: \"%s\"."
 
 #: app/templates/phonenumber/defaultDefault.tpl:612
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:611
 msgid "Report ownership of this number or untruthful information presented."
-msgstr ""
+msgstr "Jelentés a tulajdonjogáról vagy valótlan adatok megjelenítéséről."
 
 #: app/templates/phonenumber/defaultModerator.tpl:379
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:386
 msgid "email (optional)"
-msgstr "e-mail (nem kötelező)"
+msgstr "e-mail (opcionális)"
 
 #: app/templates/phonenumber/invalid.tpl:16
 #: app/templates/phonenumber/invalid.tpl:23
@@ -2973,138 +3460,186 @@ msgstr "Érvénytelen telefonszám"
 
 #: app/templates/phonenumber/invalid.tpl:24
 msgid "Please try to search your number in international format."
-msgstr "Kérjük, próbálja keresni a számot nemzetközi formátumban."
+msgstr ""
+"Kérjük, a kereséshez próbálja meg a számot nemzetközi formátumban megadni"
 
 #: app/templates/phonenumber/searchresults.tpl:105
 msgid ""
 "Do you know country of the phone number? Try search via country dedicated "
 "service. Here is list of supported countries:"
 msgstr ""
+"Ismeri az számhoz tartozó országot? Próbálja ki, az egyes országokhoz "
+"biztosított szolgáltatásunkat. Itt találhatja a listát az általunk "
+"támogatott országokról:"
 
 #: app/templates/privacypolicy/default.tpl:29
 msgid "This page explains our approach to privacy on all of our web services."
 msgstr ""
+"Ez az oldal tartalmazza az összes webes szolgáltatásunkra vonatkozó "
+"adatvédelmi irányelveinket."
 
 #: app/templates/privacypolicy/default.tpl:32
 msgid "Short version"
-msgstr ""
+msgstr "Rövid verzió"
 
 #: app/templates/privacypolicy/default.tpl:36
 msgid "Information submitted in user's review will be available to the public."
 msgstr ""
+"Azon információk, amelyek a felhasználói értékelések, visszajelzések "
+"szekcióban beküldésre kerültek, nyilvánosan is elérhetők lesznek."
 
 #: app/templates/privacypolicy/default.tpl:39
 msgid "We use 3rd party companies to serve ads on our pages."
 msgstr ""
+"Cégünk más cégeket, 3. feleket alkalmaz az oldalainkon megjelenő "
+"hirdetésekhez."
 
 #: app/templates/privacypolicy/default.tpl:40
 msgid "This companies use cookies to serve user based Ads."
 msgstr ""
+"Ezek a cégek cookie-kat használnak a felhasználói alapú reklámok "
+"működtetéséhez."
 
 #: app/templates/privacypolicy/default.tpl:42
 msgid ""
 "We also collect anonymous statistic about your visit (for example which "
 "pages did you visit)."
 msgstr ""
+"Mi szintén gyűjtünk névtelenül, anonim módon statisztikákat az ön "
+"oldalainkat érintő tevékenységéről (például, hogy mely oldalakat tekintette "
+"meg)."
 
 #: app/templates/privacypolicy/default.tpl:46
 msgid "Collecting information"
-msgstr ""
+msgstr "Információ gyűjtés"
 
 #: app/templates/privacypolicy/default.tpl:48
 msgid "Information submitted in review will be available to the public."
 msgstr ""
+"Az oldalunkon, felhasználói értékelésként leadott információk nyilvánossá "
+"válnak."
 
 #: app/templates/privacypolicy/default.tpl:49
 msgid ""
 "Please avoid to post any personal identifying information - we are not "
 "collecting any personal information."
 msgstr ""
+"Kérjük, tartózkodjon bármilyen személyes jellegű, személyazonosításra "
+"alkalmas információ, adat megadásától - mi semmilyen jellegű személyes "
+"információt, adatot nem gyűjtünk."
 
 #: app/templates/privacypolicy/default.tpl:50
 msgid ""
 "This information reflects commentator's opinion regarding the phone number "
 "and don't represent the opinion of our team."
 msgstr ""
+"Ez az információ a hozzászóló álláspontját fejezi ki az adott telefonszámra "
+"vonatkozóan, és nem a mi csapatunk álláspontját reprezentálja."
 
 #: app/templates/privacypolicy/default.tpl:51
 msgid ""
 "Infringement of Terms Of Use can results in partial or full removal of "
 "submitted review."
 msgstr ""
+"A Felhasználási Feltételek megsértése a beküldött felhasználói értékelés, "
+"visszajelezés részleges, vagy végleges eltávolítását eredményezi."
 
 #: app/templates/privacypolicy/default.tpl:52
 msgid ""
 "We reserve the right to delete any review which infringe the rules for this "
 "service."
 msgstr ""
+"Mi fenntartjuk a jogot arra nézve, hogy bármikor töröljünk, bármilyen olyan "
+"felhasználói értékelést, visszajelzést, amely megsérti ennek a szolgáltatás "
+"használatának a szabályait."
 
 #: app/templates/privacypolicy/default.tpl:55
 msgid "Third party advertising"
-msgstr ""
+msgstr "Harmadik fél által végzett reklámtevékenység"
 
 #: app/templates/privacypolicy/default.tpl:57
 msgid "We are using third party companies to serve ads on our websites."
 msgstr ""
+"Cégünk más cégeket, 3. feleket alkalmaz a weboldalainkon megjelenő "
+"hirdetésekhez."
 
 #: app/templates/privacypolicy/default.tpl:58
 msgid ""
 "This companies may use cookies and independently collected information about "
 "your visit to provide best ads for you."
 msgstr ""
+"Ezek a cégek cookie-kat használnak, és tőlünk függetlenül működve gyűjtenek "
+"adatokat az ön látogatásairól, hogy a lehető legjobb reklámokat tudják "
+"biztosítani az ön számára."
 
 #: app/templates/privacypolicy/default.tpl:61
 msgid "Measuring our visitors"
-msgstr ""
+msgstr "Látogatóink felmérése"
 
 #: app/templates/privacypolicy/default.tpl:63
 msgid "We are using Google Analytics to measure visitors to our websites."
 msgstr ""
+"A Google Analytics rendszerét használjuk a látogatóink oldalainkon történő "
+"tevékenységének felmérésére."
 
 #: app/templates/privacypolicy/default.tpl:64
 msgid ""
 "These measurements record how you arrived at our site, what pages you view "
 "within the site and some information about your device."
 msgstr ""
+"Ezek a felmérések tartalmazzák, hogy milyen módon kereste fel az oldalunkat, "
+"milyen oldalakat tekintett meg a weboldalon belül, illetve néhány adatot az "
+"ön készülékéről, eszközéről. "
 
 #: app/templates/privacypolicy/default.tpl:65
 msgid ""
 "All information is anonymous and helps us to understand what we should "
 "improve in future. "
 msgstr ""
+"Minden információ anonim módon, névtelenül kerül be a rendszerünkbe, és "
+"segítséget nyújt nekünk, a jövőbeni fejlesztések elvégzésének tekintetében."
 
 #: app/templates/privacypolicy/default.tpl:66
 #, php-format
 msgid "More information about Google Analyticis can be found %s here %s"
 msgstr ""
+"A Google Analyticis rendszeréről további információkat találhat %s itt %s"
 
 #: app/templates/privacypolicy/default.tpl:69
 msgid "Cookies"
-msgstr ""
+msgstr "Cookie-k"
 
 #: app/templates/privacypolicy/default.tpl:71
 msgid "This site uses cookies to improve website's usability."
 msgstr ""
+"Ez az oldal cookie-kat használ a weboldal működőképességének fejlesztése "
+"érdekében."
 
 #: app/templates/privacypolicy/default.tpl:72
 msgid ""
 "Cookies also helps us improve website security and minimse fraud, automated "
 "activity."
 msgstr ""
+"A cookie-k ugyanakkor segítenek nekünk a weboldal biztonságának "
+"megőrzésében, és minimalizálják az a csalásokhoz köthető, automatizált "
+"tevékenységeket is."
 
 #: app/templates/privacypolicy/default.tpl:75
 msgid "Privacy Policy Changes"
-msgstr ""
+msgstr "Adatvédelmi Irányelvek Változásai"
 
 #: app/templates/privacypolicy/default.tpl:77
 msgid ""
 "This privacy policy can be modified from time to time. We will keep this "
 "document in sync with technology standards we use."
 msgstr ""
+"Az adatvédelmi irányelvek időről-időre módosulhatnak, ezért ennek a "
+"dokumentumnak a tartalmát, mindig az általunk használt technológiai "
+"szabványoknak megfelelően fogjuk szinkronizálni. "
 
 #: app/templates/privacypolicy/default.tpl:80
 msgid "Any questions ?"
-msgstr ""
+msgstr "Kérdése van?"
 
 #: app/templates/privacypolicy/default.tpl:82
 #: app/templates/solveissues/default.tpl:75
@@ -3112,160 +3647,181 @@ msgid ""
 "Send an email to <a href=\"mailto:support@shouldianswer.net"
 "\">support@shouldianswer.net</a>"
 msgstr ""
+"Küldjön egy e-mailt a <a href=\"mailto:support@shouldianswer.net"
+"\">support@shouldianswer.net</a> e-mail címre."
 
 #: app/templates/removalrequest/default.tpl:16
 msgid "Removal Request"
-msgstr ""
+msgstr "Eltávolítási Kérelem"
 
 #: app/templates/removalrequest/default.tpl:17
 #: app/templates/removalrequest/default.tpl:155
 msgid "Removal Request Form"
-msgstr ""
+msgstr "Eltávolítási Kérelem Űrlap"
 
 #: app/templates/removalrequest/default.tpl:34
 #, php-format
 msgid "Removal of Review ID: %s"
-msgstr ""
+msgstr "Eltávolítandó Felhasználói Vélemény ID azonosítója: %s"
 
 #: app/templates/removalrequest/default.tpl:44
 #, php-format
 msgid "Removal of Comment ID: %s"
-msgstr ""
+msgstr "Eltávolítandó Felhasználói Hozzászólás ID azonosítója: %s"
 
 #: app/templates/removalrequest/default.tpl:158
 msgid "Your request has been succesfully send to our support team."
 msgstr ""
+"A kérelmét sikeresen továbbítottuk a támogatási csapatunk illetékes "
+"kollégáinknak."
 
 #: app/templates/removalrequest/default.tpl:159
 msgid "We should process it in max 3 work days."
-msgstr ""
+msgstr "A kérelem feldolgozása 3 munkanapot vesz igénybe."
 
 #: app/templates/removalrequest/default.tpl:161
 msgid "Thank you very much!"
-msgstr ""
+msgstr "Nagyon szépen köszönjük!"
 
 #: app/templates/removalrequest/default.tpl:163
 msgid "Something wrong happened during storing your request."
-msgstr ""
+msgstr "Valamilyen hiba lépett fel, a kérelem eltárolása közben."
 
 #: app/templates/removalrequest/default.tpl:164
 msgid "Please contact us at <strong>support@shouldianswer.net</strong>"
 msgstr ""
+"Kérjük, vegye fel velünk a kapcsolatot a <strong>support@shouldianswer.net</"
+"strong> e-mail címen."
 
 #: app/templates/removalrequest/default.tpl:168
 msgid "Please fix errors marked with red description"
-msgstr ""
+msgstr "Kérjük, javítsa ki a piros színnel megjelölt részeket."
 
 #: app/templates/removalrequest/default.tpl:175
 msgid ""
 "Before filling the form you could find useful basic information about "
 "solving content issues on our site"
 msgstr ""
+"Az űrlap kitöltése előtt, érdemes elolvasnia az oldalunkon rendelkezésre "
+"álló alapvető információkat, a weblapon megtalálható tartalmakkal "
+"kapcsolatos problémák megoldásáról."
 
 #: app/templates/removalrequest/default.tpl:183
 msgid "Subject"
-msgstr ""
+msgstr "Tárgy"
 
 #: app/templates/removalrequest/default.tpl:186
 msgid "Content was submitted for number"
-msgstr ""
+msgstr "A tartalom a következő számhoz lett beküldve"
 
 #: app/templates/removalrequest/default.tpl:187
 msgid "Content"
-msgstr ""
+msgstr "Tartalom"
 
 #: app/templates/removalrequest/default.tpl:192
 msgid "Your Name"
-msgstr ""
+msgstr "Az Ön Neve"
 
 #: app/templates/removalrequest/default.tpl:193
 #: app/templates/removalrequest/default.tpl:196
 msgid "Please enter full real name"
-msgstr ""
+msgstr "Kérjük, adja meg a teljes, valódi nevét"
 
 #: app/templates/removalrequest/default.tpl:212
 msgid "Reason Type"
-msgstr ""
+msgstr "A Kérelem Okának Típusa"
 
 #: app/templates/removalrequest/default.tpl:213
 msgid "Contains personal information"
-msgstr ""
+msgstr "Személyes adatokat tartalmaz"
 
 #: app/templates/removalrequest/default.tpl:214
 msgid "Contains false information"
-msgstr ""
+msgstr "Valótlan, hamis információt tartalmaz"
 
 #: app/templates/removalrequest/default.tpl:215
 msgid "Breaks the rules of this service"
-msgstr ""
+msgstr "Megszegi ennek a szolgáltatásnak a szabályait"
 
 #: app/templates/removalrequest/default.tpl:216
 msgid "I'm author of review and I want to remove it"
 msgstr ""
+"Én vagyok a szerzője ennek a felhasználói véleménynek és el akarom "
+"távolíttatni."
 
 #: app/templates/removalrequest/default.tpl:217
 msgid "Other reason"
-msgstr ""
+msgstr "Egyéb ok"
 
 #: app/templates/removalrequest/default.tpl:220
 msgid "Please select the reason type"
-msgstr ""
+msgstr "Kérjük, válassza ki a kérelem okának típusát"
 
 #: app/templates/removalrequest/default.tpl:227
 msgid "Reason details"
-msgstr ""
+msgstr "A kérelem okának részletezése"
 
 #: app/templates/removalrequest/default.tpl:228
 msgid "Please explain in detail why you want to remove this content."
 msgstr ""
+"Kérjük, fejtse ki részletesen, hogy miért akarja távolítani ezt a tartalmat."
 
 #: app/templates/removalrequest/default.tpl:232
 msgid "Please fill the reason details"
-msgstr ""
+msgstr "Kérjük, töltse ki a részletek részt"
 
 #: app/templates/removalrequest/default.tpl:239
 #, php-format
 msgid ""
 "You can also check our %s for detailed description of using of our service."
 msgstr ""
+"Ön a %s oldalunkon is megtekintheti szolgáltatásunk használatának részletes "
+"leírását"
 
 #: app/templates/removalrequest/default.tpl:248
 msgid "Please check the reCAPTCHA"
-msgstr ""
+msgstr "Kérjük, jelölje ki a négyzetet a reCAPTCHA-ban"
 
 #: app/templates/removalrequest/default.tpl:252
 msgid "Send Request"
-msgstr ""
+msgstr "Kérelem Küldés"
 
 #: app/templates/solveissues/default.tpl:17
 msgid "Solving Issues"
-msgstr ""
+msgstr "Porblémák Megoldása"
 
 #: app/templates/solveissues/default.tpl:26
 msgid ""
 "Solving issues with number ownership or presented untruthful information"
 msgstr ""
+"Problémák megoldása telefonszám birtoklása, vagy valótlan információk "
+"megjelenítése esetében."
 
 #: app/templates/solveissues/default.tpl:28
 msgid "Is this your private number?"
-msgstr ""
+msgstr "Ez az ön saját telefonszáma?"
 
 #: app/templates/solveissues/default.tpl:30
 msgid "Our main target it to protect your personal info against telemarketing."
 msgstr ""
+"A mi elsődleges célunk, hogy megvédjük az ön személyes adatait, információit "
+"a telemarketinggel szemben."
 
 #: app/templates/solveissues/default.tpl:31
 msgid "We intentionally don’t display info that this is a private number."
 msgstr ""
+"Ezért mi szándékosan nem jelenítünk meg olyan tartalmú információt, hogy ez "
+"egy privát telefonszám."
 
 #: app/templates/solveissues/default.tpl:32
 msgid ""
 "But on the other hand we also do not hide this page for this specific number."
 msgstr ""
+"De ugyanakkor, nem rejtjük el, ezt a konkrét számot tartalmazó oldalt sem."
 
 #: app/templates/solveissues/default.tpl:33
 msgid "The reason is exactly the protection of your private number."
-msgstr ""
+msgstr "Az ok pontosan az ön privát telefonszámának a védelme."
 
 #: app/templates/solveissues/default.tpl:34
 msgid ""
@@ -3274,6 +3830,11 @@ msgid ""
 "signal for anyone and could be misused by automatic sniffer-robots to take "
 "this number."
 msgstr ""
+"Amennyiben olyan formában tennénk közzé az információt, hogy ez privát "
+"telefonszám, vagy, hogy ehhez a telefonszámhoz az információk nem elérhetők, "
+"azt egyfajta jelzésként értelmezhetné bárki, visszaélések célpontjává "
+"válhatna, és automatizált adathalász robot szoftverek is hozzájuthatnának "
+"ehhez a számhoz."
 
 #: app/templates/solveissues/default.tpl:35
 msgid ""
@@ -3281,101 +3842,135 @@ msgid ""
 "neutral rating and exactly same description as presented for any other valid "
 "phone number."
 msgstr ""
+"Ez nekünk nem célunk, éppen ezért próbáljuk megvédeni önt egy semleges "
+"értékelésű oldal megjelenítése révén és pontosan ugyanolyan leírást "
+"biztosítva, amelyet minden más érvényes telefonszám esetében is prezentálunk."
 
 #: app/templates/solveissues/default.tpl:36
 msgid ""
 "The number rating could be changed based on another warning signals (e.g. "
 "high number of searches) or user ratings."
 msgstr ""
+"A szám értékelése módosulhat a figyelmeztető jelzések alapján (pl. "
+"nagymértékű rákeresés) és a felhasználó értékelések révén."
 
 #: app/templates/solveissues/default.tpl:39
 msgid "Is this a number of your company?"
-msgstr ""
+msgstr "Ez az ön cégének a telefonszáma?"
 
 #: app/templates/solveissues/default.tpl:41
 msgid ""
 "In such case you have a great possibility to present your own positive "
 "rating with short description of the company and services you provide."
 msgstr ""
+"Ebben az esetben, önnek kiváló lehetősége nyílik arra, hogy a saját pozitív "
+"értékelését is közzétegye, egy rövid leírással a cég tevékenységéről és "
+"szolgáltatásairól."
 
 #: app/templates/solveissues/default.tpl:42
 msgid ""
 "You can also add internet link to your company’s pages for further info."
-msgstr ""
+msgstr "További információként, az ön cége weboldalának linkjét is megadhatja."
 
 #: app/templates/solveissues/default.tpl:43
 msgid ""
 "Let your customers know about you, communicate with them using our pages."
 msgstr ""
+"Hagyja, hogy a vásárlói megismerhessék önt, kommunikáljon velük az "
+"oldalainkat használva."
 
 #: app/templates/solveissues/default.tpl:46
 msgid "Want to clear user ratings from your private number?"
-msgstr ""
+msgstr "Töröltetni akarja a privát telefonszámának felhasználói értékeléseit?"
 
 #: app/templates/solveissues/default.tpl:48
 msgid ""
 "User ratings of private numbers are out of our scope and should not be "
 "displayed. We do our best to filter and clear all such ratings."
 msgstr ""
+"A privát számok felhasználói értékeléseinek megjelenítése kívül esik a "
+"tevékenységi körünkön, ezért azoknak nem szabadna megjelenniük az "
+"oldalainkon. Ezért ennek érdekében, a legjobb szűrőinket használva mindent "
+"megteszünk, hogy az ilyen jellegű értékeléseket azonnali hatállyal "
+"eltávolítsuk."
 
 #: app/templates/solveissues/default.tpl:49
 msgid ""
 "Anyway if this happened please contact us using the email provided below."
 msgstr ""
+"Amennyiben mégis ilyen eset fordulna elő, kérjük, hogy vegye fel velünk a "
+"kapcsolatot az alul található e-mail címen."
 
 #: app/templates/solveissues/default.tpl:50
 msgid "Thank you."
-msgstr ""
+msgstr "Köszönjük."
 
 #: app/templates/solveissues/default.tpl:53
 msgid "Want to clear user ratings for your company?"
-msgstr ""
+msgstr "Töröltetni akarja a cége felhasználói értékeléseit?"
 
 #: app/templates/solveissues/default.tpl:55
 msgid ""
 "It's pretty clear that people are mostly willing to describe negative rating "
 "or experience, more than positive comment."
 msgstr ""
+"Meglehetősen egyértelmű tény, hogy az emberek sokkal inkább hajlandók "
+"negatív értékeléseket adni és ilyen jellegű tapasztalatokról beszámolni, "
+"mint pozitív tartalmú hozzászólásokat írni."
 
 #: app/templates/solveissues/default.tpl:56
 msgid ""
 "We understand that it can happen and you can find untruthful information "
 "with intention to make you some harm."
 msgstr ""
+"Mi tökéletesen tisztában vagyunk azzal, hogy mindez megtörténhet, és emiatt "
+"ön valótlan információkkal szembesülhet, amelyek hátterében ártó szándék is "
+"állhat."
 
 #: app/templates/solveissues/default.tpl:57
 msgid ""
 "In most cases we could not be able to judge where the truth lies or which "
 "information is untruthful."
 msgstr ""
+"A legtöbb esetben, mi nem vagyunk képesek megítélni, hogy mi az igazság, "
+"vagyis, hogy mely információ tartalmaz valós adatokat, és melyik az amelyik "
+"valótlan."
 
 #: app/templates/solveissues/default.tpl:58
 msgid ""
 "If you feel you suffer any harm you can use the legal system of your country "
 "as a protection."
 msgstr ""
+"Abban az esetben, ha ön úgy érzi, hogy valamilyen sérelem érte, vegye "
+"igénybe a saját országa jogrendszerét védelemként."
 
 #: app/templates/solveissues/default.tpl:59
 msgid "Our pages are based as open discussion forum only."
-msgstr ""
+msgstr "Az oldalaink csak nyílt vitafórumként funkcionálnak. "
 
 #: app/templates/solveissues/default.tpl:60
 msgid ""
 "We also recommend you to use these pages for communication with your "
 "costumers."
 msgstr ""
+"Azt is javasoljuk, hogy használja ezeket az oldalakat az ügyfeleivel történő "
+"kommunikációra is."
 
 #: app/templates/solveissues/default.tpl:63
 msgid ""
 "Want to clear user ratings and your company provides telemarketing or call "
 "centre?"
 msgstr ""
+"Szeretné eltávolíttatni az ön cégét telemarketingesként, vagy call center-"
+"ként feltűnteő felhasználói értékeléseket?"
 
 #: app/templates/solveissues/default.tpl:65
 msgid ""
 "In such case your problem is also covered by the above mentioned for "
 "classical company."
 msgstr ""
+"Ilyen esetben, az ön problémája is fent említett, klasszikus cégeket érintő "
+"problémaköbe tartozik."
 
 #: app/templates/solveissues/default.tpl:66
 msgid ""
@@ -3383,18 +3978,27 @@ msgid ""
 "composition of Moral codex of your services to be presented to your "
 "employees is a best practice."
 msgstr ""
+"Azt tanácsoljuk, hogy javítson a szolgáltatások minőségének biztosításán a "
+"cégénél, de emellett, kimondottan ajánlott, egy a tevékenység végzésére "
+"vonatkozó Erkölcsi kódex összeállítása is az alkalmazottai számára."
 
 #: app/templates/solveissues/default.tpl:67
 msgid ""
 "Present your company and act as a company which has, uses and keeps the "
 "rules preventing of impolite or unfair acts."
 msgstr ""
+"Prezentálja úgy a cégét, amely a szabályok betartásával, azok alkalmazásával "
+"összhangban működő cégként tevékenykedik, megelőzve ezzel a tisztességtelen "
+"üzleti magatartások minden formáját."
 
 #: app/templates/solveissues/default.tpl:68
 msgid ""
 "Give the customers the possibility to claim the calls for any reasons and to "
 "point out any system errors or individual failures."
 msgstr ""
+"Adja meg a vásárlóknak a lehetőséget arra, hogy bármilyen okból kifolyólag "
+"reklamációt nyújthassanak be a hívásokkal szemben, tárja fel a "
+"rendszerhibákat, és/vagy a személyi hibákat is."
 
 #: app/templates/solveissues/default.tpl:69
 msgid ""
@@ -3402,19 +4006,25 @@ msgid ""
 "stating that this is your number, summarize your principles and possibly "
 "also provide contact where the unsatisfied customers can reach you."
 msgstr ""
+"Az oldalaink lehetőséget biztosítanak arra, hogy információt adhasson hozzá "
+"a telefonszámához, kijelentve, hogy az az ön száma, összegezheti az "
+"alapelveit, és lehetősége nyílik arra is, hogy az elégedetlen vásárlók, "
+"ügyfelek kapcsolatba léphessenek önnel."
 
 #: app/templates/solveissues/default.tpl:70
 msgid ""
 "If interested for presenting of such info on our pages please contact us."
 msgstr ""
+"Amennyiben érdekelt abban, hogy ilyen jellegű információ megjelenjen az "
+"oldalainkon, kérjük, vegye fel velünk a kapcsolatot"
 
 #: app/templates/solveissues/default.tpl:73
 msgid "Want to contact us?"
-msgstr ""
+msgstr "Szeretne kapcsolatba lépni velünk?"
 
 #: app/templates/websearch/default.tpl:7
 msgid "Web Search"
-msgstr ""
+msgstr "Webes Keresés"
 
 #~ msgid "<strong>Latest visited</strong> phone numbers"
 #~ msgstr "Az utóbbi járt telefonszámok"
