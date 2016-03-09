@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: shouldianswer\n"
 "POT-Creation-Date: 2016-02-21 21:08+0100\n"
-"PO-Revision-Date: 2016-03-10 00:13+0100\n"
+"PO-Revision-Date: 2016-03-10 00:32+0100\n"
 "Last-Translator: \n"
 "Language-Team: topolar@gmail.com\n"
 "Language: pt_BR\n"
@@ -1063,13 +1063,13 @@ msgstr "Baixe no Google Play"
 #: app/templates/default/defaultNew.tpl:72 app/templates/layout_detail.tpl:27
 #: app/templates/layout_detailAmp.tpl:26 app/templates/layout_detailNew.tpl:26
 msgid "<strong>Popular</strong> phone numbers"
-msgstr " <strong>Populares</strong> Números de telefone"
+msgstr "Números de telefone <strong>Populares</strong>"
 
 #: app/templates/default/defaultDefault.tpl:135
 #: app/templates/default/defaultNew.tpl:110 app/templates/layout_detail.tpl:50
 #: app/templates/layout_detailAmp.tpl:44 app/templates/layout_detailNew.tpl:44
 msgid " <strong>Latest rated</strong> phone numbers"
-msgstr " <strong>Avaliados recentemente</strong> números de telefone"
+msgstr "Números de telefone <strong>avaliados recentemente</strong>"
 
 #: app/templates/default/defaultDefault.tpl:157
 #: app/templates/default/defaultDefault.tpl:160
