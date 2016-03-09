@@ -283,8 +283,18 @@
     <string name="Contact_x">Kontakt %s</string>
     <string name="Install">Instalovat</string>
     <string name="Phone_Number_Hint_New">Pro skupinové hodnocení můžete použít *. Například: 800* nastaví pravidlo pro všechny hovory z rozsahu čísel 800*.</string>
-    <string name="Report_Issue">Report Issue</string>
-    <string name="Please_Enter_The_Issue_Description_Here">Please Enter The Issue Description Here! If you can communicate in English! Thank you!</string>
-    <string name="Required_Community_Ratings_To_Block">Required Community Ratings To Block</string>
-    <string name="DISABLED">DISABLED</string>
+    <string name="Report_Issue">Nahlásit Problém</string>
+    <string name="Please_Enter_The_Issue_Description_Here">Prosím napište krátký popisek vašeho problému! K emailu budou přiloženy logy aplikace které budou analyzovány. Děkujeme!</string>
+    <string name="Required_Community_Ratings_To_Block">Požadovaných hodnocení komunity pro blokování</string>
+    <string name="DISABLED">VYPNUTO</string>
+    <string name="Warning">Warning!</string>
+    <string name="Unfortunately_your_device_has_modification_">Unfortunately your device has modification which doesn\'t support the blocking feature. We are working on a suitable workaround.</string>
+    <string name="You_must_enable_Blocking_of_negative_rated_numbers">You must enable Blocking of negative rated numbers to block this number!</string>
+    <string name="Enable_Blocking">Enable Blocking</string>
+    <string name="You_are_using_Pick_and_Hang_disable_it">You are using Pick and Hang method for blocking. If this feature doesn\'t work on your device, use standard blocking instead.</string>
+    <string name="Disable_Pick_And_Hang">Disable Pick And Hang</string>
+    <string name="You_have_already_configured_blocking_of_this_number_">You have already configured blocking of this number. If you are experiencing some issues, please report it via Report Issue button on About tab</string>
+    <string name="Set_As_Private">Set As Private</string>
+    <string name="Dont_block_by_community_database">Don\'t block by community database</string>
+    <string name="More_information_is_required_">More information is required for submitting to the community database. Don\'t want to fill it? Mar the rating as your Private.</string>
 </resources>
