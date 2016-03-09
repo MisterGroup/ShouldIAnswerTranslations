@@ -605,7 +605,7 @@ msgstr ""
 #: app/templates/about/default.tpl:16 app/templates/mobilemanual/8.tpl:451
 #: app/templates/mobilemanual/8.tpl:570
 msgid "About"
-msgstr "Opis"
+msgstr "Informacje"
 
 #: app/templates/about/default.tpl:17
 msgid "Service description and basic information how to use it."
@@ -1446,7 +1446,7 @@ msgstr "Czy mogę odebrać"
 
 #: app/templates/mobilemanual/8.tpl:152 app/templates/mobilemanual/8.tpl:557
 msgid "Introduction"
-msgstr "Przedstawienie się"
+msgstr "Wstęp"
 
 #: app/templates/mobilemanual/8.tpl:154
 msgid ""
@@ -1512,7 +1512,7 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:174
 msgid "Main Features"
-msgstr ""
+msgstr "Opis funkcjonalności"
 
 #: app/templates/mobilemanual/8.tpl:176
 msgid "Easy check of phone numbers ratings in your Phone Call History."
@@ -1546,7 +1546,7 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:188
 msgid "How it works"
-msgstr ""
+msgstr "Działanie aplikacji"
 
 #: app/templates/mobilemanual/8.tpl:190
 msgid ""
@@ -1590,7 +1590,7 @@ msgstr "Interfejs użytkownika"
 
 #: app/templates/mobilemanual/8.tpl:205 app/templates/mobilemanual/8.tpl:564
 msgid "Summary"
-msgstr "Streszczenie"
+msgstr "Opis"
 
 #: app/templates/mobilemanual/8.tpl:207
 msgid ""
@@ -1619,7 +1619,7 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:214 app/templates/mobilemanual/8.tpl:565
 msgid "Logs"
-msgstr "Logi"
+msgstr "Połączenia"
 
 #: app/templates/mobilemanual/8.tpl:216
 msgid "The Logs screen provides you access to 3 types of logs:"
@@ -1735,7 +1735,7 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:262 app/templates/mobilemanual/8.tpl:566
 msgid "Ratings"
-msgstr ""
+msgstr "Oceny"
 
 #: app/templates/mobilemanual/8.tpl:264
 msgid "In this section you can:"
@@ -1834,7 +1834,7 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:304 app/templates/mobilemanual/8.tpl:567
 msgid "Alerts"
-msgstr ""
+msgstr "Powiadomienia"
 
 #: app/templates/mobilemanual/8.tpl:306
 msgid ""
@@ -1871,7 +1871,7 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:318 app/templates/mobilemanual/8.tpl:568
 msgid "Blocking"
-msgstr ""
+msgstr "Blokowanie"
 
 #: app/templates/mobilemanual/8.tpl:320
 msgid ""
@@ -1935,7 +1935,7 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:338
 msgid "General"
-msgstr "Generał"
+msgstr "Ogólne"
 
 #: app/templates/mobilemanual/8.tpl:340
 msgid "Show after-call information"
@@ -2115,7 +2115,7 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:400 app/templates/mobilemanual/8.tpl:571
 msgid "Phone Number Details"
-msgstr "Szczegóły Numeru telefonu"
+msgstr "Szczegóły numeru telefonu"
 
 #: app/templates/mobilemanual/8.tpl:402
 msgid "This screen shows detailed information for selected phone number."
@@ -2166,7 +2166,7 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:419 app/templates/mobilemanual/8.tpl:572
 msgid "Phone Number Rating"
-msgstr ""
+msgstr "Ocena numeru telefonu"
 
 #: app/templates/mobilemanual/8.tpl:421
 msgid "Single or Group of numbers"
@@ -2210,7 +2210,7 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:437 app/templates/mobilemanual/8.tpl:573
 msgid "Rating Alert"
-msgstr ""
+msgstr "Powiadomienie o ocenie"
 
 #: app/templates/mobilemanual/8.tpl:439
 msgid ""
@@ -2262,7 +2262,7 @@ msgid ""
 msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:456
-msgid "strong>Online Manual</strong> opens the internet page with this manual."
+msgid "<strong>Online Manual</strong> opens the internet page with this manual."
 msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:457
@@ -2275,7 +2275,7 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:458
 msgid ""
-"strong>Terms of Use</strong> opens the internet page with terms of use of "
+"<strong>Terms of Use</strong> opens the internet page with terms of use of "
 "this product."
 msgstr ""
 
@@ -2295,7 +2295,7 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:467 app/templates/mobilemanual/8.tpl:576
 msgid "FAQ"
-msgstr "Najczęściej zadawane pytania"
+msgstr "Najczęściej zadawane pytania (FAQ)"
 
 #: app/templates/mobilemanual/8.tpl:469
 msgid "Q: How to block phone number?"
@@ -2407,7 +2407,7 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:520
 msgid "Thank you for your help."
-msgstr "Dziękuję za pomoc."
+msgstr "Dziękujęmy za pomoc."
 
 #: app/templates/mobilemanual/8.tpl:523
 msgid "Displaying of Phone Number User Reviews"
@@ -2479,7 +2479,7 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:540
 msgid "Updates to this policy"
-msgstr "Aktualizacje tej polityki"
+msgstr "Aktualizacje polityki prywatności"
 
 #: app/templates/mobilemanual/8.tpl:541
 msgid ""
@@ -2491,7 +2491,7 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:544
 msgid "Any questions?"
-msgstr "Jakiekolwiek pytania?"
+msgstr "Masz pytania?"
 
 #: app/templates/mobilemanual/8.tpl:546
 msgid ""
@@ -2505,11 +2505,11 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:560
 msgid "Features"
-msgstr "Funkcja"
+msgstr "Opis funkcjonalności"
 
 #: app/templates/mobilemanual/8.tpl:561
 msgid "How It Works"
-msgstr ""
+msgstr "Działanie aplikacji"
 
 #: app/templates/mobilemanual/8.tpl:577 app/templates/terms/default.tpl:17
 msgid "Terms of Use"
