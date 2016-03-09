@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: shouldianswer\n"
 "POT-Creation-Date: 2016-02-21 21:08+0100\n"
-"PO-Revision-Date: 2016-03-02 08:46+0100\n"
+"PO-Revision-Date: 2016-03-10 00:13+0100\n"
 "Last-Translator: \n"
 "Language-Team: topolar@gmail.com\n"
 "Language: pt_BR\n"
@@ -21,11 +21,11 @@ msgstr ""
 
 #: app/500.php:9
 msgid "Internal server error"
-msgstr "Erro do Servidor Interno"
+msgstr "Erro Interno do Servidor "
 
 #: app/500.php:10
 msgid "Oooops something is wrong"
-msgstr "Ooooops algo deu errado"
+msgstr "Ops, algo deu errado"
 
 #: app/500.php:11
 msgid "We are sorry but requested page have problems."
@@ -518,11 +518,11 @@ msgstr "Pesquisa"
 
 #: app/repositories/r_reviews.php:106
 msgid "Company"
-msgstr ""
+msgstr "Companhia"
 
 #: app/repositories/r_reviews.php:107
 msgid "Service"
-msgstr ""
+msgstr "Serviço"
 
 #: app/repositories/r_reviews.php:108
 msgid "Other"
@@ -705,67 +705,71 @@ msgstr "Login de administração"
 
 #: app/templates/compatibility/default.tpl:16
 msgid "Phone App Compatibility"
-msgstr ""
+msgstr "Compatibilidade da aplicação"
 
 #: app/templates/compatibility/default.tpl:117
 msgid "Phone Compatibility Report"
-msgstr ""
+msgstr "Relatório de compatibilidade da aplicação"
 
 #: app/templates/compatibility/default.tpl:120
 msgid "Phone API version"
-msgstr ""
+msgstr "Versão da API do telefone"
 
 #: app/templates/compatibility/default.tpl:121
 msgid "App Version"
-msgstr ""
+msgstr "Versão da aplicação"
 
 #: app/templates/compatibility/default.tpl:125
 msgid "Phone Manufacturer"
-msgstr ""
+msgstr "Fabricante do aparelho"
 
 #: app/templates/compatibility/default.tpl:126
 msgid "Phone Model"
-msgstr ""
+msgstr "Modelo do telefone"
 
 #: app/templates/compatibility/default.tpl:130
 msgid "Contacts Support"
-msgstr ""
+msgstr "Contatar o suporte"
 
 #: app/templates/compatibility/default.tpl:131
 msgid "Auto Disconnect Support"
-msgstr ""
+msgstr "Auto desconexão do suporte"
 
 #: app/templates/compatibility/default.tpl:136
 msgid "Are you experiencing any issue ?"
-msgstr ""
+msgstr "Você está tendo algum problema?"
 
 #: app/templates/compatibility/default.tpl:142
 msgid "Issue Type"
-msgstr ""
+msgstr "Tipo de problema"
 
 #: app/templates/compatibility/default.tpl:143
 msgid "I didn't find any issue yet"
-msgstr ""
+msgstr "Ainda não encontrei nenhum problema"
 
 #: app/templates/compatibility/default.tpl:145
 msgid "Hurray! We hope it stays like this ;-)"
-msgstr ""
+msgstr "Eba! Esperamos que continue assim! ;-)"
 
 #: app/templates/compatibility/default.tpl:147
 msgid "Alerts are not visible"
-msgstr ""
+msgstr "Os alertas não estão visíveis"
 
 #: app/templates/compatibility/default.tpl:149
 msgid ""
 "Firstly the alerts are visible only for calls from/to phone numbers which "
 "are not stored in your phone contacts."
 msgstr ""
+"Primeiramente os alertas estão visíveis apenas de ligações de/para números "
+"de telefone que não estejam armazenados nos contatos do seu telefone."
 
 #: app/templates/compatibility/default.tpl:150
 msgid ""
 "Secondly please be sure you did not stop our application by some memory "
 "optimizer or app killer."
 msgstr ""
+"Depois certifique-se de que você não parou a nossa aplicação através do uso "
+"de um otimizador de memória."
 
 #: app/templates/compatibility/default.tpl:151
 #: app/templates/compatibility/default.tpl:161
@@ -773,38 +777,49 @@ msgid ""
 "Enable \"Show icon in status bar\" in app Settings and keep app icon in "
 "status bar."
 msgstr ""
+"Habilide \"Exibir ícone na barra de status\" nas Configurações da aplicação "
+"e mantenha o ícone na barra e status."
 
 #: app/templates/compatibility/default.tpl:152
 #: app/templates/compatibility/default.tpl:162
 msgid ""
 "If you or some utility kills our service intentionally the icon disappears."
 msgstr ""
+"Se você ou alguma aplicação fechar o nosso serviço intencionalmente, o ícone "
+"irá desaparecer."
 
 #: app/templates/compatibility/default.tpl:153
 msgid ""
 "If our service is running and you don't see alerts for unknown numbers, "
 "please try to disable the use of overlay in app Settings."
 msgstr ""
+"Se nosso serviço estiver rodando e você não visualizar alertas para números "
+"desconhecidos, por favor tente desabilitar o uso de sobreposição nas "
+"Configurações da aplicação."
 
 #: app/templates/compatibility/default.tpl:155
 msgid "Unwanted calls are not blocked"
-msgstr ""
+msgstr "Chamadas não desejadas não estão bloqueadas"
 
 #: app/templates/compatibility/default.tpl:158
 msgid "Your phone should support this feature."
-msgstr ""
+msgstr "Seu telefone deve ter suporte a esta função."
 
 #: app/templates/compatibility/default.tpl:159
 msgid ""
 "Check the “Block Rules” settings in your and also be sure you don't have the "
 "calling number stored in phone contacts."
 msgstr ""
+"Verifique as configurações das \"Regras de Bloqueio\" no seu aplicativo e "
+"certifique-se de que não tem o número armazenado nos contatos do telefone."
 
 #: app/templates/compatibility/default.tpl:160
 msgid ""
 "Please be sure you did not stop our application by some memory optimizer or "
 "app killer."
 msgstr ""
+"Por favor, certifique-se de que não parou nossa aplicação através do uso de "
+"um otimizador de memória."
 
 #: app/templates/compatibility/default.tpl:163
 msgid ""
@@ -812,62 +827,71 @@ msgid ""
 "details: phone number which should be blocked and reason why you expect the "
 "blocking action."
 msgstr ""
+"Se o nosso serviço estiver rodando e não funcionar como esperado, por favor "
+"envie um e-mail com os detalhes: o número de telefone que deveria estar "
+"sendo bloqueado e o motivo pelo qual você esperava o bloqueio."
 
 #: app/templates/compatibility/default.tpl:165
 msgid ""
 "Your phone doesn't support this feature. If you have some useful "
 "information, please fill it to Issue description."
 msgstr ""
+"Seu telefone não oferece suporte a esta função. Se você tiver informações "
+"relevantes, por favor preencha na descrição do problema."
 
 #: app/templates/compatibility/default.tpl:168
 msgid "App cannot read contacts"
-msgstr ""
+msgstr "Aplicação não pode ler os contatos"
 
 #: app/templates/compatibility/default.tpl:171
 msgid "Please be sure you granted contacts access to our application."
 msgstr ""
+"Por favor, certifique-se de que permitiu o acesso aos contatos pela nossa "
+"aplicação."
 
 #: app/templates/compatibility/default.tpl:173
 msgid "Do you have idea why we don't have access to contacts?"
-msgstr ""
+msgstr "Você tem ideia do motivo pelo qual não podemos acessar os contatos?"
 
 #: app/templates/compatibility/default.tpl:174
 msgid "Are your contacts stored in some special way?"
-msgstr ""
+msgstr "Seus contatos estão armazenados de alguma forma especial?"
 
 #: app/templates/compatibility/default.tpl:175
 msgid "Are you using some app for contact protection?"
-msgstr ""
+msgstr "Você está usando alguma aplicação para proteção dos contatos?"
 
 #: app/templates/compatibility/default.tpl:176
 msgid "Let us know."
-msgstr ""
+msgstr "Nos informe."
 
 #: app/templates/compatibility/default.tpl:178
 msgid "Other issue"
-msgstr ""
+msgstr "Outro problema"
 
 #: app/templates/compatibility/default.tpl:180
 msgid ""
 "Please explain your issue to description. More information you send, higher "
 "chance to catch and fix the bug."
 msgstr ""
+"Por favor descreva seu problema na descrição. Quanto mais informações você "
+"enviar, maior a chance de localizarmos e corrigirmos o problema."
 
 #: app/templates/compatibility/default.tpl:184
 msgid "Please select the issue type"
-msgstr ""
+msgstr "Por favor, selecione o tipo de problema"
 
 #: app/templates/compatibility/default.tpl:191
 msgid "Issue description"
-msgstr ""
+msgstr "Descrição do problema"
 
 #: app/templates/compatibility/default.tpl:192
 msgid "Please explain in detail your issue. Thank you!"
-msgstr ""
+msgstr "Por favor, descreva detalhadamente o seu problema. Obrigado!"
 
 #: app/templates/compatibility/default.tpl:196
 msgid "Please fill the issue description"
-msgstr ""
+msgstr "Por favor, preencha a descrição do problema"
 
 #: app/templates/compatibility/default.tpl:202
 #: app/templates/phonenumber/defaultModerator.tpl:234
@@ -879,12 +903,12 @@ msgstr "E-mail"
 #: app/templates/compatibility/default.tpl:203
 #: app/templates/removalrequest/default.tpl:203
 msgid "Please enter your email"
-msgstr ""
+msgstr "Por favor, informe seu e-mail"
 
 #: app/templates/compatibility/default.tpl:206
 #: app/templates/removalrequest/default.tpl:206
 msgid "Please enter your valid email"
-msgstr ""
+msgstr "Por favor, informe um e-mail válido"
 
 #: app/templates/compatibility/default.tpl:212
 #: app/templates/removalrequest/default.tpl:237
@@ -892,6 +916,8 @@ msgid ""
 "If possible please communicate in English language to speed up the request "
 "processing."
 msgstr ""
+"Se possível, comunique-se em inglês para acelerar o processamento de sua "
+"solicitação."
 
 #: app/templates/compatibility/default.tpl:213
 #: app/templates/removalrequest/default.tpl:238
@@ -899,30 +925,32 @@ msgid ""
 "If you have problems with submitting this form, please contact us to email "
 "<strong>support@shouldianswer.net</strong>."
 msgstr ""
+"Se você tiver problemas ao enviar este formulário, por favor entre em "
+"contato por e-mail pelo <strong>support@shouldianswer.net</strong>."
 
 #: app/templates/compatibility/default.tpl:217
 msgid "Send Issue Report"
-msgstr ""
+msgstr "Enviar relatório de erro"
 
 #: app/templates/compatibility/submited.tpl:16
 msgid "Compatibility Issue Received"
-msgstr ""
+msgstr "Problema de compatibilidade resolvido"
 
 #: app/templates/compatibility/submited.tpl:23
 msgid "Phone Compatibility Issue"
-msgstr ""
+msgstr "Problema de compatibilidade do telefone"
 
 #: app/templates/compatibility/submited.tpl:25
 msgid "Your information has been succesfully send to our support team."
-msgstr ""
+msgstr "Sua informação foi enviada com sucesso para nossa equipe de suporte."
 
 #: app/templates/compatibility/submited.tpl:26
 msgid "We will try to analyze it as soon as possible."
-msgstr ""
+msgstr "Vamos analisar o mais rápido possível."
 
 #: app/templates/compatibility/submited.tpl:27
 msgid "Thank you for your help!"
-msgstr ""
+msgstr "Obrigado por sua ajuda!"
 
 #: app/templates/contact/default.tpl:16 app/templates/contact/default.tpl:21
 #: app/templates/mobilemanual/8.tpl:579
@@ -1108,7 +1136,7 @@ msgstr "neutra"
 
 #: app/templates/default/defaultNew.tpl:42
 msgid "<strong>Find</strong> who is calling you!"
-msgstr ""
+msgstr "<strong>Descubra</strong> quem está ligando pra você!"
 
 #: app/templates/default/defaultNew.tpl:44 app/templates/layout_default.tpl:22
 #: app/templates/layout_default_ww.tpl:22
@@ -1122,7 +1150,7 @@ msgstr ""
 
 #: app/templates/default/defaultNew.tpl:49
 msgid "How to <strong>block</strong> unwanted numbers?"
-msgstr ""
+msgstr "Como <strong>bloquear</strong> chamadas não solicitadas?"
 
 #: app/templates/default/defaultNew.tpl:151 app/templates/layout_default.tpl:84
 msgid "Dialing Codes"
@@ -1131,6 +1159,8 @@ msgstr "Códigos de Chamada"
 #: app/templates/default/default_ww.tpl:39
 msgid "Our service is available in many countries with country specific domain"
 msgstr ""
+"Nosso serviço está disponível em muitos países com domínio específico por "
+"país"
 
 #: app/templates/default/default_ww.tpl:118 app/templates/net/default.tpl:57
 msgid "How to block unwanted calls?"
@@ -1223,7 +1253,7 @@ msgstr "termos"
 #: app/templates/layout.tpl:272 app/templates/layoutAmp.tpl:240
 #: app/templates/layoutNew.tpl:262
 msgid "manual"
-msgstr ""
+msgstr "manual"
 
 #: app/templates/layout.tpl:273 app/templates/layoutAmp.tpl:241
 #: app/templates/layoutNew.tpl:263
@@ -1242,7 +1272,7 @@ msgstr "shouldianswer.net"
 
 #: app/templates/layout_default.tpl:27 app/templates/layout_defaultNew.tpl:20
 msgid "ShouldIAnswer Logo"
-msgstr ""
+msgstr "Logo do Devo Atender?"
 
 #: app/templates/layout_default.tpl:40
 msgid "For Your <strong>Phone</strong>"
@@ -1415,11 +1445,11 @@ msgstr "Manual do usuário"
 
 #: app/templates/mobilemanual/8.tpl:144
 msgid "Should I Answer Manual"
-msgstr ""
+msgstr "Manual do \"Devo Atender?\""
 
 #: app/templates/mobilemanual/8.tpl:152 app/templates/mobilemanual/8.tpl:557
 msgid "Introduction"
-msgstr ""
+msgstr "Intrudução"
 
 #: app/templates/mobilemanual/8.tpl:154
 msgid ""
@@ -1429,14 +1459,21 @@ msgid ""
 "or expensive outgoing calls like call to premium number or call to a foreign "
 "country."
 msgstr ""
+"<b>Devo Atender?</b> (SIA) é uma aplicação de segurança com base em "
+"comunidade para telefones móveis com o sistema operacional Android "
+"desenvolvido para proteger de ligações não solicitadas, todos os tipos de "
+"telemarketing não desejado e chamadas realizadas caras, como ligações para "
+"números Premium ou para números estrangeiros."
 
 #: app/templates/mobilemanual/8.tpl:155
 msgid "This document describes features and user interface of version 8.x."
 msgstr ""
+"Este documento descreve as características e a interface de usuário da "
+"versão 8.x."
 
 #: app/templates/mobilemanual/8.tpl:159
 msgid "It is developed by company Mister Group s.r.o."
-msgstr ""
+msgstr "Ela é desenvolvida pela companhia Mister Group s.r.o."
 
 #: app/templates/mobilemanual/8.tpl:160
 msgid ""
@@ -1444,10 +1481,13 @@ msgid ""
 "feel free to contact our support via email <a href=\"mailto:"
 "support@shouldianswer.net\">support@shouldianswer.net</a>."
 msgstr ""
+"Se você tiver dúvidas quanto à instalação, características ou a companhia, "
+"sinta-se livre para contatar nosso suporte via e-mail em <a href=\"mailto:"
+"support@shouldianswer.net\">support@shouldianswer.net</a>."
 
 #: app/templates/mobilemanual/8.tpl:165 app/templates/mobilemanual/8.tpl:559
 msgid "Installation"
-msgstr ""
+msgstr "Instalação"
 
 #: app/templates/mobilemanual/8.tpl:167
 msgid ""
@@ -1456,10 +1496,15 @@ msgid ""
 "store/apps/details?id=org.mistergroup.muzutozvednout\">Google Play web page</"
 "a>."
 msgstr ""
+"O método preferencial de instalação é através do Google Play Store, que você "
+"pode encontrar diretamente em seu dispositivo ou através da <a href="
+"\"https://play.google.com/store/apps/details?id=org.mistergroup."
+"muzutozvednout\">página web do Google Play</a>."
 
 #: app/templates/mobilemanual/8.tpl:168
 msgid "There is no other official distribution channel of installer APK."
 msgstr ""
+"Não há nenhum outro canal de distribuição oficial do APK de instalação."
 
 #: app/templates/mobilemanual/8.tpl:169
 msgid ""
@@ -1467,104 +1512,132 @@ msgid ""
 "separately, feel free to contact us via our email <a href=\"mailto:"
 "support@shouldianswer.net\">support@shouldianswer.net</a>."
 msgstr ""
+"Se você não puder usar o Google PLay para a instalação e precisar do arquivo "
+"APF separadamente, contate-nos através de nosso email em <a href=\"mailto:"
+"support@shouldianswer.net\">support@shouldianswer.net</a>."
 
 #: app/templates/mobilemanual/8.tpl:174
 msgid "Main Features"
-msgstr ""
+msgstr "Características Principais"
 
 #: app/templates/mobilemanual/8.tpl:176
 msgid "Easy check of phone numbers ratings in your Phone Call History."
 msgstr ""
+"Verificação fácil de avaliações de números telefônicos no histórico de "
+"ligações do seu telefone."
 
 #: app/templates/mobilemanual/8.tpl:177
 msgid ""
 "Displaying ratings of incoming/outgoing call via special notification "
 "(Alert)."
 msgstr ""
+"Mostrando avaliações de chamadas recebidas e realizadas através de uma "
+"notificação especial (Alerta)."
 
 #: app/templates/mobilemanual/8.tpl:178
 msgid "Displaying after-call information with possibility to write own rating."
 msgstr ""
+"Mostrando informações pós chamada com a possibilidade de escrever a própria "
+"avaliação."
 
 #: app/templates/mobilemanual/8.tpl:179
 msgid "Flexible rating system."
-msgstr ""
+msgstr "Sistema de avaliações flexível."
 
 #: app/templates/mobilemanual/8.tpl:180
 msgid "Fully customizable alerts."
-msgstr ""
+msgstr "Alertas completamente customizáveis."
 
 #: app/templates/mobilemanual/8.tpl:181
 msgid "Optional automatic blocking of unwanted incoming/outgoing calls."
 msgstr ""
+"Bloqueio automático opcional de chamadas recebidas e realizadas não "
+"solicitadas."
 
 #: app/templates/mobilemanual/8.tpl:182
 msgid "Daily updated Community Database."
-msgstr ""
+msgstr "Banco de dados da comunidade atualizado diariamente."
 
 #: app/templates/mobilemanual/8.tpl:188
 msgid "How it works"
-msgstr ""
+msgstr "Como funciona"
 
 #: app/templates/mobilemanual/8.tpl:190
 msgid ""
 "When some number calls, application shows phone number rating via "
 "<strong>security rating notifications</strong> (Alerts)."
 msgstr ""
+"Quando um número liga, a aplicação mostra a avaliação do número telefônico "
+"via <strong>notificações de avaliação de segurança</strong> (Alertas)."
 
 #: app/templates/mobilemanual/8.tpl:191
 msgid ""
 "Each rating is based on reviews in Community Database, your Phone Contacts "
 "and your own ratings."
 msgstr ""
+"Cada avaliação é baseada nas análises na Base de Dados da Comunidade, seus "
+"Contatos Telefônicos e em suas próprias avaliações."
 
 #: app/templates/mobilemanual/8.tpl:192
 msgid ""
 "All above is combined into single <strong>POSITIVE, NEUTRAL, NEGATIVE or "
 "UNKNOWN</strong> rating."
 msgstr ""
+"Tudo isso é combinado em uma única avaliação <strong>POSITIVA, NEUTRA, "
+"NEGATIVA or DESCONHECIDA</strong>."
 
 #: app/templates/mobilemanual/8.tpl:193
 msgid ""
 "How all the information sources will be combined is fully customizable in "
 "the <strong>RATINGS</strong> tab."
 msgstr ""
+"A forma pela qual as fontes de informação serão combinadas é completamente "
+"customizavel na aba de <strong>AVALIAÇÕES</strong>."
 
 #: app/templates/mobilemanual/8.tpl:194
 msgid ""
 "How and what alerts will be displayed can be configured in the "
 "<strong>ALERTS</strong> tab."
 msgstr ""
+"Quais alertas serão mostrados pode ser configurado na aba <strong>ALERTAS</"
+"strong>."
 
 #: app/templates/mobilemanual/8.tpl:195
 msgid ""
 "How the incoming/outgoing calls will be maintained and blocked can be "
 "configured in the <strong>BLOCKING</strong> tab."
 msgstr ""
+"Como as chamadas recebidas e realizadas serão mantidas e bloqueadas pode ser "
+"configurado na aba <strong>BLOQUEIO</strong>."
 
 #: app/templates/mobilemanual/8.tpl:200 app/templates/mobilemanual/8.tpl:562
 msgid "User Interface"
-msgstr ""
+msgstr "Interface de usuário"
 
 #: app/templates/mobilemanual/8.tpl:205 app/templates/mobilemanual/8.tpl:564
 msgid "Summary"
-msgstr ""
+msgstr "Resumo"
 
 #: app/templates/mobilemanual/8.tpl:207
 msgid ""
 "This section contains the summary of basic protection statistics and "
 "statuses of application components."
 msgstr ""
+"Esta seção contem o resumo das estatísticas básicas de proteção e status dos "
+"componentes da aplicação."
 
 #: app/templates/mobilemanual/8.tpl:208
 msgid ""
 "Protection statistics contains summary information of how many calls was "
 "checked and blocked, with figures for actual day/overall."
 msgstr ""
+"As estatísticas de proteção contem informações resumidas de quantas chamadas "
+"foram verificadas e bloqueadas, com números para o dia atual e para o geral."
 
 #: app/templates/mobilemanual/8.tpl:209
 msgid "Components statuses provides a short list of major components."
 msgstr ""
+"O status cos componentes tem uma lista curta dos componentes principais."
 
 #: app/templates/mobilemanual/8.tpl:210
 msgid ""
@@ -1572,33 +1645,44 @@ msgid ""
 "situation a button for fixing the issue below the components list will be "
 "provided."
 msgstr ""
+"Componentes com algum problema ficam marcados por um ponto de exclamação "
+"vermelho. Neste caso, um botão para solucionar o problema será apresentado "
+"abaixo da lista de componentes."
 
 #: app/templates/mobilemanual/8.tpl:214 app/templates/mobilemanual/8.tpl:565
 msgid "Logs"
-msgstr ""
+msgstr "Registros"
 
 #: app/templates/mobilemanual/8.tpl:216
 msgid "The Logs screen provides you access to 3 types of logs:"
-msgstr ""
+msgstr "A tela de registros fornece acesso a três tipos de registros:"
 
 #: app/templates/mobilemanual/8.tpl:218
 msgid ""
 "Phone Logs - contains the Phone Call History, is read from phone system log."
 msgstr ""
+"Registros de telefonia: contem o histórico de chamadas telefônicas, que é "
+"lido através do registro do sistema telefônico."
 
 #: app/templates/mobilemanual/8.tpl:219
 msgid "Checked Numbers - contains a list of the latest checked phone numbers."
 msgstr ""
+"Números verificados: contem uma lista dos últimos números telefônicos "
+"verificados."
 
 #: app/templates/mobilemanual/8.tpl:220
 msgid "Blocked Numbers - contains a list of the latest blocked numbers."
 msgstr ""
+"Números bloqueados: contem a lista dos últimos números telefônicos "
+"bloqueados."
 
 #: app/templates/mobilemanual/8.tpl:223
 msgid ""
 "Icon on the left side indicates the Phone Number Rating with following "
 "meaning:"
 msgstr ""
+"O ícone do lado esquerdo indica a avaliação do número telefônico, com os "
+"seguintes significados:"
 
 #: app/templates/mobilemanual/8.tpl:228
 #: app/templates/phonenumber/defaultAmp.tpl:422
@@ -1632,40 +1716,41 @@ msgstr "nota positiva"
 
 #: app/templates/mobilemanual/8.tpl:231
 msgid "unknown rating"
-msgstr ""
+msgstr "nota desconhecida"
 
 #: app/templates/mobilemanual/8.tpl:236
 msgid "Next icon informs you about call type and taken action:"
 msgstr ""
+"O próximo ícone informa sobre o tipo de chamada e sobre a ação realizada:"
 
 #: app/templates/mobilemanual/8.tpl:241
 msgid "Successful Incoming Call"
-msgstr ""
+msgstr "Chamada recebida com sucesso"
 
 #: app/templates/mobilemanual/8.tpl:242
 msgid "Missed Incoming Call"
-msgstr ""
+msgstr "Chamada recebida perdida"
 
 #: app/templates/mobilemanual/8.tpl:243
 msgid "Blocked Incoming Call"
-msgstr ""
+msgstr "Chamada recebdida bloqueada"
 
 #: app/templates/mobilemanual/8.tpl:244
 msgid "Successful Outgoing Call"
-msgstr ""
+msgstr "Chamada realizada com sucesso"
 
 #: app/templates/mobilemanual/8.tpl:245
 msgid "Missed Outgoing Call"
-msgstr ""
+msgstr "Chamada realizada perdida"
 
 #: app/templates/mobilemanual/8.tpl:246
 msgid "Blocked Outgoing Call"
-msgstr ""
+msgstr "Chamara realizada bloqueada"
 
 #: app/templates/mobilemanual/8.tpl:251 app/templates/mobilemanual/8.tpl:293
 #: app/templates/mobilemanual/8.tpl:408
 msgid "Available Actions:"
-msgstr ""
+msgstr "Ações disponíveis"
 
 #: app/templates/mobilemanual/8.tpl:253
 msgid ""
@@ -1673,6 +1758,9 @@ msgid ""
 "Details screen with detailed information and further actions: Call, Block, "
 "Rate and download reviews for the number."
 msgstr ""
+"<strong>Clicar no número telefônico</strong>: esta ação abre a tela de "
+"detalhes do número telefônico com informações detalhadas e ações "
+"complementares: Chamar, Bloquear, Avaliar e baixar análises do número."
 
 #: app/templates/mobilemanual/8.tpl:254
 msgid ""
@@ -1681,6 +1769,11 @@ msgid ""
 "Number, Copy number to clipboard, and Web Search which opens our web page "
 "with the respective number."
 msgstr ""
+"<strong>Manter pressionado o número telefônico</strong>: se você mantiver o "
+"dedo pressionado no número por algum tempo, o menu será exibido com as "
+"seguintes ações: mostrar detalhes, char número, copiar para a área de "
+"transferência e Buscar na web, que abre nossa página na internet com o "
+"respectivo número."
 
 #: app/templates/mobilemanual/8.tpl:255
 msgid ""
@@ -1688,24 +1781,30 @@ msgid ""
 "the system log your phone log is not touched, the action will affect only "
 "the application view of the log."
 msgstr ""
+"<strong>Clicar no botão de lixeira</strong>: limpa o registro selecionado - "
+"no caso do registro do sistema o registro do telefone não é alterado. A ação "
+"afeta apenas a visão do aplicativo do registro."
 
 #: app/templates/mobilemanual/8.tpl:262 app/templates/mobilemanual/8.tpl:566
 msgid "Ratings"
-msgstr ""
+msgstr "Avaliações"
 
 #: app/templates/mobilemanual/8.tpl:264
 msgid "In this section you can:"
-msgstr ""
+msgstr "Nesta seção você pode:"
 
 #: app/templates/mobilemanual/8.tpl:266
 msgid ""
 "configure how to combine the ratings from Community Database, your Phone "
 "Contacts and your own ratings into one final Phone Number Rating."
 msgstr ""
+"configurar como combinar as avaliações da Base de Dados da Comunidade, seus "
+"contatos telefônicos e suas próprias avaliações em uma nota para um número "
+"telefônico."
 
 #: app/templates/mobilemanual/8.tpl:267
 msgid "create and manage your ratings."
-msgstr ""
+msgstr "criar e gerenciar suas avaliações."
 
 #: app/templates/mobilemanual/8.tpl:271
 msgid ""
@@ -1714,16 +1813,23 @@ msgid ""
 "always applied in the top-to-bottom order, e.g. the active rule closer to "
 "the bottom of the list will be used."
 msgstr ""
+"Aqui você pode configurar como a aplicação irá julgar todas as ligações. "
+"Mais regras podem ser ativadas ao mesmo tempo. A combinação das regras é "
+"sempre aplicada na ordem de cima para baixo. Por exemplo: a regra ativa mais "
+"próxima ao fim da lista será usada."
 
 #: app/templates/mobilemanual/8.tpl:274
 msgid "There are 3 general rating rules:"
-msgstr ""
+msgstr "Há três regras gerais para as avaliações:"
 
 #: app/templates/mobilemanual/8.tpl:276
 msgid ""
 "<strong>Use Community Database Rating</strong> : if this one is activated, "
 "it sets the initial number rating according to our Community Database."
 msgstr ""
+"<strong>Usar avaliação da Base de Dados da Comunidade</strong> : se esta for "
+"ativada, ela configura a nota inicial do número de acordo com nossa Base de "
+"Dados da Comunidade."
 
 #: app/templates/mobilemanual/8.tpl:277
 msgid ""
@@ -1732,6 +1838,10 @@ msgid ""
 "Contacts (if they do not have your other rating - in such case your rating "
 "rules)."
 msgstr ""
+"<strong>Ser positivo para contatos sem sua avaliação</strong> : se esta for "
+"ativada, ela configura uma nota positiva para todos os números armazenados "
+"nos contatos do seu telefone (se eles não tiverem uma outra nota -  neste "
+"caso a sua regra de avaliação é válida)."
 
 #: app/templates/mobilemanual/8.tpl:278
 msgid ""
@@ -1741,26 +1851,37 @@ msgid ""
 "database rating exists (if there is a yours and/or community database rating "
 "for some of those numbers, then the rating is used)."
 msgstr ""
+"<strong>Ser positivo para contatos seu avaliação sua e da comunidade</"
+"strong> : se esta for ativada, ela configura uma nota positiva para os "
+"números armazenados nos contatos do seu telefone quando não houver uma nota "
+"existente sua e/ou da Base de Dados da Comunidade (caso exista uma nota sua "
+"e/ou da base de dados para alguns destes números, a avaliação existente será "
+"usada)."
 
 #: app/templates/mobilemanual/8.tpl:283
 msgid "The last two rules are mutually exclusive, just one can be activated."
 msgstr ""
+"As duas últimas regras são mutualmente exclusivas, só uma pode ser ativada."
 
 #: app/templates/mobilemanual/8.tpl:287
 msgid "At the bottom of this screen the list of Your Ratings follows."
-msgstr ""
+msgstr "No final desta tela está a lista das suas avaliações."
 
 #: app/templates/mobilemanual/8.tpl:288
 msgid ""
 "Remember that these ratings at the bottom of the screen will rule all the "
 "above rules."
 msgstr ""
+"Lembre-se que estas avaliações no final da lista vão se sobrepor a todas as "
+"outras regras."
 
 #: app/templates/mobilemanual/8.tpl:289
 msgid ""
 "Your rating can be defined for single or multiple phone numbers by using a "
 "mask."
 msgstr ""
+"Sua avaliação pode ser definida para um ou vários números de telefone usando "
+"uma máscara."
 
 #: app/templates/mobilemanual/8.tpl:295
 msgid ""
@@ -1768,12 +1889,18 @@ msgid ""
 "the rating rules by phone number. Useful if you search for some specific "
 "number rule. Just tick on the line and fill any number or a part of it."
 msgstr ""
+"<strong>Filtro de avaliação</strong> : (no topo da tela) ajuda a filtras as "
+"regras de avaliação por número telefônico. Isto pode ser útil se você "
+"estiver procurando por uma regra específica. Basta clicar na linha e "
+"preencher com um número ou parte dele."
 
 #: app/templates/mobilemanual/8.tpl:296
 msgid ""
 "<strong>General Rating Rules Click</strong> : if you click on any of the 3 "
 "lines this action switches the rule on or off."
 msgstr ""
+"<strong>Clique para regras de avaliação gerais</strong> : se se você clicar "
+"em qualquer uma das três linhas, esta ação liga ou desliga a regra."
 
 #: app/templates/mobilemanual/8.tpl:297
 msgid ""
@@ -1781,42 +1908,57 @@ msgid ""
 "open a screen for edition of the respective rating. There you can set the "
 "rating attributes, delete the rating, save it or cancel the changes."
 msgstr ""
+"<strong>Clique da avaliação do usuário</strong> : ao clicar em qualquer uma "
+"de suas avaliações você irá abrir uma tela para edição da respectiva nota. "
+"Lá você poderá definir os atributos, apagar a nota, salvar ou cancelar as "
+"alterações."
 
 #: app/templates/mobilemanual/8.tpl:298
 msgid ""
 "<strong>Plus Button Click</strong> : this action opens the screen for "
 "creation of new rating, see below the <strong>Phone Number Rating</strong>."
 msgstr ""
+"<strong>Clique no botão de \"Mais\"</strong> : esta ação abre a tela para "
+"criação de nova avaliação, veja abaixo a <strong>Avaliação de número "
+"telefônico</strong>."
 
 #: app/templates/mobilemanual/8.tpl:304 app/templates/mobilemanual/8.tpl:567
 msgid "Alerts"
-msgstr ""
+msgstr "Alertas"
 
 #: app/templates/mobilemanual/8.tpl:306
 msgid ""
 "Alert is security rating notification displayed during calling phase (can be "
 "done for both INCOMING or OUTGOING calls)."
 msgstr ""
+"Um alerta é uma notificação de avaliação de segurança mostrada durante a "
+"fase de chamada (pode ser feito tanto para chamadas recebidas quanto para as "
+"realizadas)."
 
 #: app/templates/mobilemanual/8.tpl:307
 msgid "In this screen you can configure the Alerts displaying."
-msgstr ""
+msgstr "Nesta tela você pode configurar a exibição dos Alertas."
 
 #: app/templates/mobilemanual/8.tpl:308
 msgid "This setting here is done based on the phone number rating."
 msgstr ""
+"Esta configuração aqui é feita baseando-se na nota do número telefônico."
 
 #: app/templates/mobilemanual/8.tpl:309
 msgid ""
 "For each rating you can check if you want to display the alert also for "
 "numbers from your Contacts or exclude your phone Contacts."
 msgstr ""
+"Para cada nota você pode verificar se quer exibir o alerta para números nos "
+"seus contatos ou excluir os números nos seus contatos."
 
 #: app/templates/mobilemanual/8.tpl:312
 msgid ""
 "In the <strong>Advanced</strong> section at the bottom of the screen a "
 "system overlay can be enabled."
 msgstr ""
+"Na seção In the <strong>Avançado</strong> no final da tela pode ser ativada "
+"a sobreposição do sistema."
 
 #: app/templates/mobilemanual/8.tpl:313
 msgid ""
@@ -1824,16 +1966,21 @@ msgid ""
 "disable the usage of system overlays - this will cause the displaying of "
 "alert in another fashion which can work better on your device."
 msgstr ""
+"Se você estiver tendo problemas com a exibição de alertas, você pode tentar "
+"desabilitar o uso de sobreposições do sistema. Isto vai causar a exibição "
+"dos alertas de outra forma que pode funcionar melhor em seu dispositivo."
 
 #: app/templates/mobilemanual/8.tpl:318 app/templates/mobilemanual/8.tpl:568
 msgid "Blocking"
-msgstr ""
+msgstr "Bloqueio"
 
 #: app/templates/mobilemanual/8.tpl:320
 msgid ""
 "In this section you can configure which incoming/outgoing calls should be "
 "blocked."
 msgstr ""
+"Nesta seção você pode configurar como as ligações recebidas e realizadas "
+"devem ser bloqueadas."
 
 #: app/templates/mobilemanual/8.tpl:321
 msgid ""
@@ -1841,6 +1988,9 @@ msgid ""
 "the number, now we will use it for the blocking functionality of the "
 "application."
 msgstr ""
+"Lembre-se: não tela de <strong>Avaliações</strong> você configurou como "
+"avaliar o número. Agora nós vamos usá-lo para a função de bloqueio da "
+"aplicação."
 
 #: app/templates/mobilemanual/8.tpl:323
 msgid ""
@@ -1848,6 +1998,9 @@ msgid ""
 "all numbers. Each selection can be provided except numbers stored in your "
 "Contacts."
 msgstr ""
+"Para chamadas recebidas, você pode bloquear números com nota negativa, "
+"números ocultos e todos os números. Cada seleção pode ser disponibilizada, "
+"exceto para números armazenados nos seus contatos."
 
 #: app/templates/mobilemanual/8.tpl:324
 msgid ""
@@ -1855,6 +2008,10 @@ msgid ""
 "foreign numbers and all numbers. Again each selection can be provided except "
 "numbers stored in your Contacts."
 msgstr ""
+"Para chamadas realizadas, você pode bloquear números com nota negativa, "
+"números Premium, números estrangeiros e todos os números. Novamente, cada "
+"seleção pode ser disponibilizada, exceto para números armazenados nos seus "
+"contatos."
 
 #: app/templates/mobilemanual/8.tpl:325
 msgid ""
@@ -1862,6 +2019,9 @@ msgid ""
 "numbers. For this functionality, a compatible SMS manager must be installed, "
 "please read the help screen displayed if you check this item."
 msgstr ""
+"Para SMS e MMS recebidos, você pode bloquear SMS e MMS de números com nota "
+"negativa. Para esta funcionalidade, um gestos de SMS compatível deve ser "
+"instalado. Por favor, leia a tela de ajuda exibida caso selecione este item."
 
 #: app/templates/mobilemanual/8.tpl:326
 msgid ""
@@ -1870,6 +2030,11 @@ msgid ""
 "Alerts give you the information about call in progress, where Notification "
 "only displays info about the action taken by the application."
 msgstr ""
+"Você também pode selecionar se quer ser notificado quando ocorre um "
+"bloqueio. A notificação é uma função diferente da exibição de Alertas - os "
+"Alertas lhe dão informações sobre chamadas em andamento, enquanto que as "
+"notificações só exibem informações sobre as chamadas interceptadas pela "
+"aplicação."
 
 #: app/templates/mobilemanual/8.tpl:327
 msgid ""
@@ -1880,32 +2045,40 @@ msgid ""
 "use this feature only if you are sure you will not be charged for picking up "
 "the incoming calls."
 msgstr ""
+"Opcionalmente, você pode tentar usar o <strong>método de Atender e Desligar</"
+"strong>para proteger seu correio de voz. Quando selecionar esta função, a "
+"aplicação vai bloquear as chamadas recebidas atendendo a ligação e "
+"desligando imediatamente. A aplicação não irá atender chamadas caso o "
+"telefone esteja em roaming. Por favor, só utilize esta função se estiver "
+"certo de que não será tarifado por atender as chamadas recebidas. "
 
 #: app/templates/mobilemanual/8.tpl:335 app/templates/mobilemanual/8.tpl:569
 msgid "Settings"
-msgstr ""
+msgstr "Configurações"
 
 #: app/templates/mobilemanual/8.tpl:336
 msgid "This section contains main application settings."
-msgstr ""
+msgstr "Esta seção contem as configurações principais da aplicação."
 
 #: app/templates/mobilemanual/8.tpl:338
 msgid "General"
-msgstr ""
+msgstr "Geral"
 
 #: app/templates/mobilemanual/8.tpl:340
 msgid "Show after-call information"
-msgstr ""
+msgstr "Mostrar informações após a chamada"
 
 #: app/templates/mobilemanual/8.tpl:342
 msgid ""
 "Here you can enable/disable displaying of phone number details after "
 "finishing the call."
 msgstr ""
+"Aqui você pode habilitar ou desabilitar a exibição de detalhes do número "
+"telefônico após finalizar a chamada."
 
 #: app/templates/mobilemanual/8.tpl:345
 msgid "Send anonymous stats about incoming calls"
-msgstr ""
+msgstr "Mandar informações anônimas sobre chamadas recebidas"
 
 #: app/templates/mobilemanual/8.tpl:347
 msgid ""
@@ -1914,16 +2087,24 @@ msgid ""
 "this means that only the number is send, without any further info, no "
 "personal data are never transferred from your mobile phone."
 msgstr ""
+"Se a opção \"Mandar informações anônimas sobre chamadas recebidas\" for "
+"selecionada, o usuário nos dá a possibilidade de enviar os números "
+"DESCONHECIDOS recebidos para o servidos. Isto significa que apenas o número "
+"é enviado, sem nenhuma informação adicional. Nenhum dado pessoal jamais é "
+"transferido do seu telefone."
 
 #: app/templates/mobilemanual/8.tpl:348
 msgid ""
 "Privacy is important for us, so we don't sends stats about numbers stored in "
 "your Phone Contacts!"
 msgstr ""
+"A privacidade é importante para nós, então não enviamos informações sobre "
+"números armazenados nos contatos do seu telefone!"
 
 #: app/templates/mobilemanual/8.tpl:349
 msgid "Only unknown numbers are sent if this option is checked."
 msgstr ""
+"Somente números desconhecidos são enviados quando esta opção está ativa."
 
 #: app/templates/mobilemanual/8.tpl:350
 msgid ""
@@ -1932,10 +2113,14 @@ msgid ""
 "number calls multiple people, we dig some info for it and create review with "
 "rating, which will be stored afterwards in your local database."
 msgstr ""
+"Isto nos permite coletar números desconhecidos de fontes diferentes - depois "
+"nossa equipe verifica e se o mesmo número desconhecido ligar para várias "
+"pessoas, nós buscamos informações sobre ele e criamos análise para esta "
+"avaliação, que será armazenada posteriormente na sua base de dados local."
 
 #: app/templates/mobilemanual/8.tpl:353
 msgid "Download reviews automatically"
-msgstr ""
+msgstr "Baixar análises automaticamente"
 
 #: app/templates/mobilemanual/8.tpl:355
 msgid ""
@@ -1944,6 +2129,10 @@ msgid ""
 "displayed during the phone ringing phase - otherwise only global rating of "
 "the number is shown."
 msgstr ""
+"Se a opção \"Baixar análises automaticamente\" for selecionada e seu "
+"aparelho estiver conectado à internet, as avaliações de usuários para o "
+"número que está ligando serão exibidas durante o toque da chamada - de outra "
+"forma, apenas a avaliação global do número será mostrada."
 
 #: app/templates/mobilemanual/8.tpl:356
 msgid ""
@@ -1953,10 +2142,15 @@ msgid ""
 "it, or he/she is satisfied just with the global rating displayed "
 "automatically for each incoming call)."
 msgstr ""
+"Se este item não for selecionado mas o telefone estiver conectado à "
+"internet, as análises dos usuários podem ser baixadas manualmente durante o "
+"toque da chamada (o usuário pode decidir se quer ler as informações do "
+"número antes de atender, ou se está satisfeito apenas com a avaliação global "
+"exibida automaticamente para cada chamada recebida)."
 
 #: app/templates/mobilemanual/8.tpl:359
 msgid "Service as Foreground Process"
-msgstr ""
+msgstr "Serviço como um processo principal"
 
 #: app/templates/mobilemanual/8.tpl:361
 msgid ""
@@ -1965,16 +2159,22 @@ msgid ""
 "will permanently see the app icon in status bar and notification about "
 "enabled protection."
 msgstr ""
+"Ativar esta opção acelera o bloqueio de chamadas não solicitadas - a "
+"aplicação ainda estará rodando na memória ativa. Como um efeito colateral, "
+"você verá permanentemente o ícone do aplicativo na barra de status e a "
+"notificação sobre a proteção ativada."
 
 #: app/templates/mobilemanual/8.tpl:362
 msgid ""
 "As a benefit on most devices the speed of blocking should be much faster "
 "than phone ringing phase."
 msgstr ""
+"Como um benefício, na maioria dos dispositivos a velocidade de bloqueio deve "
+"ser muito maior durante a fase de toque da chamada."
 
 #: app/templates/mobilemanual/8.tpl:365
 msgid "Statistics Notification"
-msgstr ""
+msgstr "Notificação de estatísticas"
 
 #: app/templates/mobilemanual/8.tpl:367
 msgid ""
@@ -1982,40 +2182,50 @@ msgid ""
 "will show system statistics as a notification after 2 weeks with a list of "
 "performed actions."
 msgstr ""
+"Se a \"Notificação de estatísticas\" for selecionada, o aplicativo irá "
+"exibir estatísticas do sistema como uma notificação após duas semanas com "
+"uma lista das ações realizadas."
 
 #: app/templates/mobilemanual/8.tpl:368
 msgid ""
 "This way user can easily check the overall application functionality and "
 "efficiency."
 msgstr ""
+"Desta forma o usuário pode visualizar facilmente a funcionalidade e "
+"eficiência geral da aplicação."
 
 #: app/templates/mobilemanual/8.tpl:371
 msgid "Use Light Theme"
-msgstr ""
+msgstr "Usar o tema claro."
 
 #: app/templates/mobilemanual/8.tpl:373
 msgid ""
 "There are two layout themes - light and dark. This item serves as a switch "
 "for them."
 msgstr ""
+"Há dois temas para o layout: claro e escuro. Este item serve para alternar "
+"entre eles."
 
 #: app/templates/mobilemanual/8.tpl:374
 msgid ""
 "Check it on your device which theme suits you better and which is more "
 "readable (e.g. on a direct sun)."
 msgstr ""
+"Verifique em seu dispositivo qual tema se adequa melhor a você e qual é o "
+"que permite a melhor legibilidade (ex.: quando sob luz solar direta)."
 
 #: app/templates/mobilemanual/8.tpl:378
 msgid "System Permissions"
-msgstr ""
+msgstr "Permissões do sistema"
 
 #: app/templates/mobilemanual/8.tpl:380
 msgid "System permissions are displayed only on Android 6 devices."
 msgstr ""
+"As permissões do sistema só são exibidas em dispositivos com Android 6."
 
 #: app/templates/mobilemanual/8.tpl:383
 msgid "Read Call Information"
-msgstr ""
+msgstr "Ler informações da chamada"
 
 #: app/templates/mobilemanual/8.tpl:385
 msgid ""
@@ -2023,34 +2233,43 @@ msgid ""
 "against our database. Without this permission we can't find out who is "
 "calling you."
 msgstr ""
+"Quando alguém liga para você, a aplicação verifica o número telefônico em "
+"nossa base de dados. Sem esta permissão não temos como descobrir quem está "
+"ligando."
 
 #: app/templates/mobilemanual/8.tpl:387
 msgid "Read Contacts"
-msgstr ""
+msgstr "Ler contatos"
 
 #: app/templates/mobilemanual/8.tpl:389
 msgid ""
 "As written above, we take your stored contacts as your whitelist. Without "
 "this permission we don't know what phone numbers you consider to be safe."
 msgstr ""
+"Como descrito acima, consideramos seus contatos como uma lista de números "
+"autorizados. Sem esta permissão não podemos saber quais números telefônicos "
+"você considera seguros."
 
 #: app/templates/mobilemanual/8.tpl:391
 msgid "Allow System Overlays"
-msgstr ""
+msgstr "Permitir sobreposição do sistema"
 
 #: app/templates/mobilemanual/8.tpl:393
 msgid ""
 "The application shows alerts in foreground of incoming call screen. Without "
 "this permission we can't make the alerts fully interactive."
 msgstr ""
+"A aplicação mostra alertas em destaque sobre as ligações recebidas. Sem esta "
+"permissão não podemos tornar os alertas interativos."
 
 #: app/templates/mobilemanual/8.tpl:400 app/templates/mobilemanual/8.tpl:571
 msgid "Phone Number Details"
-msgstr ""
+msgstr "Detalhes do número telefônico"
 
 #: app/templates/mobilemanual/8.tpl:402
 msgid "This screen shows detailed information for selected phone number."
 msgstr ""
+"Esta tela mostra informações detalhadas para o número telefônico selecionado."
 
 #: app/templates/mobilemanual/8.tpl:403
 msgid ""
@@ -2058,12 +2277,18 @@ msgid ""
 "Neutral/Negative ratings and the category mostly used for this number (this "
 "information is stored off-line in the database of your mobile phone)."
 msgstr ""
+"Aqui você pode encontrar a avaliação geral do número na forma de uma "
+"contagem de notas Positivas/Neutras/Negativas e a categoria mais usada para "
+"este número (esta informação é armazenada off-line na base de dados do seu "
+"telefone)."
 
 #: app/templates/mobilemanual/8.tpl:404
 msgid ""
 "You can also see how much positive/neutral/negative rating number received "
 "from community."
 msgstr ""
+"Você também pode ver quantas avaliações positivas/neutras/negativas um "
+"número recebeu da comunidade."
 
 #: app/templates/mobilemanual/8.tpl:410
 msgid ""
@@ -2072,12 +2297,18 @@ msgid ""
 "of negative rated numbers in the application <strong>Blocking</strong> "
 "screen."
 msgstr ""
+"<strong>Bloquear</strong> ajuda a criar uma nota negativa para este número "
+"para realizar o bloqueio. Para ativar o bloqueio você deve ativar o bloqueio "
+"de números com nota negativa na tela de <strong>Bloqueio</strong> da "
+"aplicação."
 
 #: app/templates/mobilemanual/8.tpl:411
 msgid ""
 "<strong>Rate</strong> shows the form for filling your new phone number "
 "rating - see below."
 msgstr ""
+"<strong>Avaliar</strong> mostra o formulário para preencher sua nova nota "
+"para o número telefônico - veja abaixo."
 
 #: app/templates/mobilemanual/8.tpl:412
 msgid ""
@@ -2086,47 +2317,61 @@ msgid ""
 "is presented, it is displayed automatically (all of them are stored in your "
 "phone) and EDIT button is presented for further edit of the your review."
 msgstr ""
+"<strong>Análises</strong> carrega e exibe as análises da comunidade para "
+"este número. Esta função exige conexão com a internet. Se sua própria "
+"avaliação (pessoal) for mostrada, ela será mostrada automaticamente (todas "
+"elas são armazenadas no seu telefone) e o botão de EDITAR é mostrado para "
+"realizar edições posteriores em sua análise."
 
 #: app/templates/mobilemanual/8.tpl:413
 msgid "<strong>Call Button Click</strong> initiates calling to the number."
 msgstr ""
+"<strong>Clique no botão de chamada</strong> inicia uma chamada para o número."
 
 #: app/templates/mobilemanual/8.tpl:419 app/templates/mobilemanual/8.tpl:572
 msgid "Phone Number Rating"
-msgstr ""
+msgstr "Nota do número telefônico"
 
 #: app/templates/mobilemanual/8.tpl:421
 msgid "Single or Group of numbers"
-msgstr ""
+msgstr "Único ou grupo de números"
 
 #: app/templates/mobilemanual/8.tpl:422
 msgid ""
 "Phone Number Rating can be defined for single number or for group of numbers."
 msgstr ""
+"A nota do número telefônico pode ser definida para um único número ou para "
+"um grupo de números."
 
 #: app/templates/mobilemanual/8.tpl:423
 msgid "Group can be defined using * char at the end of the number."
-msgstr ""
+msgstr "Um grupo pode ser definido usando o caractere * no final do número."
 
 #: app/templates/mobilemanual/8.tpl:424
 msgid "For example 800* will define rating for all numbers starting with 800."
 msgstr ""
+"Por exemplo, 800* vai definir a avaliação para todos os números iniciados em "
+"800."
 
 #: app/templates/mobilemanual/8.tpl:425
 msgid ""
 "The <strong>PICK CONTACT</strong> enables you to pick a number from the list "
 "of Contacts and create a rule for it."
 msgstr ""
+"A opção <strong>SELECIONAR CONTATO</strong> permite que você selecione um "
+"número da lista de contatos e crie uma regra para ele."
 
 #: app/templates/mobilemanual/8.tpl:429
 msgid "Public or Private"
-msgstr ""
+msgstr "Público ou Particular"
 
 #: app/templates/mobilemanual/8.tpl:430
 msgid ""
 "By default the rating is submitted to our community database for benefit of "
 "other users."
 msgstr ""
+"Por padrão, a nota é enviada para a nossa base de dados da comunidade para "
+"benefício de outros usuários."
 
 #: app/templates/mobilemanual/8.tpl:431
 msgid ""
@@ -2134,50 +2379,68 @@ msgid ""
 "select this to avoid of sending it to our database - in such case the rating "
 "will be stored in your mobile only."
 msgstr ""
+"Caso você não deseje tornar pública sua avaliação para um determinado "
+"número, selecione esta opção para evitar o envio para nossa base de dados - "
+"neste caso, a avaliação vai ficar armazenada apenas no seu dispositivo."
 
 #: app/templates/mobilemanual/8.tpl:437 app/templates/mobilemanual/8.tpl:573
 msgid "Rating Alert"
-msgstr ""
+msgstr "Alerta de avaliação"
 
 #: app/templates/mobilemanual/8.tpl:439
 msgid ""
 "In the Alert displayed for the phone call you can find all required "
 "information for making the decision to accept the call or hang up."
 msgstr ""
+"No Alerta exibido para a chamada telefônica, você pode encontrar todas as "
+"informações necessárias para fazer a decisão de atender ou desligar a "
+"ligação."
 
 #: app/templates/mobilemanual/8.tpl:441
 msgid ""
 "<strong>Contact</strong> shows name of the contact associated with phone "
 "number (if available)."
 msgstr ""
+"<strong>Contato</strong> mostra o nome do contato associado ao número "
+"telefônico (se disponível)."
 
 #: app/templates/mobilemanual/8.tpl:442
 msgid "<strong>Number</strong> shows phone number the alert is displayed for."
 msgstr ""
+"<strong>Número</strong> mostra o número telefônico para o qual o alerta foi "
+"exibido."
 
 #: app/templates/mobilemanual/8.tpl:443
 msgid ""
 "<strong>Rating</strong> shows one of positive, neutral, negative or unknown "
 "rating."
 msgstr ""
+"<strong>Nota</strong> mostra uma alternativa entre: positiva, neutra, "
+"negativa ou desconhecida."
 
 #: app/templates/mobilemanual/8.tpl:444
 msgid ""
 "<strong>Category</strong> shows the most used Category for the respective "
 "phone number"
 msgstr ""
+"<strong>Categoria</strong> mostra a Categoria mais usara para o respectivo "
+"número telefônico"
 
 #: app/templates/mobilemanual/8.tpl:445
 msgid ""
 "<strong>Community</strong> shows the total statistic counts of positive,"
 "neutral and negative ratings from the community"
 msgstr ""
+"<strong>Comunidade</strong> mostra a estatística de contagem total de notas "
+"positivas, negativas e neutras da comunidade."
 
 #: app/templates/mobilemanual/8.tpl:453
 msgid ""
 "In this section you can access additional information and export/import "
 "function"
 msgstr ""
+"Nesta seção você pode acessar informações adicionais e a função de exportar "
+"e importar"
 
 #: app/templates/mobilemanual/8.tpl:455
 msgid ""
@@ -2187,10 +2450,16 @@ msgid ""
 "prepared automatically with pre-filled information about your app "
 "configuration."
 msgstr ""
+"Se você precisar entrar em contato conosco, use o e-mail informado. Ao "
+"clicar no <strong>endereço de e-mail</strong> você vai abrir uma tela aonde "
+"um cliente de e-mail pode ser selecionado. Após esta ação, um e-mail será "
+"preparado automaticamente com informações previamente preenchidas sobre a "
+"configuração da sua aplicação."
 
 #: app/templates/mobilemanual/8.tpl:456
 msgid "strong>Online Manual</strong> opens the internet page with this manual."
 msgstr ""
+"<strong>Manual Online</strong> abre a página da internet com este manual."
 
 #: app/templates/mobilemanual/8.tpl:457
 msgid ""
@@ -2199,18 +2468,27 @@ msgid ""
 "problem reporting to our technical staff is prepared there - please use it "
 "to report any application problem."
 msgstr ""
+"<strong>Verificar compatibilidade</strong> verifica a sua configuração "
+"buscando problemas conhecidos. Uma página da internet com o resultado da "
+"verificação será exibida. Também há um formulário para envio de informações "
+"sobre problemas para nossa equipe técnica - por favor, utilize-o para "
+"informar qualquer problema com a aplicação."
 
 #: app/templates/mobilemanual/8.tpl:458
 msgid ""
 "strong>Terms of Use</strong> opens the internet page with terms of use of "
 "this product."
 msgstr ""
+"<strong>Termos de uso</strong> abre a página da internet com os termos de "
+"uso para este produto."
 
 #: app/templates/mobilemanual/8.tpl:459
 msgid ""
 "<strong>Privacy Policy</strong> opens the internet page with privacy policy "
 "for out product."
 msgstr ""
+"<strong>Política de privacidade</strong> abre a página da internet com a "
+"política de privacidade para nosso produto."
 
 #: app/templates/mobilemanual/8.tpl:460
 msgid ""
@@ -2219,28 +2497,36 @@ msgid ""
 "another device in a form of backup and restore. A simple wizard for this "
 "functionality is provided."
 msgstr ""
+"<strong>Exportar/Importar</strong> mostra a tela para exportação e "
+"importação de dados: todas as configurações da aplicação podem ser "
+"armazenadas e utilizadas posteriormente ou em outro dispositivo através de "
+"backup e restauração. Um mecanismo de auxilio é disponibilizado para esta "
+"função."
 
 #: app/templates/mobilemanual/8.tpl:467 app/templates/mobilemanual/8.tpl:576
 msgid "FAQ"
-msgstr ""
+msgstr "Perguntas frequentes"
 
 #: app/templates/mobilemanual/8.tpl:469
 msgid "Q: How to block phone number?"
-msgstr ""
+msgstr "P: Como bloquear um número telefônico?"
 
 #: app/templates/mobilemanual/8.tpl:471
 msgid ""
 "Create negative rating for the phone number and enable blocking of negative "
 "rated numbers."
 msgstr ""
+"Crie uma avaliação negativa para o número telefônico e habilite o bloqueio "
+"de números com nota negativa."
 
 #: app/templates/mobilemanual/8.tpl:474
 msgid "Q: Why blocking does not work for me?"
-msgstr ""
+msgstr "P: Por que o bloqueio não está funcionando?"
 
 #: app/templates/mobilemanual/8.tpl:476
 msgid "Unfortunately there are some phone models where blocking does not work."
 msgstr ""
+"Infelizmente há alguns modelos de telefone onde o bloqueio não funciona."
 
 #: app/templates/mobilemanual/8.tpl:477
 msgid ""
@@ -2248,32 +2534,43 @@ msgid ""
 "system and used workarounds can be sometimes broken by phone manufacturer "
 "when they use their own system enhancements."
 msgstr ""
+"O bloqueio de números telefônicos não é uma função padrão do sistema Android "
+"e os mecanismos de acesso que usamos podem ser desabilitados pelo fabricante "
+"do aparelho quando ele usa suas próprias melhorias do sistema."
 
 #: app/templates/mobilemanual/8.tpl:480
 msgid "Q: Where can I find version for iPhone?"
-msgstr ""
+msgstr "P: Onde posso encontrar a versão para iPhone?"
 
 #: app/templates/mobilemanual/8.tpl:482
 msgid "There is no version for iPhone yet."
-msgstr ""
+msgstr "Ainda não há versão para o iPhone."
 
 #: app/templates/mobilemanual/8.tpl:483
 msgid ""
 "iPhone's operating system doesn't provide access to contacts, incoming or "
 "outgoing calls or some reliable way how to intercept or block calls."
 msgstr ""
+"O sistema operacional do iPhone não nos dá acesso aos contatos e às chamadas "
+"recebidas e realizadas, nem a uma forma confiável de interceptar e bloquear "
+"ligações."
 
 #: app/templates/mobilemanual/8.tpl:484
 msgid ""
 "With such conditions the application could provide just manual phone info "
 "search - nearly same functionality as provided by our web pages."
 msgstr ""
+"Sem estas condições, a aplicação somente poderia lhe dar uma busca manual "
+"por números telefônicos - praticamente a mesma função disponibilizada por "
+"nossa página."
 
 #: app/templates/mobilemanual/8.tpl:485
 msgid ""
 "Due to this limitation there is very low priority to make any iPhone native "
 "app."
 msgstr ""
+"Devido a esta limitação, há uma prioridade muito baixa para o "
+"desenvolvimento de uma aplicação nativa para o iPhone."
 
 #: app/templates/mobilemanual/8.tpl:490
 #: app/templates/removalrequest/default.tpl:239
@@ -2293,100 +2590,126 @@ msgid ""
 "Privacy matters but it can be confusing. Please read this explanation of our "
 "approach to privacy in our application."
 msgstr ""
+"A privacidade importa, mas ela pode ser confusa. Por favor, leia esta "
+"explicação de nossa política de privacidade para nossa aplicação."
 
 #: app/templates/mobilemanual/8.tpl:511
 msgid "Phone Contacts"
-msgstr ""
+msgstr "Contatos telefônicos"
 
 #: app/templates/mobilemanual/8.tpl:513
 msgid "Our app doesn't send your contact information to server."
 msgstr ""
+"Nossa aplicação não envia informações de seus contatos telefônicos ao "
+"servidor."
 
 #: app/templates/mobilemanual/8.tpl:516
 msgid "History of Incoming and Outgoing Calls"
-msgstr ""
+msgstr "Histórico de ligações recebidas e realizadas"
 
 #: app/templates/mobilemanual/8.tpl:518
 msgid ""
 "In default, the app doesn't send any information about incoming or outgoing "
 "calls."
 msgstr ""
+"Por padrão, a aplicação não envia nenhuma informação sobre chamadas "
+"recebidas ou realizadas."
 
 #: app/templates/mobilemanual/8.tpl:519
 msgid ""
 "Because information about incoming unknown calls can help us improve our "
 "service, you can enable sending of this information in the settings."
 msgstr ""
+"Uma vez que suas informações sobre chamadas recebidas de números "
+"desconhecidos pode nos ajudar a melhorar nosso serviço, você pode habilitar "
+"o envio desta informação nas configurações."
 
 #: app/templates/mobilemanual/8.tpl:520
 msgid "Thank you for your help."
-msgstr ""
+msgstr "Obrigado por sua ajuda."
 
 #: app/templates/mobilemanual/8.tpl:523
 msgid "Displaying of Phone Number User Reviews"
-msgstr ""
+msgstr "Exibição de avaliações de usuários de números telefônicos"
 
 #: app/templates/mobilemanual/8.tpl:525
 msgid ""
 "Displaying of user reviews for the respective number needs your permission "
 "to send respective phone number to server."
 msgstr ""
+"A exibição de análises do usuário para números telefônicos precisa de sua "
+"permissão para enviar o número telefônico ao servidos."
 
 #: app/templates/mobilemanual/8.tpl:526
 msgid ""
 "This can't be done without your permission, so Permission dialog is "
 "displayed before start of reviews download."
 msgstr ""
+"Isto não pode ser feito sem a sua permissão, então a janela de autorização é "
+"exibida entes do início do download das análises."
 
 #: app/templates/mobilemanual/8.tpl:529
 msgid "Submitting of own phone number review"
-msgstr ""
+msgstr "Enviar sua própria análise de número telefônico"
 
 #: app/templates/mobilemanual/8.tpl:531
 msgid ""
 "If you fill and send some phone number rating, you agree with publishing the "
 "phone number and all filled information on our website."
 msgstr ""
+"Se você preencher e enviar alguma avaliação de número telefônico, você "
+"concorda com a publicação do número e de todas as informações preenchidas em "
+"nosso site."
 
 #: app/templates/mobilemanual/8.tpl:532
 msgid ""
 "We also store technical information about the request (time, IP and agent) "
 "for solving problems with illegal activity."
 msgstr ""
+"Também armazenamos informações técnicas sobre a solicitação (hora, IP e "
+"agente) para resolver problemas relacionados a atividades ilegais."
 
 #: app/templates/mobilemanual/8.tpl:535
 msgid "Using our web service"
-msgstr ""
+msgstr "Usando nosso serviço web"
 
 #: app/templates/mobilemanual/8.tpl:536
 msgid ""
 "Some features like reviews download, database update, phone info search.. "
 "uses our web service."
 msgstr ""
+"Algumas funções como download de análises, atualização de base de dados e "
+"busca de informações sobre um número usam nosso serviço web."
 
 #: app/templates/mobilemanual/8.tpl:537
 msgid ""
 "Our web service collects anonymous statistics about visitors and service "
 "usage."
 msgstr ""
+"Nosso serviço web coleta anonimamente estatísticas sobre os visitantes e o "
+"uso do serviço."
 
 #: app/templates/mobilemanual/8.tpl:538
 msgid "Please read privacy policy of our web service for detailed information."
 msgstr ""
+"Por favor, leia a política de privacidade de nosso serviço web para "
+"informações mais detalhadas."
 
 #: app/templates/mobilemanual/8.tpl:540
 msgid "Updates to this policy"
-msgstr ""
+msgstr "Atualizações desta política"
 
 #: app/templates/mobilemanual/8.tpl:541
 msgid ""
 "We may update this privacy policy anytime to keep this description in sync "
 "with used technology."
 msgstr ""
+"Podemos atualizar esta política de privacidade a qualquer momento para "
+"manter esta descrição atualizada em relação às tecnologias atuais."
 
 #: app/templates/mobilemanual/8.tpl:544
 msgid "Any questions?"
-msgstr ""
+msgstr "Dúvidas?"
 
 #: app/templates/mobilemanual/8.tpl:546
 msgid ""
@@ -2394,14 +2717,17 @@ msgid ""
 "write to us by email to <a href=\"mailto:support@shouldianswer.net"
 "\">support@shouldianswer.net</a>"
 msgstr ""
+"Se você tiver dúvidas quanto ao nosso produto, nossos termos ou política de "
+"privacidade, por favor mande um e-mail para <a href=\"mailto:"
+"support@shouldianswer.net\">support@shouldianswer.net</a>"
 
 #: app/templates/mobilemanual/8.tpl:560
 msgid "Features"
-msgstr ""
+msgstr "Características"
 
 #: app/templates/mobilemanual/8.tpl:561
 msgid "How It Works"
-msgstr ""
+msgstr "Como funciona"
 
 #: app/templates/mobilemanual/8.tpl:577 app/templates/terms/default.tpl:17
 msgid "Terms of Use"
@@ -2410,13 +2736,16 @@ msgstr "Termos de Uso"
 #: app/templates/phonenumber/accessLimited.tpl:16
 #: app/templates/phonenumber/accessLimited.tpl:22
 msgid "No information found about this number"
-msgstr ""
+msgstr "Nenhuma informação foi encontrada sobre este número"
 
 #: app/templates/phonenumber/accessLimited.tpl:24
 msgid ""
 "We are sorry, but we don't have any information about this phone number. "
 "Please try different number, we have huge database. Thank you!"
 msgstr ""
+"Sentimos muito, mas não temos nenhuma informação sobre este número "
+"telefônico. Por favor, tente um número diferente. Temos uma base de dados "
+"enorme. Obrigado!"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:23
 #: app/templates/phonenumber/defaultAmp.tpl:24
@@ -2514,104 +2843,104 @@ msgstr "<strong>Procurando</strong> por números de telefone similares?"
 #: app/templates/phonenumber/defaultNext.tpl:29
 #, php-format
 msgid "We have details about phone number %s. "
-msgstr ""
+msgstr "Temos detalhes sobre o número %s."
 
 #: app/templates/phonenumber/defaultAmp.tpl:167
 #: app/templates/phonenumber/defaultNew.tpl:164
 #: app/templates/phonenumber/defaultNext.tpl:247
 msgid "ratings"
-msgstr ""
+msgstr "notas"
 
 #: app/templates/phonenumber/defaultAmp.tpl:168
 #: app/templates/phonenumber/defaultNew.tpl:165
 #: app/templates/phonenumber/defaultNext.tpl:248
 msgid "reviews"
-msgstr ""
+msgstr "análises"
 
 #: app/templates/phonenumber/defaultAmp.tpl:169
 #: app/templates/phonenumber/defaultNew.tpl:166
 #: app/templates/phonenumber/defaultNext.tpl:249
 msgid "no ratings"
-msgstr ""
+msgstr "não há notas"
 
 #: app/templates/phonenumber/defaultAmp.tpl:170
 #: app/templates/phonenumber/defaultNew.tpl:167
 #: app/templates/phonenumber/defaultNext.tpl:250
 msgid "no reviews"
-msgstr ""
+msgstr "não há análises"
 
 #: app/templates/phonenumber/defaultAmp.tpl:171
 #: app/templates/phonenumber/defaultNew.tpl:168
 #: app/templates/phonenumber/defaultNext.tpl:251
 msgid "single rating"
-msgstr ""
+msgstr "nota única"
 
 #: app/templates/phonenumber/defaultAmp.tpl:172
 #: app/templates/phonenumber/defaultNew.tpl:169
 #: app/templates/phonenumber/defaultNext.tpl:252
 msgid "single review"
-msgstr ""
+msgstr "análise única"
 
 #: app/templates/phonenumber/defaultAmp.tpl:173
 #: app/templates/phonenumber/defaultNew.tpl:170
 #: app/templates/phonenumber/defaultNext.tpl:253
 #, php-format
 msgid "We have %s and %s for this phone number."
-msgstr ""
+msgstr "Nós temos %s e %s para este número telefônico"
 
 #: app/templates/phonenumber/defaultAmp.tpl:198
 #: app/templates/phonenumber/defaultNew.tpl:195
 #: app/templates/phonenumber/defaultNext.tpl:277
 #, php-format
 msgid "Single user marked it with %s rating"
-msgstr ""
+msgstr "Usuário único marcou com uma nota %s"
 
 #: app/templates/phonenumber/defaultAmp.tpl:200
 #: app/templates/phonenumber/defaultNew.tpl:197
 #: app/templates/phonenumber/defaultNext.tpl:279
 #, php-format
 msgid "%s users marked it with %s rating"
-msgstr ""
+msgstr "%s usuários marcaram uma nota %s"
 
 #: app/templates/phonenumber/defaultAmp.tpl:203
 #: app/templates/phonenumber/defaultNew.tpl:200
 #: app/templates/phonenumber/defaultNext.tpl:282
 msgid "and"
-msgstr ""
+msgstr "e"
 
 #: app/templates/phonenumber/defaultAmp.tpl:207
 #: app/templates/phonenumber/defaultNew.tpl:204
 #: app/templates/phonenumber/defaultNext.tpl:286
 #, php-format
 msgid "single user with %s rating"
-msgstr ""
+msgstr "usuário único com a nota %s"
 
 #: app/templates/phonenumber/defaultAmp.tpl:209
 #: app/templates/phonenumber/defaultNew.tpl:206
 #: app/templates/phonenumber/defaultNext.tpl:288
 #, php-format
 msgid "%s users with %s rating"
-msgstr ""
+msgstr "%s usuários com nota %s"
 
 #: app/templates/phonenumber/defaultAmp.tpl:265
 #: app/templates/phonenumber/defaultNew.tpl:262
 #: app/templates/phonenumber/defaultNext.tpl:340
 #, php-format
 msgid "Possible phone number formats are "
-msgstr ""
+msgstr "Formatos possíveis de número telefônico são"
 
 #: app/templates/phonenumber/defaultAmp.tpl:309
 #: app/templates/phonenumber/defaultNew.tpl:306
 #: app/templates/phonenumber/defaultNext.tpl:385
 #, php-format
 msgid "<strong>Reviews</strong> for phone number %s"
-msgstr ""
+msgstr "<strong>Análises</strong> para o número telefônico %s"
 
 #: app/templates/phonenumber/defaultAmp.tpl:315
 #: app/templates/phonenumber/defaultNew.tpl:312
 #: app/templates/phonenumber/defaultNext.tpl:392
 msgid "Add <strong>Your rating</strong>"
-msgstr ""
+msgstr "Adicionar <strong>sua avaliação</strong>"
 
 #: app/templates/phonenumber/defaultAmp.tpl:319
 #: app/templates/phonenumber/defaultDefault.tpl:300
@@ -2775,7 +3104,7 @@ msgstr "enviar nota"
 #: app/templates/phonenumber/defaultNew.tpl:457
 #: app/templates/phonenumber/defaultNext.tpl:534
 msgid "owner"
-msgstr ""
+msgstr "dono"
 
 #: app/templates/phonenumber/defaultAmp.tpl:461
 #: app/templates/phonenumber/defaultDefault.tpl:464
@@ -2783,7 +3112,7 @@ msgstr ""
 #: app/templates/phonenumber/defaultNew.tpl:458
 #: app/templates/phonenumber/defaultNext.tpl:535
 msgid "moderator"
-msgstr ""
+msgstr "moderador"
 
 #: app/templates/phonenumber/defaultAmp.tpl:462
 #: app/templates/phonenumber/defaultDefault.tpl:465
@@ -2791,7 +3120,7 @@ msgstr ""
 #: app/templates/phonenumber/defaultNew.tpl:459
 #: app/templates/phonenumber/defaultNext.tpl:536
 msgid "censored"
-msgstr ""
+msgstr "censurado"
 
 #: app/templates/phonenumber/defaultAmp.tpl:463
 #: app/templates/phonenumber/defaultDefault.tpl:466
@@ -2799,7 +3128,7 @@ msgstr ""
 #: app/templates/phonenumber/defaultNew.tpl:460
 #: app/templates/phonenumber/defaultNext.tpl:537
 msgid "system"
-msgstr ""
+msgstr "sistema"
 
 #: app/templates/phonenumber/defaultAmp.tpl:469
 #: app/templates/phonenumber/defaultDefault.tpl:472
@@ -2807,7 +3136,7 @@ msgstr ""
 #: app/templates/phonenumber/defaultNew.tpl:466
 #: app/templates/phonenumber/defaultNext.tpl:543
 msgid "featured"
-msgstr ""
+msgstr "em destaque"
 
 #: app/templates/phonenumber/defaultAmp.tpl:482
 #: app/templates/phonenumber/defaultDefault.tpl:487
@@ -2815,7 +3144,7 @@ msgstr ""
 #: app/templates/phonenumber/defaultNew.tpl:479
 #: app/templates/phonenumber/defaultNext.tpl:558
 msgid "This comment has been removed because violated terms of use"
-msgstr ""
+msgstr "Este comentário foi removido devido a violar os termos de uso"
 
 #: app/templates/phonenumber/defaultAmp.tpl:488
 #: app/templates/phonenumber/defaultAmp.tpl:533
@@ -2884,7 +3213,7 @@ msgstr "Adicionar Comentário"
 #: app/templates/phonenumber/defaultNext.tpl:591
 #: app/templates/phonenumber/defaultNext.tpl:625
 msgid "Delete"
-msgstr ""
+msgstr "Apagar"
 
 #: app/templates/phonenumber/defaultAmp.tpl:595
 #: app/templates/phonenumber/defaultDefault.tpl:195
@@ -2927,7 +3256,7 @@ msgstr "O seu comentário deve ter mais de 5 carácteres"
 
 #: app/templates/phonenumber/defaultDefault.tpl:98
 msgid "Actualization"
-msgstr ""
+msgstr "Atualização"
 
 #: app/templates/phonenumber/defaultDefault.tpl:137
 #: app/templates/phonenumber/defaultModerator.tpl:81
@@ -3040,6 +3369,8 @@ msgid ""
 "Do you know country of the phone number? Try search via country dedicated "
 "service. Here is list of supported countries:"
 msgstr ""
+"Você sabe o país do número telefônico? Tente buscar através de um serviço "
+"dedicado a um país. Segue a lista dos países com suporte:"
 
 #: app/templates/privacypolicy/default.tpl:29
 msgid "This page explains our approach to privacy on all of our web services."
@@ -3205,127 +3536,136 @@ msgstr ""
 
 #: app/templates/removalrequest/default.tpl:16
 msgid "Removal Request"
-msgstr ""
+msgstr "Solicitação de remoção"
 
 #: app/templates/removalrequest/default.tpl:17
 #: app/templates/removalrequest/default.tpl:155
 msgid "Removal Request Form"
-msgstr ""
+msgstr "Formulário de solicitação de remoção"
 
 #: app/templates/removalrequest/default.tpl:34
 #, php-format
 msgid "Removal of Review ID: %s"
-msgstr ""
+msgstr "Remoção da análise com ID: %s"
 
 #: app/templates/removalrequest/default.tpl:44
 #, php-format
 msgid "Removal of Comment ID: %s"
-msgstr ""
+msgstr "Remoção do comentário com ID: %s"
 
 #: app/templates/removalrequest/default.tpl:158
 msgid "Your request has been succesfully send to our support team."
 msgstr ""
+"Sua solicitação foi encaminhada com sucesso para nossa equipe de suporte."
 
 #: app/templates/removalrequest/default.tpl:159
 msgid "We should process it in max 3 work days."
-msgstr ""
+msgstr "Devemos processá-la em até três dias úteis."
 
 #: app/templates/removalrequest/default.tpl:161
 msgid "Thank you very much!"
-msgstr ""
+msgstr "Muito obrigado!"
 
 #: app/templates/removalrequest/default.tpl:163
 msgid "Something wrong happened during storing your request."
-msgstr ""
+msgstr "Algo de errado aconteceu durante a armazenagem de sua solicitação."
 
 #: app/templates/removalrequest/default.tpl:164
 msgid "Please contact us at <strong>support@shouldianswer.net</strong>"
 msgstr ""
+"Por favor, entre em contato conosco em <strong>support@shouldianswer.net</"
+"strong>"
 
 #: app/templates/removalrequest/default.tpl:168
 msgid "Please fix errors marked with red description"
-msgstr ""
+msgstr "Por favor, corrija os erros marcados em vermelho"
 
 #: app/templates/removalrequest/default.tpl:175
 msgid ""
 "Before filling the form you could find useful basic information about "
 "solving content issues on our site"
 msgstr ""
+"Antes de preencher o formulário você deve buscar as informações básicas "
+"úteis sobre a resolução de problemas em nosso site"
 
 #: app/templates/removalrequest/default.tpl:183
 msgid "Subject"
-msgstr ""
+msgstr "Assunto"
 
 #: app/templates/removalrequest/default.tpl:186
 msgid "Content was submitted for number"
-msgstr ""
+msgstr "Conteúdo foi enviado para o número"
 
 #: app/templates/removalrequest/default.tpl:187
 msgid "Content"
-msgstr ""
+msgstr "Conteúdo"
 
 #: app/templates/removalrequest/default.tpl:192
 msgid "Your Name"
-msgstr ""
+msgstr "Seu nome"
 
 #: app/templates/removalrequest/default.tpl:193
 #: app/templates/removalrequest/default.tpl:196
 msgid "Please enter full real name"
-msgstr ""
+msgstr "Por favor, informe seu nome completo"
 
 #: app/templates/removalrequest/default.tpl:212
 msgid "Reason Type"
-msgstr ""
+msgstr "Tipo de motivo"
 
 #: app/templates/removalrequest/default.tpl:213
 msgid "Contains personal information"
-msgstr ""
+msgstr "Contem informações pessoais"
 
 #: app/templates/removalrequest/default.tpl:214
 msgid "Contains false information"
-msgstr ""
+msgstr "Contem informações falsas"
 
 #: app/templates/removalrequest/default.tpl:215
 msgid "Breaks the rules of this service"
-msgstr ""
+msgstr "Quebra as regras deste serviço"
 
 #: app/templates/removalrequest/default.tpl:216
 msgid "I'm author of review and I want to remove it"
-msgstr ""
+msgstr "Eu sou o autor da análise e quero que seja removida"
 
 #: app/templates/removalrequest/default.tpl:217
 msgid "Other reason"
-msgstr ""
+msgstr "Outro motivo"
 
 #: app/templates/removalrequest/default.tpl:220
 msgid "Please select the reason type"
-msgstr ""
+msgstr "Por favor escolha o tipo do motivo"
 
 #: app/templates/removalrequest/default.tpl:227
 msgid "Reason details"
-msgstr ""
+msgstr "Detalhes do motivo"
 
 #: app/templates/removalrequest/default.tpl:228
 msgid "Please explain in detail why you want to remove this content."
 msgstr ""
+"Por favor, explique detalhadamente porque você quer que este conteúdo seja "
+"removido."
 
 #: app/templates/removalrequest/default.tpl:232
 msgid "Please fill the reason details"
-msgstr ""
+msgstr "Por favor, preencha os detalhes do motivo"
 
 #: app/templates/removalrequest/default.tpl:239
 #, php-format
 msgid ""
 "You can also check our %s for detailed description of using of our service."
 msgstr ""
+"Você também pode verificar nosso %s para descrição detalhada do uso do nosso "
+"serviço."
 
 #: app/templates/removalrequest/default.tpl:248
 msgid "Please check the reCAPTCHA"
-msgstr ""
+msgstr "Por favor, verifique o reCAPTCHA"
 
 #: app/templates/removalrequest/default.tpl:252
 msgid "Send Request"
-msgstr ""
+msgstr "Enviar solicitação"
 
 #: app/templates/solveissues/default.tpl:17
 msgid "Solving Issues"
@@ -3557,7 +3897,7 @@ msgstr "Quer entrar em contato conosco?"
 
 #: app/templates/websearch/default.tpl:7
 msgid "Web Search"
-msgstr ""
+msgstr "Pesquisa na Web"
 
 #~ msgid "<strong>Latest visited</strong> phone numbers"
 #~ msgstr "Últimos números de telefone <strong>visitados</strong>"
