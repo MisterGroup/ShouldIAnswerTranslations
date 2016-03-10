@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 <!-- rating = évaluation, reviews = commentaires-->
     <!-- Global-->
@@ -161,7 +161,7 @@
     <string name="Call_Number">Appeler le numéro</string>
     <string name="Copy_To_Clipboard">Copier dans le presse-papiers</string>
     <string name="Web_Search">Rechercher sur le web</string>
-    <string name="Protection_is_active">La protection est actif !</string>
+    <string name="Protection_is_active">La protection est active !</string>
     <string name="Protect_your_friends_Help_our_community">Protégez vos amis !\nAidez notre communauté !</string>
     <string name="Show_me_how">Indiquez-moi comment</string>
     <string name="Recommend_app_to_your_friends">Recommandez l\'application à vos amis</string>
