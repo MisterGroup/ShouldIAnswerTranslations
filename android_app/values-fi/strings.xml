@@ -586,11 +586,11 @@
 <string name="DISABLED">POIS KÄYTÖSTÄ</string>
 <string name="Warning">Varoitus!</string>
 <string name="Unfortunately_your_device_has_modification_">Valitettavasti laitteessasi on muunnos, joka ei tue esto-toimintoa. Kehitämme toimivaa kiertotietä.</string>
-<string name="You_must_enable_Blocking_of_negative_rated_numbers">Sinun täytyy ottaa käyttöön 'Negatiiviseksi arvioitujen numeroiden esto', jotta voit estää tämän numeron!</string>
+<string name="You_must_enable_Blocking_of_negative_rated_numbers">Sinun täytyy ottaa käyttöön \'Negatiiviseksi arvioitujen numeroiden esto\', jotta voit estää tämän numeron!</string>
 <string name="Enable_Blocking">Ota estäminen käyttöön</string>
 <string name="You_are_using_Pick_and_Hang_disable_it">Käytössäsi on vastaa-ja-sulje -toiminto estämiseen. Jos tämä toiminto ei toimi laitteessasi, käytä tavallista esto-toimintoa.</string>
 <string name="Disable_Pick_And_Hang">Poista vastaa-ja-sulje -toiminto käytöstä</string>
-<string name="You_have_already_configured_blocking_of_this_number_">Olet jo määritellyt tämän numeron estettäväksi. Jos ilmenee ongelmia, raportoi siitä 'Ilmoita ongelmasta' -painikkeen kautta 'Tietoa' välilehdellä.</string>
+<string name="You_have_already_configured_blocking_of_this_number_">Olet jo määritellyt tämän numeron estettäväksi. Jos ilmenee ongelmia, raportoi siitä \'Ilmoita ongelmasta\' -painikkeen kautta \'Tietoa\' välilehdellä.</string>
 <string name="Set_As_Private">Aseta yksityiseksi</string>
 <string name="Dont_block_by_community_database">Älä estä yhteisötietokannan mukaan</string>
 <string name="More_information_is_required_">Lisätietoja tarvitaan, jotta tämän voi lisätä yhteisötietokantaan. Etkö halua tehdä sitä? Merkitse arviosi siinä tapauksessa yksityiseksi.</string>

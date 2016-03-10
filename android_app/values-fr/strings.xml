@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 <!-- rating = évaluation, reviews = commentaires-->
     <!-- Global-->
@@ -290,14 +290,15 @@
     <string name="Please_Enter_The_Issue_Description_Here">Veuillez entrer la description du problème ici ! Si vous pouvez communiquer en Anglais, merci !</string>
     <string name="Required_Community_Ratings_To_Block">Évaluations communautaires requises pour bloquer</string>
     <string name="DISABLED">DÉSACTIVÉ</string>
-    <string name="Warning">Warning!</string>
-    <string name="Unfortunately_your_device_has_modification_">Unfortunately your device has modification which doesn\'t support the blocking feature. We are working on a suitable workaround.</string>
-    <string name="You_must_enable_Blocking_of_negative_rated_numbers">You must enable Blocking of negative rated numbers to block this number!</string>
-    <string name="Enable_Blocking">Enable Blocking</string>
-    <string name="You_are_using_Pick_and_Hang_disable_it">You are using Pick and Hang method for blocking. If this feature doesn\'t work on your device, use standard blocking instead.</string>
-    <string name="Disable_Pick_And_Hang">Disable Pick And Hang</string>
-    <string name="You_have_already_configured_blocking_of_this_number_">You have already configured blocking of this number. If you are experiencing some issues, please report it via Report Issue button on About tab</string>
-    <string name="Set_As_Private">Set As Private</string>
-    <string name="Dont_block_by_community_database">Don\'t block by community database</string>
-    <string name="More_information_is_required_">More information is required for submitting to the community database. Don\'t want to fill it? Mar the rating as your Private.</string>
+    <string name="Warning">Attention!</string>
+
+    <string name="Unfortunately_your_device_has_modification_">Malheureusement, votre appareil contient les modifications du système et ne prend pas en charge la fonction de blocage. Nous travaillons sur une solution appropriée.</string>
+    <string name="You_must_enable_Blocking_of_negative_rated_numbers">Vous devez activer Blocage des numéros négatives pour bloquer ce numéro!</string>
+    <string name="Enable_Blocking">Activer blocage</string>
+    <string name="You_are_using_Pick_and_Hang_disable_it">Vous utilisez Méthode de décrocher et de raccrocher pour bloquer. Si cette fonction ne fonctionne pas sur votre appareil, utilisez un blocage standard.</string>
+    <string name="Disable_Pick_And_Hang">Désactiver Décrocher et raccrocher</string>
+    <string name="You_have_already_configured_blocking_of_this_number_">Vous avez déjà mis en place blocage du numéro. Si vous avez un problème, s\'il vous plaît signalez-le via le bouton Rapport d\'erreur sur  À propos.</string>
+    <string name="Set_As_Private">Définir comme Privée</string>
+    <string name="Dont_block_by_community_database">Ne pas bloquer selon le base de données communautaire</string>
+    <string name="More_information_is_required_">Pour envoyer au de base de données communautaire il est nécessaire plus de données. Vous ne voulez pas les écrire? Marquez une évaluation comme votre Privée.</string>
 </resources>

@@ -284,7 +284,7 @@
     <string name="Install">Instalovat</string>
     <string name="Phone_Number_Hint_New">Pro skupinové hodnocení můžete použít *. Například: 800* nastaví pravidlo pro všechny hovory z rozsahu čísel 800*.</string>
     <string name="Report_Issue">Nahlásit Problém</string>
-    <string name="Please_Enter_The_Issue_Description_Here">Prosím popište váš problému! K emailu budou přiloženy logy aplikace, které budou analyzovány. Děkujeme!</string>
+    <string name="Please_Enter_The_Issue_Description_Here">Prosím popište váš problém! K emailu budou přiloženy logy aplikace, které budou analyzovány. Děkujeme!</string>
     <string name="Required_Community_Ratings_To_Block">Požadovaných hodnocení komunity pro blokování</string>
     <string name="DISABLED">VYPNUTO</string>
     <string name="Warning">Pozor!</string>
@@ -293,7 +293,7 @@
     <string name="Enable_Blocking">Zapnout Blokování</string>
     <string name="You_are_using_Pick_and_Hang_disable_it">Používáte metodu Zvednutí a Položení pro blokování. Pokud tato funkce na vašem přístroji nefunguje, použijte standardní blokování.</string>
     <string name="Disable_Pick_And_Hang">Vypnout Zvednutí a Položení</string>
-    <string name="You_have_already_configured_blocking_of_this_number_">Už máte nastaveno blokování tohoto čísla. Pokud máte nějaký problém, prosím nahlašte jej pomocí tlačítka Odeslat zprávu o problému na záložce Informace</string>
+    <string name="You_have_already_configured_blocking_of_this_number_">Už máte nastaveno blokování tohoto čísla. Pokud máte nějaký problém, prosím nahlašte jej pomocí tlačítka Nahlásit problém na záložce Informace</string>
     <string name="Set_As_Private">Nastavit jako Soukromé</string>
     <string name="Dont_block_by_community_database">Neblokovat na základě komunitní databáze</string>
     <string name="More_information_is_required_">Pro odeslání do komunitní databáze je potřeba více údajů. Nechcete je vypisovat? Označte hodnocení jako vaše Soukromé.</string>

@@ -285,18 +285,19 @@
     <string name="Contact_x">Контакт %s</string>
     <string name="Install">Установить</string>
     <string name="Phone_Number_Hint_New">Можете оценить группу номеров с помощью *. На пример: 800* создаст правило для оценки всех номеров от 800*.</string>
-    <string name="Report_Issue">Report Issue</string>
-    <string name="Please_Enter_The_Issue_Description_Here">Please Enter The Issue Description Here! If you can communicate in English! Thank you!</string>
-    <string name="Required_Community_Ratings_To_Block">Required Community Ratings To Block</string>
-    <string name="DISABLED">DISABLED</string>
-    <string name="Warning">Warning!</string>
-    <string name="Unfortunately_your_device_has_modification_">Unfortunately your device has modification which doesn\'t support the blocking feature. We are working on a suitable workaround.</string>
-    <string name="You_must_enable_Blocking_of_negative_rated_numbers">You must enable Blocking of negative rated numbers to block this number!</string>
-    <string name="Enable_Blocking">Enable Blocking</string>
-    <string name="You_are_using_Pick_and_Hang_disable_it">You are using Pick and Hang method for blocking. If this feature doesn\'t work on your device, use standard blocking instead.</string>
-    <string name="Disable_Pick_And_Hang">Disable Pick And Hang</string>
-    <string name="You_have_already_configured_blocking_of_this_number_">You have already configured blocking of this number. If you are experiencing some issues, please report it via Report Issue button on About tab</string>
-    <string name="Set_As_Private">Set As Private</string>
-    <string name="Dont_block_by_community_database">Don\'t block by community database</string>
-    <string name="More_information_is_required_">More information is required for submitting to the community database. Don\'t want to fill it? Mar the rating as your Private.</string>
+
+    <string name="Report_Issue">Сообщить о проблеме</string>
+    <string name="Please_Enter_The_Issue_Description_Here">Пожалуйста опишите вашу проблему! Если это возможно, пишите пожалуйста по-английски. Благодарим вас!</string>
+    <string name="Required_Community_Ratings_To_Block">Требуемых оценок общины для блокирования</string>
+    <string name="DISABLED">ВЫКЛЮЧЕНО</string>
+    <string name="Warning">Внимание!</string>
+    <string name="Unfortunately_your_device_has_modification_">К сожалению ваше устройство содержит модификации системы, не поддерживающие функцию блокирования. Мы работаем на подходящем решении.</string>
+    <string name="You_must_enable_Blocking_of_negative_rated_numbers">Чтобы было возможно заблокировать номер, нужно включить Блокирование отрицательных номеров!</string>
+    <string name="Enable_Blocking">Включить блокирование</string>
+    <string name="You_are_using_Pick_and_Hang_disable_it">Используете метод Взять и Повесить для блокирования. Если эта функция на вашем устройстве не работает, используйте стандартное блокирование.</string>
+    <string name="Disable_Pick_And_Hang">Выключить Взять и Повесить</string>
+    <string name="You_have_already_configured_blocking_of_this_number_">У вас уже настроено блокирование этого номера. Если у вас есть какие-либо проблемы, пожалуйста сообщите нам о них с помощью кнопки Послать сообщение о проблеме на вкладке Информации – Проверка совместимости</string>
+    <string name="Set_As_Private">Настроить как частный</string>
+    <string name="Dont_block_by_community_database">Не блокировать согласно общинной базе данных</string>
+    <string name="More_information_is_required_">Для посылки в общинную базу данных требуется больше данных. Не хотите их заполнять? Обозначьте оценку как вашу личную.</string>
 </resources>

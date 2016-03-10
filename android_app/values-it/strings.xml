@@ -24,7 +24,7 @@
     <!-- Phone Number Info-->
 
     <string name="contacts">Contatti</string>
-    <string name="this_number_is_in_your_contacts">Questo numero è nel tuo elenco dei contatti</string>
+    <string name="this_number_is_in_your_contacts">Questo numero è nel suo elenco dei contatti</string>
     <string name="system">Sistema</string>
     <string name="there_are_no_reviews_yet">Al momento non ci sono commenti per questo numero</string>
 
@@ -95,12 +95,12 @@
     <string name="Help_us_to_make_world_a_better_place">Aiutateci a migliorare il mondo!</string>
     <string name="Write_5_star_review">Scriva il giudizio di 5 stelles</string>
     <string name="Allow_sending_anonymous_stats">Concedere l´invio di statistica anonima</string>
-    <string name="Allow_sending_anonymous_stats_content">Se si attiva questa funzione tutue le chiamate in arrivo nella vostra lista dei contatti vengono inviate al server. Questo vi aiuterà a concentrarsi sui numeri problematici.</string>
+    <string name="Allow_sending_anonymous_stats_content">Se si attiva questa funzione tutte le chiamate in arrivo nella vostra lista dei contatti vengono inviate al server. Questo vi aiuterà a concentrarsi sui numeri problematici.</string>
     <string name="Write_phone_number_reviews">Scriva il guidizio di numero telefonico</string>
     <string name="Write_phone_number_reviews_content">Se trovate nuove informazioni sul numero chiamato in arrivo Condividilo con la nostra comunità!</string>
-    <string name="Tell_friends_and_share_link_content">Invia un consiglio ai tuoi amici, Condividere il link sui social network, forum, blog .. Aiutateci a trovare nuovi soci.</string>
+    <string name="Tell_friends_and_share_link_content">Invi un consiglio ai tuoi amici, Condividere il link sui social network, forum, blog .. Aiutateci a trovare nuovi soci.</string>
     <string name="Dont_show_again">Non visualizzare di nuovo.</string>
-    <string name="Send_anonymous_stats">Invia statistiche anonime sulle chiamate in arrivo</string>
+    <string name="Send_anonymous_stats">Invi statistiche anonime sulle chiamate in arrivo</string>
     <string name="Blocked_call_from_hidden_number">Bloccare le chiamate di numeri nascosti</string>
     <string name="Blocked_call_to_foreign_country_number_x">Bloccare chiamata al numero di paese straniero %s</string>
     <string name="Blocked_call_to_premium_rate_number_x">Bloccare chiamta al numero a pagamento %s</string>
@@ -129,7 +129,7 @@
     <string name="Yes">Sì</string>
     <string name="No">No</string>
     <string name="Logo">Logo</string>
-    <string name="You_are_one_step_from_protecting_your_phone">Sei ad un passo dalla protezione del vostro telefono contro le chiamate indesiderate!</string>
+    <string name="You_are_one_step_from_protecting_your_phone">È ad un passo dalla protezione del vostro telefono contro le chiamate indesiderate!</string>
     <string name="Terms_of_Use_and_Privacy_policy">Condizioni di utilizzo e Politica sulla Privacy</string>
     <string name="I_agree_to_terms_and_conditions">Accetto i termini e le condizioni</string>
     <string name="If_you_will_agree_we_will_send_information">Se sarete d\'accordo, vi invieremo le informazioni sulle chiamate in arrivo sconosciute al server per il calcolo delle statistiche anonime che aiutano a individuare nuove minacce.</string>
@@ -156,7 +156,7 @@
         Se avete qualche domanda non esitate a contattarci..    
     </string>
     <string name="Phone_Logs">Registri delle chiamate</string>
-    <string name="Achievements_Notification">Statistiche di notifica (uno per 2 settimane)</string>
+    <string name="Achievements_Notification">Statistiche di notificayione (uno per 2 settimane)</string>
     <string name="Show_Details">Mostra dettagli</string>
     <string name="Call_Number">Chiamare il numero</string>
     <string name="Copy_To_Clipboard">Copia negli appunti</string>
@@ -201,7 +201,7 @@
     <string name="You_have_disabled_automatic_reviews_info">Hai disattivato caricamento automatico di recensioni dal server. Spinga il pulsante \'RECENSIONI\' per vedere le recensioni di comunità. Cricamento automatico di recensioni può essere attivato nelle impostazioni di aplicazione.</string>
     <string name="notification_rating">Come bloccare il numero di telefono? Scriva valutazione negativa e abilitare il blocco dei numeri negativi.</string>
     <string name="Phone_Number">Numero di telefono</string>
-    <string name="Rating_Phone_Number_Hint">Numero deve essere in formato internazionale a partire da +. È possibile valutare gruppo di numeri usando il *. Per esempio: + 12345 * bloccherà tutte le chiamate da + 12345xxxxxx.</string>
+    <string name="Rating_Phone_Number_Hint">Numero deve essere in formato internazionale a partire da \'+\'. È possibile valutare gruppo di numeri usando il *. Per esempio: + 12345 * bloccherà tutte le chiamate da + 12345xxxxxx.</string>
     <string name="Private_Rating_or_Number">Valutazione o numero privati</string>
     <string name="Private_Rating_or_Number_hint">Controlli se il numero è privato o non si desidera condividere la valutazione con la comunità</string>
     <string name="Select_Rating">Selezionare Valutazione</string>
@@ -286,18 +286,20 @@
     <string name="Contact_x">Contatto %s</string>
     <string name="Install">Installare</string>
     <string name="Phone_Number_Hint_New">È possibile valutare gruppo di numeri usando il *. Per esempio: 800 * sarà impostare una regola per tutte le chiamate da 800 *.</string>
-    <string name="Report_Issue">Report Issue</string>
-    <string name="Please_Enter_The_Issue_Description_Here">Please Enter The Issue Description Here! If you can communicate in English! Thank you!</string>
-    <string name="Required_Community_Ratings_To_Block">Required Community Ratings To Block</string>
-    <string name="DISABLED">DISABLED</string>
-    <string name="Warning">Warning!</string>
-    <string name="Unfortunately_your_device_has_modification_">Unfortunately your device has modification which doesn\'t support the blocking feature. We are working on a suitable workaround.</string>
-    <string name="You_must_enable_Blocking_of_negative_rated_numbers">You must enable Blocking of negative rated numbers to block this number!</string>
-    <string name="Enable_Blocking">Enable Blocking</string>
-    <string name="You_are_using_Pick_and_Hang_disable_it">You are using Pick and Hang method for blocking. If this feature doesn\'t work on your device, use standard blocking instead.</string>
-    <string name="Disable_Pick_And_Hang">Disable Pick And Hang</string>
-    <string name="You_have_already_configured_blocking_of_this_number_">You have already configured blocking of this number. If you are experiencing some issues, please report it via Report Issue button on About tab</string>
-    <string name="Set_As_Private">Set As Private</string>
-    <string name="Dont_block_by_community_database">Don\'t block by community database</string>
-    <string name="More_information_is_required_">More information is required for submitting to the community database. Don\'t want to fill it? Mar the rating as your Private.</string>
+
+    <string name="Report_Issue">Avissare il problema</string>
+    <string name="Please_Enter_The_Issue_Description_Here">Per favore, descriva il problema! Si prega di comunicare in inglese, se possibile! Grazie!</string>
+    <string name="Required_Community_Ratings_To_Block">Valutazioni comunitarie necessarie per bloccare</string>
+    <string name="DISABLED">DISABILITATO</string>
+    <string name="Warning">Atenzione!</string>
+    <string name="Unfortunately_your_device_has_modification_">Purtroppo il dispositivo dispone di modificazione che non supportano la funzione di blocco. Stiamo lavorando su una soluzione adeguata.</string>
+    <string name="You_must_enable_Blocking_of_negative_rated_numbers">È necessario abilitare il blocco dei numeri negativi per bloccare questo numero!</string>
+    <string name="Enable_Blocking">Abilitare il blocco</string>
+    <string name="You_are_using_Pick_and_Hang_disable_it">Sta utilizando funzione di raccogliere e riagganciare Se questa funzione non funziona sul vostro dispositivo, usi il blocco standard</string>
+    <string name="Disable_Pick_And_Hang">Disabilitare Raccogliere e Riagganciare</string>
+    <string name="You_have_already_configured_blocking_of_this_number_">È già stato configurato il blocco di questo numero. Se si verificano alcuni problemi, si prega di segnalarlo attraverso  il pulsante Avvisare il problema  sulla scheda Informazioni.</string>
+    <string name="Set_As_Private">Imposti come privato</string>
+    <string name="Dont_block_by_community_database">Non bloccare col base di dati della comunità</string>
+    <string name="More_information_is_required_">Per inviare alla base di dati della comunità più dati necessaru. Se non si desidera escrivere il problema? Identifichi la valutazione come Privata.</string>
+
 </resources>

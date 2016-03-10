@@ -298,7 +298,7 @@
     <string name="Enable_Blocking">Encender el bloqueo</string>
     <string name="You_are_using_Pick_and_Hang_disable_it">Está utilizando el método de descolgar y colgar para el bloqueo. Si esta función no funciona en su dispositivo, use el bloqueo estándar.</string>
     <string name="Disable_Pick_And_Hang">Apagar el descolgar y colgar</string>
-    <string name="You_have_already_configured_blocking_of_this_number_">Ya tiene el bloqueo de este número ajustado.Si tiene algún problema, por favor, avíselo a través del botón Avisar el problema en la pestaña</string>
+    <string name="You_have_already_configured_blocking_of_this_number_">Ya tiene el bloqueo de este número ajustado.Si tiene algún problema, por favor, avíselo a través del botón Avisar el problema en la pestaña Informaciones</string>
     <string name="Set_As_Private">Ajustar como privado</string>
     <string name="Dont_block_by_community_database">No bloquear con la base de datos comunitaria</string>
     <string name="More_information_is_required_">Pare el envío a la base de datos comunitaria hace falta más datos. No los quiere rellenar? Identifique su evaluación como privada.</string>
