@@ -918,7 +918,7 @@ msgid ""
 "<strong>support@shouldianswer.net</strong>."
 msgstr ""
 "Jeśli masz problemy Przesyłając ten formularz, prosimy o kontakt na e-mail "
-"<strong> support@shouldianswer.net </ strong>."
+"<strong> support@shouldianswer.net </strong>."
 
 #: app/templates/compatibility/default.tpl:217
 msgid "Send Issue Report"
@@ -1429,11 +1429,11 @@ msgstr "Nigdy więcej zmartwień z uciążliwych połączeń i tele-molestowania
 #: app/templates/mobileapp/default.tpl:129
 msgid ""
 "If interested in some of these protection levels for your use or for your "
-"relatives do not hesitate and download the application for <strong>free</"
-"strong> to your mobile phone."
+"relatives do not hesitate and download the application for <strong>free"
+"</strong> to your mobile phone."
 msgstr ""
 "Jeśli wziąć te poziomy ochrony dla danej aplikacji lub dla swoich bliskich, "
-"nie krępuj się pobrać  <strong>bezpłatną</strong> aplikacje do telefonu "
+"nie krępuj się pobrać <strong>bezpłatną</strong> aplikacje do telefonu "
 "komórkowego."
 
 #: app/templates/mobilemanual/8.tpl:18
@@ -1779,8 +1779,8 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:278
 msgid ""
-"<strong>Be Positive for Contacts without your and community rating</"
-"strong> : if this one is activated, it sets a positive rating to such "
+"<strong>Be Positive for Contacts without your and community rating"
+"</strong> : if this one is activated, it sets a positive rating to such "
 "numbers stored in your mobile Contacts where no yours and/or community "
 "database rating exists (if there is a yours and/or community database rating "
 "for some of those numbers, then the rating is used)."
@@ -2714,13 +2714,13 @@ msgstr "Możliwe formaty numeru telefonu są "
 #: app/templates/phonenumber/defaultNext.tpl:385
 #, php-format
 msgid "<strong>Reviews</strong> for phone number %s"
-msgstr "<strong> Recenzje </ strong> dla numerów telefonów %s"
+msgstr "<strong> Recenzje </strong> dla numerów telefonów %s"
 
 #: app/templates/phonenumber/defaultAmp.tpl:315
 #: app/templates/phonenumber/defaultNew.tpl:312
 #: app/templates/phonenumber/defaultNext.tpl:392
 msgid "Add <strong>Your rating</strong>"
-msgstr "Dodaj <strong> Twoja ocena </ strong>"
+msgstr "Dodaj <strong> Twoja ocena </strong>"
 
 #: app/templates/phonenumber/defaultAmp.tpl:319
 #: app/templates/phonenumber/defaultDefault.tpl:300
@@ -3053,12 +3053,12 @@ msgstr "Twoja ocena może pomóc innym uzyskać informację o tym numerze."
 #: app/templates/phonenumber/defaultDefault.tpl:206
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:242
 msgid ""
-"<strong>Bothered</strong> by telemarketing calls? <strong>Not answering</"
-"strong> unknown numbers? <strong>Install</strong> our application and be "
+"<strong>Bothered</strong> by telemarketing calls? <strong>Not answering"
+"</strong> unknown numbers? <strong>Install</strong> our application and be "
 "informed who is calling - <strong>for free</strong>!"
 msgstr ""
-"<strong>Wkurza</strong> Cię telemarketing połączeń? <strong>Nie odpowiedzi</"
-"strong> nieznane numery? <strong>Zainstaluj</strong>, naszą aplikację i "
+"<strong>Wkurza</strong> Cię telemarketing połączeń? <strong>Nie odpowiedzi"
+"</strong> nieznane numery? <strong>Zainstaluj</strong>, naszą aplikację i "
 "informuj, kto dzwoni - <strong>bezpłatnie</strong>!"
 
 #: app/templates/phonenumber/defaultDefault.tpl:207
@@ -3353,8 +3353,8 @@ msgstr "Coś złego się stało podczas zapisywania żądania."
 #: app/templates/removalrequest/default.tpl:164
 msgid "Please contact us at <strong>support@shouldianswer.net</strong>"
 msgstr ""
-"Prosimy o kontakt z nami pod adresem <strong> support@shouldianswer.net </ "
-"strong>"
+"Prosimy o kontakt z nami pod adresem <strong> support@shouldianswer.net "
+"</strong>"
 
 #: app/templates/removalrequest/default.tpl:168
 msgid "Please fix errors marked with red description"
@@ -3915,7 +3915,7 @@ msgstr "Wyszukiwanie w sieci"
 #~ msgstr ""
 #~ "<strong> Proszę nie przechowywać żadnych negatywnych numerow ocenianych "
 #~ "na liście kontaktów (chyba, że chcesz, abyśmy go zignorować), ponieważ "
-#~ "aplikacja nie blokuje go wtedy. </ strong>"
+#~ "aplikacja nie blokuje go wtedy. </strong>"
 
 #~ msgid ""
 #~ "On the other hand, thanks to this feature you will be able to call e.g. "
