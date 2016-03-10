@@ -122,7 +122,7 @@
     <string name="Online_Manual">Instrukcja obsługi</string>
     <string name="Contact">Kontakt</string>
     <string name="Block">Blokuj</string>
-    <string name="Update_Database">Aktualizuj bazę danych</string>
+    <string name="Update_Database">Aktualizacja bazy danych</string>
     <string name="Compatibility_Check">Sprawdź kompatybilność</string>
     <string name="Clear_Log">Wyczyść rejestr</string>
     <string name="Really_clear_checked_calls_log">Czy na pewno usunąć rejestr sprawdzonych połączeń?</string>
@@ -154,13 +154,13 @@
         Musimy mieć również dostęp do informacji o połączeniach. Dzięki temu możemy sprawdzić numery w naszej lokalnej bazie danych.
         Używamy wyskakujących okienek, aby wyświetlić informacje o numerze telefomu na oknie dialera. Jeśli masz jakiekolwiek pytania prosimy o kontakt z nami.
     </string>
-    <string name="Phone_Logs">Rejestr telefonu</string>
+    <string name="Phone_Logs">Rejestry telefonu</string>
     <string name="Achievements_Notification">Powiadomienia o statystykach (co 2 tygodnie)</string>
     <string name="Show_Details">Pokaż szczegóły</string>
     <string name="Call_Number">Połącz z numerem</string>
     <string name="Copy_To_Clipboard">Skopiuj do schowka</string>
     <string name="Web_Search">Wyszukiwarka internetowa</string>
-    <string name="Protection_is_active">Ochrona jest aktywna!</string>
+    <string name="Protection_is_active">Zabezpieczenie jest aktywne!</string>
     <string name="Protect_your_friends_Help_our_community">Chroń swoich znajomych!\nPomóż naszej społeczności!</string>
     <string name="Show_me_how">Pokaż mi jak</string>
     <string name="Recommend_app_to_your_friends">Poleć aplikację znajomym</string>
@@ -286,7 +286,7 @@
     <string name="Data_Export_Email_Body">Twoje dane zostały dołączone do wiadomości e-mail. Aplikacja \'Odebrać telefon?\'</string>
     <string name="There_are_no_email_clients_installed">Brak klientów pocztowych w systemie.</string>
     <string name="Settings_successfully_imported_">Ustawienia zaimportowane!</string>
-    <string name="Invitation_not_finished_">Wysyłanie zaproszenia nie zostało zakończone!</string>
+    <string name="Invitation_not_finished_">Wysłanie zaproszenia nie zostało zakończone!</string>
     <string name="Contact_x">Kontakt %s</string>
     <string name="Install">Instaluj</string>
     <string name="Phone_Number_Hint_New">Za pomocą znaku * można ocenić grupę numerów. Na przykład: wpisując frazę 800* ustawisz regułę dla wszystkich numerów zaczynających się 800xxxxxx.
@@ -295,14 +295,14 @@
     <string name="Please_Enter_The_Issue_Description_Here">Wpisz tutaj opis problemu. TYLKO w języku angielskim! Dziękujemy!</string>
     <string name="Required_Community_Ratings_To_Block">Wymagana ocena społeczności aby zablokować</string>
     <string name="DISABLED">WYŁĄCZONE</string>
-    <string name="Warning">Uwaga!</string>
-    <string name="Unfortunately_your_device_has_modification_">Niestety Twoje urządzenie zawiera modyfikację, która uniemożliwia blokowanie. Pracujemy nad rozwiązaniem tego problemu.</string>
-    <string name="You_must_enable_Blocking_of_negative_rated_numbers">Musisz włączyć blokowanie numerów z negatywną oceną aby zablokować ten numer!</string>
-    <string name="Enable_Blocking">Włącz blokowanie</string>
-    <string name="You_are_using_Pick_and_Hang_disable_it">Korzystasz z metody blokowania Odbierz-Rozłącz. Jeżeli ta metoda działa nieprawidłowo na Twoim urządzeniu, zastosuj standardowe opcje blokowania.</string>
-    <string name="Disable_Pick_And_Hang">Wyłącz Odbierz-Rozłącz</string>
-    <string name="You_have_already_configured_blocking_of_this_number_">Blokowanie tego numeru zostało już ustawione. W przypadku występowania błędów, prosimy o przesłanie informacji klikając przycisk \'Zgłoś problem\' w zakładce Informacje.</string>
-    <string name="Set_As_Private">Ustaw jako prywatne</string>
-    <string name="Dont_block_by_community_database">Nie blokuj na podstawie ocen społeczności</string>
-    <string name="More_information_is_required_">Musisz podać więcej informacji aby wysłać ocenę do bazy danych. Nie chcesz tego robić teraz? Zaznacz ocenę jako prywatną.</string>
+    <string name="Warning">Warning!</string>
+    <string name="Unfortunately_your_device_has_modification_">Unfortunately your device has modification which doesn\'t support the blocking feature. We are working on a suitable workaround.</string>
+    <string name="You_must_enable_Blocking_of_negative_rated_numbers">You must enable Blocking of negative rated numbers to block this number!</string>
+    <string name="Enable_Blocking">Enable Blocking</string>
+    <string name="You_are_using_Pick_and_Hang_disable_it">You are using Pick and Hang method for blocking. If this feature doesn\'t work on your device, use standard blocking instead.</string>
+    <string name="Disable_Pick_And_Hang">Disable Pick And Hang</string>
+    <string name="You_have_already_configured_blocking_of_this_number_">You have already configured blocking of this number. If you are experiencing some issues, please report it via Report Issue button on About tab</string>
+    <string name="Set_As_Private">Set As Private</string>
+    <string name="Dont_block_by_community_database">Don\'t block by community database</string>
+    <string name="More_information_is_required_">More information is required for submitting to the community database. Don\'t want to fill it? Mar the rating as your Private.</string>
 </resources>

@@ -54,7 +54,7 @@
     <string name="cat_unsolicited_call">5-Llamada no deseada</string>
     <string name="cat_call_centre">6-Centro de llamadas</string>
     <string name="cat_fax_machine">7-Máquina de fax</string>
-    <string name="cat_non_profit_org">8-Organización benéfica</string>
+    <string name="cat_non_profit_org">8-Organizació benéfica</string>
     <string name="cat_political_call">9-Llamada política</string>
     <string name="cat_scam_call">10-Llamada de estafa</string>
     <string name="cat_prank_call">11-Llamada de broma</string>
@@ -93,7 +93,7 @@
     <string name="Community">Comunidad</string>
     <string name="We_are_here_to_protect_you">Ahora le estamos protegiendo!</string>
     <string name="Help_us_to_make_world_a_better_place">Ayúdenes hacer mejor el mundo!</string>
-    <string name="Write_5_star_review">Escriba reseña de 5 estrellas</string>
+    <string name="Write_5_star_review">Escribe reseña de 5 estrellas</string>
     <string name="Allow_sending_anonymous_stats">Permitir el envío de estadísticas anónimas</string>
     <string name="Allow_sending_anonymous_stats_content">Si permite esta opción, todos los números entrantes no memorizados en sus contactos serán enviados a nuestro servidor. Esta información nos ayudará trabajar con los números generalmente problemáticos.</string>
     <string name="Write_review">ESCRIBIR RESEÑA</string>
@@ -135,7 +135,7 @@
     <string name="If_you_will_agree_we_will_send_information">Si está de acuerdo enviaremos las informaciones sobre las llamadas entrantes no conocidas al servidor al centro de estadísticas ANÓNIMAS el cual nos ayuda a detectar nuevas amenazas.</string>
     <string name="Latest_database">Base de datos última</string>
     <string name="Call_Monitoring">Monitoring de llamadas</string>
-    <string name="Show_Alerts_As_System_Overlay">Enseñar avisos como el sistema de capas superpuestas</string>
+    <string name="Show_Alerts_As_System_Overlay">Enseñar alertas como el sistema de capas superpuestas</string>
     <string name="General">General</string>
     <string name="System_Permissions">Permisos de sistema</string>
     <string name="Read_Call_Information">Leer informaciones de llamadas</string>
@@ -156,7 +156,7 @@
         Si tiene preguntas, no dude en ponerse en contacto con nosotros.
     </string>
     <string name="Phone_Logs">Registros de teléfono</string>
-    <string name="Achievements_Notification">Notificación de estadísticas (uno por 2 semanas)</string>
+    <string name="Achievements_Notification">Estadísticas Notificación (uno por 2 semanas)</string>
     
     <string name="Show_Details">Demostrar detalles</string>
     <string name="Call_Number">Llamar el número</string>
@@ -197,7 +197,7 @@
     <string name="Rate">Evaluar</string>
     <string name="Reviews">Reseñas</string>
     <string name="Your_Ratings">Su evaluación</string>
-    <string name="Push_the_RATE_button_to_add_your_rating">Con el botón EVALUAR  añada su evaluación.</string>
+    <string name="Push_the_RATE_button_to_add_your_rating">PCon el botón EVALUAR  añada su evaluación.</string>
     <string name="Community_Reviews">Reseñas de los usuarios</string>
     <string name="You_have_disabled_automatic_reviews_info">Tiene apagada la descarga automática de las reseñas del servidor. Con el botón \'RESEÑAS\' se le demostrarán las reseñas de otros usuarios. La descarga automática de las reseñas se puede encender en el Ajuste de la aplicación.</string>
     <string name="notification_rating">">¿Cómo bloquear el número? Escriba una evaluación negativa y encienda el bloqueo de los número evaluados negativamente.</string>
@@ -247,7 +247,7 @@
     <string name="Phone_Log_is_loading">Se está descargando el protócolo del teléfono</string>
     <string name="Use_Community_Database_Rating">Utilice evaluaciones de la base de datos comunitaria</string>
     <string name="General_Ratings_Rules">Reglas principales de evaluación</string>
-    <string name="for_numbers_with_mask">para las números con máscara %s</string>
+    <string name="for_numbers_with_mask">para las números con mascara %s</string>
     <string name="for_number_x">para los números %s</string>
     <string name="There_is_no_rating_yet">Todavía no hay ninguna evaluación</string>
     <string name="for_Contact_x">para el contacto %s</string>
@@ -287,19 +287,18 @@
     <string name="Contact_x">Contacto %s</string>
     <string name="Install">Instalar</string>
     <string name="Phone_Number_Hint_New">Puede evaluar un grupo de números utilizando *. Por ejemplo: 800* establecerá una regla para todas llamads de 800*.</string>
-
-    <string name="Report_Issue">Avisar el problema</string>
-    <string name="Please_Enter_The_Issue_Description_Here">Por favor, describa su  problema aquí. Comunique en inglés si es posible. Gracias.</string>
-    <string name="Required_Community_Ratings_To_Block">Evaluaciones de comunidad requeridas para el bloqueo</string>
-    <string name="DISABLED">APAGADO</string>
-    <string name="Warning">Atención!</string>
-    <string name="Unfortunately_your_device_has_modification_">Desgradaciadamente su dispositivo contiene modificaciones del sistema las cuales no soportan la función del bloqueo. Estamos trabajando en una solución posible.</string>
-    <string name="You_must_enable_Blocking_of_negative_rated_numbers">Para poder bloquear el número tiene que encender el bloqueo de los números negativos!</string>
-    <string name="Enable_Blocking">Encender el bloqueo</string>
-    <string name="You_are_using_Pick_and_Hang_disable_it">Está utilizando el método de descolgar y colgar para el bloqueo. Si esta función no funciona en su dispositivo, use el bloqueo estándar.</string>
-    <string name="Disable_Pick_And_Hang">Apagar el descolgar y colgar</string>
-    <string name="You_have_already_configured_blocking_of_this_number_">Ya tiene el bloqueo de este número ajustado.Si tiene algún problema, por favor, avíselo a través del botón Avisar el problema en la pestaña</string>
-    <string name="Set_As_Private">Ajustar como privado</string>
-    <string name="Dont_block_by_community_database">No bloquear con la base de datos comunitaria</string>
-    <string name="More_information_is_required_">Pare el envío a la base de datos comunitaria hace falta más datos. No los quiere rellenar? Identifique su evaluación como privada.</string>
+    <string name="Report_Issue">Report Issue</string>
+    <string name="Please_Enter_The_Issue_Description_Here">Please Enter The Issue Description Here! If you can communicate in English! Thank you!</string>
+    <string name="Required_Community_Ratings_To_Block">Required Community Ratings To Block</string>
+    <string name="DISABLED">DISABLED</string>
+    <string name="Warning">Warning!</string>
+    <string name="Unfortunately_your_device_has_modification_">Unfortunately your device has modification which doesn\'t support the blocking feature. We are working on a suitable workaround.</string>
+    <string name="You_must_enable_Blocking_of_negative_rated_numbers">You must enable Blocking of negative rated numbers to block this number!</string>
+    <string name="Enable_Blocking">Enable Blocking</string>
+    <string name="You_are_using_Pick_and_Hang_disable_it">You are using Pick and Hang method for blocking. If this feature doesn\'t work on your device, use standard blocking instead.</string>
+    <string name="Disable_Pick_And_Hang">Disable Pick And Hang</string>
+    <string name="You_have_already_configured_blocking_of_this_number_">You have already configured blocking of this number. If you are experiencing some issues, please report it via Report Issue button on About tab</string>
+    <string name="Set_As_Private">Set As Private</string>
+    <string name="Dont_block_by_community_database">Don\'t block by community database</string>
+    <string name="More_information_is_required_">More information is required for submitting to the community database. Don\'t want to fill it? Mar the rating as your Private.</string>
 </resources>
