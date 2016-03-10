@@ -309,19 +309,18 @@
     <string name="Install">Instalar</string>
     <string name="Phone_Number_Hint_New">Você pode avaliar um grupo de números usando o *. Por examplo: 800* criará uma regra para todas as chamadas da faixa 800*.</string>
     <string name="Report_Issue">Relatar problema</string>
-    <string name="Please_Enter_The_Issue_Description_Here">Por favor, insira a descrição do problema aqui! Se possível, comunique-se em inglês! Obrigado!</string>
-    <string name="Required_Community_Ratings_To_Block">Required Community Ratings To Block</string>
-    <string name="DISABLED">DISABLED</string>
-    <string name="Warning">Warning!</string>
-    <string name="Unfortunately_your_device_has_modification_">Unfortunately your device has modification which doesn\'t support the blocking feature. We are working on a suitable workaround.</string>
-    <string name="You_must_enable_Blocking_of_negative_rated_numbers">You must enable Blocking of negative rated numbers to block this number!</string>
-    <string name="Enable_Blocking">Enable Blocking</string>
-    <string name="You_are_using_Pick_and_Hang_disable_it">You are using Pick and Hang method for blocking. If this feature doesn\'t work on your device, use standard blocking instead.</string>
-    <string name="Disable_Pick_And_Hang">Disable Pick And Hang</string>
-    <string name="You_have_already_configured_blocking_of_this_number_">You have already configured blocking of this number. If you are experiencing some issues, please report it via Report Issue button on About tab</string>
-    <string name="Set_As_Private">Set As Private</string>
-    <string name="Dont_block_by_community_database">Don\'t block by community database</string>
-    <string name="More_information_is_required_">More information is required for submitting to the community database. Don\'t want to fill it? Mar the rating as your Private.</string>
+    <string name="Please_Enter_The_Issue_Description_Here">Por favor, insira a descrição do problema aqui! Se puder, escreva em inglês! Obrigado!</string>
+    <string name="Required_Community_Ratings_To_Block">Avaliações da comunidade necessárias para realizar bloquear</string>
+    <string name="DISABLED">DESABILITADO</string>
+    <string name="Warning">Aviso!</string>
+    <string name="Unfortunately_your_device_has_modification_">Infelizmente seu dispositivo apresenta uma modificação que não dá suporte à função de bloqueio. Estamos trabalhando em uma função alternativa.</string>
+    <string name="You_must_enable_Blocking_of_negative_rated_numbers">Você deve habilitar o bloqueio de números com nota negativa para bloquear este número!</string>
+    <string name="Enable_Blocking">Habilitar bloqueio</string>
+    <string name="You_are_using_Pick_and_Hang_disable_it">Você está usando o "Atender e Desligar" como método de bloqueio. Se esta função não funcionar no seu dispositivo, use o bloqueio padrão ao invés disso.</string>
+    <string name="Disable_Pick_And_Hang">Desabilitar o "Atender e Desligar"</string>
+    <string name="You_have_already_configured_blocking_of_this_number_">Você já configurou o bloqueio para este número. Se estiver tendo problemas, por favor relate através do botão "Relatar problema" na aba "Sobre"</string>
+    <string name="Set_As_Private">Definir como privaro</string>
+    <string name="Dont_block_by_community_database">Não bloquear pela base de dados da comunidade</string>
+    <string name="More_information_is_required_">Mais informação é necessária para submissão para a base de dados da comunidade. Não quer preencher? Marque a avaliação como Privada.</string>
     <!-- Rest -->
-
 </resources>
