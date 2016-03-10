@@ -221,7 +221,7 @@
     <string name="Hidden_numbers">Скрытые номера</string>
     <string name="Block_OUTGOING_Calls_to">Блокировать ИСХОДЯЩИЕ звонки на</string>
     <string name="Premium_numbers">Премиальные номера</string>
-    <string name="calls_to_foreign_numbers">международные звонки</string>
+    <string name="calls_to_foreign_numbers">Международные звонки</string>
     <string name="Block_SMS_and_MMS_from"><![CDATA[блокировать SMS & MMS от]]></string>
     <string name="Set_Default_SMS_Manager">Настроить СМС менеджер по умолчанию</string>
     <string name="Use_pick_and_hang_up_to_protect_voice_mail">Использовать функцию "снять и положить" для охраны голосовой почты</string>
@@ -269,15 +269,15 @@
     <string name="Export_data_description">Все настройки приложения и ваши оценки номеров будут экспортированы в файлы данных и могут быть в последствии импортированы на другом устройстве</string>
     <string name="Export">Экспорт</string>
     <string name="Import_Application_Data">Импорт данных приложения</string>
-    <string name="Import_Data_Description">Установите приложение "Могу Взять Трубку" на целевое устройство и откройте в нём экспортированный файл. Расширение файла совместимо с приложением, так что должен изобразиться экран импорта.</string>
+    <string name="Import_Data_Description">Установите приложение Могу Взять Трубку на целевое устройство и откройте в нём экспортированный файл. Расширение файла совместимо с приложением, так что должен изобразиться экран импорта.</string>
     <string name="Import">Импорт</string>
     <string name="Phone_Number_Ratings">Оценки телефонных номеров</string>
     <string name="Alerts_Settings">Настройки предупреждений</string>
     <string name="Blocking_Settings">Настройки блокирования</string>
     <string name="Clear_actual_ratings">Удалить актуальные оценки</string>
     <string name="Invalid_Data_Format_">Неисправный формат данных!</string>
-    <string name="Should_I_Answer_Data_Export">Экспорт данных приложения "Могу Взять Трубку"</string>
-    <string name="Data_Export_Email_Body">Ваши данные отправлены по электронной почте. Ваше приложение "Могу Взять Трубку"</string>
+    <string name="Should_I_Answer_Data_Export">Экспорт данных приложения Могу Взять Трубку</string>
+    <string name="Data_Export_Email_Body">Ваши данные отправлены по электронной почте. Ваше приложение Могу Взять Трубку</string>
     <string name="There_are_no_email_clients_installed">Никакой клиент электронной почты не обнаружен.</string>
     <string name="Settings_successfully_imported_">Настройки успешно импортированы!</string>
     <string name="Invitation_not_finished_">Приглашение не было завершено!</string>
