@@ -284,7 +284,6 @@
     <string name="Contact_x">Контакт %s</string>
     <string name="Install">Установить</string>
     <string name="Phone_Number_Hint_New">Можете оценить группу номеров с помощью *. На пример: 800* создаст правило для оценки всех номеров от 800*.</string>
-
     <string name="Report_Issue">Сообщить о проблеме</string>
     <string name="Please_Enter_The_Issue_Description_Here">Пожалуйста опишите вашу проблему! Если это возможно, пишите пожалуйста по-английски. Благодарим вас!</string>
     <string name="Required_Community_Ratings_To_Block">Требуемых оценок сообщества для блокирования</string>
