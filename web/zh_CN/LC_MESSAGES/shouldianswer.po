@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: shouldianswer\n"
-"POT-Creation-Date: 2016-02-27 09:42+0100\n"
-"PO-Revision-Date: 2016-03-08 13:51+0100\n"
+"POT-Creation-Date: 2016-03-12 10:46+0100\n"
+"PO-Revision-Date: 2016-03-12 10:46+0100\n"
 "Last-Translator: \n"
 "Language-Team: topolar@gmail.com\n"
 "Language: zh\n"
@@ -39,351 +39,351 @@ msgstr "我们已给我们的管理人通知了这个差错，并会在最快的
 msgid "Please come back to this page later. Thank you."
 msgstr "请稍后再回到这个网页。谢谢。"
 
-#: presenters/p_phonenumber.php:235
+#: presenters/p_phonenumber.php:241
 msgid "Outdated or invalid form submitted! Please send it again."
 msgstr "提交了过期或无效的表格！请重新发送。"
 
-#: presenters/p_phonenumber.php:292
+#: presenters/p_phonenumber.php:298
 msgid "Submit failed. Please do not use Tags!"
 msgstr "提交失败了。请别使用该标签！"
 
-#: presenters/p_phonenumber.php:298
+#: presenters/p_phonenumber.php:304
 msgid ""
 "Your rating is submitted and waiting for publication to other visitors. "
 "Thank you!"
 msgstr "您的评级已提交到系统了，并待发到其它本站访客。谢谢！"
 
-#: presenters/p_phonenumber.php:302
+#: presenters/p_phonenumber.php:308
 msgid "Rating has been stored and published!"
 msgstr "评级已经被保存和发行了！"
 
-#: presenters/p_phonenumber.php:312
+#: presenters/p_phonenumber.php:318
 msgid "This phone number is marked as "
 msgstr "这个电话号码标记为"
 
-#: presenters/p_phonenumber.php:330
+#: presenters/p_phonenumber.php:336
 msgid "What is Your experience with this number?"
 msgstr "您和这个号码有什么经验？"
 
-#: presenters/p_phonenumber.php:331
+#: presenters/p_phonenumber.php:337
 msgid "Do You have any experience with this phone number?"
 msgstr "这是未知号码吗？"
 
-#: presenters/p_phonenumber.php:332
+#: presenters/p_phonenumber.php:338
 msgid "What is Your experience with this phone number?"
 msgstr "您和这个号码有什么经验？"
 
-#: presenters/p_phonenumber.php:333
+#: presenters/p_phonenumber.php:339
 msgid "Do You have any bad experience with this number?"
 msgstr "您和这个号码有不好的经验吗？"
 
-#: presenters/p_phonenumber.php:334
+#: presenters/p_phonenumber.php:340
 msgid "Have You seen this number before?"
 msgstr "您曾经见过这个号码吗？"
 
-#: presenters/p_phonenumber.php:335
+#: presenters/p_phonenumber.php:341
 msgid "Have You ever spot this number?"
 msgstr "您曾经在别的地方看过这个号码吗？"
 
-#: presenters/p_phonenumber.php:336
+#: presenters/p_phonenumber.php:342
 msgid "Does this number remind You something?"
 msgstr "这个号码有没有让您回忆起什么？"
 
-#: presenters/p_phonenumber.php:337
+#: presenters/p_phonenumber.php:343
 msgid "Do You have any bad experience with this phone number?"
 msgstr "您和这个号码有不好的经验吗？"
 
-#: presenters/p_phonenumber.php:338
+#: presenters/p_phonenumber.php:344
 msgid "Have You ever seen this number?"
 msgstr "您曾经见过这个号码吗？"
 
-#: presenters/p_phonenumber.php:339
+#: presenters/p_phonenumber.php:345
 msgid "Does this number look familiar to You?"
 msgstr "这个号码对您来看熟悉吗？"
 
-#: presenters/p_phonenumber.php:342
+#: presenters/p_phonenumber.php:348
 msgid "Do You have any experience with this?"
 msgstr "您有接到本号码的经验吗？"
 
-#: presenters/p_phonenumber.php:343
+#: presenters/p_phonenumber.php:349
 msgid "Have this number called You before?"
 msgstr "这个号码曾致电给您吗？"
 
-#: presenters/p_phonenumber.php:344 presenters/p_phonenumber.php:350
+#: presenters/p_phonenumber.php:350 presenters/p_phonenumber.php:356
 msgid "Have this number annoyed You before?"
 msgstr "这个号码曾打扰过您吗？"
 
-#: presenters/p_phonenumber.php:345
+#: presenters/p_phonenumber.php:351
 msgid "Did someone offer You unwanted services from this number?"
 msgstr "是否有人用这个号码向您推销您不想要的服务？"
 
-#: presenters/p_phonenumber.php:346
+#: presenters/p_phonenumber.php:352
 msgid "Did someone offer You products You haven't ordered from this number?"
 msgstr "是否有人从这个号码向您推销您不曾购买的产品？"
 
-#: presenters/p_phonenumber.php:347
+#: presenters/p_phonenumber.php:353
 msgid "You have become a victim of harassment?"
 msgstr "您曾经成为电话骚扰的受害者吗？"
 
-#: presenters/p_phonenumber.php:348
+#: presenters/p_phonenumber.php:354
 msgid "Did someone offer You some insurance?"
 msgstr "是否有人从这个号码向您推销保险？"
 
-#: presenters/p_phonenumber.php:349
+#: presenters/p_phonenumber.php:355
 msgid "Have You been facing the unwanted services?"
 msgstr "您是否正在体验您不想要的服务？"
 
-#: presenters/p_phonenumber.php:351
+#: presenters/p_phonenumber.php:357
 msgid "Did someone offer You apparently beneficial contracts?"
 msgstr "有没有人从这个号码向您提供了貌似有利益的协议？"
 
-#: presenters/p_phonenumber.php:355
+#: presenters/p_phonenumber.php:361
 msgid "Or is this rally some good service?"
 msgstr "或这是一项非常好的服务吗？"
 
-#: presenters/p_phonenumber.php:356
+#: presenters/p_phonenumber.php:362
 msgid "Or is this Your friend's phone number?"
 msgstr "或这是您一个朋友的号码吗？"
 
-#: presenters/p_phonenumber.php:357
+#: presenters/p_phonenumber.php:363
 msgid "Or is this a phone number serving for Your company?"
 msgstr "或这是为您公司服务的号码吗？"
 
-#: presenters/p_phonenumber.php:358
+#: presenters/p_phonenumber.php:364
 msgid "Or is this a phone number of a reliable financial advisor?"
 msgstr "或这是一个可靠的投资顾问的号码吗？"
 
-#: presenters/p_phonenumber.php:359
+#: presenters/p_phonenumber.php:365
 msgid "Or is this a safe phone number?"
 msgstr "或这是一个安全的电话号码吗？"
 
-#: presenters/p_phonenumber.php:360
+#: presenters/p_phonenumber.php:366
 msgid "Or is this a purely private phone number?"
 msgstr "或这是一个私人的号码？"
 
-#: presenters/p_phonenumber.php:361
+#: presenters/p_phonenumber.php:367
 msgid "Or is this someone You know?"
 msgstr "或这是您认识的人吗？"
 
-#: presenters/p_phonenumber.php:362
+#: presenters/p_phonenumber.php:368
 msgid "Or is this phone number useful?"
 msgstr "或这是一个有用的电话号码？"
 
-#: presenters/p_phonenumber.php:363
+#: presenters/p_phonenumber.php:369
 msgid "Or does this number belong to some of Your friends?"
 msgstr "或这是您朋友的电话号码吗？"
 
-#: presenters/p_phonenumber.php:364
+#: presenters/p_phonenumber.php:370
 msgid "Or is this Your own phone number?"
 msgstr "或这是您自己的号码吗？"
 
-#: presenters/p_phonenumber.php:368
+#: presenters/p_phonenumber.php:374
 msgid "Share Your experience."
 msgstr "分享您的经验"
 
-#: presenters/p_phonenumber.php:369
+#: presenters/p_phonenumber.php:375
 msgid "Do not keep the information just for yourself."
 msgstr "请将信息分享给别的用户。"
 
-#: presenters/p_phonenumber.php:370
+#: presenters/p_phonenumber.php:376
 msgid "Share Your experience with the others."
 msgstr "把您的经验跟其它用户分享吧。"
 
-#: presenters/p_phonenumber.php:371
+#: presenters/p_phonenumber.php:377
 msgid "Pass Your experience to the other users."
 msgstr "把您的个人经验传授给其它用户。"
 
-#: presenters/p_phonenumber.php:372
+#: presenters/p_phonenumber.php:378
 msgid "Is there something You would like to tell the others?"
 msgstr "您有任何其它信息想告诉其它浏览本网站的用户吗？"
 
-#: presenters/p_phonenumber.php:373
+#: presenters/p_phonenumber.php:379
 msgid "Is there some info You can share?"
 msgstr "您有什么可分享的信息吗？"
 
-#: presenters/p_phonenumber.php:374
+#: presenters/p_phonenumber.php:380
 msgid "Do You know more?"
 msgstr "您知道更多信息吗？"
 
-#: presenters/p_phonenumber.php:375
+#: presenters/p_phonenumber.php:381
 msgid "Do You know more? Share it with the others."
 msgstr "您知道更多信息吗？与其它人分享吧。"
 
-#: presenters/p_phonenumber.php:376
+#: presenters/p_phonenumber.php:382
 msgid "Do You know more? Pass Your experience to the other users."
 msgstr "您知道更多信息吗？把您的个人经验传授给其它用户。"
 
-#: presenters/p_phonenumber.php:377
+#: presenters/p_phonenumber.php:383
 msgid "Do You know more? Share Your experience with the others."
 msgstr "您知道更多信息吗？把您的经验跟其它用户分享吧。"
 
-#: presenters/p_phonenumber.php:381
+#: presenters/p_phonenumber.php:387
 msgid "Write to us, "
 msgstr "与我们联系，"
 
-#: presenters/p_phonenumber.php:382
+#: presenters/p_phonenumber.php:388
 msgid "Fill the form, "
 msgstr "请您填写表格，"
 
-#: presenters/p_phonenumber.php:383
+#: presenters/p_phonenumber.php:389
 msgid "Fill the form and "
 msgstr "请您填写表格以及"
 
-#: presenters/p_phonenumber.php:384
+#: presenters/p_phonenumber.php:390
 msgid "Write to us (it is not necessary to state Your real name) and "
 msgstr "与我们联系 (您不要写您的真名实姓)以及"
 
-#: presenters/p_phonenumber.php:385
+#: presenters/p_phonenumber.php:391
 msgid "Leave a message using our form and "
 msgstr "在我们的表格上留言以及"
 
-#: presenters/p_phonenumber.php:386
+#: presenters/p_phonenumber.php:392
 msgid "Share Your experience and "
 msgstr "分享您的经验，以及"
 
-#: presenters/p_phonenumber.php:387
+#: presenters/p_phonenumber.php:393
 msgid "Leave a message and "
 msgstr "给我们留言，以及"
 
-#: presenters/p_phonenumber.php:388
+#: presenters/p_phonenumber.php:394
 msgid "Describe Your experience using our form and "
 msgstr "在我们的表格上形容您的体验以及"
 
-#: presenters/p_phonenumber.php:389
+#: presenters/p_phonenumber.php:395
 msgid "Give us Your opinion and "
 msgstr "请给我们写您的意见以及"
 
-#: presenters/p_phonenumber.php:390
+#: presenters/p_phonenumber.php:396
 msgid "Rate this phone number using the form and "
 msgstr "请在表格上为这电话号码评级以及"
 
-#: presenters/p_phonenumber.php:394
+#: presenters/p_phonenumber.php:400
 msgid "this will help the other users."
 msgstr "这样您将帮助其它的用户。"
 
-#: presenters/p_phonenumber.php:395
+#: presenters/p_phonenumber.php:401
 msgid "this will help the other users to have a more clear information."
 msgstr "这样您将帮助其它用户获得更多的信息。"
 
-#: presenters/p_phonenumber.php:396
+#: presenters/p_phonenumber.php:402
 msgid "other users can use this information."
 msgstr "其它用户可以使用此信息。"
 
-#: presenters/p_phonenumber.php:397
+#: presenters/p_phonenumber.php:403
 msgid "the information can be used by the other users."
 msgstr "其它用户可使用这个信息。"
 
-#: presenters/p_phonenumber.php:398
+#: presenters/p_phonenumber.php:404
 msgid "the other users will appreciate it."
 msgstr "其它用户将感激您的协助。"
 
-#: presenters/p_phonenumber.php:399
+#: presenters/p_phonenumber.php:405
 msgid "the other users will use it for their benefit."
 msgstr "其它用户可从此获益。"
 
-#: presenters/p_phonenumber.php:400
+#: presenters/p_phonenumber.php:406
 msgid "the information can be useful for other users."
 msgstr "这信息对于其它用户将十分有用。"
 
-#: presenters/p_phonenumber.php:401
+#: presenters/p_phonenumber.php:407
 msgid "You will help also the other users."
 msgstr "您也会帮助其它用户。"
 
-#: presenters/p_phonenumber.php:402
+#: presenters/p_phonenumber.php:408
 msgid "thanks to You the others will be better informed."
 msgstr "在您帮助下，大家获得的信息将更灵通。"
 
-#: presenters/p_phonenumber.php:403
+#: presenters/p_phonenumber.php:409
 msgid "the other users can benefit from this information."
 msgstr "其它用户都可因为这信息而受惠"
 
-#: presenters/p_phonenumber.php:407
+#: presenters/p_phonenumber.php:413
 msgid "Thank You for Your review."
 msgstr "感谢您的评论。"
 
-#: presenters/p_phonenumber.php:408
+#: presenters/p_phonenumber.php:414
 msgid "Thank You for Your reaction."
 msgstr "感谢您的反应。"
 
-#: presenters/p_phonenumber.php:409
+#: presenters/p_phonenumber.php:415
 msgid "We would appreciate Your reaction."
 msgstr "我们将十分感谢您的反应。"
 
-#: presenters/p_phonenumber.php:410
+#: presenters/p_phonenumber.php:416
 msgid "We would appreciate Your review."
 msgstr "我们将十分感谢您的评论。"
 
-#: presenters/p_phonenumber.php:411
+#: presenters/p_phonenumber.php:417
 msgid "We would appreciate if You share Your experience."
 msgstr "我们将十分感谢您所分享的体验。"
 
-#: presenters/p_phonenumber.php:412
+#: presenters/p_phonenumber.php:418
 msgid "Thank You in advance for Your review."
 msgstr "我们想预先感谢您提供的评论。"
 
-#: presenters/p_phonenumber.php:413
+#: presenters/p_phonenumber.php:419
 msgid "Thank You for Your comment."
 msgstr "感谢您的留言"
 
-#: presenters/p_phonenumber.php:414
+#: presenters/p_phonenumber.php:420
 msgid "Thank You in advance for Your comment."
 msgstr "我们想预先感谢您的留言。"
 
-#: presenters/p_phonenumber.php:415
+#: presenters/p_phonenumber.php:421
 msgid "We would appreciate if You share Your statement."
 msgstr "如果您可以分享您的看法，我们将非常感激。"
 
-#: presenters/p_phonenumber.php:416
+#: presenters/p_phonenumber.php:422
 msgid "Thank You for Your post."
 msgstr "感谢您上传信息。"
 
-#: presenters/p_phonenumber.php:425
+#: presenters/p_phonenumber.php:431
 msgid "Phone number should be fixed line."
 msgstr "号码应该是固定电话。"
 
-#: presenters/p_phonenumber.php:426
+#: presenters/p_phonenumber.php:432
 msgid "Phone number should be mobile line."
 msgstr "号码应该是移动电话。"
 
-#: presenters/p_phonenumber.php:427
+#: presenters/p_phonenumber.php:433
 msgid "Phone number should be fixed or mobile line."
 msgstr "号码应该是固定或移动电话。"
 
-#: presenters/p_phonenumber.php:428
+#: presenters/p_phonenumber.php:434
 msgid "Phone number should be toll free."
 msgstr "号码应该是来自免费电话。"
 
-#: presenters/p_phonenumber.php:429
+#: presenters/p_phonenumber.php:435
 msgid "Phone number should be for premium rate. Be carefull."
 msgstr "号码应该是来自付费专线电话。请慎重接听。"
 
-#: presenters/p_phonenumber.php:430
+#: presenters/p_phonenumber.php:436
 msgid ""
 "Phone number should be for shared rate. It should be cheaper than standard "
 "call."
 msgstr "号码应该是来自共享付费电话。它应该比一般通话便宜。"
 
-#: presenters/p_phonenumber.php:431
+#: presenters/p_phonenumber.php:437
 msgid "Phone number should be voice over ip."
 msgstr "号码应该是来自网络电话。"
 
-#: presenters/p_phonenumber.php:432
+#: presenters/p_phonenumber.php:438
 msgid "Phone number should be personal line."
 msgstr "号码应该是来自私人电话。"
 
-#: presenters/p_phonenumber.php:433
+#: presenters/p_phonenumber.php:439
 msgid "Phone number should be pager."
 msgstr "号码应该是来自传呼机。"
 
-#: presenters/p_phonenumber.php:434
+#: presenters/p_phonenumber.php:440
 msgid "Phone number should belong some  company."
 msgstr "号码应该是某企业公司。"
 
-#: presenters/p_phonenumber.php:435
+#: presenters/p_phonenumber.php:441
 msgid "Phone number should be for emergency call."
 msgstr "号码应该是来自紧急服务电话。"
 
-#: presenters/p_phonenumber.php:446
+#: presenters/p_phonenumber.php:452
 msgid ""
 "During the last days this number has been very often searched also by other "
 "users. This can be a mark of global call centre or marketing action, so be "
@@ -392,7 +392,7 @@ msgstr ""
 "最近几天其他用户通常搜索这个号码。这说明，可能是全球呼叫中心或者电话销售的行"
 "动，请小心一下。"
 
-#: presenters/p_phonenumber.php:447
+#: presenters/p_phonenumber.php:453
 msgid ""
 "This number very probably doesn't belong to any individual - we have noticed "
 "very frequent searches of this number during last days, which can be a mark "
@@ -402,7 +402,7 @@ msgstr ""
 "这个电话号码很有可能不是私人的 - 最近几天我们侦到它被频繁地搜索的，说明这个电"
 "话号码是通常使用的，有可能为了营销的目的。有可能是不需要来电话的来源。"
 
-#: presenters/p_phonenumber.php:448
+#: presenters/p_phonenumber.php:454
 msgid ""
 "Users were searching for this number very often recently also here on our "
 "pages, which can be a sing of some telemarketing company or call centre "
@@ -411,7 +411,7 @@ msgstr ""
 "最近在我们的网站用户们通常搜索这个电话好吗， 说明一家电话销售的公司或者呼叫中"
 "心使用它。如果这个电话号码要致电给您，请小心一下。"
 
-#: presenters/p_phonenumber.php:449
+#: presenters/p_phonenumber.php:455
 msgid ""
 "Even the number has no review actually it was searched many time in last few "
 "days. It probably doesn't belong to some individual and is widely used by "
@@ -420,7 +420,7 @@ msgstr ""
 "虽然这个号码没有什么评价，其实最近几天它被搜索好几次。很有可能它不是一个私人"
 "的电话号码，而且一家电话销售的公司广为使用它，这个号码可能是不需要来的电话。"
 
-#: presenters/p_phonenumber.php:450
+#: presenters/p_phonenumber.php:456
 msgid ""
 "This number was frequently searched during last couple of days. It is very "
 "likely used for telemarketing actions and doesn't belong to a private "
@@ -532,10 +532,10 @@ msgid ""
 "looks safe now."
 msgstr "关于%s的号码，我们也还没有检测了异常的作用，所以它现在看起来没问题。"
 
-#: repositories/r_reviews.php:152 templates/phonenumber/defaultAmp.tpl:573
-#: templates/phonenumber/defaultDefault.tpl:587
-#: templates/phonenumber/defaultModerator.tpl:580
+#: repositories/r_reviews.php:152 templates/phonenumber/defaultDefault.tpl:587
+#: templates/phonenumber/defaultModerator.tpl:598
 #: templates/phonenumber/defaultNew.tpl:570
+#: templates/phonenumber/defaultNewReloaded.tpl:592
 #: templates/phonenumber/defaultNext.tpl:655
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:586
 msgid ""
@@ -578,8 +578,8 @@ msgid ""
 msgstr ""
 "因服务器正在进行暂时维修，或因网站流量问题，目前无法为您服务。请稍后再试。"
 
-#: templates/about/default.tpl:16 templates/mobilemanual/8.tpl:451
-#: templates/mobilemanual/8.tpl:570
+#: templates/about/default.tpl:16 templates/mobilemanual/8.tpl:433
+#: templates/mobilemanual/8.tpl:552
 msgid "About"
 msgstr "关于我们的服务"
 
@@ -670,6 +670,10 @@ msgstr "登入网页"
 #: templates/adminlogin/default.tpl:48
 msgid "Administration Login"
 msgstr "管理员登入"
+
+#: templates/adminlogout/default.tpl:16
+msgid "Logout page"
+msgstr ""
 
 #: templates/compatibility/default.tpl:16
 msgid "Phone App Compatibility"
@@ -843,7 +847,7 @@ msgid "Please fill the issue description"
 msgstr "请填问题的描述"
 
 #: templates/compatibility/default.tpl:202
-#: templates/phonenumber/defaultModerator.tpl:363
+#: templates/phonenumber/defaultModerator.tpl:386
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:385
 #: templates/removalrequest/default.tpl:202
 msgid "Email"
@@ -900,7 +904,7 @@ msgid "Thank you for your help!"
 msgstr "谢谢您的帮助！"
 
 #: templates/contact/default.tpl:16 templates/contact/default.tpl:21
-#: templates/mobilemanual/8.tpl:579
+#: templates/mobilemanual/8.tpl:561
 msgid "Contact"
 msgstr "联络我们"
 
@@ -922,23 +926,26 @@ msgstr ""
 "strong>。我们将在最快的时间内回复您的问题。"
 
 #: templates/default/defaultDefault.tpl:17 templates/default/defaultNew.tpl:17
+#: templates/default/defaultNewReloaded.tpl:17
 #: templates/default/default_ww.tpl:17
 msgid "Main Page"
 msgstr "主网页"
 
 #: templates/default/defaultDefault.tpl:18 templates/default/defaultNew.tpl:18
+#: templates/default/defaultNewReloaded.tpl:18
 #: templates/default/default_ww.tpl:18
 msgid ""
 "See what phone numbers are most searched and find ratings and users reviews."
 msgstr "看哪些号码是经常被搜索的，并查阅它们的评级与用户评论。"
 
-#: templates/default/defaultDefault.tpl:41 templates/layout.tpl:291
-#: templates/layoutAmp.tpl:259 templates/layoutNew.tpl:281
-#: templates/phonenumber/defaultAmp.tpl:595
+#: templates/default/defaultDefault.tpl:41
+#: templates/default/defaultNewReloaded.tpl:52 templates/layout.tpl:291
+#: templates/layoutNew.tpl:281 templates/layoutNewReloaded.tpl:290
 #: templates/phonenumber/defaultDefault.tpl:197
 #: templates/phonenumber/defaultDefault.tpl:235
 #: templates/phonenumber/defaultDefault.tpl:273
 #: templates/phonenumber/defaultNew.tpl:592
+#: templates/phonenumber/defaultNewReloaded.tpl:614
 #: templates/phonenumber/defaultNext.tpl:682
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:233
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:271
@@ -947,13 +954,14 @@ msgid "How to block unwanted numbers?"
 msgstr "如何屏蔽不想要的号码？"
 
 #: templates/default/defaultDefault.tpl:46 templates/default/defaultNew.tpl:55
+#: templates/default/defaultNewReloaded.tpl:57
 #: templates/default/default_ww.tpl:119 templates/layout.tpl:293
-#: templates/layoutAmp.tpl:261 templates/layoutNew.tpl:283
-#: templates/net/default.tpl:58 templates/phonenumber/defaultAmp.tpl:602
-#: templates/phonenumber/defaultDefault.tpl:211
+#: templates/layoutNew.tpl:283 templates/layoutNewReloaded.tpl:292
+#: templates/net/default.tpl:58 templates/phonenumber/defaultDefault.tpl:211
 #: templates/phonenumber/defaultDefault.tpl:249
 #: templates/phonenumber/defaultDefault.tpl:278
 #: templates/phonenumber/defaultNew.tpl:599
+#: templates/phonenumber/defaultNewReloaded.tpl:619
 #: templates/phonenumber/defaultNext.tpl:690
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:247
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:285
@@ -962,13 +970,14 @@ msgid "We have simple solution for you!"
 msgstr "我们为您准备了一个简单的解决方案！"
 
 #: templates/default/defaultDefault.tpl:47 templates/default/defaultNew.tpl:56
+#: templates/default/defaultNewReloaded.tpl:58
 #: templates/default/default_ww.tpl:120 templates/layout.tpl:294
-#: templates/layoutAmp.tpl:262 templates/layoutNew.tpl:284
-#: templates/net/default.tpl:59 templates/phonenumber/defaultAmp.tpl:603
-#: templates/phonenumber/defaultDefault.tpl:211
+#: templates/layoutNew.tpl:284 templates/layoutNewReloaded.tpl:293
+#: templates/net/default.tpl:59 templates/phonenumber/defaultDefault.tpl:211
 #: templates/phonenumber/defaultDefault.tpl:249
 #: templates/phonenumber/defaultDefault.tpl:279
 #: templates/phonenumber/defaultNew.tpl:600
+#: templates/phonenumber/defaultNewReloaded.tpl:620
 #: templates/phonenumber/defaultNext.tpl:691
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:247
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:285
@@ -979,14 +988,15 @@ msgid ""
 msgstr "把我们免费和安全的应用装进您的手机，一次性永远停止不想要的电话！"
 
 #: templates/default/defaultDefault.tpl:55 templates/default/defaultNew.tpl:64
+#: templates/default/defaultNewReloaded.tpl:66
 #: templates/default/default_ww.tpl:116 templates/layout.tpl:303
-#: templates/layoutAmp.tpl:271 templates/layoutNew.tpl:293
+#: templates/layoutNew.tpl:293 templates/layoutNewReloaded.tpl:301
 #: templates/layout_default.tpl:52 templates/net/default.tpl:55
-#: templates/phonenumber/defaultAmp.tpl:611
 #: templates/phonenumber/defaultDefault.tpl:222
 #: templates/phonenumber/defaultDefault.tpl:260
 #: templates/phonenumber/defaultDefault.tpl:287
 #: templates/phonenumber/defaultNew.tpl:608
+#: templates/phonenumber/defaultNewReloaded.tpl:626
 #: templates/phonenumber/defaultNext.tpl:699
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:258
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:296
@@ -995,14 +1005,15 @@ msgid "Download from Google Play"
 msgstr "从Google Play应用汇下载 "
 
 #: templates/default/defaultDefault.tpl:78 templates/default/defaultNew.tpl:72
-#: templates/layout_detail.tpl:27 templates/layout_detailAmp.tpl:26
-#: templates/layout_detailNew.tpl:26
+#: templates/default/defaultNewReloaded.tpl:73 templates/layout_detail.tpl:27
+#: templates/layout_detailNew.tpl:26 templates/layout_detailNewReloaded.tpl:26
 msgid "<strong>Popular</strong> phone numbers"
 msgstr " <strong>最受欢迎</strong>的电话号码"
 
 #: templates/default/defaultDefault.tpl:135
-#: templates/default/defaultNew.tpl:110 templates/layout_detail.tpl:50
-#: templates/layout_detailAmp.tpl:44 templates/layout_detailNew.tpl:44
+#: templates/default/defaultNew.tpl:110
+#: templates/default/defaultNewReloaded.tpl:111 templates/layout_detail.tpl:50
+#: templates/layout_detailNew.tpl:44 templates/layout_detailNewReloaded.tpl:44
 msgid " <strong>Latest rated</strong> phone numbers"
 msgstr " <strong>最新评级</strong>的电话号码"
 
@@ -1013,17 +1024,17 @@ msgid "Latest rating was"
 msgstr "近期的评级为"
 
 #: templates/default/defaultDefault.tpl:157
-#: templates/phonenumber/defaultAmp.tpl:147
-#: templates/phonenumber/defaultAmp.tpl:184
-#: templates/phonenumber/defaultAmp.tpl:335
 #: templates/phonenumber/defaultDefault.tpl:113
 #: templates/phonenumber/defaultDefault.tpl:316
-#: templates/phonenumber/defaultModerator.tpl:98
-#: templates/phonenumber/defaultModerator.tpl:135
-#: templates/phonenumber/defaultModerator.tpl:330
+#: templates/phonenumber/defaultModerator.tpl:113
+#: templates/phonenumber/defaultModerator.tpl:147
+#: templates/phonenumber/defaultModerator.tpl:347
 #: templates/phonenumber/defaultNew.tpl:144
 #: templates/phonenumber/defaultNew.tpl:181
 #: templates/phonenumber/defaultNew.tpl:332
+#: templates/phonenumber/defaultNewReloaded.tpl:151
+#: templates/phonenumber/defaultNewReloaded.tpl:185
+#: templates/phonenumber/defaultNewReloaded.tpl:348
 #: templates/phonenumber/defaultNext.tpl:227
 #: templates/phonenumber/defaultNext.tpl:264
 #: templates/phonenumber/defaultNext.tpl:410
@@ -1033,17 +1044,17 @@ msgid "positive"
 msgstr "正面"
 
 #: templates/default/defaultDefault.tpl:160
-#: templates/phonenumber/defaultAmp.tpl:146
-#: templates/phonenumber/defaultAmp.tpl:187
-#: templates/phonenumber/defaultAmp.tpl:337
 #: templates/phonenumber/defaultDefault.tpl:112
 #: templates/phonenumber/defaultDefault.tpl:318
-#: templates/phonenumber/defaultModerator.tpl:97
-#: templates/phonenumber/defaultModerator.tpl:138
-#: templates/phonenumber/defaultModerator.tpl:332
+#: templates/phonenumber/defaultModerator.tpl:112
+#: templates/phonenumber/defaultModerator.tpl:150
+#: templates/phonenumber/defaultModerator.tpl:349
 #: templates/phonenumber/defaultNew.tpl:143
 #: templates/phonenumber/defaultNew.tpl:184
 #: templates/phonenumber/defaultNew.tpl:334
+#: templates/phonenumber/defaultNewReloaded.tpl:150
+#: templates/phonenumber/defaultNewReloaded.tpl:188
+#: templates/phonenumber/defaultNewReloaded.tpl:350
 #: templates/phonenumber/defaultNext.tpl:226
 #: templates/phonenumber/defaultNext.tpl:267
 #: templates/phonenumber/defaultNext.tpl:412
@@ -1053,17 +1064,17 @@ msgid "negative"
 msgstr "負面"
 
 #: templates/default/defaultDefault.tpl:163
-#: templates/phonenumber/defaultAmp.tpl:145
-#: templates/phonenumber/defaultAmp.tpl:190
-#: templates/phonenumber/defaultAmp.tpl:336
 #: templates/phonenumber/defaultDefault.tpl:111
 #: templates/phonenumber/defaultDefault.tpl:317
-#: templates/phonenumber/defaultModerator.tpl:96
-#: templates/phonenumber/defaultModerator.tpl:141
-#: templates/phonenumber/defaultModerator.tpl:331
+#: templates/phonenumber/defaultModerator.tpl:111
+#: templates/phonenumber/defaultModerator.tpl:153
+#: templates/phonenumber/defaultModerator.tpl:348
 #: templates/phonenumber/defaultNew.tpl:142
 #: templates/phonenumber/defaultNew.tpl:187
 #: templates/phonenumber/defaultNew.tpl:333
+#: templates/phonenumber/defaultNewReloaded.tpl:149
+#: templates/phonenumber/defaultNewReloaded.tpl:191
+#: templates/phonenumber/defaultNewReloaded.tpl:349
 #: templates/phonenumber/defaultNext.tpl:225
 #: templates/phonenumber/defaultNext.tpl:270
 #: templates/phonenumber/defaultNext.tpl:411
@@ -1073,10 +1084,12 @@ msgid "neutral"
 msgstr "中立"
 
 #: templates/default/defaultNew.tpl:42
+#: templates/default/defaultNewReloaded.tpl:44
 msgid "<strong>Find</strong> who is calling you!"
 msgstr "<strong>知道</strong>谁在给您打电话！"
 
-#: templates/default/defaultNew.tpl:44 templates/layout_default.tpl:22
+#: templates/default/defaultNew.tpl:44
+#: templates/default/defaultNewReloaded.tpl:46 templates/layout_default.tpl:22
 #: templates/layout_default_ww.tpl:22
 msgid ""
 "Is someone calling You from an unknown number and You are not sure if "
@@ -1090,7 +1103,8 @@ msgstr ""
 msgid "How to <strong>block</strong> unwanted numbers?"
 msgstr "怎么 <strong>屏蔽</strong>不需要来的电话？"
 
-#: templates/default/defaultNew.tpl:151 templates/layout_default.tpl:84
+#: templates/default/defaultNew.tpl:151
+#: templates/default/defaultNewReloaded.tpl:152 templates/layout_default.tpl:84
 msgid "Dialing Codes"
 msgstr "区号"
 
@@ -1114,97 +1128,103 @@ msgstr "下一页"
 msgid "Contacts Check"
 msgstr "联系人检查"
 
-#: templates/layout.tpl:118 templates/layoutAmp.tpl:188
-#: templates/layoutNew.tpl:114 templates/layoutNew.tpl:210
+#: templates/layout.tpl:118 templates/layoutNew.tpl:114
+#: templates/layoutNew.tpl:210 templates/layoutNewReloaded.tpl:122
 #: templates/layout_white.tpl:72
 msgid "Should I Answer"
 msgstr "我应该接电话吗"
 
-#: templates/layout.tpl:153 templates/layoutAmp.tpl:127
-#: templates/layoutNew.tpl:149
+#: templates/layout.tpl:153 templates/layoutNew.tpl:149
+#: templates/layoutNewReloaded.tpl:162
 msgid ""
 "Cookies help us deliver our services. By using our services, you agree to "
 "our use of cookies."
 msgstr "Cookies 帮助我们经营服务。如果您使用我们的服务，您就同一使用cookies。"
 
-#: templates/layout.tpl:154 templates/layoutAmp.tpl:128
-#: templates/layoutNew.tpl:150
+#: templates/layout.tpl:154 templates/layoutNew.tpl:150
+#: templates/layoutNewReloaded.tpl:162
 msgid "Got it"
 msgstr "明白了"
 
-#: templates/layout.tpl:155 templates/layoutAmp.tpl:129
-#: templates/layoutNew.tpl:151
+#: templates/layout.tpl:155 templates/layoutNew.tpl:151
+#: templates/layoutNewReloaded.tpl:162
 msgid "Find out more"
 msgstr "了解更多"
 
-#: templates/layout.tpl:188 templates/layoutAmp.tpl:162
-#: templates/layoutNew.tpl:184
+#: templates/layout.tpl:188 templates/layoutNew.tpl:184
+#: templates/layoutNewReloaded.tpl:209
 #, php-format
 msgid "For phone numbers in your location (%s) use "
 msgstr "针对本地 (%s) 电话号码请使用"
 
-#: templates/layout.tpl:192 templates/layoutAmp.tpl:166
-#: templates/layoutNew.tpl:188
+#: templates/layout.tpl:192 templates/layoutNew.tpl:188
+#: templates/layoutNewReloaded.tpl:212
 msgid "Close"
 msgstr "关闭"
 
-#: templates/layout.tpl:206 templates/layoutAmp.tpl:181
+#: templates/layout.tpl:206 templates/layoutAmp.tpl:135
 #: templates/layoutNew.tpl:203
 #, php-format
 msgid "You are logged as moderator."
 msgstr "您为版主登录了。"
 
-#: templates/layout.tpl:225 templates/layoutAmp.tpl:191
-#: templates/layoutNew.tpl:213
+#: templates/layout.tpl:225 templates/layoutNew.tpl:213
 msgid "Should I <strong>answer?</strong>"
 msgstr "我应该<strong>接电话吗?</strong>"
 
-#: templates/layout.tpl:232 templates/layoutAmp.tpl:199
-#: templates/layoutNew.tpl:221
+#: templates/layout.tpl:232 templates/layoutNew.tpl:221
+#: templates/layoutNewReloaded.tpl:234
 msgid "search for phone number"
 msgstr "搜索电话号码"
 
-#: templates/layout.tpl:237 templates/layoutAmp.tpl:205
-#: templates/layoutNew.tpl:227
+#: templates/layout.tpl:237 templates/layoutNew.tpl:227
+#: templates/layoutNewReloaded.tpl:240
 msgid "search"
 msgstr "搜索"
 
-#: templates/layout.tpl:269 templates/layoutAmp.tpl:237
-#: templates/layoutNew.tpl:259
+#: templates/layout.tpl:269 templates/layoutAmp.tpl:171
+#: templates/layoutNew.tpl:259 templates/layoutNewReloaded.tpl:273
 msgid "about"
 msgstr "关于我们"
 
-#: templates/layout.tpl:270 templates/layoutAmp.tpl:238
-#: templates/layoutNew.tpl:260
+#: templates/layout.tpl:270 templates/layoutAmp.tpl:172
+#: templates/layoutNew.tpl:260 templates/layoutNewReloaded.tpl:274
 msgid "blog"
 msgstr "博客"
 
-#: templates/layout.tpl:271 templates/layoutAmp.tpl:239
-#: templates/layoutNew.tpl:261
+#: templates/layout.tpl:271 templates/layoutAmp.tpl:173
+#: templates/layoutNew.tpl:261 templates/layoutNewReloaded.tpl:275
 msgid "terms"
 msgstr "服务条款"
 
-#: templates/layout.tpl:272 templates/layoutAmp.tpl:240
-#: templates/layoutNew.tpl:262
+#: templates/layout.tpl:272 templates/layoutAmp.tpl:174
+#: templates/layoutNew.tpl:262 templates/layoutNewReloaded.tpl:276
 msgid "manual"
 msgstr "手册"
 
-#: templates/layout.tpl:273 templates/layoutAmp.tpl:241
-#: templates/layoutNew.tpl:263
+#: templates/layout.tpl:273 templates/layoutAmp.tpl:175
+#: templates/layoutNew.tpl:263 templates/layoutNewReloaded.tpl:277
 msgid "contact"
 msgstr "联络我们"
 
-#: templates/layout.tpl:274 templates/layoutAmp.tpl:242
-#: templates/layoutNew.tpl:264
+#: templates/layout.tpl:274 templates/layoutAmp.tpl:176
+#: templates/layoutNew.tpl:264 templates/layoutNewReloaded.tpl:278
 msgid "history"
 msgstr "历史"
 
-#: templates/layout.tpl:275 templates/layoutAmp.tpl:243
-#: templates/layoutNew.tpl:265
+#: templates/layout.tpl:275 templates/layoutAmp.tpl:177
+#: templates/layoutNew.tpl:265 templates/layoutNewReloaded.tpl:279
 msgid "shouldianswer.net"
 msgstr "cn.shouldianswer.net"
 
+#: templates/layoutAmp.tpl:142 templates/layoutAmp.tpl:143
+#: templates/layoutNewReloaded.tpl:228 templates/layoutNewReloaded.tpl:229
+#: templates/layout_mobileapp.tpl:69 templates/mobilemanual/8.tpl:538
+msgid "Should I Answer?"
+msgstr "我应该接电话吗?"
+
 #: templates/layout_default.tpl:27 templates/layout_defaultNew.tpl:20
+#: templates/layout_defaultNewReloaded.tpl:19
 msgid "ShouldIAnswer Logo"
 msgstr "我应该接电话吗 商标"
 
@@ -1222,10 +1242,6 @@ msgstr ""
 #: templates/layout_default_ww.tpl:27
 msgid "shouldianswer.com Logo"
 msgstr "shouldianswer.com 商标"
-
-#: templates/layout_mobileapp.tpl:69 templates/mobilemanual/8.tpl:556
-msgid "Should I Answer?"
-msgstr "我应该接电话吗?"
 
 #: templates/mobileapp/default.tpl:17
 msgid "Phone Protection"
@@ -1369,7 +1385,7 @@ msgstr "用户手册"
 msgid "Should I Answer Manual"
 msgstr "我应该接电话吗的手册"
 
-#: templates/mobilemanual/8.tpl:152 templates/mobilemanual/8.tpl:557
+#: templates/mobilemanual/8.tpl:152 templates/mobilemanual/8.tpl:539
 msgid "Introduction"
 msgstr "介绍"
 
@@ -1403,7 +1419,7 @@ msgstr ""
 "\"mailto:support@shouldianswer.net\">support@shouldianswer.net</a>跟我们联"
 "系。"
 
-#: templates/mobilemanual/8.tpl:165 templates/mobilemanual/8.tpl:559
+#: templates/mobilemanual/8.tpl:165 templates/mobilemanual/8.tpl:541
 msgid "Installation"
 msgstr "安装"
 
@@ -1510,11 +1526,11 @@ msgid ""
 "configured in the <strong>BLOCKING</strong> tab."
 msgstr "在<strong>屏蔽</strong>标签您可以选择安定和屏蔽来致电的方式。 "
 
-#: templates/mobilemanual/8.tpl:200 templates/mobilemanual/8.tpl:562
+#: templates/mobilemanual/8.tpl:200 templates/mobilemanual/8.tpl:544
 msgid "User Interface"
 msgstr "用户借口"
 
-#: templates/mobilemanual/8.tpl:205 templates/mobilemanual/8.tpl:564
+#: templates/mobilemanual/8.tpl:205 templates/mobilemanual/8.tpl:546
 msgid "Summary"
 msgstr "总结"
 
@@ -1541,7 +1557,7 @@ msgid ""
 "provided."
 msgstr "有问题的零件会有红叉标记。在这种情况下，在组件单下会出现问题解决的钮。"
 
-#: templates/mobilemanual/8.tpl:214 templates/mobilemanual/8.tpl:565
+#: templates/mobilemanual/8.tpl:214 templates/mobilemanual/8.tpl:547
 msgid "Logs"
 msgstr "日志文件"
 
@@ -1568,27 +1584,27 @@ msgid ""
 "meaning:"
 msgstr "位于左边的图标指示有这些评价的电话号码: "
 
-#: templates/mobilemanual/8.tpl:228 templates/phonenumber/defaultAmp.tpl:422
+#: templates/mobilemanual/8.tpl:228
 #: templates/phonenumber/defaultDefault.tpl:426
-#: templates/phonenumber/defaultModerator.tpl:440
+#: templates/phonenumber/defaultModerator.tpl:458
 #: templates/phonenumber/defaultNew.tpl:419
 #: templates/phonenumber/defaultNext.tpl:497
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:462
 msgid "negative rating"
 msgstr "负面的评级"
 
-#: templates/mobilemanual/8.tpl:229 templates/phonenumber/defaultAmp.tpl:426
+#: templates/mobilemanual/8.tpl:229
 #: templates/phonenumber/defaultDefault.tpl:430
-#: templates/phonenumber/defaultModerator.tpl:444
+#: templates/phonenumber/defaultModerator.tpl:462
 #: templates/phonenumber/defaultNew.tpl:423
 #: templates/phonenumber/defaultNext.tpl:501
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:466
 msgid "neutral rating"
 msgstr "中立的评级"
 
-#: templates/mobilemanual/8.tpl:230 templates/phonenumber/defaultAmp.tpl:418
+#: templates/mobilemanual/8.tpl:230
 #: templates/phonenumber/defaultDefault.tpl:422
-#: templates/phonenumber/defaultModerator.tpl:436
+#: templates/phonenumber/defaultModerator.tpl:454
 #: templates/phonenumber/defaultNew.tpl:415
 #: templates/phonenumber/defaultNext.tpl:493
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:458
@@ -1627,8 +1643,8 @@ msgstr "未接致电"
 msgid "Blocked Outgoing Call"
 msgstr "屏蔽致电"
 
-#: templates/mobilemanual/8.tpl:251 templates/mobilemanual/8.tpl:293
-#: templates/mobilemanual/8.tpl:408
+#: templates/mobilemanual/8.tpl:251 templates/mobilemanual/8.tpl:275
+#: templates/mobilemanual/8.tpl:390
 msgid "Available Actions:"
 msgstr "可用行动："
 
@@ -1661,7 +1677,7 @@ msgstr ""
 "<strong>垃圾桶按钮单击</strong>：删除选择的日志文件 - 如果是系统的日志文件，"
 "您手机的日志文件不会改变，这个行动只会影响应用日志文件显示的方式。"
 
-#: templates/mobilemanual/8.tpl:262 templates/mobilemanual/8.tpl:566
+#: templates/mobilemanual/8.tpl:262 templates/mobilemanual/8.tpl:548
 msgid "Ratings"
 msgstr "评价"
 
@@ -1670,76 +1686,10 @@ msgid "In this section you can:"
 msgstr "在这个部分您可以："
 
 #: templates/mobilemanual/8.tpl:266
-msgid ""
-"configure how to combine the ratings from Community Database, your Phone "
-"Contacts and your own ratings into one final Phone Number Rating."
-msgstr ""
-"构成怎么结合共同体数据库、您的联系人和您自己的评价到一个终极的电话号码评价。 "
-
-#: templates/mobilemanual/8.tpl:267
 msgid "create and manage your ratings."
 msgstr "造成与管理您的评价"
 
 #: templates/mobilemanual/8.tpl:271
-msgid ""
-"In fact here you can set how the application will judge all calls. More "
-"rules can be activated in the same time. The combination of the rules is "
-"always applied in the top-to-bottom order, e.g. the active rule closer to "
-"the bottom of the list will be used."
-msgstr ""
-"其实，这里您可以设置应用判断电话的办法。几个规则可以在同样的时间被激活。使用"
-"规则的组合总是从上面到下面开始，就是说最下面激活的规则会首先地使用。"
-
-#: templates/mobilemanual/8.tpl:274
-msgid "There are 3 general rating rules:"
-msgstr "我们有三个主要的评分规则："
-
-#: templates/mobilemanual/8.tpl:276
-msgid ""
-"<strong>Use Community Database Rating</strong> : if this one is activated, "
-"it sets the initial number rating according to our Community Database."
-msgstr ""
-"<strong>使用共同体数据库的评价</strong>：如果这个规则被激活的话，它根据共同体"
-"数据库会设置基本评价。"
-
-#: templates/mobilemanual/8.tpl:277
-msgid ""
-"<strong>Be Positive for Contacts without your rating</strong> : if this one "
-"is activated, it sets a positive rating to all numbers stored in your mobile "
-"Contacts (if they do not have your other rating - in such case your rating "
-"rules)."
-msgstr ""
-"<strong>为了联系人总是使用正面评级</strong> : 如果这个规则被激活的话，它会把"
-"您所有的联系人设置有正面评级。(如果您为了如何联系人已经选择其它评价，在这种情"
-"况下，您的评价就更重要。"
-
-#: templates/mobilemanual/8.tpl:278
-msgid ""
-"<strong>Be Positive for Contacts without your and community rating</"
-"strong> : if this one is activated, it sets a positive rating to such "
-"numbers stored in your mobile Contacts where no yours and/or community "
-"database rating exists (if there is a yours and/or community database rating "
-"for some of those numbers, then the rating is used)."
-msgstr ""
-"<strong>为了联系人总是使用正面评级</strong>：如果这个规则被激活的话，，它把您"
-"所有的联系人和已经没有共同体数据库的评价设置有正面评级。(如果您为了如何联系人"
-"已经选择其它评价或者它已经有了其它共同体数据库的评价，这个规则没有用)。"
-
-#: templates/mobilemanual/8.tpl:283
-msgid "The last two rules are mutually exclusive, just one can be activated."
-msgstr "最后的两个规则互斥，就是说只启动一个规则。"
-
-#: templates/mobilemanual/8.tpl:287
-msgid "At the bottom of this screen the list of Your Ratings follows."
-msgstr "在这个屏幕的下面接着您评价单。"
-
-#: templates/mobilemanual/8.tpl:288
-msgid ""
-"Remember that these ratings at the bottom of the screen will rule all the "
-"above rules."
-msgstr "请记住，这些屏幕下面的规则比所有的上面的规则重要。"
-
-#: templates/mobilemanual/8.tpl:289
 msgid ""
 "Your rating can be defined for single or multiple phone numbers by using a "
 "mask."
@@ -1747,7 +1697,7 @@ msgstr ""
 "您的评价可以是为了一个电话号码，或者您可以使用“*”，这个样您会评价几个电话号"
 "码。"
 
-#: templates/mobilemanual/8.tpl:295
+#: templates/mobilemanual/8.tpl:277
 msgid ""
 "<strong>Rating Filter</strong> : (at the top of the screen) helps to filter "
 "the rating rules by phone number. Useful if you search for some specific "
@@ -1757,15 +1707,7 @@ msgstr ""
 "搜索具体电话规则，它很有用。只要在应用线点出和填完全或者一部分的号码，就可以"
 "了。"
 
-#: templates/mobilemanual/8.tpl:296
-msgid ""
-"<strong>General Rating Rules Click</strong> : if you click on any of the 3 "
-"lines this action switches the rule on or off."
-msgstr ""
-"<strong>主要的评分规则点出</strong> : 如果您在这三个线点出的话，这个行动会打"
-"开或者关闭这个规则。"
-
-#: templates/mobilemanual/8.tpl:297
+#: templates/mobilemanual/8.tpl:278
 msgid ""
 "<strong>User Rating Click</strong> : by clicking on any of your rating you "
 "open a screen for edition of the respective rating. There you can set the "
@@ -1774,7 +1716,7 @@ msgstr ""
 "<strong>用户评价点出</strong> : 如果您在如何评价点出的话，您就打开改变评价的"
 "屏幕。这里您可以设置评价的属性、删除评价、保存或者取消变化。"
 
-#: templates/mobilemanual/8.tpl:298
+#: templates/mobilemanual/8.tpl:279
 msgid ""
 "<strong>Plus Button Click</strong> : this action opens the screen for "
 "creation of new rating, see below the <strong>Phone Number Rating</strong>."
@@ -1782,38 +1724,38 @@ msgstr ""
 "<strong>加号按钮点出</strong> : 这个行动为了造成新的评价打开屏幕，您看得到在"
 "下面的 <strong>电话号码评价</strong>。"
 
-#: templates/mobilemanual/8.tpl:304 templates/mobilemanual/8.tpl:567
+#: templates/mobilemanual/8.tpl:285 templates/mobilemanual/8.tpl:549
 msgid "Alerts"
 msgstr "警告"
 
-#: templates/mobilemanual/8.tpl:306
+#: templates/mobilemanual/8.tpl:287
 msgid ""
 "Alert is security rating notification displayed during calling phase (can be "
 "done for both INCOMING or OUTGOING calls)."
 msgstr ""
 "警告是一个安全评价的通知，它在打电话的时候会出现 (它为了来电致电都可以出现)。"
 
-#: templates/mobilemanual/8.tpl:307
+#: templates/mobilemanual/8.tpl:288
 msgid "In this screen you can configure the Alerts displaying."
 msgstr "在这个屏幕里您可以配置警告显示的方式。"
 
-#: templates/mobilemanual/8.tpl:308
+#: templates/mobilemanual/8.tpl:289
 msgid "This setting here is done based on the phone number rating."
 msgstr "这里的设置跟电话号码的评价有关系。"
 
-#: templates/mobilemanual/8.tpl:309
+#: templates/mobilemanual/8.tpl:290
 msgid ""
 "For each rating you can check if you want to display the alert also for "
 "numbers from your Contacts or exclude your phone Contacts."
 msgstr "每个评价您可以选择是否您希望包括或者排除您联系人显示警告。"
 
-#: templates/mobilemanual/8.tpl:312
+#: templates/mobilemanual/8.tpl:293
 msgid ""
 "In the <strong>Advanced</strong> section at the bottom of the screen a "
 "system overlay can be enabled."
 msgstr "在<strong>高级</strong>部分的下面您可以启动系统覆盖。"
 
-#: templates/mobilemanual/8.tpl:313
+#: templates/mobilemanual/8.tpl:294
 msgid ""
 "If you are experiencing problems with alerts displaying, you can try to "
 "disable the usage of system overlays - this will cause the displaying of "
@@ -1822,17 +1764,17 @@ msgstr ""
 "如果您有警告显示的问题，您可以尝试停用系统覆盖的使用，这样他们会用其它办法来"
 "显示警告，以后很有可能您的电器就没问题显示警告。"
 
-#: templates/mobilemanual/8.tpl:318 templates/mobilemanual/8.tpl:568
+#: templates/mobilemanual/8.tpl:299 templates/mobilemanual/8.tpl:550
 msgid "Blocking"
 msgstr "屏蔽"
 
-#: templates/mobilemanual/8.tpl:320
+#: templates/mobilemanual/8.tpl:301
 msgid ""
 "In this section you can configure which incoming/outgoing calls should be "
 "blocked."
 msgstr "在这个部分您可以配置哪些来电和致电应该被屏蔽的。"
 
-#: templates/mobilemanual/8.tpl:321
+#: templates/mobilemanual/8.tpl:302
 msgid ""
 "Remember, in the <strong>Ratings</strong> screen you have set how to rate "
 "the number, now we will use it for the blocking functionality of the "
@@ -1841,34 +1783,33 @@ msgstr ""
 "请记住，在<strong>评价</strong>的屏幕里您设置了估价号码的方式，现在我们用这个"
 "设置为了应用屏蔽的功能。"
 
-#: templates/mobilemanual/8.tpl:323
+#: templates/mobilemanual/8.tpl:304
+msgid ""
+"In first two options you can check which phone numbers will be NEVER "
+"blocked. If you do'nt want to block numbers according to community database "
+"rating, then check the second option"
+msgstr ""
+
+#: templates/mobilemanual/8.tpl:305
 msgid ""
 "For incoming calls you can block negative rated numbers, hidden numbers and "
-"all numbers. Each selection can be provided except numbers stored in your "
-"Contacts."
+"all numbers."
 msgstr ""
-"为了来电您可以选择屏蔽有負面评价的号码、无法显示来电的号码或者所有的号码。每"
-"个选择可以排除您的联系人。"
 
-#: templates/mobilemanual/8.tpl:324
+#: templates/mobilemanual/8.tpl:306
 msgid ""
 "For outgoing calls you can block negative rated numbers, premium numbers, "
-"foreign numbers and all numbers. Again each selection can be provided except "
-"numbers stored in your Contacts."
+"foreign numbers and all numbers."
 msgstr ""
-"为了致电您可以选择屏蔽有負面评价的号码、付费专线电话号码、致外国电话或者所有"
-"的号码。再一次，每个选择可以排除您的联系人。"
 
-#: templates/mobilemanual/8.tpl:325
+#: templates/mobilemanual/8.tpl:307
 msgid ""
-"For incoming SMS and MMS you can block the SMS and MMS from negative rated "
-"numbers. For this functionality, a compatible SMS manager must be installed, "
-"please read the help screen displayed if you check this item."
+"For incoming SMS and MMS you can block the SMS and MMS. For this "
+"functionality, a compatible SMS manager must be installed, please read the "
+"help screen displayed if you check this item."
 msgstr ""
-"为了来短信和采信您可以选择屏蔽有負面评价号码的短信和采信。为了使用这个功能，"
-"您应该设置兼容的短信管理器。如果您点出这个项目，请读一下帮助屏幕。 "
 
-#: templates/mobilemanual/8.tpl:326
+#: templates/mobilemanual/8.tpl:308
 msgid ""
 "You can also select if you want to be notified when any blocking occurs. "
 "Notification is a different functionality than the Alerts displaying - "
@@ -1878,7 +1819,7 @@ msgstr ""
 "您也可以选择如果您希望屏蔽以后收到屏蔽的通知。通知功能与警告显示是不一样的功"
 "能，警告显示正在打电话的信心，要不然通知只会显示应用完成的行动。"
 
-#: templates/mobilemanual/8.tpl:327
+#: templates/mobilemanual/8.tpl:309
 msgid ""
 "Optionally you can try to use <strong>Pick & Hang method</strong> to protect "
 "your voicemail. When selecting this functionality, the app will block "
@@ -1891,33 +1832,33 @@ msgstr ""
 "这个功能的话，应用通过同时接和挂电话屏蔽来电。如果手机在使用漫游模式的话，应"
 "用不会接话。请只用这个功能如果您知道您一定不会付钱接来电。 "
 
-#: templates/mobilemanual/8.tpl:335 templates/mobilemanual/8.tpl:569
+#: templates/mobilemanual/8.tpl:317 templates/mobilemanual/8.tpl:551
 msgid "Settings"
 msgstr "设置"
 
-#: templates/mobilemanual/8.tpl:336
+#: templates/mobilemanual/8.tpl:318
 msgid "This section contains main application settings."
 msgstr "这个部分含有应用主要的设置。"
 
-#: templates/mobilemanual/8.tpl:338
+#: templates/mobilemanual/8.tpl:320
 msgid "General"
 msgstr "普遍"
 
-#: templates/mobilemanual/8.tpl:340
+#: templates/mobilemanual/8.tpl:322
 msgid "Show after-call information"
 msgstr "显示电话以后的信息"
 
-#: templates/mobilemanual/8.tpl:342
+#: templates/mobilemanual/8.tpl:324
 msgid ""
 "Here you can enable/disable displaying of phone number details after "
 "finishing the call."
 msgstr "这里您可以启用或者停用电话以后电话号码信息的显示。"
 
-#: templates/mobilemanual/8.tpl:345
+#: templates/mobilemanual/8.tpl:327
 msgid "Send anonymous stats about incoming calls"
 msgstr "发给关于来电的匿名统计"
 
-#: templates/mobilemanual/8.tpl:347
+#: templates/mobilemanual/8.tpl:329
 msgid ""
 "If the \"Send anonymous stats about incoming calls\" is selected, the user "
 "gives us a possibility to send the incoming UNKNOWN numbers to the server - "
@@ -1928,17 +1869,17 @@ msgstr ""
 "发到我们的服务器里，就是说我们只发给电话号码，非包括其它信息，从来不会有您个"
 "人资料转移您的手机。"
 
-#: templates/mobilemanual/8.tpl:348
+#: templates/mobilemanual/8.tpl:330
 msgid ""
 "Privacy is important for us, so we don't sends stats about numbers stored in "
 "your Phone Contacts!"
 msgstr "隐私对我们来说很重要，所以我们不要发给存在您联系人的号码统计！"
 
-#: templates/mobilemanual/8.tpl:349
+#: templates/mobilemanual/8.tpl:331
 msgid "Only unknown numbers are sent if this option is checked."
 msgstr "如果您选择这个选项的话，我们只会发到未知的号码。"
 
-#: templates/mobilemanual/8.tpl:350
+#: templates/mobilemanual/8.tpl:332
 msgid ""
 "This gives us a possibility to collect incoming unknown numbers from "
 "different sources - after then our team checks them and if same unknown "
@@ -1949,11 +1890,11 @@ msgstr ""
 "有一样的号码致电给多人，我们就查一些信息，造成新的评论和评价。以后这些信息都"
 "会被存在您当地的数据库。"
 
-#: templates/mobilemanual/8.tpl:353
+#: templates/mobilemanual/8.tpl:335
 msgid "Download reviews automatically"
 msgstr "自动地下载评论"
 
-#: templates/mobilemanual/8.tpl:355
+#: templates/mobilemanual/8.tpl:337
 msgid ""
 "If the \"Download reviews automatically\" is selected and your mobile is "
 "connected to the internet, the user reviews for the calling number are "
@@ -1963,7 +1904,7 @@ msgstr ""
 "如果您选择\"自动地下载评论\"的话，而且您的手机连接到互联网，手机响时会显示关"
 "于在来电话号码用户的评论，不然的话只会显示号码的总体评价。"
 
-#: templates/mobilemanual/8.tpl:356
+#: templates/mobilemanual/8.tpl:338
 msgid ""
 "If this item is not selected but the phone is connected to the internet, the "
 "user reviews can be downloaded also manually during the phone ringing phase "
@@ -1975,11 +1916,11 @@ msgstr ""
 "用户的评论 (这样用户可以决定他希望接话以前看一看电话号码的信息，或者他觉得只"
 "看每个来电自动的总体评价够了)。"
 
-#: templates/mobilemanual/8.tpl:359
+#: templates/mobilemanual/8.tpl:341
 msgid "Service as Foreground Process"
 msgstr "使用服务为前台进程"
 
-#: templates/mobilemanual/8.tpl:361
+#: templates/mobilemanual/8.tpl:343
 msgid ""
 "Enabling this you will speed up the blocking of unwanted calls - the "
 "application will be still running in the active memory. As a side effect you "
@@ -1989,17 +1930,17 @@ msgstr ""
 "如果您启动这个功能，它会加快屏蔽不需要来电话的功能  -应用一致运行在主动记忆"
 "里。副作用您在状态栏经久看得到应用图标和启动保护的通知。"
 
-#: templates/mobilemanual/8.tpl:362
+#: templates/mobilemanual/8.tpl:344
 msgid ""
 "As a benefit on most devices the speed of blocking should be much faster "
 "than phone ringing phase."
 msgstr "另一方面，在大部分的电器里屏蔽功能比手机响的阶段应该快得多。"
 
-#: templates/mobilemanual/8.tpl:365
+#: templates/mobilemanual/8.tpl:347
 msgid "Statistics Notification"
 msgstr "统计通知"
 
-#: templates/mobilemanual/8.tpl:367
+#: templates/mobilemanual/8.tpl:349
 msgid ""
 "If the \"Statistics Notification (once per 2 weeks)\" is selected the app "
 "will show system statistics as a notification after 2 weeks with a list of "
@@ -2008,41 +1949,41 @@ msgstr ""
 "如果您选择\"(每两个星期的)统计通知\"的话，每两个星期以后就显示系统统计通，包"
 "括完成的运动单。"
 
-#: templates/mobilemanual/8.tpl:368
+#: templates/mobilemanual/8.tpl:350
 msgid ""
 "This way user can easily check the overall application functionality and "
 "efficiency."
 msgstr "这样用户可以方便的检查应用完全的功能性与效率。"
 
-#: templates/mobilemanual/8.tpl:371
+#: templates/mobilemanual/8.tpl:353
 msgid "Use Light Theme"
 msgstr "使用白色的主题"
 
-#: templates/mobilemanual/8.tpl:373
+#: templates/mobilemanual/8.tpl:355
 msgid ""
 "There are two layout themes - light and dark. This item serves as a switch "
 "for them."
 msgstr "我们提供两种布局主题 - 白色的与黑色的。这个选项与交换按钮为使用。"
 
-#: templates/mobilemanual/8.tpl:374
+#: templates/mobilemanual/8.tpl:356
 msgid ""
 "Check it on your device which theme suits you better and which is more "
 "readable (e.g. on a direct sun)."
 msgstr "尝试哪一个主题更适合您的电器，哪一个读得更方便 (比如在阳光直射下等)。"
 
-#: templates/mobilemanual/8.tpl:378
+#: templates/mobilemanual/8.tpl:360
 msgid "System Permissions"
 msgstr "系统权限"
 
-#: templates/mobilemanual/8.tpl:380
+#: templates/mobilemanual/8.tpl:362
 msgid "System permissions are displayed only on Android 6 devices."
 msgstr "系统权限只在Android 6电器被显示。"
 
-#: templates/mobilemanual/8.tpl:383
+#: templates/mobilemanual/8.tpl:365
 msgid "Read Call Information"
 msgstr "阅览电话的信息"
 
-#: templates/mobilemanual/8.tpl:385
+#: templates/mobilemanual/8.tpl:367
 msgid ""
 "When someone call you the application checks the respective phone number "
 "against our database. Without this permission we can't find out who is "
@@ -2051,11 +1992,11 @@ msgstr ""
 "如果有人给您打电话，应用就在数据库里检查具体的电话号码。非有这个允许我们找不"
 "到谁在给您打电话。"
 
-#: templates/mobilemanual/8.tpl:387
+#: templates/mobilemanual/8.tpl:369
 msgid "Read Contacts"
 msgstr "阅览联系人"
 
-#: templates/mobilemanual/8.tpl:389
+#: templates/mobilemanual/8.tpl:371
 msgid ""
 "As written above, we take your stored contacts as your whitelist. Without "
 "this permission we don't know what phone numbers you consider to be safe."
@@ -2063,25 +2004,25 @@ msgstr ""
 "根据上面提到的一样，我们把您存在的联系人作为是您的白单。非有这个允许，我们就"
 "不知道哪些电话号码您觉得是安全的。"
 
-#: templates/mobilemanual/8.tpl:391
+#: templates/mobilemanual/8.tpl:373
 msgid "Allow System Overlays"
 msgstr "可用系统覆盖"
 
-#: templates/mobilemanual/8.tpl:393
+#: templates/mobilemanual/8.tpl:375
 msgid ""
 "The application shows alerts in foreground of incoming call screen. Without "
 "this permission we can't make the alerts fully interactive."
 msgstr "应用在来电屏幕的前台显示警告。非有这个允许我们不能完全互动那些警告。"
 
-#: templates/mobilemanual/8.tpl:400 templates/mobilemanual/8.tpl:571
+#: templates/mobilemanual/8.tpl:382 templates/mobilemanual/8.tpl:553
 msgid "Phone Number Details"
 msgstr "电话号码的信息"
 
-#: templates/mobilemanual/8.tpl:402
+#: templates/mobilemanual/8.tpl:384
 msgid "This screen shows detailed information for selected phone number."
 msgstr "这个屏幕会显示关于选择号码详细的信息。"
 
-#: templates/mobilemanual/8.tpl:403
+#: templates/mobilemanual/8.tpl:385
 msgid ""
 "Here you can find the overall number rating in the form of count of Positive/"
 "Neutral/Negative ratings and the category mostly used for this number (this "
@@ -2090,13 +2031,13 @@ msgstr ""
 "这里您找得到总体号码的评价，我们综合正面/中立/負面的评价，并且我们选择这个号"
 "码最常使用的类型 (这个信息存在您手机离线的数据库)。"
 
-#: templates/mobilemanual/8.tpl:404
+#: templates/mobilemanual/8.tpl:386
 msgid ""
 "You can also see how much positive/neutral/negative rating number received "
 "from community."
 msgstr "您也看得到该号码获到共同体正面/中立/負面评价的数量。"
 
-#: templates/mobilemanual/8.tpl:410
+#: templates/mobilemanual/8.tpl:392
 msgid ""
 "<strong>Block</strong> helps you to create negative rating for this number "
 "for further blocking. To activate the blocking you have to enable blocking "
@@ -2107,13 +2048,13 @@ msgstr ""
 "动屏蔽的功能，您需要在应用<strong>屏蔽</strong> 的屏幕启动屏蔽負面评价号码的"
 "功能。"
 
-#: templates/mobilemanual/8.tpl:411
+#: templates/mobilemanual/8.tpl:393
 msgid ""
 "<strong>Rate</strong> shows the form for filling your new phone number "
 "rating - see below."
 msgstr "<strong>估价</strong>显示填新号码评价的表格  -请看下面。"
 
-#: templates/mobilemanual/8.tpl:412
+#: templates/mobilemanual/8.tpl:394
 msgid ""
 "<strong>Reviews</strong> loads and shows the community reviews for this "
 "number. This function requires intenet access. If your own (personal) rating "
@@ -2124,32 +2065,32 @@ msgstr ""
 "您有自己(个人)的评价，它们就被自动地显示 (它们都存在您的手机里), 另外，为了编"
 "辑的评论就会出现编辑按钮。"
 
-#: templates/mobilemanual/8.tpl:413
+#: templates/mobilemanual/8.tpl:395
 msgid "<strong>Call Button Click</strong> initiates calling to the number."
 msgstr "<strong>打个电话按钮点出</strong>开始至电话。"
 
-#: templates/mobilemanual/8.tpl:419 templates/mobilemanual/8.tpl:572
+#: templates/mobilemanual/8.tpl:401 templates/mobilemanual/8.tpl:554
 msgid "Phone Number Rating"
 msgstr "电话号码的评价"
 
-#: templates/mobilemanual/8.tpl:421
+#: templates/mobilemanual/8.tpl:403
 msgid "Single or Group of numbers"
 msgstr "一个或者一组电话号码"
 
-#: templates/mobilemanual/8.tpl:422
+#: templates/mobilemanual/8.tpl:404
 msgid ""
 "Phone Number Rating can be defined for single number or for group of numbers."
 msgstr "通过电话号码的评价您能确定一个或者一组电话号码。"
 
-#: templates/mobilemanual/8.tpl:423
+#: templates/mobilemanual/8.tpl:405
 msgid "Group can be defined using * char at the end of the number."
 msgstr "为了确定一组电话号码，您可以在号码的后面使用´*´字。"
 
-#: templates/mobilemanual/8.tpl:424
+#: templates/mobilemanual/8.tpl:406
 msgid "For example 800* will define rating for all numbers starting with 800."
 msgstr "比如800*会评价所有开始800*的号码。"
 
-#: templates/mobilemanual/8.tpl:425
+#: templates/mobilemanual/8.tpl:407
 msgid ""
 "The <strong>PICK CONTACT</strong> enables you to pick a number from the list "
 "of Contacts and create a rule for it."
@@ -2157,17 +2098,17 @@ msgstr ""
 "如果您使用<strong>选择联系人</strong>的功能的话，您就可以随便选择联系人给它造"
 "成新的规则。"
 
-#: templates/mobilemanual/8.tpl:429
+#: templates/mobilemanual/8.tpl:411
 msgid "Public or Private"
 msgstr "公共或者私人"
 
-#: templates/mobilemanual/8.tpl:430
+#: templates/mobilemanual/8.tpl:412
 msgid ""
 "By default the rating is submitted to our community database for benefit of "
 "other users."
 msgstr "默认所有的评价都发给我们共同体数据库为了其它用户的利益。"
 
-#: templates/mobilemanual/8.tpl:431
+#: templates/mobilemanual/8.tpl:413
 msgid ""
 "If you don't want to make the rating for the respective number public, "
 "select this to avoid of sending it to our database - in such case the rating "
@@ -2176,51 +2117,51 @@ msgstr ""
 "如果您不要使该号码的评价公开，为了避免发给我们的数据库，您就选择这个选项，在"
 "这个情况下，评价就只会存在您的手机。"
 
-#: templates/mobilemanual/8.tpl:437 templates/mobilemanual/8.tpl:573
+#: templates/mobilemanual/8.tpl:419 templates/mobilemanual/8.tpl:555
 msgid "Rating Alert"
 msgstr "评价警告"
 
-#: templates/mobilemanual/8.tpl:439
+#: templates/mobilemanual/8.tpl:421
 msgid ""
 "In the Alert displayed for the phone call you can find all required "
 "information for making the decision to accept the call or hang up."
 msgstr "在关于电话显示的警告，您找得到所有需要决定您是否接挂电话的信息。"
 
-#: templates/mobilemanual/8.tpl:441
+#: templates/mobilemanual/8.tpl:423
 msgid ""
 "<strong>Contact</strong> shows name of the contact associated with phone "
 "number (if available)."
 msgstr "<strong>联系人</strong>显示该电话相关联系人的名字 (如果可用的话)。"
 
-#: templates/mobilemanual/8.tpl:442
+#: templates/mobilemanual/8.tpl:424
 msgid "<strong>Number</strong> shows phone number the alert is displayed for."
 msgstr "<strong>电话号码</strong>显示有警告显示的电话。"
 
-#: templates/mobilemanual/8.tpl:443
+#: templates/mobilemanual/8.tpl:425
 msgid ""
 "<strong>Rating</strong> shows one of positive, neutral, negative or unknown "
 "rating."
 msgstr "<strong>评价</strong>显示号码正面、中立、負面或者未知的评价之一。"
 
-#: templates/mobilemanual/8.tpl:444
+#: templates/mobilemanual/8.tpl:426
 msgid ""
 "<strong>Category</strong> shows the most used Category for the respective "
 "phone number"
 msgstr "<strong>类型</strong>显示最常使用的该号码的类型。"
 
-#: templates/mobilemanual/8.tpl:445
+#: templates/mobilemanual/8.tpl:427
 msgid ""
 "<strong>Community</strong> shows the total statistic counts of positive,"
 "neutral and negative ratings from the community"
 msgstr "<strong>共同体</strong>显示共同体正面、中立和負面的总结计数。"
 
-#: templates/mobilemanual/8.tpl:453
+#: templates/mobilemanual/8.tpl:435
 msgid ""
 "In this section you can access additional information and export/import "
 "function"
 msgstr "在这个部分您能进接附加的信息，输出/ 输入的功能。"
 
-#: templates/mobilemanual/8.tpl:455
+#: templates/mobilemanual/8.tpl:437
 msgid ""
 "If you need to contact us, use the email address provided. By clicking on "
 "the <strong>email address</strong> you will open a screen where some email "
@@ -2232,11 +2173,11 @@ msgstr ""
 "strong>点出，您就打开屏幕，这里您可以选择一些电子邮件客户端。完成这个运行以"
 "后，会准备好预填的电子邮件，而且它也包括您应用组态的信息。"
 
-#: templates/mobilemanual/8.tpl:456
+#: templates/mobilemanual/8.tpl:438
 msgid "strong>Online Manual</strong> opens the internet page with this manual."
 msgstr "<strong>在线手册</strong>打开有这个手册的网页。"
 
-#: templates/mobilemanual/8.tpl:457
+#: templates/mobilemanual/8.tpl:439
 msgid ""
 "<strong>Compatibility Check</strong> checks your configuration for known "
 "issues. An internet page with the check result will be open. Also a form for "
@@ -2246,19 +2187,19 @@ msgstr ""
 "<strong>兼容性检查</strong>检查您的配置为了找知道的问题。包括检查的结果网页会"
 "打开。在这里也有准备好的报告问题的表格 -为了报告如何应用问题，请您使用它。"
 
-#: templates/mobilemanual/8.tpl:458
+#: templates/mobilemanual/8.tpl:440
 msgid ""
 "strong>Terms of Use</strong> opens the internet page with terms of use of "
 "this product."
 msgstr "<strong>使用条件</strong 打开关于这个产品使用条件的网页。"
 
-#: templates/mobilemanual/8.tpl:459
+#: templates/mobilemanual/8.tpl:441
 msgid ""
 "<strong>Privacy Policy</strong> opens the internet page with privacy policy "
 "for out product."
 msgstr "<strong>隐私政策</strong>打开关于我们的产品隐私政策的网页。"
 
-#: templates/mobilemanual/8.tpl:460
+#: templates/mobilemanual/8.tpl:442
 msgid ""
 "<strong>Export / Import</strong> shows screen for exporting and importing "
 "data : all the application settings can be stored and used later / on "
@@ -2268,29 +2209,29 @@ msgstr ""
 "<strong>输出/ 输入</strong>显示输出与 输入资料的屏幕：通过备份还原的构成，您"
 "能存在和以后在其它电器再使用所有的应用设置。简单功能的指导被显示。"
 
-#: templates/mobilemanual/8.tpl:467 templates/mobilemanual/8.tpl:576
+#: templates/mobilemanual/8.tpl:449 templates/mobilemanual/8.tpl:558
 msgid "FAQ"
 msgstr "常问问题"
 
-#: templates/mobilemanual/8.tpl:469
+#: templates/mobilemanual/8.tpl:451
 msgid "Q: How to block phone number?"
 msgstr "问题：怎么屏蔽电话号码？"
 
-#: templates/mobilemanual/8.tpl:471
+#: templates/mobilemanual/8.tpl:453
 msgid ""
 "Create negative rating for the phone number and enable blocking of negative "
 "rated numbers."
 msgstr "首先造成負面的评价，以后就启用有負面评价号码的屏蔽。"
 
-#: templates/mobilemanual/8.tpl:474
+#: templates/mobilemanual/8.tpl:456
 msgid "Q: Why blocking does not work for me?"
 msgstr "问题：为什么不能启动屏蔽的功能？"
 
-#: templates/mobilemanual/8.tpl:476
+#: templates/mobilemanual/8.tpl:458
 msgid "Unfortunately there are some phone models where blocking does not work."
 msgstr "可惜有一些不能屏蔽号码的手机型号。"
 
-#: templates/mobilemanual/8.tpl:477
+#: templates/mobilemanual/8.tpl:459
 msgid ""
 "Blocking of a phone call is not a default functionality supported by Android "
 "system and used workarounds can be sometimes broken by phone manufacturer "
@@ -2299,15 +2240,15 @@ msgstr ""
 "屏蔽电话不是Android系统支持的默认功能，使用屏蔽的有时候是被手机制造商停用的，"
 "因为他们使用自己系统增强。"
 
-#: templates/mobilemanual/8.tpl:480
+#: templates/mobilemanual/8.tpl:462
 msgid "Q: Where can I find version for iPhone?"
 msgstr "问题：在哪儿找到iPhone版本？"
 
-#: templates/mobilemanual/8.tpl:482
+#: templates/mobilemanual/8.tpl:464
 msgid "There is no version for iPhone yet."
 msgstr "现在还没有iPhone版本。"
 
-#: templates/mobilemanual/8.tpl:483
+#: templates/mobilemanual/8.tpl:465
 msgid ""
 "iPhone's operating system doesn't provide access to contacts, incoming or "
 "outgoing calls or some reliable way how to intercept or block calls."
@@ -2315,56 +2256,56 @@ msgstr ""
 "iPhone 操作系统不提供联系人的接入、来电致电的信息，另外它也不提供可靠阻止与屏"
 "蔽的方法。"
 
-#: templates/mobilemanual/8.tpl:484
+#: templates/mobilemanual/8.tpl:466
 msgid ""
 "With such conditions the application could provide just manual phone info "
 "search - nearly same functionality as provided by our web pages."
 msgstr ""
 "在这个情况下，应用只能提供手工手机信息的搜索-跟我们网站提供的功能大概同样。"
 
-#: templates/mobilemanual/8.tpl:485
+#: templates/mobilemanual/8.tpl:467
 msgid ""
 "Due to this limitation there is very low priority to make any iPhone native "
 "app."
 msgstr "由于这个局限性，因而造成iPhone 应用出版的优先很小。"
 
-#: templates/mobilemanual/8.tpl:490 templates/removalrequest/default.tpl:239
+#: templates/mobilemanual/8.tpl:472 templates/removalrequest/default.tpl:239
 #: templates/termsapp/default.tpl:17
 msgid "Terms Of Use"
 msgstr "服务条款"
 
-#: templates/mobilemanual/8.tpl:506 templates/mobilemanual/8.tpl:578
+#: templates/mobilemanual/8.tpl:488 templates/mobilemanual/8.tpl:560
 #: templates/privacyapp/default.tpl:17 templates/privacypolicy/default.tpl:17
 #: templates/privacypolicy/default.tpl:27
 msgid "Privacy Policy"
 msgstr "隐私政策"
 
-#: templates/mobilemanual/8.tpl:508
+#: templates/mobilemanual/8.tpl:490
 msgid ""
 "Privacy matters but it can be confusing. Please read this explanation of our "
 "approach to privacy in our application."
 msgstr ""
 "隐私事情很重要，但是有时候很芜杂。请阅览这个关于我们应用隐私政策态度的解释。"
 
-#: templates/mobilemanual/8.tpl:511
+#: templates/mobilemanual/8.tpl:493
 msgid "Phone Contacts"
 msgstr "联系人"
 
-#: templates/mobilemanual/8.tpl:513
+#: templates/mobilemanual/8.tpl:495
 msgid "Our app doesn't send your contact information to server."
 msgstr "我们的应用不发给您联系人的信息到服务器。"
 
-#: templates/mobilemanual/8.tpl:516
+#: templates/mobilemanual/8.tpl:498
 msgid "History of Incoming and Outgoing Calls"
 msgstr "来电与致电话记录"
 
-#: templates/mobilemanual/8.tpl:518
+#: templates/mobilemanual/8.tpl:500
 msgid ""
 "In default, the app doesn't send any information about incoming or outgoing "
 "calls."
 msgstr "根据基本设置应用不发给关于来电与致电的信息。"
 
-#: templates/mobilemanual/8.tpl:519
+#: templates/mobilemanual/8.tpl:501
 msgid ""
 "Because information about incoming unknown calls can help us improve our "
 "service, you can enable sending of this information in the settings."
@@ -2372,31 +2313,31 @@ msgstr ""
 "因为这个关于来未知电话的信息可以帮助我们改善我们的服务，所以您在设置能启动这"
 "个信息。"
 
-#: templates/mobilemanual/8.tpl:520
+#: templates/mobilemanual/8.tpl:502
 msgid "Thank you for your help."
 msgstr "谢谢您的帮助。"
 
-#: templates/mobilemanual/8.tpl:523
+#: templates/mobilemanual/8.tpl:505
 msgid "Displaying of Phone Number User Reviews"
 msgstr "显示用户电话号码的评论"
 
-#: templates/mobilemanual/8.tpl:525
+#: templates/mobilemanual/8.tpl:507
 msgid ""
 "Displaying of user reviews for the respective number needs your permission "
 "to send respective phone number to server."
 msgstr "显示用户电话号码的评论，需要您的允可发给此号码到服务器。"
 
-#: templates/mobilemanual/8.tpl:526
+#: templates/mobilemanual/8.tpl:508
 msgid ""
 "This can't be done without your permission, so Permission dialog is "
 "displayed before start of reviews download."
 msgstr "这个运行需要有您的允可，所以下载评论以前会出现一个允可的对话框。"
 
-#: templates/mobilemanual/8.tpl:529
+#: templates/mobilemanual/8.tpl:511
 msgid "Submitting of own phone number review"
 msgstr "您自己电话号码评论的提交"
 
-#: templates/mobilemanual/8.tpl:531
+#: templates/mobilemanual/8.tpl:513
 msgid ""
 "If you fill and send some phone number rating, you agree with publishing the "
 "phone number and all filled information on our website."
@@ -2404,7 +2345,7 @@ msgstr ""
 "如果您填和发给如何电话号码的评价，您就同意在我们的网站出版这个号码和如何填的"
 "信息。"
 
-#: templates/mobilemanual/8.tpl:532
+#: templates/mobilemanual/8.tpl:514
 msgid ""
 "We also store technical information about the request (time, IP and agent) "
 "for solving problems with illegal activity."
@@ -2412,42 +2353,42 @@ msgstr ""
 "我们也储存关于要求一些技术的信息 (时间、IP与媒介)，如果将来会出生如何非法行为"
 "的问题。"
 
-#: templates/mobilemanual/8.tpl:535
+#: templates/mobilemanual/8.tpl:517
 msgid "Using our web service"
 msgstr "使用我们网络服务"
 
-#: templates/mobilemanual/8.tpl:536
+#: templates/mobilemanual/8.tpl:518
 msgid ""
 "Some features like reviews download, database update, phone info search.. "
 "uses our web service."
 msgstr ""
 "有些功能比如下载评论、数据库更新、手机信息的搜索... ...被我们的网站使用。"
 
-#: templates/mobilemanual/8.tpl:537
+#: templates/mobilemanual/8.tpl:519
 msgid ""
 "Our web service collects anonymous statistics about visitors and service "
 "usage."
 msgstr "我们的网络服务收集用户和服务使用的匿名统计。"
 
-#: templates/mobilemanual/8.tpl:538
+#: templates/mobilemanual/8.tpl:520
 msgid "Please read privacy policy of our web service for detailed information."
 msgstr "为了得到详细的信息，请阅览我们网站的隐私政策。"
 
-#: templates/mobilemanual/8.tpl:540
+#: templates/mobilemanual/8.tpl:522
 msgid "Updates to this policy"
 msgstr "这个政策的更新"
 
-#: templates/mobilemanual/8.tpl:541
+#: templates/mobilemanual/8.tpl:523
 msgid ""
 "We may update this privacy policy anytime to keep this description in sync "
 "with used technology."
 msgstr "任何时候我们能更新这个隐私政策，这样隐私政策与使用的技术一样。"
 
-#: templates/mobilemanual/8.tpl:544
+#: templates/mobilemanual/8.tpl:526
 msgid "Any questions?"
 msgstr "您有如何问题吗？"
 
-#: templates/mobilemanual/8.tpl:546
+#: templates/mobilemanual/8.tpl:528
 msgid ""
 "If you have any questions about our product, terms or privacy policy, please "
 "write to us by email to <a href=\"mailto:support@shouldianswer.net"
@@ -2456,15 +2397,15 @@ msgstr ""
 "如果您有关于我们的产品、使用条件或者隐私政策如何问题，请您发邮件到 <a href="
 "\"mailto:support@shouldianswer.net\">support@shouldianswer.net</a>联系我们。"
 
-#: templates/mobilemanual/8.tpl:560
+#: templates/mobilemanual/8.tpl:542
 msgid "Features"
 msgstr "功能"
 
-#: templates/mobilemanual/8.tpl:561
+#: templates/mobilemanual/8.tpl:543
 msgid "How It Works"
 msgstr "怎么工作"
 
-#: templates/mobilemanual/8.tpl:577 templates/terms/default.tpl:17
+#: templates/mobilemanual/8.tpl:559 templates/terms/default.tpl:17
 msgid "Terms of Use"
 msgstr "服务条款"
 
@@ -2482,10 +2423,10 @@ msgstr ""
 "库真巨大。谢谢您！"
 
 #: templates/phonenumber/accessTemporalyLimited.tpl:23
-#: templates/phonenumber/defaultAmp.tpl:24
 #: templates/phonenumber/defaultDefault.tpl:21
-#: templates/phonenumber/defaultModerator.tpl:20
+#: templates/phonenumber/defaultModerator.tpl:21
 #: templates/phonenumber/defaultNew.tpl:21
+#: templates/phonenumber/defaultNewReloaded.tpl:21
 #: templates/phonenumber/defaultNext.tpl:20
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:26
 #, php-format
@@ -2493,10 +2434,10 @@ msgid "Who called you from %s ?"
 msgstr "谁从号码%s 给您致电"
 
 #: templates/phonenumber/accessTemporalyLimited.tpl:24
-#: templates/phonenumber/defaultAmp.tpl:25
 #: templates/phonenumber/defaultDefault.tpl:23
-#: templates/phonenumber/defaultModerator.tpl:21
+#: templates/phonenumber/defaultModerator.tpl:22
 #: templates/phonenumber/defaultNew.tpl:22
+#: templates/phonenumber/defaultNewReloaded.tpl:22
 #: templates/phonenumber/defaultNext.tpl:22
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:27
 #, php-format
@@ -2508,10 +2449,10 @@ msgstr ""
 "时您也可以阅读其它用户的评价。"
 
 #: templates/phonenumber/accessTemporalyLimited.tpl:54
-#: templates/phonenumber/defaultAmp.tpl:135
 #: templates/phonenumber/defaultDefault.tpl:101
-#: templates/phonenumber/defaultModerator.tpl:86
+#: templates/phonenumber/defaultModerator.tpl:87
 #: templates/phonenumber/defaultNew.tpl:132
+#: templates/phonenumber/defaultNewReloaded.tpl:139
 #: templates/phonenumber/defaultNext.tpl:216
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:63
 msgid "Who called you from "
@@ -2550,451 +2491,28 @@ msgstr "我应该接电话吗的团队"
 
 #: templates/phonenumber/accessTemporalyLimited.tpl:76
 #: templates/phonenumber/defaultDefault.tpl:629
-#: templates/phonenumber/defaultModerator.tpl:610
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:628
 #, php-format
 msgid "Possible <strong>formats</strong> of the  %s"
 msgstr "%s 可能的<strong>格式</strong>"
 
 #: templates/phonenumber/accessTemporalyLimited.tpl:95
-#: templates/phonenumber/defaultAmp.tpl:631
 #: templates/phonenumber/defaultDefault.tpl:652
 #: templates/phonenumber/defaultModerator.tpl:631
 #: templates/phonenumber/defaultNew.tpl:628
+#: templates/phonenumber/defaultNewReloaded.tpl:645
 #: templates/phonenumber/defaultNext.tpl:720
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:647
 msgid "<strong>Searching</strong> for similar phone numbers?"
 msgstr "<strong>要搜索</strong>相似的电话号码吗？"
 
-#: templates/phonenumber/defaultAmp.tpl:32
 #: templates/phonenumber/defaultDefault.tpl:30
 #: templates/phonenumber/defaultNew.tpl:29
+#: templates/phonenumber/defaultNewReloaded.tpl:29
 #: templates/phonenumber/defaultNext.tpl:29
 #, php-format
 msgid "We have details about phone number %s. "
 msgstr "我们有%s的号码详细的信息。"
-
-#: templates/phonenumber/defaultAmp.tpl:167
-#: templates/phonenumber/defaultModerator.tpl:118
-#: templates/phonenumber/defaultNew.tpl:164
-#: templates/phonenumber/defaultNext.tpl:247
-msgid "ratings"
-msgstr "评价"
-
-#: templates/phonenumber/defaultAmp.tpl:168
-#: templates/phonenumber/defaultModerator.tpl:119
-#: templates/phonenumber/defaultNew.tpl:165
-#: templates/phonenumber/defaultNext.tpl:248
-msgid "reviews"
-msgstr "评论"
-
-#: templates/phonenumber/defaultAmp.tpl:169
-#: templates/phonenumber/defaultModerator.tpl:120
-#: templates/phonenumber/defaultNew.tpl:166
-#: templates/phonenumber/defaultNext.tpl:249
-msgid "no ratings"
-msgstr "无评价"
-
-#: templates/phonenumber/defaultAmp.tpl:170
-#: templates/phonenumber/defaultModerator.tpl:121
-#: templates/phonenumber/defaultNew.tpl:167
-#: templates/phonenumber/defaultNext.tpl:250
-msgid "no reviews"
-msgstr "无评论"
-
-#: templates/phonenumber/defaultAmp.tpl:171
-#: templates/phonenumber/defaultModerator.tpl:122
-#: templates/phonenumber/defaultNew.tpl:168
-#: templates/phonenumber/defaultNext.tpl:251
-msgid "single rating"
-msgstr "唯一个评价"
-
-#: templates/phonenumber/defaultAmp.tpl:172
-#: templates/phonenumber/defaultModerator.tpl:123
-#: templates/phonenumber/defaultNew.tpl:169
-#: templates/phonenumber/defaultNext.tpl:252
-msgid "single review"
-msgstr "唯一个评论"
-
-#: templates/phonenumber/defaultAmp.tpl:173
-#: templates/phonenumber/defaultModerator.tpl:124
-#: templates/phonenumber/defaultNew.tpl:170
-#: templates/phonenumber/defaultNext.tpl:253
-#, php-format
-msgid "We have %s and %s for this phone number."
-msgstr "我们关于这个号码有%s与%s。"
-
-#: templates/phonenumber/defaultAmp.tpl:198
-#: templates/phonenumber/defaultModerator.tpl:149
-#: templates/phonenumber/defaultNew.tpl:195
-#: templates/phonenumber/defaultNext.tpl:277
-#, php-format
-msgid "Single user marked it with %s rating"
-msgstr "一个用户选择了%s的评价"
-
-#: templates/phonenumber/defaultAmp.tpl:200
-#: templates/phonenumber/defaultModerator.tpl:151
-#: templates/phonenumber/defaultNew.tpl:197
-#: templates/phonenumber/defaultNext.tpl:279
-#, php-format
-msgid "%s users marked it with %s rating"
-msgstr "%s个用户选择了%s的评价"
-
-#: templates/phonenumber/defaultAmp.tpl:203
-#: templates/phonenumber/defaultModerator.tpl:154
-#: templates/phonenumber/defaultNew.tpl:200
-#: templates/phonenumber/defaultNext.tpl:282
-msgid "and"
-msgstr "以及"
-
-#: templates/phonenumber/defaultAmp.tpl:207
-#: templates/phonenumber/defaultModerator.tpl:158
-#: templates/phonenumber/defaultNew.tpl:204
-#: templates/phonenumber/defaultNext.tpl:286
-#, php-format
-msgid "single user with %s rating"
-msgstr "唯一个有%s评价的用户"
-
-#: templates/phonenumber/defaultAmp.tpl:209
-#: templates/phonenumber/defaultModerator.tpl:160
-#: templates/phonenumber/defaultNew.tpl:206
-#: templates/phonenumber/defaultNext.tpl:288
-#, php-format
-msgid "%s users with %s rating"
-msgstr "%s有%s评价的用户"
-
-#: templates/phonenumber/defaultAmp.tpl:265
-#: templates/phonenumber/defaultModerator.tpl:216
-#: templates/phonenumber/defaultNew.tpl:262
-#: templates/phonenumber/defaultNext.tpl:340
-#, php-format
-msgid "Possible phone number formats are "
-msgstr "可能使用电话号码格式都是"
-
-#: templates/phonenumber/defaultAmp.tpl:309
-#: templates/phonenumber/defaultNew.tpl:306
-#: templates/phonenumber/defaultNext.tpl:385
-#, php-format
-msgid "<strong>Reviews</strong> for phone number %s"
-msgstr "关于%s的<strong>评论</strong>"
-
-#: templates/phonenumber/defaultAmp.tpl:315
-#: templates/phonenumber/defaultNew.tpl:312
-#: templates/phonenumber/defaultNext.tpl:392
-msgid "Add <strong>Your rating</strong>"
-msgstr "加入 <strong>您的评价</strong>"
-
-#: templates/phonenumber/defaultAmp.tpl:319
-#: templates/phonenumber/defaultDefault.tpl:300
-#: templates/phonenumber/defaultModerator.tpl:313
-#: templates/phonenumber/defaultNew.tpl:316
-#: templates/phonenumber/defaultNext.tpl:395
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:336
-msgid "click here to show rating form"
-msgstr "为了显示评价表格，情点击这里。"
-
-#: templates/phonenumber/defaultAmp.tpl:332
-#: templates/phonenumber/defaultDefault.tpl:313
-#: templates/phonenumber/defaultModerator.tpl:327
-#: templates/phonenumber/defaultNew.tpl:329
-#: templates/phonenumber/defaultNext.tpl:407
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:349
-msgid "Rating"
-msgstr "评价"
-
-#: templates/phonenumber/defaultAmp.tpl:334
-#: templates/phonenumber/defaultDefault.tpl:315
-#: templates/phonenumber/defaultModerator.tpl:329
-#: templates/phonenumber/defaultNew.tpl:331
-#: templates/phonenumber/defaultNext.tpl:409
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:351
-msgid "select rating"
-msgstr "选择评级"
-
-#: templates/phonenumber/defaultAmp.tpl:340
-#: templates/phonenumber/defaultDefault.tpl:321
-#: templates/phonenumber/defaultModerator.tpl:335
-#: templates/phonenumber/defaultNew.tpl:337
-#: templates/phonenumber/defaultNext.tpl:415
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:357
-msgid "Please select rating!"
-msgstr "请选择评级！"
-
-#: templates/phonenumber/defaultAmp.tpl:346
-#: templates/phonenumber/defaultDefault.tpl:327
-#: templates/phonenumber/defaultModerator.tpl:341
-#: templates/phonenumber/defaultNew.tpl:343
-#: templates/phonenumber/defaultNext.tpl:421
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:363
-msgid "Category"
-msgstr "类型"
-
-#: templates/phonenumber/defaultAmp.tpl:348
-#: templates/phonenumber/defaultDefault.tpl:329
-#: templates/phonenumber/defaultModerator.tpl:343
-#: templates/phonenumber/defaultNew.tpl:345
-#: templates/phonenumber/defaultNext.tpl:423
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:365
-msgid "select category"
-msgstr "选择类型"
-
-#: templates/phonenumber/defaultAmp.tpl:358
-#: templates/phonenumber/defaultDefault.tpl:339
-#: templates/phonenumber/defaultModerator.tpl:353
-#: templates/phonenumber/defaultNew.tpl:355
-#: templates/phonenumber/defaultNext.tpl:433
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:375
-msgid "Please select category!"
-msgstr "请选择类型！"
-
-#: templates/phonenumber/defaultAmp.tpl:366
-#: templates/phonenumber/defaultAmp.tpl:663
-#: templates/phonenumber/defaultDefault.tpl:347
-#: templates/phonenumber/defaultDefault.tpl:702
-#: templates/phonenumber/defaultModerator.tpl:361
-#: templates/phonenumber/defaultModerator.tpl:668
-#: templates/phonenumber/defaultNew.tpl:363
-#: templates/phonenumber/defaultNew.tpl:660
-#: templates/phonenumber/defaultNext.tpl:441
-#: templates/phonenumber/defaultNext.tpl:765
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:383
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:699
-msgid "Name"
-msgstr "名字"
-
-#: templates/phonenumber/defaultAmp.tpl:367
-#: templates/phonenumber/defaultDefault.tpl:348
-#: templates/phonenumber/defaultModerator.tpl:362
-#: templates/phonenumber/defaultNew.tpl:364
-#: templates/phonenumber/defaultNext.tpl:442
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:384
-msgid "name or nickname"
-msgstr "名字或昵称"
-
-#: templates/phonenumber/defaultAmp.tpl:370
-#: templates/phonenumber/defaultDefault.tpl:351
-#: templates/phonenumber/defaultModerator.tpl:368
-#: templates/phonenumber/defaultNew.tpl:367
-#: templates/phonenumber/defaultNext.tpl:445
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:390
-msgid "Please enter your name or nickname!"
-msgstr "请输入您的名字或昵称！"
-
-#: templates/phonenumber/defaultAmp.tpl:376
-#: templates/phonenumber/defaultDefault.tpl:357
-#: templates/phonenumber/defaultModerator.tpl:374
-#: templates/phonenumber/defaultNew.tpl:373
-#: templates/phonenumber/defaultNext.tpl:451
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:396
-msgid "Title"
-msgstr "标题"
-
-#: templates/phonenumber/defaultAmp.tpl:377
-#: templates/phonenumber/defaultDefault.tpl:358
-#: templates/phonenumber/defaultModerator.tpl:375
-#: templates/phonenumber/defaultNew.tpl:374
-#: templates/phonenumber/defaultNext.tpl:452
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:397
-msgid "title (optional)"
-msgstr "主题（可选填）"
-
-#: templates/phonenumber/defaultAmp.tpl:382
-#: templates/phonenumber/defaultAmp.tpl:668
-#: templates/phonenumber/defaultDefault.tpl:363
-#: templates/phonenumber/defaultDefault.tpl:707
-#: templates/phonenumber/defaultModerator.tpl:380
-#: templates/phonenumber/defaultModerator.tpl:673
-#: templates/phonenumber/defaultNew.tpl:379
-#: templates/phonenumber/defaultNew.tpl:665
-#: templates/phonenumber/defaultNext.tpl:457
-#: templates/phonenumber/defaultNext.tpl:770
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:402
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:704
-msgid "Comment"
-msgstr "留言"
-
-#: templates/phonenumber/defaultAmp.tpl:383
-#: templates/phonenumber/defaultDefault.tpl:364
-#: templates/phonenumber/defaultModerator.tpl:381
-#: templates/phonenumber/defaultNew.tpl:380
-#: templates/phonenumber/defaultNext.tpl:458
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:403
-msgid "write your comment"
-msgstr "写您的留信"
-
-#: templates/phonenumber/defaultAmp.tpl:386
-#: templates/phonenumber/defaultDefault.tpl:367
-#: templates/phonenumber/defaultModerator.tpl:384
-#: templates/phonenumber/defaultNew.tpl:383
-#: templates/phonenumber/defaultNext.tpl:461
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:406
-msgid "Please enter your comment!"
-msgstr "请输入您的留信！"
-
-#: templates/phonenumber/defaultAmp.tpl:393
-#: templates/phonenumber/defaultDefault.tpl:374
-#: templates/phonenumber/defaultModerator.tpl:391
-#: templates/phonenumber/defaultNew.tpl:390
-#: templates/phonenumber/defaultNext.tpl:468
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:413
-msgid "send rating"
-msgstr "发送评级"
-
-#: templates/phonenumber/defaultAmp.tpl:460
-#: templates/phonenumber/defaultDefault.tpl:463
-#: templates/phonenumber/defaultModerator.tpl:478
-#: templates/phonenumber/defaultNew.tpl:457
-#: templates/phonenumber/defaultNext.tpl:534
-msgid "owner"
-msgstr "业主"
-
-#: templates/phonenumber/defaultAmp.tpl:461
-#: templates/phonenumber/defaultDefault.tpl:464
-#: templates/phonenumber/defaultModerator.tpl:479
-#: templates/phonenumber/defaultNew.tpl:458
-#: templates/phonenumber/defaultNext.tpl:535
-msgid "moderator"
-msgstr "版主"
-
-#: templates/phonenumber/defaultAmp.tpl:462
-#: templates/phonenumber/defaultDefault.tpl:465
-#: templates/phonenumber/defaultModerator.tpl:480
-#: templates/phonenumber/defaultNew.tpl:459
-#: templates/phonenumber/defaultNext.tpl:536
-msgid "censored"
-msgstr "审查的"
-
-#: templates/phonenumber/defaultAmp.tpl:463
-#: templates/phonenumber/defaultDefault.tpl:466
-#: templates/phonenumber/defaultModerator.tpl:481
-#: templates/phonenumber/defaultNew.tpl:460
-#: templates/phonenumber/defaultNext.tpl:537
-msgid "system"
-msgstr "系统"
-
-#: templates/phonenumber/defaultAmp.tpl:469
-#: templates/phonenumber/defaultDefault.tpl:472
-#: templates/phonenumber/defaultModerator.tpl:487
-#: templates/phonenumber/defaultNew.tpl:466
-#: templates/phonenumber/defaultNext.tpl:543
-msgid "featured"
-msgstr "建议的"
-
-#: templates/phonenumber/defaultAmp.tpl:482
-#: templates/phonenumber/defaultDefault.tpl:487
-#: templates/phonenumber/defaultModerator.tpl:500
-#: templates/phonenumber/defaultNew.tpl:479
-#: templates/phonenumber/defaultNext.tpl:558
-msgid "This comment has been removed because violated terms of use"
-msgstr "由于违反使用条件，这个留信被删除的"
-
-#: templates/phonenumber/defaultAmp.tpl:488
-#: templates/phonenumber/defaultAmp.tpl:533
-#: templates/phonenumber/defaultDefault.tpl:495
-#: templates/phonenumber/defaultDefault.tpl:543
-#: templates/phonenumber/defaultModerator.tpl:506
-#: templates/phonenumber/defaultModerator.tpl:551
-#: templates/phonenumber/defaultNew.tpl:485
-#: templates/phonenumber/defaultNew.tpl:530
-#: templates/phonenumber/defaultNext.tpl:563
-#: templates/phonenumber/defaultNext.tpl:611
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:510
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:548
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:866
-msgid "Agree"
-msgstr "同意"
-
-#: templates/phonenumber/defaultAmp.tpl:493
-#: templates/phonenumber/defaultAmp.tpl:538
-#: templates/phonenumber/defaultDefault.tpl:502
-#: templates/phonenumber/defaultDefault.tpl:550
-#: templates/phonenumber/defaultModerator.tpl:511
-#: templates/phonenumber/defaultModerator.tpl:556
-#: templates/phonenumber/defaultNew.tpl:490
-#: templates/phonenumber/defaultNew.tpl:535
-#: templates/phonenumber/defaultNext.tpl:570
-#: templates/phonenumber/defaultNext.tpl:618
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:516
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:554
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:869
-msgid "Disagree"
-msgstr "不同意"
-
-#: templates/phonenumber/defaultAmp.tpl:499
-#: templates/phonenumber/defaultDefault.tpl:510
-#: templates/phonenumber/defaultModerator.tpl:517
-#: templates/phonenumber/defaultNew.tpl:496
-#: templates/phonenumber/defaultNext.tpl:578
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:523
-msgid "Comments"
-msgstr "留言"
-
-#: templates/phonenumber/defaultAmp.tpl:507
-#: templates/phonenumber/defaultAmp.tpl:659
-#: templates/phonenumber/defaultDefault.tpl:517
-#: templates/phonenumber/defaultDefault.tpl:698
-#: templates/phonenumber/defaultModerator.tpl:525
-#: templates/phonenumber/defaultModerator.tpl:664
-#: templates/phonenumber/defaultNew.tpl:504
-#: templates/phonenumber/defaultNew.tpl:656
-#: templates/phonenumber/defaultNext.tpl:585
-#: templates/phonenumber/defaultNext.tpl:761
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:529
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:695
-msgid "Add Comment"
-msgstr "添加留信"
-
-#: templates/phonenumber/defaultAmp.tpl:513
-#: templates/phonenumber/defaultAmp.tpl:543
-#: templates/phonenumber/defaultDefault.tpl:523
-#: templates/phonenumber/defaultDefault.tpl:557
-#: templates/phonenumber/defaultModerator.tpl:531
-#: templates/phonenumber/defaultModerator.tpl:561
-#: templates/phonenumber/defaultNew.tpl:510
-#: templates/phonenumber/defaultNew.tpl:540
-#: templates/phonenumber/defaultNext.tpl:591
-#: templates/phonenumber/defaultNext.tpl:625
-msgid "Delete"
-msgstr "删除"
-
-#: templates/phonenumber/defaultAmp.tpl:595
-#: templates/phonenumber/defaultDefault.tpl:195
-#: templates/phonenumber/defaultDefault.tpl:233
-#: templates/phonenumber/defaultDefault.tpl:271
-#: templates/phonenumber/defaultNew.tpl:592
-#: templates/phonenumber/defaultNext.tpl:680
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:231
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:269
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:307
-msgid "How to block this number?"
-msgstr "如何阻止这个号码？"
-
-#: templates/phonenumber/defaultAmp.tpl:673
-#: templates/phonenumber/defaultDefault.tpl:712
-#: templates/phonenumber/defaultModerator.tpl:678
-#: templates/phonenumber/defaultNew.tpl:670
-#: templates/phonenumber/defaultNext.tpl:775
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:709
-msgid "Submit"
-msgstr "提交"
-
-#: templates/phonenumber/defaultAmp.tpl:814
-#: templates/phonenumber/defaultDefault.tpl:850
-#: templates/phonenumber/defaultModerator.tpl:816
-#: templates/phonenumber/defaultNew.tpl:812
-#: templates/phonenumber/defaultNext.tpl:915
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:841
-msgid "Please enter your name or nick"
-msgstr "请输入您的名字或昵称"
-
-#: templates/phonenumber/defaultAmp.tpl:820
-#: templates/phonenumber/defaultDefault.tpl:856
-#: templates/phonenumber/defaultModerator.tpl:822
-#: templates/phonenumber/defaultNew.tpl:818
-#: templates/phonenumber/defaultNext.tpl:921
-#: templates/phonenumber/zzz_defaultDebugMaps.tpl:847
-msgid "Your comment must be longer than 5 characters"
-msgstr " 您的留信必须有最小五个字"
 
 #: templates/phonenumber/defaultDefault.tpl:98
 msgid "Actualization"
@@ -3009,6 +2527,18 @@ msgstr "细节"
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:98
 msgid "You rating can help the others to be informed about this number."
 msgstr "您提供的评级可以帮助其它用户，了解这个号码的来源。"
+
+#: templates/phonenumber/defaultDefault.tpl:195
+#: templates/phonenumber/defaultDefault.tpl:233
+#: templates/phonenumber/defaultDefault.tpl:271
+#: templates/phonenumber/defaultNew.tpl:592
+#: templates/phonenumber/defaultNewReloaded.tpl:614
+#: templates/phonenumber/defaultNext.tpl:680
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:231
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:269
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:307
+msgid "How to block this number?"
+msgstr "如何阻止这个号码？"
 
 #: templates/phonenumber/defaultDefault.tpl:206
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:242
@@ -3061,33 +2591,443 @@ msgstr ""
 "strong>!"
 
 #: templates/phonenumber/defaultDefault.tpl:297
-#: templates/phonenumber/defaultModerator.tpl:309
+#: templates/phonenumber/defaultModerator.tpl:328
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:333
 msgid "Add Your <strong>rating</strong>"
 msgstr "增添您的<strong>评级</strong>"
 
+#: templates/phonenumber/defaultDefault.tpl:300
+#: templates/phonenumber/defaultModerator.tpl:331
+#: templates/phonenumber/defaultNew.tpl:316
+#: templates/phonenumber/defaultNewReloaded.tpl:333
+#: templates/phonenumber/defaultNext.tpl:395
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:336
+msgid "click here to show rating form"
+msgstr "为了显示评价表格，情点击这里。"
+
+#: templates/phonenumber/defaultDefault.tpl:313
+#: templates/phonenumber/defaultModerator.tpl:344
+#: templates/phonenumber/defaultNew.tpl:329
+#: templates/phonenumber/defaultNewReloaded.tpl:345
+#: templates/phonenumber/defaultNext.tpl:407
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:349
+msgid "Rating"
+msgstr "评价"
+
+#: templates/phonenumber/defaultDefault.tpl:315
+#: templates/phonenumber/defaultModerator.tpl:346
+#: templates/phonenumber/defaultNew.tpl:331
+#: templates/phonenumber/defaultNewReloaded.tpl:347
+#: templates/phonenumber/defaultNext.tpl:409
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:351
+msgid "select rating"
+msgstr "选择评级"
+
+#: templates/phonenumber/defaultDefault.tpl:321
+#: templates/phonenumber/defaultModerator.tpl:352
+#: templates/phonenumber/defaultNew.tpl:337
+#: templates/phonenumber/defaultNewReloaded.tpl:353
+#: templates/phonenumber/defaultNext.tpl:415
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:357
+msgid "Please select rating!"
+msgstr "请选择评级！"
+
+#: templates/phonenumber/defaultDefault.tpl:327
+#: templates/phonenumber/defaultModerator.tpl:358
+#: templates/phonenumber/defaultNew.tpl:343
+#: templates/phonenumber/defaultNewReloaded.tpl:359
+#: templates/phonenumber/defaultNext.tpl:421
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:363
+msgid "Category"
+msgstr "类型"
+
+#: templates/phonenumber/defaultDefault.tpl:329
+#: templates/phonenumber/defaultModerator.tpl:360
+#: templates/phonenumber/defaultNew.tpl:345
+#: templates/phonenumber/defaultNewReloaded.tpl:361
+#: templates/phonenumber/defaultNext.tpl:423
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:365
+msgid "select category"
+msgstr "选择类型"
+
+#: templates/phonenumber/defaultDefault.tpl:339
+#: templates/phonenumber/defaultModerator.tpl:370
+#: templates/phonenumber/defaultNew.tpl:355
+#: templates/phonenumber/defaultNewReloaded.tpl:371
+#: templates/phonenumber/defaultNext.tpl:433
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:375
+msgid "Please select category!"
+msgstr "请选择类型！"
+
+#: templates/phonenumber/defaultDefault.tpl:347
+#: templates/phonenumber/defaultDefault.tpl:702
+#: templates/phonenumber/defaultModerator.tpl:378
+#: templates/phonenumber/defaultModerator.tpl:668
+#: templates/phonenumber/defaultNew.tpl:363
+#: templates/phonenumber/defaultNew.tpl:660
+#: templates/phonenumber/defaultNewReloaded.tpl:379
+#: templates/phonenumber/defaultNewReloaded.tpl:678
+#: templates/phonenumber/defaultNext.tpl:441
+#: templates/phonenumber/defaultNext.tpl:765
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:383
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:699
+msgid "Name"
+msgstr "名字"
+
+#: templates/phonenumber/defaultDefault.tpl:348
+#: templates/phonenumber/defaultModerator.tpl:379
+#: templates/phonenumber/defaultNew.tpl:364
+#: templates/phonenumber/defaultNewReloaded.tpl:380
+#: templates/phonenumber/defaultNext.tpl:442
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:384
+msgid "name or nickname"
+msgstr "名字或昵称"
+
+#: templates/phonenumber/defaultDefault.tpl:351
+#: templates/phonenumber/defaultModerator.tpl:381
+#: templates/phonenumber/defaultNew.tpl:367
+#: templates/phonenumber/defaultNewReloaded.tpl:383
+#: templates/phonenumber/defaultNext.tpl:445
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:390
+msgid "Please enter your name or nickname!"
+msgstr "请输入您的名字或昵称！"
+
+#: templates/phonenumber/defaultDefault.tpl:357
+#: templates/phonenumber/defaultModerator.tpl:392
+#: templates/phonenumber/defaultNew.tpl:373
+#: templates/phonenumber/defaultNewReloaded.tpl:389
+#: templates/phonenumber/defaultNext.tpl:451
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:396
+msgid "Title"
+msgstr "标题"
+
+#: templates/phonenumber/defaultDefault.tpl:358
+#: templates/phonenumber/defaultModerator.tpl:393
+#: templates/phonenumber/defaultNew.tpl:374
+#: templates/phonenumber/defaultNewReloaded.tpl:390
+#: templates/phonenumber/defaultNext.tpl:452
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:397
+msgid "title (optional)"
+msgstr "主题（可选填）"
+
+#: templates/phonenumber/defaultDefault.tpl:363
+#: templates/phonenumber/defaultDefault.tpl:707
+#: templates/phonenumber/defaultModerator.tpl:398
+#: templates/phonenumber/defaultModerator.tpl:673
+#: templates/phonenumber/defaultNew.tpl:379
+#: templates/phonenumber/defaultNew.tpl:665
+#: templates/phonenumber/defaultNewReloaded.tpl:395
+#: templates/phonenumber/defaultNewReloaded.tpl:683
+#: templates/phonenumber/defaultNext.tpl:457
+#: templates/phonenumber/defaultNext.tpl:770
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:402
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:704
+msgid "Comment"
+msgstr "留言"
+
+#: templates/phonenumber/defaultDefault.tpl:364
+#: templates/phonenumber/defaultModerator.tpl:399
+#: templates/phonenumber/defaultNew.tpl:380
+#: templates/phonenumber/defaultNewReloaded.tpl:396
+#: templates/phonenumber/defaultNext.tpl:458
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:403
+msgid "write your comment"
+msgstr "写您的留信"
+
+#: templates/phonenumber/defaultDefault.tpl:367
+#: templates/phonenumber/defaultModerator.tpl:402
+#: templates/phonenumber/defaultNew.tpl:383
+#: templates/phonenumber/defaultNewReloaded.tpl:399
+#: templates/phonenumber/defaultNext.tpl:461
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:406
+msgid "Please enter your comment!"
+msgstr "请输入您的留信！"
+
+#: templates/phonenumber/defaultDefault.tpl:374
+#: templates/phonenumber/defaultModerator.tpl:409
+#: templates/phonenumber/defaultNew.tpl:390
+#: templates/phonenumber/defaultNewReloaded.tpl:406
+#: templates/phonenumber/defaultNext.tpl:468
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:413
+msgid "send rating"
+msgstr "发送评级"
+
 #: templates/phonenumber/defaultDefault.tpl:383
-#: templates/phonenumber/defaultModerator.tpl:400
+#: templates/phonenumber/defaultModerator.tpl:418
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:422
 msgid "Phone number <strong>ratings</strong>"
 msgstr "电话号码 <strong>评级</strong>"
 
 #: templates/phonenumber/defaultDefault.tpl:400
-#: templates/phonenumber/defaultModerator.tpl:413
+#: templates/phonenumber/defaultModerator.tpl:431
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:435
 #, php-format
 msgid "This phone number has %s reviews with average rating \"%s\"."
 msgstr "这个电话号码拥有 %s 个评价，平均的评级是 \"%s\"。"
+
+#: templates/phonenumber/defaultDefault.tpl:463
+#: templates/phonenumber/defaultModerator.tpl:496
+#: templates/phonenumber/defaultNew.tpl:457
+#: templates/phonenumber/defaultNewReloaded.tpl:478
+#: templates/phonenumber/defaultNext.tpl:534
+msgid "owner"
+msgstr "业主"
+
+#: templates/phonenumber/defaultDefault.tpl:464
+#: templates/phonenumber/defaultModerator.tpl:497
+#: templates/phonenumber/defaultNew.tpl:458
+#: templates/phonenumber/defaultNewReloaded.tpl:479
+#: templates/phonenumber/defaultNext.tpl:535
+msgid "moderator"
+msgstr "版主"
+
+#: templates/phonenumber/defaultDefault.tpl:465
+#: templates/phonenumber/defaultModerator.tpl:498
+#: templates/phonenumber/defaultNew.tpl:459
+#: templates/phonenumber/defaultNewReloaded.tpl:480
+#: templates/phonenumber/defaultNext.tpl:536
+msgid "censored"
+msgstr "审查的"
+
+#: templates/phonenumber/defaultDefault.tpl:466
+#: templates/phonenumber/defaultModerator.tpl:499
+#: templates/phonenumber/defaultNew.tpl:460
+#: templates/phonenumber/defaultNewReloaded.tpl:481
+#: templates/phonenumber/defaultNext.tpl:537
+msgid "system"
+msgstr "系统"
+
+#: templates/phonenumber/defaultDefault.tpl:472
+#: templates/phonenumber/defaultModerator.tpl:505
+#: templates/phonenumber/defaultNew.tpl:466
+#: templates/phonenumber/defaultNewReloaded.tpl:487
+#: templates/phonenumber/defaultNext.tpl:543
+msgid "featured"
+msgstr "建议的"
+
+#: templates/phonenumber/defaultDefault.tpl:487
+#: templates/phonenumber/defaultModerator.tpl:518
+#: templates/phonenumber/defaultNew.tpl:479
+#: templates/phonenumber/defaultNewReloaded.tpl:500
+#: templates/phonenumber/defaultNext.tpl:558
+msgid "This comment has been removed because violated terms of use"
+msgstr "由于违反使用条件，这个留信被删除的"
+
+#: templates/phonenumber/defaultDefault.tpl:495
+#: templates/phonenumber/defaultDefault.tpl:543
+#: templates/phonenumber/defaultModerator.tpl:524
+#: templates/phonenumber/defaultModerator.tpl:569
+#: templates/phonenumber/defaultNew.tpl:485
+#: templates/phonenumber/defaultNew.tpl:530
+#: templates/phonenumber/defaultNewReloaded.tpl:507
+#: templates/phonenumber/defaultNewReloaded.tpl:552
+#: templates/phonenumber/defaultNext.tpl:563
+#: templates/phonenumber/defaultNext.tpl:611
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:510
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:548
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:866
+msgid "Agree"
+msgstr "同意"
+
+#: templates/phonenumber/defaultDefault.tpl:502
+#: templates/phonenumber/defaultDefault.tpl:550
+#: templates/phonenumber/defaultModerator.tpl:529
+#: templates/phonenumber/defaultModerator.tpl:574
+#: templates/phonenumber/defaultNew.tpl:490
+#: templates/phonenumber/defaultNew.tpl:535
+#: templates/phonenumber/defaultNewReloaded.tpl:512
+#: templates/phonenumber/defaultNewReloaded.tpl:557
+#: templates/phonenumber/defaultNext.tpl:570
+#: templates/phonenumber/defaultNext.tpl:618
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:516
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:554
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:869
+msgid "Disagree"
+msgstr "不同意"
+
+#: templates/phonenumber/defaultDefault.tpl:510
+#: templates/phonenumber/defaultModerator.tpl:535
+#: templates/phonenumber/defaultNew.tpl:496
+#: templates/phonenumber/defaultNewReloaded.tpl:518
+#: templates/phonenumber/defaultNext.tpl:578
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:523
+msgid "Comments"
+msgstr "留言"
+
+#: templates/phonenumber/defaultDefault.tpl:517
+#: templates/phonenumber/defaultDefault.tpl:698
+#: templates/phonenumber/defaultModerator.tpl:543
+#: templates/phonenumber/defaultModerator.tpl:664
+#: templates/phonenumber/defaultNew.tpl:504
+#: templates/phonenumber/defaultNew.tpl:656
+#: templates/phonenumber/defaultNewReloaded.tpl:525
+#: templates/phonenumber/defaultNewReloaded.tpl:674
+#: templates/phonenumber/defaultNext.tpl:585
+#: templates/phonenumber/defaultNext.tpl:761
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:529
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:695
+msgid "Add Comment"
+msgstr "添加留信"
+
+#: templates/phonenumber/defaultDefault.tpl:523
+#: templates/phonenumber/defaultDefault.tpl:557
+#: templates/phonenumber/defaultModerator.tpl:549
+#: templates/phonenumber/defaultModerator.tpl:579
+#: templates/phonenumber/defaultNew.tpl:510
+#: templates/phonenumber/defaultNew.tpl:540
+#: templates/phonenumber/defaultNewReloaded.tpl:530
+#: templates/phonenumber/defaultNewReloaded.tpl:562
+#: templates/phonenumber/defaultNext.tpl:591
+#: templates/phonenumber/defaultNext.tpl:625
+msgid "Delete"
+msgstr "删除"
 
 #: templates/phonenumber/defaultDefault.tpl:612
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:611
 msgid "Report ownership of this number or untruthful information presented."
 msgstr "汇报这个号码的所有制或者介绍不正确的信息。"
 
-#: templates/phonenumber/defaultModerator.tpl:364
+#: templates/phonenumber/defaultDefault.tpl:712
+#: templates/phonenumber/defaultModerator.tpl:678
+#: templates/phonenumber/defaultNew.tpl:670
+#: templates/phonenumber/defaultNewReloaded.tpl:688
+#: templates/phonenumber/defaultNext.tpl:775
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:709
+msgid "Submit"
+msgstr "提交"
+
+#: templates/phonenumber/defaultDefault.tpl:850
+#: templates/phonenumber/defaultModerator.tpl:816
+#: templates/phonenumber/defaultNew.tpl:812
+#: templates/phonenumber/defaultNewReloaded.tpl:831
+#: templates/phonenumber/defaultNext.tpl:915
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:841
+msgid "Please enter your name or nick"
+msgstr "请输入您的名字或昵称"
+
+#: templates/phonenumber/defaultDefault.tpl:856
+#: templates/phonenumber/defaultModerator.tpl:822
+#: templates/phonenumber/defaultNew.tpl:818
+#: templates/phonenumber/defaultNewReloaded.tpl:837
+#: templates/phonenumber/defaultNext.tpl:921
+#: templates/phonenumber/zzz_defaultDebugMaps.tpl:847
+msgid "Your comment must be longer than 5 characters"
+msgstr " 您的留信必须有最小五个字"
+
+#: templates/phonenumber/defaultModerator.tpl:130
+#: templates/phonenumber/defaultNew.tpl:164
+#: templates/phonenumber/defaultNewReloaded.tpl:168
+#: templates/phonenumber/defaultNext.tpl:247
+msgid "ratings"
+msgstr "评价"
+
+#: templates/phonenumber/defaultModerator.tpl:131
+#: templates/phonenumber/defaultNew.tpl:165
+#: templates/phonenumber/defaultNewReloaded.tpl:169
+#: templates/phonenumber/defaultNext.tpl:248
+msgid "reviews"
+msgstr "评论"
+
+#: templates/phonenumber/defaultModerator.tpl:132
+#: templates/phonenumber/defaultNew.tpl:166
+#: templates/phonenumber/defaultNewReloaded.tpl:170
+#: templates/phonenumber/defaultNext.tpl:249
+msgid "no ratings"
+msgstr "无评价"
+
+#: templates/phonenumber/defaultModerator.tpl:133
+#: templates/phonenumber/defaultNew.tpl:167
+#: templates/phonenumber/defaultNewReloaded.tpl:171
+#: templates/phonenumber/defaultNext.tpl:250
+msgid "no reviews"
+msgstr "无评论"
+
+#: templates/phonenumber/defaultModerator.tpl:134
+#: templates/phonenumber/defaultNew.tpl:168
+#: templates/phonenumber/defaultNewReloaded.tpl:172
+#: templates/phonenumber/defaultNext.tpl:251
+msgid "single rating"
+msgstr "唯一个评价"
+
+#: templates/phonenumber/defaultModerator.tpl:135
+#: templates/phonenumber/defaultNew.tpl:169
+#: templates/phonenumber/defaultNewReloaded.tpl:173
+#: templates/phonenumber/defaultNext.tpl:252
+msgid "single review"
+msgstr "唯一个评论"
+
+#: templates/phonenumber/defaultModerator.tpl:136
+#: templates/phonenumber/defaultNew.tpl:170
+#: templates/phonenumber/defaultNewReloaded.tpl:174
+#: templates/phonenumber/defaultNext.tpl:253
+#, php-format
+msgid "We have %s and %s for this phone number."
+msgstr "我们关于这个号码有%s与%s。"
+
+#: templates/phonenumber/defaultModerator.tpl:161
+#: templates/phonenumber/defaultNew.tpl:195
+#: templates/phonenumber/defaultNewReloaded.tpl:199
+#: templates/phonenumber/defaultNext.tpl:277
+#, php-format
+msgid "Single user marked it with %s rating"
+msgstr "一个用户选择了%s的评价"
+
+#: templates/phonenumber/defaultModerator.tpl:163
+#: templates/phonenumber/defaultNew.tpl:197
+#: templates/phonenumber/defaultNewReloaded.tpl:201
+#: templates/phonenumber/defaultNext.tpl:279
+#, php-format
+msgid "%s users marked it with %s rating"
+msgstr "%s个用户选择了%s的评价"
+
+#: templates/phonenumber/defaultModerator.tpl:166
+#: templates/phonenumber/defaultNew.tpl:200
+#: templates/phonenumber/defaultNewReloaded.tpl:204
+#: templates/phonenumber/defaultNext.tpl:282
+msgid "and"
+msgstr "以及"
+
+#: templates/phonenumber/defaultModerator.tpl:170
+#: templates/phonenumber/defaultNew.tpl:204
+#: templates/phonenumber/defaultNewReloaded.tpl:208
+#: templates/phonenumber/defaultNext.tpl:286
+#, php-format
+msgid "single user with %s rating"
+msgstr "唯一个有%s评价的用户"
+
+#: templates/phonenumber/defaultModerator.tpl:172
+#: templates/phonenumber/defaultNew.tpl:206
+#: templates/phonenumber/defaultNewReloaded.tpl:210
+#: templates/phonenumber/defaultNext.tpl:288
+#, php-format
+msgid "%s users with %s rating"
+msgstr "%s有%s评价的用户"
+
+#: templates/phonenumber/defaultModerator.tpl:231
+#: templates/phonenumber/defaultNew.tpl:262
+#: templates/phonenumber/defaultNewReloaded.tpl:298
+#: templates/phonenumber/defaultNext.tpl:340
+#, php-format
+msgid "Possible phone number formats are "
+msgstr "可能使用电话号码格式都是"
+
+#: templates/phonenumber/defaultModerator.tpl:387
 #: templates/phonenumber/zzz_defaultDebugMaps.tpl:386
 msgid "email (optional)"
 msgstr "电邮（可选填)"
+
+#: templates/phonenumber/defaultNew.tpl:306
+#: templates/phonenumber/defaultNewReloaded.tpl:322
+#: templates/phonenumber/defaultNext.tpl:385
+#, php-format
+msgid "<strong>Reviews</strong> for phone number %s"
+msgstr "关于%s的<strong>评论</strong>"
+
+#: templates/phonenumber/defaultNew.tpl:312
+#: templates/phonenumber/defaultNewReloaded.tpl:330
+#: templates/phonenumber/defaultNext.tpl:392
+msgid "Add <strong>Your rating</strong>"
+msgstr "加入 <strong>您的评价</strong>"
 
 #: templates/phonenumber/invalid.tpl:16 templates/phonenumber/invalid.tpl:23
 msgid "Invalid phone number"
@@ -3556,6 +3496,98 @@ msgstr "您希望跟我们联系吗？"
 #: templates/websearch/default.tpl:7
 msgid "Web Search"
 msgstr "网络搜索"
+
+#~ msgid ""
+#~ "configure how to combine the ratings from Community Database, your Phone "
+#~ "Contacts and your own ratings into one final Phone Number Rating."
+#~ msgstr ""
+#~ "构成怎么结合共同体数据库、您的联系人和您自己的评价到一个终极的电话号码评"
+#~ "价。 "
+
+#~ msgid ""
+#~ "In fact here you can set how the application will judge all calls. More "
+#~ "rules can be activated in the same time. The combination of the rules is "
+#~ "always applied in the top-to-bottom order, e.g. the active rule closer to "
+#~ "the bottom of the list will be used."
+#~ msgstr ""
+#~ "其实，这里您可以设置应用判断电话的办法。几个规则可以在同样的时间被激活。使"
+#~ "用规则的组合总是从上面到下面开始，就是说最下面激活的规则会首先地使用。"
+
+#~ msgid "There are 3 general rating rules:"
+#~ msgstr "我们有三个主要的评分规则："
+
+#~ msgid ""
+#~ "<strong>Use Community Database Rating</strong> : if this one is "
+#~ "activated, it sets the initial number rating according to our Community "
+#~ "Database."
+#~ msgstr ""
+#~ "<strong>使用共同体数据库的评价</strong>：如果这个规则被激活的话，它根据共"
+#~ "同体数据库会设置基本评价。"
+
+#~ msgid ""
+#~ "<strong>Be Positive for Contacts without your rating</strong> : if this "
+#~ "one is activated, it sets a positive rating to all numbers stored in your "
+#~ "mobile Contacts (if they do not have your other rating - in such case "
+#~ "your rating rules)."
+#~ msgstr ""
+#~ "<strong>为了联系人总是使用正面评级</strong> : 如果这个规则被激活的话，它会"
+#~ "把您所有的联系人设置有正面评级。(如果您为了如何联系人已经选择其它评价，在"
+#~ "这种情况下，您的评价就更重要。"
+
+#~ msgid ""
+#~ "<strong>Be Positive for Contacts without your and community rating</"
+#~ "strong> : if this one is activated, it sets a positive rating to such "
+#~ "numbers stored in your mobile Contacts where no yours and/or community "
+#~ "database rating exists (if there is a yours and/or community database "
+#~ "rating for some of those numbers, then the rating is used)."
+#~ msgstr ""
+#~ "<strong>为了联系人总是使用正面评级</strong>：如果这个规则被激活的话，，它"
+#~ "把您所有的联系人和已经没有共同体数据库的评价设置有正面评级。(如果您为了如"
+#~ "何联系人已经选择其它评价或者它已经有了其它共同体数据库的评价，这个规则没有"
+#~ "用)。"
+
+#~ msgid ""
+#~ "The last two rules are mutually exclusive, just one can be activated."
+#~ msgstr "最后的两个规则互斥，就是说只启动一个规则。"
+
+#~ msgid "At the bottom of this screen the list of Your Ratings follows."
+#~ msgstr "在这个屏幕的下面接着您评价单。"
+
+#~ msgid ""
+#~ "Remember that these ratings at the bottom of the screen will rule all the "
+#~ "above rules."
+#~ msgstr "请记住，这些屏幕下面的规则比所有的上面的规则重要。"
+
+#~ msgid ""
+#~ "<strong>General Rating Rules Click</strong> : if you click on any of the "
+#~ "3 lines this action switches the rule on or off."
+#~ msgstr ""
+#~ "<strong>主要的评分规则点出</strong> : 如果您在这三个线点出的话，这个行动会"
+#~ "打开或者关闭这个规则。"
+
+#~ msgid ""
+#~ "For incoming calls you can block negative rated numbers, hidden numbers "
+#~ "and all numbers. Each selection can be provided except numbers stored in "
+#~ "your Contacts."
+#~ msgstr ""
+#~ "为了来电您可以选择屏蔽有負面评价的号码、无法显示来电的号码或者所有的号码。"
+#~ "每个选择可以排除您的联系人。"
+
+#~ msgid ""
+#~ "For outgoing calls you can block negative rated numbers, premium numbers, "
+#~ "foreign numbers and all numbers. Again each selection can be provided "
+#~ "except numbers stored in your Contacts."
+#~ msgstr ""
+#~ "为了致电您可以选择屏蔽有負面评价的号码、付费专线电话号码、致外国电话或者所"
+#~ "有的号码。再一次，每个选择可以排除您的联系人。"
+
+#~ msgid ""
+#~ "For incoming SMS and MMS you can block the SMS and MMS from negative "
+#~ "rated numbers. For this functionality, a compatible SMS manager must be "
+#~ "installed, please read the help screen displayed if you check this item."
+#~ msgstr ""
+#~ "为了来短信和采信您可以选择屏蔽有負面评价号码的短信和采信。为了使用这个功"
+#~ "能，您应该设置兼容的短信管理器。如果您点出这个项目，请读一下帮助屏幕。 "
 
 #~ msgid "<strong>Latest visited</strong> phone numbers"
 #~ msgstr " <strong>近期浏览</strong>的电话号码"

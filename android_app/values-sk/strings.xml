@@ -300,4 +300,8 @@
     <string name="Set_As_Private">Nastavit jako Soukromé</string>
     <string name="Dont_block_by_community_database">Neblokovat na základě komunitní databáze</string>
     <string name="More_information_is_required_">Pro odeslání do komunitní databáze je potřeba více údajů. Nechcete je vypisovat? Označte hodnocení jako vaše Soukromé.</string>
+    <string name="Unknown_numbers">Neznámá čísla</string>
+    <string name="NEVER_BLOCK">NIKDY NEBLOKOVAT</string>
+    <string name="numbers_with_positive_rating">čísla s pozitivním hodnocením</string>
+    <string name="numbers_based_on_community_rating">čísla na základě komunitní databáze</string>
 </resources>

@@ -284,18 +284,23 @@
     <string name="Contact_x">聯系人 %s</string>
     <string name="Install">設置</string>
     <string name="Phone_Number_Hint_New">您可以使用*評價號碼的組合。比如800*會評價所有的800*的號碼。</string>
-    <string name="Report_Issue">Report Issue</string>
-    <string name="Please_Enter_The_Issue_Description_Here">Please Enter The Issue Description Here! If you can communicate in English! Thank you!</string>
-    <string name="Required_Community_Ratings_To_Block">Required Community Ratings To Block</string>
-    <string name="DISABLED">DISABLED</string>
-    <string name="Warning">Warning!</string>
-    <string name="Unfortunately_your_device_has_modification_">Unfortunately your device has modification which doesn\'t support the blocking feature. We are working on a suitable workaround.</string>
-    <string name="You_must_enable_Blocking_of_negative_rated_numbers">You must enable Blocking of negative rated numbers to block this number!</string>
-    <string name="Enable_Blocking">Enable Blocking</string>
-    <string name="You_are_using_Pick_and_Hang_disable_it">You are using Pick and Hang method for blocking. If this feature doesn\'t work on your device, use standard blocking instead.</string>
-    <string name="Disable_Pick_And_Hang">Disable Pick And Hang</string>
-    <string name="You_have_already_configured_blocking_of_this_number_">You have already configured blocking of this number. If you are experiencing some issues, please report it via Report Issue button on About tab</string>
-    <string name="Set_As_Private">Set As Private</string>
-    <string name="Dont_block_by_community_database">Don\'t block by community database</string>
-    <string name="More_information_is_required_">More information is required for submitting to the community database. Don\'t want to fill it? Mar the rating as your Private.</string>
+
+    <string name="Report_Issue">報告問題</string>
+    <string name="Please_Enter_The_Issue_Description_Here">這裡請輸入問題的描述！請最好用英文與我們溝通！謝謝您！</string>
+    <string name="Required_Community_Ratings_To_Block">要求共同體評價來屏蔽</string>
+    <string name="DISABLED">禁用</string>
+    <string name="Warning">警告!</string>
+    <string name="Unfortunately_your_device_has_modification_">我們真可惜，但是您的電器安裝了不支持屏蔽功能的系統修改。我們正在努力找其它解決方法。</string>
+    <string name="You_must_enable_Blocking_of_negative_rated_numbers">為了屏蔽這個號碼，您先需要啟用屏蔽的功能！</string>
+    <string name="Enable_Blocking">啟用屏蔽的功能</string>
+    <string name="You_are_using_Pick_and_Hang_disable_it">我們使用接和挂的方法來屏蔽電話。如果您的手機用不了這個功能，請使用普通屏蔽的功能。</string>
+    <string name="Disable_Pick_And_Hang">禁用接和挂的方法</string>
+    <string name="You_have_already_configured_blocking_of_this_number_">您已經設置了屏蔽這個電話的號碼。如果您有如何問題，請在信息標簽裡用報告按鈕報告您的問題。</string>
+    <string name="Set_As_Private">設置為隱私</string>
+    <string name="Dont_block_by_community_database">不要根據共同體的數據庫來屏蔽電話</string>
+    <string name="More_information_is_required_">为了提到共同体的数据库，请先填更多信息。您不愿意填它吗？请您把评价标记为隐私。</string>
+    <string name="Unknown_numbers">Unknown numbers</string>
+    <string name="NEVER_BLOCK">NEVER BLOCK</string>
+    <string name="numbers_with_positive_rating">numbers with positive rating</string>
+    <string name="numbers_based_on_community_rating">numbers based on community rating</string>
 </resources>

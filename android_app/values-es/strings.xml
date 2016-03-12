@@ -302,4 +302,8 @@
     <string name="Set_As_Private">Ajustar como privado</string>
     <string name="Dont_block_by_community_database">No bloquear con la base de datos comunitaria</string>
     <string name="More_information_is_required_">Pare el envío a la base de datos comunitaria hace falta más datos. No los quiere rellenar? Identifique su evaluación como privada.</string>
+    <string name="Unknown_numbers">Números desconocidos</string>
+    <string name="NEVER_BLOCK">NUNCA BLOQUEE</string>
+    <string name="numbers_with_positive_rating"> números con evaluación positiva</string>
+    <string name="numbers_based_on_community_rating">números de acuerdo con la evaluación de la comunidad</string>
 </resources>

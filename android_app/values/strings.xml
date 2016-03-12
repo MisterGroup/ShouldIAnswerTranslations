@@ -322,4 +322,8 @@
     <string name="Set_As_Private">Set As Private</string>
     <string name="Dont_block_by_community_database">Don\'t block by community database</string>
     <string name="More_information_is_required_">More information is required for submitting to the community database. Don\'t want to fill it? Mark the rating as your Private.</string>
+    <string name="Unknown_numbers">Unknown numbers</string>
+    <string name="NEVER_BLOCK">NEVER BLOCK</string>
+    <string name="numbers_with_positive_rating">numbers with positive rating</string>
+    <string name="numbers_based_on_community_rating">numbers according to community rating</string>
 </resources>

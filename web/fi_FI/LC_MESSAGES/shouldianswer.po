@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: shouldianswer\n"
-"POT-Creation-Date: 2016-02-21 21:08+0100\n"
-"PO-Revision-Date: 2016-02-27 16:42+0100\n"
+"POT-Creation-Date: 2016-03-12 10:46+0100\n"
+"PO-Revision-Date: 2016-03-12 10:46+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fi\n"
@@ -41,325 +41,325 @@ msgstr "Henkilökuntamme tietää ongelmasta ja korjaa sitä parhaillaan."
 msgid "Please come back to this page later. Thank you."
 msgstr "Tule myöhemmin uudestaan. Kiitos."
 
-#: app/presenters/p_phonenumber.php:235
+#: app/presenters/p_phonenumber.php:241
 msgid "Outdated or invalid form submitted! Please send it again."
 msgstr "Lomake on vanhentunut tai puutteellinen. Lähetä se uudestaan, kiitos."
 
-#: app/presenters/p_phonenumber.php:292
+#: app/presenters/p_phonenumber.php:298
 msgid "Submit failed. Please do not use Tags!"
 msgstr "Lähetys epäonnistui. Älä käytä tageja."
 
-#: app/presenters/p_phonenumber.php:298
+#: app/presenters/p_phonenumber.php:304
 msgid ""
 "Your rating is submitted and waiting for publication to other visitors. "
 "Thank you!"
 msgstr "Arviosi on lähetetty ja odottaa julkaisua. Kiitos!"
 
-#: app/presenters/p_phonenumber.php:302
+#: app/presenters/p_phonenumber.php:308
 msgid "Rating has been stored and published!"
 msgstr "Arviosi on tallennettu ja julkaistu!"
 
-#: app/presenters/p_phonenumber.php:312
+#: app/presenters/p_phonenumber.php:318
 msgid "This phone number is marked as "
 msgstr "Tämä puhelinnumero on saanut arvion"
 
-#: app/presenters/p_phonenumber.php:330
+#: app/presenters/p_phonenumber.php:336
 msgid "What is Your experience with this number?"
 msgstr "Mikä on kokemuksesi tästä numerosta?"
 
-#: app/presenters/p_phonenumber.php:331
+#: app/presenters/p_phonenumber.php:337
 msgid "Do You have any experience with this phone number?"
 msgstr "Onko sinulla kokemuksia tästä puhelinnumerosta?"
 
-#: app/presenters/p_phonenumber.php:332
+#: app/presenters/p_phonenumber.php:338
 msgid "What is Your experience with this phone number?"
 msgstr "Mikä on kokemuksesi tästä numerosta?"
 
-#: app/presenters/p_phonenumber.php:333
+#: app/presenters/p_phonenumber.php:339
 msgid "Do You have any bad experience with this number?"
 msgstr "Onko sinulla huonoja kokemuksia tästä numerosta?"
 
-#: app/presenters/p_phonenumber.php:334
+#: app/presenters/p_phonenumber.php:340
 msgid "Have You seen this number before?"
 msgstr "Oletko nähnyt tätä numeroa aiemmin?"
 
-#: app/presenters/p_phonenumber.php:335
+#: app/presenters/p_phonenumber.php:341
 msgid "Have You ever spot this number?"
 msgstr "Oletko törmännyt tähän numeroon aiemmin?"
 
-#: app/presenters/p_phonenumber.php:336
+#: app/presenters/p_phonenumber.php:342
 msgid "Does this number remind You something?"
 msgstr "Muistuttaako tämä numero sinua jostakin?"
 
-#: app/presenters/p_phonenumber.php:337
+#: app/presenters/p_phonenumber.php:343
 msgid "Do You have any bad experience with this phone number?"
 msgstr "Onko sinulla huonoja kokemuksia tästä puhelinnumerosta?"
 
-#: app/presenters/p_phonenumber.php:338
+#: app/presenters/p_phonenumber.php:344
 msgid "Have You ever seen this number?"
 msgstr "Oletko koskaan nähnyt tätä numeroa?"
 
-#: app/presenters/p_phonenumber.php:339
+#: app/presenters/p_phonenumber.php:345
 msgid "Does this number look familiar to You?"
 msgstr "Näyttääkö tämä puhelinnumero tutulta?"
 
-#: app/presenters/p_phonenumber.php:342
+#: app/presenters/p_phonenumber.php:348
 msgid "Do You have any experience with this?"
 msgstr "Onko sinulla mitään kokemuksia tästä?"
 
-#: app/presenters/p_phonenumber.php:343
+#: app/presenters/p_phonenumber.php:349
 msgid "Have this number called You before?"
 msgstr "Onko tästä numerosta soitettu sinulle?"
 
-#: app/presenters/p_phonenumber.php:344 app/presenters/p_phonenumber.php:350
+#: app/presenters/p_phonenumber.php:350 app/presenters/p_phonenumber.php:356
 msgid "Have this number annoyed You before?"
 msgstr "Onko tämä numero häirinnyt sinua?"
 
-#: app/presenters/p_phonenumber.php:345
+#: app/presenters/p_phonenumber.php:351
 msgid "Did someone offer You unwanted services from this number?"
 msgstr "Onko joku myynyt tahtomattasi jotakin tästä numerosta?"
 
-#: app/presenters/p_phonenumber.php:346
+#: app/presenters/p_phonenumber.php:352
 msgid "Did someone offer You products You haven't ordered from this number?"
 msgstr "Tarjosiko joku pyytämättäsi tuotteita tästä numerosta?"
 
-#: app/presenters/p_phonenumber.php:347
+#: app/presenters/p_phonenumber.php:353
 msgid "You have become a victim of harassment?"
 msgstr "Oletko joutunut häiriköinnin uhriksi?"
 
-#: app/presenters/p_phonenumber.php:348
+#: app/presenters/p_phonenumber.php:354
 msgid "Did someone offer You some insurance?"
 msgstr "Onko joku kaupannut sinulle vakuutuksia?"
 
-#: app/presenters/p_phonenumber.php:349
+#: app/presenters/p_phonenumber.php:355
 msgid "Have You been facing the unwanted services?"
 msgstr "Oletko saanut tarjouksia, joita et ole pyytänyt?"
 
-#: app/presenters/p_phonenumber.php:351
+#: app/presenters/p_phonenumber.php:357
 msgid "Did someone offer You apparently beneficial contracts?"
 msgstr "Onko joku tarjonnut sopimuksia, joiden edut ovat näennäisiä?"
 
-#: app/presenters/p_phonenumber.php:355
+#: app/presenters/p_phonenumber.php:361
 msgid "Or is this rally some good service?"
 msgstr "Vai onko tämä hyvä palvelu?"
 
-#: app/presenters/p_phonenumber.php:356
+#: app/presenters/p_phonenumber.php:362
 msgid "Or is this Your friend's phone number?"
 msgstr "Vai onko tämä ystäväsi numero?"
 
-#: app/presenters/p_phonenumber.php:357
+#: app/presenters/p_phonenumber.php:363
 msgid "Or is this a phone number serving for Your company?"
 msgstr "Vai onko tämä oman organisaatiosi numero?"
 
-#: app/presenters/p_phonenumber.php:358
+#: app/presenters/p_phonenumber.php:364
 msgid "Or is this a phone number of a reliable financial advisor?"
 msgstr "Vai onko tämä luotettavan talousneuvojan numero?"
 
-#: app/presenters/p_phonenumber.php:359
+#: app/presenters/p_phonenumber.php:365
 msgid "Or is this a safe phone number?"
 msgstr "Vai onko tämä turvallinen puhelinnumero?"
 
-#: app/presenters/p_phonenumber.php:360
+#: app/presenters/p_phonenumber.php:366
 msgid "Or is this a purely private phone number?"
 msgstr "Vai onko tämä yksityinen numero?"
 
-#: app/presenters/p_phonenumber.php:361
+#: app/presenters/p_phonenumber.php:367
 msgid "Or is this someone You know?"
 msgstr "Vai onko tämä joku tuttusi?"
 
-#: app/presenters/p_phonenumber.php:362
+#: app/presenters/p_phonenumber.php:368
 msgid "Or is this phone number useful?"
 msgstr "Vai onko tämä hyödyllinen puhelinnumero?"
 
-#: app/presenters/p_phonenumber.php:363
+#: app/presenters/p_phonenumber.php:369
 msgid "Or does this number belong to some of Your friends?"
 msgstr "Vai kuuluuko tämä numero jollekin ystävällesi?"
 
-#: app/presenters/p_phonenumber.php:364
+#: app/presenters/p_phonenumber.php:370
 msgid "Or is this Your own phone number?"
 msgstr "Vai onko tämä oma numerosi?"
 
-#: app/presenters/p_phonenumber.php:368
+#: app/presenters/p_phonenumber.php:374
 msgid "Share Your experience."
 msgstr "Jaa kokemuksesi."
 
-#: app/presenters/p_phonenumber.php:369
+#: app/presenters/p_phonenumber.php:375
 msgid "Do not keep the information just for yourself."
 msgstr "Älä pidä tietoja itselläsi."
 
-#: app/presenters/p_phonenumber.php:370
+#: app/presenters/p_phonenumber.php:376
 msgid "Share Your experience with the others."
 msgstr "Jaa kokemuksesi muiden kanssa."
 
-#: app/presenters/p_phonenumber.php:371
+#: app/presenters/p_phonenumber.php:377
 msgid "Pass Your experience to the other users."
 msgstr "Välitä kokemuksesi muille käyttäjille."
 
-#: app/presenters/p_phonenumber.php:372
+#: app/presenters/p_phonenumber.php:378
 msgid "Is there something You would like to tell the others?"
 msgstr "Haluatko kertoa muille jotakin?"
 
-#: app/presenters/p_phonenumber.php:373
+#: app/presenters/p_phonenumber.php:379
 msgid "Is there some info You can share?"
 msgstr "Onko sinulla tietoja, joita voisit jakaa?"
 
-#: app/presenters/p_phonenumber.php:374
+#: app/presenters/p_phonenumber.php:380
 msgid "Do You know more?"
 msgstr "Tiedätkö enemmän?"
 
-#: app/presenters/p_phonenumber.php:375
+#: app/presenters/p_phonenumber.php:381
 msgid "Do You know more? Share it with the others."
 msgstr "Tiedätkö enemmän? Jaa se muille."
 
-#: app/presenters/p_phonenumber.php:376
+#: app/presenters/p_phonenumber.php:382
 msgid "Do You know more? Pass Your experience to the other users."
 msgstr "Tiedätkö enemmän? Välitä kokemuksesi muille käyttäjille."
 
-#: app/presenters/p_phonenumber.php:377
+#: app/presenters/p_phonenumber.php:383
 msgid "Do You know more? Share Your experience with the others."
 msgstr "Tiedätkö enemmän? Jaa kokemuksesi muiden kanssa."
 
-#: app/presenters/p_phonenumber.php:381
+#: app/presenters/p_phonenumber.php:387
 msgid "Write to us, "
 msgstr "Kirjoita meille, "
 
-#: app/presenters/p_phonenumber.php:382
+#: app/presenters/p_phonenumber.php:388
 msgid "Fill the form, "
 msgstr "Täytä lomake, "
 
-#: app/presenters/p_phonenumber.php:383
+#: app/presenters/p_phonenumber.php:389
 msgid "Fill the form and "
 msgstr "Täytä lomake ja "
 
-#: app/presenters/p_phonenumber.php:384
+#: app/presenters/p_phonenumber.php:390
 msgid "Write to us (it is not necessary to state Your real name) and "
 msgstr "Kirjoita meille (sinun ei ole pakko käyttää oikeaa nimeäsi) ja "
 
-#: app/presenters/p_phonenumber.php:385
+#: app/presenters/p_phonenumber.php:391
 msgid "Leave a message using our form and "
 msgstr "Jätä viesti lomakkeella ja "
 
-#: app/presenters/p_phonenumber.php:386
+#: app/presenters/p_phonenumber.php:392
 msgid "Share Your experience and "
 msgstr "Jaa kokemuksesi ja "
 
-#: app/presenters/p_phonenumber.php:387
+#: app/presenters/p_phonenumber.php:393
 msgid "Leave a message and "
 msgstr "Jätä viesti ja "
 
-#: app/presenters/p_phonenumber.php:388
+#: app/presenters/p_phonenumber.php:394
 msgid "Describe Your experience using our form and "
 msgstr "Kerro kokemuksesi lomakkeella ja "
 
-#: app/presenters/p_phonenumber.php:389
+#: app/presenters/p_phonenumber.php:395
 msgid "Give us Your opinion and "
 msgstr "Kerro mielipiteesi ja "
 
-#: app/presenters/p_phonenumber.php:390
+#: app/presenters/p_phonenumber.php:396
 msgid "Rate this phone number using the form and "
 msgstr "Arvioi tämä puhelinnumero lomakkeella ja "
 
-#: app/presenters/p_phonenumber.php:394
+#: app/presenters/p_phonenumber.php:400
 msgid "this will help the other users."
 msgstr "tämä auttaa muita käyttäjiä."
 
-#: app/presenters/p_phonenumber.php:395
+#: app/presenters/p_phonenumber.php:401
 msgid "this will help the other users to have a more clear information."
 msgstr "tämä auttaa muita käyttäjiä saamaan parempaa tietoa."
 
-#: app/presenters/p_phonenumber.php:396
+#: app/presenters/p_phonenumber.php:402
 msgid "other users can use this information."
 msgstr "muut käyttäjät voivat hyödyntää tietoa."
 
-#: app/presenters/p_phonenumber.php:397
+#: app/presenters/p_phonenumber.php:403
 msgid "the information can be used by the other users."
 msgstr "muut käyttäjät voivat käyttää tätä tietoa."
 
-#: app/presenters/p_phonenumber.php:398
+#: app/presenters/p_phonenumber.php:404
 msgid "the other users will appreciate it."
 msgstr "muut käyttäjät arvostavat sitä."
 
-#: app/presenters/p_phonenumber.php:399
+#: app/presenters/p_phonenumber.php:405
 msgid "the other users will use it for their benefit."
 msgstr "muut käyttäjät voivat hyötyä siitä."
 
-#: app/presenters/p_phonenumber.php:400
+#: app/presenters/p_phonenumber.php:406
 msgid "the information can be useful for other users."
 msgstr "tieto voi olla hyödyllistä muille käyttäjille."
 
-#: app/presenters/p_phonenumber.php:401
+#: app/presenters/p_phonenumber.php:407
 msgid "You will help also the other users."
 msgstr "autat myös muita käyttäjiä."
 
-#: app/presenters/p_phonenumber.php:402
+#: app/presenters/p_phonenumber.php:408
 msgid "thanks to You the others will be better informed."
 msgstr "kiitos sinun muut käyttäjät saavat parempaa informaatiota."
 
-#: app/presenters/p_phonenumber.php:403
+#: app/presenters/p_phonenumber.php:409
 msgid "the other users can benefit from this information."
 msgstr "muut käyttäjät voivat hyötyä tiedosta."
 
-#: app/presenters/p_phonenumber.php:407
+#: app/presenters/p_phonenumber.php:413
 msgid "Thank You for Your review."
 msgstr "Kiitos arvostelustasi."
 
-#: app/presenters/p_phonenumber.php:408
+#: app/presenters/p_phonenumber.php:414
 msgid "Thank You for Your reaction."
 msgstr "Kiitos reaktiostasi."
 
-#: app/presenters/p_phonenumber.php:409
+#: app/presenters/p_phonenumber.php:415
 msgid "We would appreciate Your reaction."
 msgstr "Arvostaisimme reaktiotasi."
 
-#: app/presenters/p_phonenumber.php:410
+#: app/presenters/p_phonenumber.php:416
 msgid "We would appreciate Your review."
 msgstr "Arvostaisimme arvosteluasi."
 
-#: app/presenters/p_phonenumber.php:411
+#: app/presenters/p_phonenumber.php:417
 msgid "We would appreciate if You share Your experience."
 msgstr "Arvostaisimme, jos jaat kokemuksesi."
 
-#: app/presenters/p_phonenumber.php:412
+#: app/presenters/p_phonenumber.php:418
 msgid "Thank You in advance for Your review."
 msgstr "Kiitos arvostelustasi jo etukäteen."
 
-#: app/presenters/p_phonenumber.php:413
+#: app/presenters/p_phonenumber.php:419
 msgid "Thank You for Your comment."
 msgstr "Kiitos kommentistasi."
 
-#: app/presenters/p_phonenumber.php:414
+#: app/presenters/p_phonenumber.php:420
 msgid "Thank You in advance for Your comment."
 msgstr "Kiitos jo etukäteen kommentistasi."
 
-#: app/presenters/p_phonenumber.php:415
+#: app/presenters/p_phonenumber.php:421
 msgid "We would appreciate if You share Your statement."
 msgstr "Arvostaisimme jos jakaisit näkemyksesi."
 
-#: app/presenters/p_phonenumber.php:416
+#: app/presenters/p_phonenumber.php:422
 msgid "Thank You for Your post."
 msgstr "Kiitos viestistäsi."
 
-#: app/presenters/p_phonenumber.php:425
+#: app/presenters/p_phonenumber.php:431
 msgid "Phone number should be fixed line."
 msgstr "Puhelinnumeron pitäisi olla lankaliittymästä."
 
-#: app/presenters/p_phonenumber.php:426
+#: app/presenters/p_phonenumber.php:432
 msgid "Phone number should be mobile line."
 msgstr "Puhelinnumeron pitäisi olla matkapuhelinliittymästä."
 
-#: app/presenters/p_phonenumber.php:427
+#: app/presenters/p_phonenumber.php:433
 msgid "Phone number should be fixed or mobile line."
 msgstr "Puhelinnumeron pitäisi olla lanka- tai matkapuhelinliittymästä."
 
-#: app/presenters/p_phonenumber.php:428
+#: app/presenters/p_phonenumber.php:434
 msgid "Phone number should be toll free."
 msgstr "Puhelinnumeron pitäisi olla maksuton."
 
-#: app/presenters/p_phonenumber.php:429
+#: app/presenters/p_phonenumber.php:435
 msgid "Phone number should be for premium rate. Be carefull."
 msgstr "Puhelinnumero saattaa olla lisämaksullinen. Ole tarkkana."
 
-#: app/presenters/p_phonenumber.php:430
+#: app/presenters/p_phonenumber.php:436
 msgid ""
 "Phone number should be for shared rate. It should be cheaper than standard "
 "call."
@@ -367,27 +367,27 @@ msgstr ""
 "Puhelinnumerossa pitäisi olla erikoishinta. Sen pitäisi olla halvempi kuin "
 "tavallinen puhelu."
 
-#: app/presenters/p_phonenumber.php:431
+#: app/presenters/p_phonenumber.php:437
 msgid "Phone number should be voice over ip."
 msgstr "Puhelinnumero saattaa olla VoIP (Voice Over IP) -numero."
 
-#: app/presenters/p_phonenumber.php:432
+#: app/presenters/p_phonenumber.php:438
 msgid "Phone number should be personal line."
 msgstr "Puhelinnumeron pitäisi olla henkilökohtainen."
 
-#: app/presenters/p_phonenumber.php:433
+#: app/presenters/p_phonenumber.php:439
 msgid "Phone number should be pager."
 msgstr "Puhelinnumeron pitäisi olla hakulaitteen numero."
 
-#: app/presenters/p_phonenumber.php:434
+#: app/presenters/p_phonenumber.php:440
 msgid "Phone number should belong some  company."
 msgstr "Puhelinnumeron pitäisi kuulua jollekin yritykselle."
 
-#: app/presenters/p_phonenumber.php:435
+#: app/presenters/p_phonenumber.php:441
 msgid "Phone number should be for emergency call."
 msgstr "Puhelinnumeron pitäisi olla hätänumero."
 
-#: app/presenters/p_phonenumber.php:446
+#: app/presenters/p_phonenumber.php:452
 msgid ""
 "During the last days this number has been very often searched also by other "
 "users. This can be a mark of global call centre or marketing action, so be "
@@ -397,7 +397,7 @@ msgstr ""
 "Kyseessä saattaa olla puhelinkeskus tai markkinointikikka, joten ole "
 "varuillasi."
 
-#: app/presenters/p_phonenumber.php:447
+#: app/presenters/p_phonenumber.php:453
 msgid ""
 "This number very probably doesn't belong to any individual - we have noticed "
 "very frequent searches of this number during last days, which can be a mark "
@@ -409,7 +409,7 @@ msgstr ""
 "tarkoittaa sen laajaa käyttöä esim. markkinointiin. Kyseessä on "
 "todennäköisesti epämieluisten puheluiden lähde."
 
-#: app/presenters/p_phonenumber.php:448
+#: app/presenters/p_phonenumber.php:454
 msgid ""
 "Users were searching for this number very often recently also here on our "
 "pages, which can be a sing of some telemarketing company or call centre "
@@ -419,7 +419,7 @@ msgstr ""
 "olla merkki siitä, että kyseessä on puhelinmyyjä tai puhelinpalvelukeskus. "
 "Ole siis varuillasi."
 
-#: app/presenters/p_phonenumber.php:449
+#: app/presenters/p_phonenumber.php:455
 msgid ""
 "Even the number has no review actually it was searched many time in last few "
 "days. It probably doesn't belong to some individual and is widely used by "
@@ -430,7 +430,7 @@ msgstr ""
 "yksityishenkilölle ja kyseessä voi olla puhelinmyyjä. Kyseessä on "
 "todennäköisesti ei-toivottu puhelu."
 
-#: app/presenters/p_phonenumber.php:450
+#: app/presenters/p_phonenumber.php:456
 msgid ""
 "This number was frequently searched during last couple of days. It is very "
 "likely used for telemarketing actions and doesn't belong to a private "
@@ -546,10 +546,10 @@ msgstr ""
 "se on todennäköisesti turvallinen."
 
 #: app/repositories/r_reviews.php:152
-#: app/templates/phonenumber/defaultAmp.tpl:573
 #: app/templates/phonenumber/defaultDefault.tpl:587
-#: app/templates/phonenumber/defaultModerator.tpl:465
+#: app/templates/phonenumber/defaultModerator.tpl:598
 #: app/templates/phonenumber/defaultNew.tpl:570
+#: app/templates/phonenumber/defaultNewReloaded.tpl:592
 #: app/templates/phonenumber/defaultNext.tpl:655
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:586
 msgid ""
@@ -594,8 +594,8 @@ msgstr ""
 "Palvelin on väliaikaisesti pois käytöstä huoltotoimenpiteiden tai "
 "ylikuormituksen takia. Yritä myöhemmin uudelleen."
 
-#: app/templates/about/default.tpl:16 app/templates/mobilemanual/8.tpl:451
-#: app/templates/mobilemanual/8.tpl:570
+#: app/templates/about/default.tpl:16 app/templates/mobilemanual/8.tpl:433
+#: app/templates/mobilemanual/8.tpl:552
 msgid "About"
 msgstr "Tietoa"
 
@@ -691,6 +691,10 @@ msgstr "Kirjautumissivu"
 #: app/templates/adminlogin/default.tpl:48
 msgid "Administration Login"
 msgstr "Ylläpidon kirjautuminen"
+
+#: app/templates/adminlogout/default.tpl:16
+msgid "Logout page"
+msgstr ""
 
 #: app/templates/compatibility/default.tpl:16
 msgid "Phone App Compatibility"
@@ -883,7 +887,7 @@ msgid "Please fill the issue description"
 msgstr "Täytä ongelman kuvaus"
 
 #: app/templates/compatibility/default.tpl:202
-#: app/templates/phonenumber/defaultModerator.tpl:234
+#: app/templates/phonenumber/defaultModerator.tpl:386
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:385
 #: app/templates/removalrequest/default.tpl:202
 msgid "Email"
@@ -942,7 +946,7 @@ msgid "Thank you for your help!"
 msgstr "Kiitos avustanne!"
 
 #: app/templates/contact/default.tpl:16 app/templates/contact/default.tpl:21
-#: app/templates/mobilemanual/8.tpl:579
+#: app/templates/mobilemanual/8.tpl:561
 msgid "Contact"
 msgstr "Yhteys"
 
@@ -966,12 +970,14 @@ msgstr ""
 
 #: app/templates/default/defaultDefault.tpl:17
 #: app/templates/default/defaultNew.tpl:17
+#: app/templates/default/defaultNewReloaded.tpl:17
 #: app/templates/default/default_ww.tpl:17
 msgid "Main Page"
 msgstr "Etusivu"
 
 #: app/templates/default/defaultDefault.tpl:18
 #: app/templates/default/defaultNew.tpl:18
+#: app/templates/default/defaultNewReloaded.tpl:18
 #: app/templates/default/default_ww.tpl:18
 msgid ""
 "See what phone numbers are most searched and find ratings and users reviews."
@@ -979,13 +985,14 @@ msgstr ""
 "Katso, mitkä numerot ovat etsityimpiä ja löydä arviot sekä käyttäjien "
 "kommentit."
 
-#: app/templates/default/defaultDefault.tpl:41 app/templates/layout.tpl:291
-#: app/templates/layoutAmp.tpl:259 app/templates/layoutNew.tpl:281
-#: app/templates/phonenumber/defaultAmp.tpl:595
+#: app/templates/default/defaultDefault.tpl:41
+#: app/templates/default/defaultNewReloaded.tpl:52 app/templates/layout.tpl:291
+#: app/templates/layoutNew.tpl:281 app/templates/layoutNewReloaded.tpl:290
 #: app/templates/phonenumber/defaultDefault.tpl:197
 #: app/templates/phonenumber/defaultDefault.tpl:235
 #: app/templates/phonenumber/defaultDefault.tpl:273
 #: app/templates/phonenumber/defaultNew.tpl:592
+#: app/templates/phonenumber/defaultNewReloaded.tpl:614
 #: app/templates/phonenumber/defaultNext.tpl:682
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:233
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:271
@@ -995,14 +1002,15 @@ msgstr "Miten estää ei-toivotut numerot?"
 
 #: app/templates/default/defaultDefault.tpl:46
 #: app/templates/default/defaultNew.tpl:55
+#: app/templates/default/defaultNewReloaded.tpl:57
 #: app/templates/default/default_ww.tpl:119 app/templates/layout.tpl:293
-#: app/templates/layoutAmp.tpl:261 app/templates/layoutNew.tpl:283
+#: app/templates/layoutNew.tpl:283 app/templates/layoutNewReloaded.tpl:292
 #: app/templates/net/default.tpl:58
-#: app/templates/phonenumber/defaultAmp.tpl:602
 #: app/templates/phonenumber/defaultDefault.tpl:211
 #: app/templates/phonenumber/defaultDefault.tpl:249
 #: app/templates/phonenumber/defaultDefault.tpl:278
 #: app/templates/phonenumber/defaultNew.tpl:599
+#: app/templates/phonenumber/defaultNewReloaded.tpl:619
 #: app/templates/phonenumber/defaultNext.tpl:690
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:247
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:285
@@ -1012,14 +1020,15 @@ msgstr "Meillä on yksinkertainen ratkaisu!"
 
 #: app/templates/default/defaultDefault.tpl:47
 #: app/templates/default/defaultNew.tpl:56
+#: app/templates/default/defaultNewReloaded.tpl:58
 #: app/templates/default/default_ww.tpl:120 app/templates/layout.tpl:294
-#: app/templates/layoutAmp.tpl:262 app/templates/layoutNew.tpl:284
+#: app/templates/layoutNew.tpl:284 app/templates/layoutNewReloaded.tpl:293
 #: app/templates/net/default.tpl:59
-#: app/templates/phonenumber/defaultAmp.tpl:603
 #: app/templates/phonenumber/defaultDefault.tpl:211
 #: app/templates/phonenumber/defaultDefault.tpl:249
 #: app/templates/phonenumber/defaultDefault.tpl:279
 #: app/templates/phonenumber/defaultNew.tpl:600
+#: app/templates/phonenumber/defaultNewReloaded.tpl:620
 #: app/templates/phonenumber/defaultNext.tpl:691
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:247
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:285
@@ -1033,14 +1042,15 @@ msgstr ""
 
 #: app/templates/default/defaultDefault.tpl:55
 #: app/templates/default/defaultNew.tpl:64
+#: app/templates/default/defaultNewReloaded.tpl:66
 #: app/templates/default/default_ww.tpl:116 app/templates/layout.tpl:303
-#: app/templates/layoutAmp.tpl:271 app/templates/layoutNew.tpl:293
+#: app/templates/layoutNew.tpl:293 app/templates/layoutNewReloaded.tpl:301
 #: app/templates/layout_default.tpl:52 app/templates/net/default.tpl:55
-#: app/templates/phonenumber/defaultAmp.tpl:611
 #: app/templates/phonenumber/defaultDefault.tpl:222
 #: app/templates/phonenumber/defaultDefault.tpl:260
 #: app/templates/phonenumber/defaultDefault.tpl:287
 #: app/templates/phonenumber/defaultNew.tpl:608
+#: app/templates/phonenumber/defaultNewReloaded.tpl:626
 #: app/templates/phonenumber/defaultNext.tpl:699
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:258
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:296
@@ -1049,14 +1059,18 @@ msgid "Download from Google Play"
 msgstr "Lataa Google Playstä"
 
 #: app/templates/default/defaultDefault.tpl:78
-#: app/templates/default/defaultNew.tpl:72 app/templates/layout_detail.tpl:27
-#: app/templates/layout_detailAmp.tpl:26 app/templates/layout_detailNew.tpl:26
+#: app/templates/default/defaultNew.tpl:72
+#: app/templates/default/defaultNewReloaded.tpl:73
+#: app/templates/layout_detail.tpl:27 app/templates/layout_detailNew.tpl:26
+#: app/templates/layout_detailNewReloaded.tpl:26
 msgid "<strong>Popular</strong> phone numbers"
 msgstr "<strong>Suositut</strong> puhelinnumerot"
 
 #: app/templates/default/defaultDefault.tpl:135
-#: app/templates/default/defaultNew.tpl:110 app/templates/layout_detail.tpl:50
-#: app/templates/layout_detailAmp.tpl:44 app/templates/layout_detailNew.tpl:44
+#: app/templates/default/defaultNew.tpl:110
+#: app/templates/default/defaultNewReloaded.tpl:111
+#: app/templates/layout_detail.tpl:50 app/templates/layout_detailNew.tpl:44
+#: app/templates/layout_detailNewReloaded.tpl:44
 msgid " <strong>Latest rated</strong> phone numbers"
 msgstr "<strong>Viimeksi arvioidut </strong> puhelinnumerot"
 
@@ -1067,16 +1081,17 @@ msgid "Latest rating was"
 msgstr "Viimeisin arvio oli"
 
 #: app/templates/default/defaultDefault.tpl:157
-#: app/templates/phonenumber/defaultAmp.tpl:147
-#: app/templates/phonenumber/defaultAmp.tpl:184
-#: app/templates/phonenumber/defaultAmp.tpl:335
 #: app/templates/phonenumber/defaultDefault.tpl:113
 #: app/templates/phonenumber/defaultDefault.tpl:316
-#: app/templates/phonenumber/defaultModerator.tpl:63
-#: app/templates/phonenumber/defaultModerator.tpl:201
+#: app/templates/phonenumber/defaultModerator.tpl:113
+#: app/templates/phonenumber/defaultModerator.tpl:147
+#: app/templates/phonenumber/defaultModerator.tpl:347
 #: app/templates/phonenumber/defaultNew.tpl:144
 #: app/templates/phonenumber/defaultNew.tpl:181
 #: app/templates/phonenumber/defaultNew.tpl:332
+#: app/templates/phonenumber/defaultNewReloaded.tpl:151
+#: app/templates/phonenumber/defaultNewReloaded.tpl:185
+#: app/templates/phonenumber/defaultNewReloaded.tpl:348
 #: app/templates/phonenumber/defaultNext.tpl:227
 #: app/templates/phonenumber/defaultNext.tpl:264
 #: app/templates/phonenumber/defaultNext.tpl:410
@@ -1086,16 +1101,17 @@ msgid "positive"
 msgstr "positiivinen"
 
 #: app/templates/default/defaultDefault.tpl:160
-#: app/templates/phonenumber/defaultAmp.tpl:146
-#: app/templates/phonenumber/defaultAmp.tpl:187
-#: app/templates/phonenumber/defaultAmp.tpl:337
 #: app/templates/phonenumber/defaultDefault.tpl:112
 #: app/templates/phonenumber/defaultDefault.tpl:318
-#: app/templates/phonenumber/defaultModerator.tpl:62
-#: app/templates/phonenumber/defaultModerator.tpl:203
+#: app/templates/phonenumber/defaultModerator.tpl:112
+#: app/templates/phonenumber/defaultModerator.tpl:150
+#: app/templates/phonenumber/defaultModerator.tpl:349
 #: app/templates/phonenumber/defaultNew.tpl:143
 #: app/templates/phonenumber/defaultNew.tpl:184
 #: app/templates/phonenumber/defaultNew.tpl:334
+#: app/templates/phonenumber/defaultNewReloaded.tpl:150
+#: app/templates/phonenumber/defaultNewReloaded.tpl:188
+#: app/templates/phonenumber/defaultNewReloaded.tpl:350
 #: app/templates/phonenumber/defaultNext.tpl:226
 #: app/templates/phonenumber/defaultNext.tpl:267
 #: app/templates/phonenumber/defaultNext.tpl:412
@@ -1105,16 +1121,17 @@ msgid "negative"
 msgstr "negatiivinen"
 
 #: app/templates/default/defaultDefault.tpl:163
-#: app/templates/phonenumber/defaultAmp.tpl:145
-#: app/templates/phonenumber/defaultAmp.tpl:190
-#: app/templates/phonenumber/defaultAmp.tpl:336
 #: app/templates/phonenumber/defaultDefault.tpl:111
 #: app/templates/phonenumber/defaultDefault.tpl:317
-#: app/templates/phonenumber/defaultModerator.tpl:61
-#: app/templates/phonenumber/defaultModerator.tpl:202
+#: app/templates/phonenumber/defaultModerator.tpl:111
+#: app/templates/phonenumber/defaultModerator.tpl:153
+#: app/templates/phonenumber/defaultModerator.tpl:348
 #: app/templates/phonenumber/defaultNew.tpl:142
 #: app/templates/phonenumber/defaultNew.tpl:187
 #: app/templates/phonenumber/defaultNew.tpl:333
+#: app/templates/phonenumber/defaultNewReloaded.tpl:149
+#: app/templates/phonenumber/defaultNewReloaded.tpl:191
+#: app/templates/phonenumber/defaultNewReloaded.tpl:349
 #: app/templates/phonenumber/defaultNext.tpl:225
 #: app/templates/phonenumber/defaultNext.tpl:270
 #: app/templates/phonenumber/defaultNext.tpl:411
@@ -1124,11 +1141,13 @@ msgid "neutral"
 msgstr "neutraali"
 
 #: app/templates/default/defaultNew.tpl:42
+#: app/templates/default/defaultNewReloaded.tpl:44
 msgid "<strong>Find</strong> who is calling you!"
 msgstr "<strong>Selvitä</strong> kuka sinulle soittaa!"
 
-#: app/templates/default/defaultNew.tpl:44 app/templates/layout_default.tpl:22
-#: app/templates/layout_default_ww.tpl:22
+#: app/templates/default/defaultNew.tpl:44
+#: app/templates/default/defaultNewReloaded.tpl:46
+#: app/templates/layout_default.tpl:22 app/templates/layout_default_ww.tpl:22
 msgid ""
 "Is someone calling You from an unknown number and You are not sure if "
 "picking it up is a good idea? Search for the number and find out who can be "
@@ -1141,7 +1160,9 @@ msgstr ""
 msgid "How to <strong>block</strong> unwanted numbers?"
 msgstr "Kuinka <strong>estää</strong> ei-toivotut numerot?"
 
-#: app/templates/default/defaultNew.tpl:151 app/templates/layout_default.tpl:84
+#: app/templates/default/defaultNew.tpl:151
+#: app/templates/default/defaultNewReloaded.tpl:152
+#: app/templates/layout_default.tpl:84
 msgid "Dialing Codes"
 msgstr "Suuntanumerot"
 
@@ -1165,14 +1186,14 @@ msgstr "Seuraava sivu"
 msgid "Contacts Check"
 msgstr "Yhteystietojen tarkistus"
 
-#: app/templates/layout.tpl:118 app/templates/layoutAmp.tpl:188
-#: app/templates/layoutNew.tpl:114 app/templates/layoutNew.tpl:210
+#: app/templates/layout.tpl:118 app/templates/layoutNew.tpl:114
+#: app/templates/layoutNew.tpl:210 app/templates/layoutNewReloaded.tpl:122
 #: app/templates/layout_white.tpl:72
 msgid "Should I Answer"
 msgstr "Pitäisikö vastata"
 
-#: app/templates/layout.tpl:153 app/templates/layoutAmp.tpl:127
-#: app/templates/layoutNew.tpl:149
+#: app/templates/layout.tpl:153 app/templates/layoutNew.tpl:149
+#: app/templates/layoutNewReloaded.tpl:162
 msgid ""
 "Cookies help us deliver our services. By using our services, you agree to "
 "our use of cookies."
@@ -1180,84 +1201,91 @@ msgstr ""
 "Cookiet auttavat meitä palveluiden kehittämisessä. Käyttämällä palveluamme, "
 "hyväksyt cookieiden käytön."
 
-#: app/templates/layout.tpl:154 app/templates/layoutAmp.tpl:128
-#: app/templates/layoutNew.tpl:150
+#: app/templates/layout.tpl:154 app/templates/layoutNew.tpl:150
+#: app/templates/layoutNewReloaded.tpl:162
 msgid "Got it"
 msgstr "Asia selvä"
 
-#: app/templates/layout.tpl:155 app/templates/layoutAmp.tpl:129
-#: app/templates/layoutNew.tpl:151
+#: app/templates/layout.tpl:155 app/templates/layoutNew.tpl:151
+#: app/templates/layoutNewReloaded.tpl:162
 msgid "Find out more"
 msgstr "Lisätietoa"
 
-#: app/templates/layout.tpl:188 app/templates/layoutAmp.tpl:162
-#: app/templates/layoutNew.tpl:184
+#: app/templates/layout.tpl:188 app/templates/layoutNew.tpl:184
+#: app/templates/layoutNewReloaded.tpl:209
 #, php-format
 msgid "For phone numbers in your location (%s) use "
 msgstr "Oman alueesi (%s) puhelinnumeroita varten ota käyttöön"
 
-#: app/templates/layout.tpl:192 app/templates/layoutAmp.tpl:166
-#: app/templates/layoutNew.tpl:188
+#: app/templates/layout.tpl:192 app/templates/layoutNew.tpl:188
+#: app/templates/layoutNewReloaded.tpl:212
 msgid "Close"
 msgstr "Sulje"
 
-#: app/templates/layout.tpl:206 app/templates/layoutAmp.tpl:181
+#: app/templates/layout.tpl:206 app/templates/layoutAmp.tpl:135
 #: app/templates/layoutNew.tpl:203
 #, php-format
 msgid "You are logged as moderator."
 msgstr "Olet kirjautunut sisään ylläpitäjänä."
 
-#: app/templates/layout.tpl:225 app/templates/layoutAmp.tpl:191
-#: app/templates/layoutNew.tpl:213
+#: app/templates/layout.tpl:225 app/templates/layoutNew.tpl:213
 msgid "Should I <strong>answer?</strong>"
 msgstr "Pitäisikö <strong>vastata</strong>?"
 
-#: app/templates/layout.tpl:232 app/templates/layoutAmp.tpl:199
-#: app/templates/layoutNew.tpl:221
+#: app/templates/layout.tpl:232 app/templates/layoutNew.tpl:221
+#: app/templates/layoutNewReloaded.tpl:234
 msgid "search for phone number"
 msgstr "etsi numeroa"
 
-#: app/templates/layout.tpl:237 app/templates/layoutAmp.tpl:205
-#: app/templates/layoutNew.tpl:227
+#: app/templates/layout.tpl:237 app/templates/layoutNew.tpl:227
+#: app/templates/layoutNewReloaded.tpl:240
 msgid "search"
 msgstr "etsi"
 
-#: app/templates/layout.tpl:269 app/templates/layoutAmp.tpl:237
-#: app/templates/layoutNew.tpl:259
+#: app/templates/layout.tpl:269 app/templates/layoutAmp.tpl:171
+#: app/templates/layoutNew.tpl:259 app/templates/layoutNewReloaded.tpl:273
 msgid "about"
 msgstr "tietoa"
 
-#: app/templates/layout.tpl:270 app/templates/layoutAmp.tpl:238
-#: app/templates/layoutNew.tpl:260
+#: app/templates/layout.tpl:270 app/templates/layoutAmp.tpl:172
+#: app/templates/layoutNew.tpl:260 app/templates/layoutNewReloaded.tpl:274
 msgid "blog"
 msgstr "blogi"
 
-#: app/templates/layout.tpl:271 app/templates/layoutAmp.tpl:239
-#: app/templates/layoutNew.tpl:261
+#: app/templates/layout.tpl:271 app/templates/layoutAmp.tpl:173
+#: app/templates/layoutNew.tpl:261 app/templates/layoutNewReloaded.tpl:275
 msgid "terms"
 msgstr "ehdot"
 
-#: app/templates/layout.tpl:272 app/templates/layoutAmp.tpl:240
-#: app/templates/layoutNew.tpl:262
+#: app/templates/layout.tpl:272 app/templates/layoutAmp.tpl:174
+#: app/templates/layoutNew.tpl:262 app/templates/layoutNewReloaded.tpl:276
 msgid "manual"
 msgstr "ohjekirja"
 
-#: app/templates/layout.tpl:273 app/templates/layoutAmp.tpl:241
-#: app/templates/layoutNew.tpl:263
+#: app/templates/layout.tpl:273 app/templates/layoutAmp.tpl:175
+#: app/templates/layoutNew.tpl:263 app/templates/layoutNewReloaded.tpl:277
 msgid "contact"
 msgstr "yhteystiedot"
 
-#: app/templates/layout.tpl:274 app/templates/layoutAmp.tpl:242
-#: app/templates/layoutNew.tpl:264
+#: app/templates/layout.tpl:274 app/templates/layoutAmp.tpl:176
+#: app/templates/layoutNew.tpl:264 app/templates/layoutNewReloaded.tpl:278
 msgid "history"
 msgstr "historia"
 
-#: app/templates/layout.tpl:275 app/templates/layoutAmp.tpl:243
-#: app/templates/layoutNew.tpl:265
+#: app/templates/layout.tpl:275 app/templates/layoutAmp.tpl:177
+#: app/templates/layoutNew.tpl:265 app/templates/layoutNewReloaded.tpl:279
 msgid "shouldianswer.net"
 msgstr "shouldianswer.net"
 
+#: app/templates/layoutAmp.tpl:142 app/templates/layoutAmp.tpl:143
+#: app/templates/layoutNewReloaded.tpl:228
+#: app/templates/layoutNewReloaded.tpl:229
+#: app/templates/layout_mobileapp.tpl:69 app/templates/mobilemanual/8.tpl:538
+msgid "Should I Answer?"
+msgstr "Pitäisikö vastata?"
+
 #: app/templates/layout_default.tpl:27 app/templates/layout_defaultNew.tpl:20
+#: app/templates/layout_defaultNewReloaded.tpl:19
 msgid "ShouldIAnswer Logo"
 msgstr "ShouldIAnswer logo"
 
@@ -1276,10 +1304,6 @@ msgstr ""
 #: app/templates/layout_default_ww.tpl:27
 msgid "shouldianswer.com Logo"
 msgstr "shouldianswer.com Logo"
-
-#: app/templates/layout_mobileapp.tpl:69 app/templates/mobilemanual/8.tpl:556
-msgid "Should I Answer?"
-msgstr "Pitäisikö vastata?"
 
 #: app/templates/mobileapp/default.tpl:17
 msgid "Phone Protection"
@@ -1429,7 +1453,7 @@ msgstr "Käyttöopas"
 msgid "Should I Answer Manual"
 msgstr "'Should I Answer'-opas"
 
-#: app/templates/mobilemanual/8.tpl:152 app/templates/mobilemanual/8.tpl:557
+#: app/templates/mobilemanual/8.tpl:152 app/templates/mobilemanual/8.tpl:539
 msgid "Introduction"
 msgstr "Esittely"
 
@@ -1467,7 +1491,7 @@ msgstr ""
 "osoitteeseen <a href=\"mailto:support@shouldianswer.net"
 "\">support@shouldianswer.net</a>."
 
-#: app/templates/mobilemanual/8.tpl:165 app/templates/mobilemanual/8.tpl:559
+#: app/templates/mobilemanual/8.tpl:165 app/templates/mobilemanual/8.tpl:541
 msgid "Installation"
 msgstr "Asennus"
 
@@ -1588,11 +1612,11 @@ msgstr ""
 "Miten saapuvia/lähteviä puheluita ylläpidetään ja estetään, voidaan "
 "määritellä <strong>ESTÄMINEN</strong>-välilehdellä."
 
-#: app/templates/mobilemanual/8.tpl:200 app/templates/mobilemanual/8.tpl:562
+#: app/templates/mobilemanual/8.tpl:200 app/templates/mobilemanual/8.tpl:544
 msgid "User Interface"
 msgstr "Käyttöliittymä"
 
-#: app/templates/mobilemanual/8.tpl:205 app/templates/mobilemanual/8.tpl:564
+#: app/templates/mobilemanual/8.tpl:205 app/templates/mobilemanual/8.tpl:546
 msgid "Summary"
 msgstr "Yhteenveto"
 
@@ -1627,7 +1651,7 @@ msgstr ""
 "Tällaisessa tapauksessa komponenttilistan alle ilmestyy nappi, jota "
 "painamalla ongelman voi korjata."
 
-#: app/templates/mobilemanual/8.tpl:214 app/templates/mobilemanual/8.tpl:565
+#: app/templates/mobilemanual/8.tpl:214 app/templates/mobilemanual/8.tpl:547
 msgid "Logs"
 msgstr "Lokit"
 
@@ -1659,9 +1683,8 @@ msgid ""
 msgstr "Kuvake vasemmalla kertoo puhelinnumeron arvion seuraavasti:"
 
 #: app/templates/mobilemanual/8.tpl:228
-#: app/templates/phonenumber/defaultAmp.tpl:422
 #: app/templates/phonenumber/defaultDefault.tpl:426
-#: app/templates/phonenumber/defaultModerator.tpl:311
+#: app/templates/phonenumber/defaultModerator.tpl:458
 #: app/templates/phonenumber/defaultNew.tpl:419
 #: app/templates/phonenumber/defaultNext.tpl:497
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:462
@@ -1669,9 +1692,8 @@ msgid "negative rating"
 msgstr "negatiivinen arvio"
 
 #: app/templates/mobilemanual/8.tpl:229
-#: app/templates/phonenumber/defaultAmp.tpl:426
 #: app/templates/phonenumber/defaultDefault.tpl:430
-#: app/templates/phonenumber/defaultModerator.tpl:315
+#: app/templates/phonenumber/defaultModerator.tpl:462
 #: app/templates/phonenumber/defaultNew.tpl:423
 #: app/templates/phonenumber/defaultNext.tpl:501
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:466
@@ -1679,9 +1701,8 @@ msgid "neutral rating"
 msgstr "neutraali arvio"
 
 #: app/templates/mobilemanual/8.tpl:230
-#: app/templates/phonenumber/defaultAmp.tpl:418
 #: app/templates/phonenumber/defaultDefault.tpl:422
-#: app/templates/phonenumber/defaultModerator.tpl:307
+#: app/templates/phonenumber/defaultModerator.tpl:454
 #: app/templates/phonenumber/defaultNew.tpl:415
 #: app/templates/phonenumber/defaultNext.tpl:493
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:458
@@ -1720,8 +1741,8 @@ msgstr "Vastaamaton lähtevä puhelu"
 msgid "Blocked Outgoing Call"
 msgstr "Estetty lähtevä puhelu"
 
-#: app/templates/mobilemanual/8.tpl:251 app/templates/mobilemanual/8.tpl:293
-#: app/templates/mobilemanual/8.tpl:408
+#: app/templates/mobilemanual/8.tpl:251 app/templates/mobilemanual/8.tpl:275
+#: app/templates/mobilemanual/8.tpl:390
 msgid "Available Actions:"
 msgstr "Käytettävät toiminnot:"
 
@@ -1757,7 +1778,7 @@ msgstr ""
 "kyseessä on järjestelmäloki, puhelimesi lokiin ei kosketa; toiminto "
 "vaikuttaa ainoastaan sovelluksen näkymään lokista."
 
-#: app/templates/mobilemanual/8.tpl:262 app/templates/mobilemanual/8.tpl:566
+#: app/templates/mobilemanual/8.tpl:262 app/templates/mobilemanual/8.tpl:548
 msgid "Ratings"
 msgstr "Arviot"
 
@@ -1766,86 +1787,10 @@ msgid "In this section you can:"
 msgstr "Tässä osassa voit:"
 
 #: app/templates/mobilemanual/8.tpl:266
-msgid ""
-"configure how to combine the ratings from Community Database, your Phone "
-"Contacts and your own ratings into one final Phone Number Rating."
-msgstr ""
-"määritellä, miten haluat yhdistellä yhteisötietokannan arviot, puhelimesi "
-"yhteystiedot ja omat arviosi yhdeksi lopulliseksi puhelinnumeron arvioksi"
-
-#: app/templates/mobilemanual/8.tpl:267
 msgid "create and manage your ratings."
 msgstr "luoda ja hallinnoida arvioitasi."
 
 #: app/templates/mobilemanual/8.tpl:271
-msgid ""
-"In fact here you can set how the application will judge all calls. More "
-"rules can be activated in the same time. The combination of the rules is "
-"always applied in the top-to-bottom order, e.g. the active rule closer to "
-"the bottom of the list will be used."
-msgstr ""
-"Oikeastaan, täällä voit määritellä, miten sovellus arvioi kaikki puhelut. "
-"Samanaikaisesti voi aktivoida useampia sääntöjä. Sääntöjen yhdistelmää "
-"sovelletaan aina järjestyksessä ylhäältä alas, esimerkiksi alempana listassa "
-"olevaa aktiivista sääntöä käytetään."
-
-#: app/templates/mobilemanual/8.tpl:274
-msgid "There are 3 general rating rules:"
-msgstr "On olemassa 3 yleistä arviointisääntöä:"
-
-#: app/templates/mobilemanual/8.tpl:276
-msgid ""
-"<strong>Use Community Database Rating</strong> : if this one is activated, "
-"it sets the initial number rating according to our Community Database."
-msgstr ""
-"<strong>Käytä yhteisötietokannan luokittelua</strong> : jos tämä on "
-"aktivoitu, se asettaa alustavan arvion numerolle yhteisötietokannan "
-"arvioiden perusteella."
-
-#: app/templates/mobilemanual/8.tpl:277
-msgid ""
-"<strong>Be Positive for Contacts without your rating</strong> : if this one "
-"is activated, it sets a positive rating to all numbers stored in your mobile "
-"Contacts (if they do not have your other rating - in such case your rating "
-"rules)."
-msgstr ""
-"<strong>Yhteystiedot ilman arviotani ovat positiivisia</strong> : jos tämä "
-"on aktivoitu, kaikki numerot puhelimesi yhteystiedoissa saavat positiivisen "
-"arvion (paitsi jos olet arvioinut ne joksikin muuksi)"
-
-#: app/templates/mobilemanual/8.tpl:278
-msgid ""
-"<strong>Be Positive for Contacts without your and community rating</"
-"strong> : if this one is activated, it sets a positive rating to such "
-"numbers stored in your mobile Contacts where no yours and/or community "
-"database rating exists (if there is a yours and/or community database rating "
-"for some of those numbers, then the rating is used)."
-msgstr ""
-"<strong>Yhteystiedot ilman minun tai yhteisön arvioita ovat positiivisia</"
-"strong> : jos tämä on aktivoitu, kaikki numerot puhelimesi yhteystiedoissa, "
-"joilla ei ole sinun ja/tai yhteisön antamaa arviota määritellään "
-"positiivisiksi (niihin numeroihin, jotka jompikumpi on jo arvioinut, "
-"käytetään olemassa olevaa arviota)"
-
-#: app/templates/mobilemanual/8.tpl:283
-msgid "The last two rules are mutually exclusive, just one can be activated."
-msgstr ""
-"Viimeiset kaksi sääntöä ovat saman arvoisia, vain toinen voi olla "
-"aktivoituna kerrallaan."
-
-#: app/templates/mobilemanual/8.tpl:287
-msgid "At the bottom of this screen the list of Your Ratings follows."
-msgstr "Tämän näytön alaosassa sijaitsee Sinun arviosi -listaus."
-
-#: app/templates/mobilemanual/8.tpl:288
-msgid ""
-"Remember that these ratings at the bottom of the screen will rule all the "
-"above rules."
-msgstr ""
-"Muista, että nämä näytön alaosassa sijaitsevat arviot pätevät ennen kaikkia "
-"muita sääntöjä."
-
-#: app/templates/mobilemanual/8.tpl:289
 msgid ""
 "Your rating can be defined for single or multiple phone numbers by using a "
 "mask."
@@ -1853,7 +1798,7 @@ msgstr ""
 "Arviosi voidaan asettaa yhdelle tai useammalle puhelinnumerolle käyttämällä "
 "maskia."
 
-#: app/templates/mobilemanual/8.tpl:295
+#: app/templates/mobilemanual/8.tpl:277
 msgid ""
 "<strong>Rating Filter</strong> : (at the top of the screen) helps to filter "
 "the rating rules by phone number. Useful if you search for some specific "
@@ -1864,15 +1809,7 @@ msgstr ""
 "jollekin tietylle numerolle. Napauta vain viivaa ja syötä mikä tahansa "
 "numero tai sen osa."
 
-#: app/templates/mobilemanual/8.tpl:296
-msgid ""
-"<strong>General Rating Rules Click</strong> : if you click on any of the 3 "
-"lines this action switches the rule on or off."
-msgstr ""
-"<strong>Yleiset arviointisäännöt napautus</strong>: jos napautat jotakin "
-"kolmesta viivasta, sääntö menee päälle tai pois päältä."
-
-#: app/templates/mobilemanual/8.tpl:297
+#: app/templates/mobilemanual/8.tpl:278
 msgid ""
 "<strong>User Rating Click</strong> : by clicking on any of your rating you "
 "open a screen for edition of the respective rating. There you can set the "
@@ -1883,7 +1820,7 @@ msgstr ""
 "ominaisuuksia arviolle, poistaa arvion, tallentaa sen tai peruuttaa "
 "muutokset."
 
-#: app/templates/mobilemanual/8.tpl:298
+#: app/templates/mobilemanual/8.tpl:279
 msgid ""
 "<strong>Plus Button Click</strong> : this action opens the screen for "
 "creation of new rating, see below the <strong>Phone Number Rating</strong>."
@@ -1891,11 +1828,11 @@ msgstr ""
 "<strong>Plus-napin napautus</strong> : tämä toiminta avaa näytön, jossa voit "
 "luoda uuden arvion, katso alempaa <strong>Puhelinnumeron arviointi</strong>"
 
-#: app/templates/mobilemanual/8.tpl:304 app/templates/mobilemanual/8.tpl:567
+#: app/templates/mobilemanual/8.tpl:285 app/templates/mobilemanual/8.tpl:549
 msgid "Alerts"
 msgstr "Hälytykset"
 
-#: app/templates/mobilemanual/8.tpl:306
+#: app/templates/mobilemanual/8.tpl:287
 msgid ""
 "Alert is security rating notification displayed during calling phase (can be "
 "done for both INCOMING or OUTGOING calls)."
@@ -1903,15 +1840,15 @@ msgstr ""
 "Hälytys on turvallisuusluokittelun ilmoitus, joka näkyy puhelun aikana "
 "(voidaan asettaa sekä SAAPUVILLE että LÄHTEVILLE puheluille)."
 
-#: app/templates/mobilemanual/8.tpl:307
+#: app/templates/mobilemanual/8.tpl:288
 msgid "In this screen you can configure the Alerts displaying."
 msgstr "Tällä näytöllä voit määritellä Hälytykset-näkymän."
 
-#: app/templates/mobilemanual/8.tpl:308
+#: app/templates/mobilemanual/8.tpl:289
 msgid "This setting here is done based on the phone number rating."
 msgstr "Tämä asetus on tehty puhelinnumeron arvion perusteella."
 
-#: app/templates/mobilemanual/8.tpl:309
+#: app/templates/mobilemanual/8.tpl:290
 msgid ""
 "For each rating you can check if you want to display the alert also for "
 "numbers from your Contacts or exclude your phone Contacts."
@@ -1919,7 +1856,7 @@ msgstr ""
 "Jokaisessa arvioinnissa voit rastittaa haluatko hälytyksen näkyvän myös "
 "yhteystiedoissasi oleville numeroille vai et."
 
-#: app/templates/mobilemanual/8.tpl:312
+#: app/templates/mobilemanual/8.tpl:293
 msgid ""
 "In the <strong>Advanced</strong> section at the bottom of the screen a "
 "system overlay can be enabled."
@@ -1927,7 +1864,7 @@ msgstr ""
 "<strong>Lisäasetukset</strong> osiossa näytön alalaidassa voit ottaa System "
 "Overlay -toiminnon käyttöön."
 
-#: app/templates/mobilemanual/8.tpl:313
+#: app/templates/mobilemanual/8.tpl:294
 msgid ""
 "If you are experiencing problems with alerts displaying, you can try to "
 "disable the usage of system overlays - this will cause the displaying of "
@@ -1937,18 +1874,18 @@ msgstr ""
 "toiminto käytöstä. Tämä mahdollistaa hälytysten näyttämisen toisella "
 "tavalla, joka voi toimia laitteessasi paremmin."
 
-#: app/templates/mobilemanual/8.tpl:318 app/templates/mobilemanual/8.tpl:568
+#: app/templates/mobilemanual/8.tpl:299 app/templates/mobilemanual/8.tpl:550
 msgid "Blocking"
 msgstr "Estäminen"
 
-#: app/templates/mobilemanual/8.tpl:320
+#: app/templates/mobilemanual/8.tpl:301
 msgid ""
 "In this section you can configure which incoming/outgoing calls should be "
 "blocked."
 msgstr ""
 "Tässä osassa voit määritellä, mitkä saapuvat/lähtevät puhelut estetään."
 
-#: app/templates/mobilemanual/8.tpl:321
+#: app/templates/mobilemanual/8.tpl:302
 msgid ""
 "Remember, in the <strong>Ratings</strong> screen you have set how to rate "
 "the number, now we will use it for the blocking functionality of the "
@@ -1957,38 +1894,33 @@ msgstr ""
 "Muistat, kuinka <strong>Arviot</strong> näytöllä olet määritellyt, miten "
 "numerot arvioidaan. Nyt käytämme määritelmiä sovelluksen estämistoimintoon."
 
-#: app/templates/mobilemanual/8.tpl:323
+#: app/templates/mobilemanual/8.tpl:304
+msgid ""
+"In first two options you can check which phone numbers will be NEVER "
+"blocked. If you do'nt want to block numbers according to community database "
+"rating, then check the second option"
+msgstr ""
+
+#: app/templates/mobilemanual/8.tpl:305
 msgid ""
 "For incoming calls you can block negative rated numbers, hidden numbers and "
-"all numbers. Each selection can be provided except numbers stored in your "
-"Contacts."
+"all numbers."
 msgstr ""
-"Saapuvista puheluista voit estää negatiiviseksi määritellyt numerot, "
-"piilotetut numerot ja kaikki numerot. Jokaisessa valinnassa voi olla "
-"poikkeuksena puhelimesi yhteystiedot."
 
-#: app/templates/mobilemanual/8.tpl:324
+#: app/templates/mobilemanual/8.tpl:306
 msgid ""
 "For outgoing calls you can block negative rated numbers, premium numbers, "
-"foreign numbers and all numbers. Again each selection can be provided except "
-"numbers stored in your Contacts."
+"foreign numbers and all numbers."
 msgstr ""
-"Lähtevistä puheluista voit estää negatiiviseksi määritellyt numerot, "
-"lisämaksulliset numerot, ulkomaiset numerot ja kaikki numerot. Jälleen "
-"jokaisessa valinnassa voi olla poikkeuksena puhelimesi yhteystiedot."
 
-#: app/templates/mobilemanual/8.tpl:325
+#: app/templates/mobilemanual/8.tpl:307
 msgid ""
-"For incoming SMS and MMS you can block the SMS and MMS from negative rated "
-"numbers. For this functionality, a compatible SMS manager must be installed, "
-"please read the help screen displayed if you check this item."
+"For incoming SMS and MMS you can block the SMS and MMS. For this "
+"functionality, a compatible SMS manager must be installed, please read the "
+"help screen displayed if you check this item."
 msgstr ""
-"Saapuvat tekstiviestit ja multimediaviestit voit estää negatiiviseksi "
-"määritellyistä numeroista. Jotta tämän toiminnon voi ottaa käyttöön, täytyy "
-"asentaa yhteensopiva viestintäsovellus. Lue ohessa oleva lisätieto, jos "
-"rastitat tämän toiminnon."
 
-#: app/templates/mobilemanual/8.tpl:326
+#: app/templates/mobilemanual/8.tpl:308
 msgid ""
 "You can also select if you want to be notified when any blocking occurs. "
 "Notification is a different functionality than the Alerts displaying - "
@@ -2000,7 +1932,7 @@ msgstr ""
 "tapahtuvasta puhelusta, kun taas Ilmoitus kertoo ainoastaan, miten sovellus "
 "toimii tilanteessa."
 
-#: app/templates/mobilemanual/8.tpl:327
+#: app/templates/mobilemanual/8.tpl:309
 msgid ""
 "Optionally you can try to use <strong>Pick & Hang method</strong> to protect "
 "your voicemail. When selecting this functionality, the app will block "
@@ -2016,23 +1948,23 @@ msgstr ""
 "toimintoa ainoastaan, kun olet varma että sinua ei laskuteta puheluihin "
 "vastaamisesta."
 
-#: app/templates/mobilemanual/8.tpl:335 app/templates/mobilemanual/8.tpl:569
+#: app/templates/mobilemanual/8.tpl:317 app/templates/mobilemanual/8.tpl:551
 msgid "Settings"
 msgstr "Asetukset"
 
-#: app/templates/mobilemanual/8.tpl:336
+#: app/templates/mobilemanual/8.tpl:318
 msgid "This section contains main application settings."
 msgstr "Tämä osa sisältää pääasialliset sovellusasetukset."
 
-#: app/templates/mobilemanual/8.tpl:338
+#: app/templates/mobilemanual/8.tpl:320
 msgid "General"
 msgstr "Yleistä"
 
-#: app/templates/mobilemanual/8.tpl:340
+#: app/templates/mobilemanual/8.tpl:322
 msgid "Show after-call information"
 msgstr "Näytä puhelun jälkeistiedot"
 
-#: app/templates/mobilemanual/8.tpl:342
+#: app/templates/mobilemanual/8.tpl:324
 msgid ""
 "Here you can enable/disable displaying of phone number details after "
 "finishing the call."
@@ -2040,11 +1972,11 @@ msgstr ""
 "Täällä voit ottaa käyttöön/poistaa käytöstä toiminnon, joka näyttää "
 "puhelinnumeron tiedot puhelun lopettamisen jälkeen."
 
-#: app/templates/mobilemanual/8.tpl:345
+#: app/templates/mobilemanual/8.tpl:327
 msgid "Send anonymous stats about incoming calls"
 msgstr "Lähetä anonyymina tietoja tulevista puheluista."
 
-#: app/templates/mobilemanual/8.tpl:347
+#: app/templates/mobilemanual/8.tpl:329
 msgid ""
 "If the \"Send anonymous stats about incoming calls\" is selected, the user "
 "gives us a possibility to send the incoming UNKNOWN numbers to the server - "
@@ -2056,7 +1988,7 @@ msgstr ""
 "TUNTEMATTOMISTA numeroista. Tämä tarkoittaa sitä, että ainoastaan numero "
 "lähetetään palvelimelle, ei muita tietoja. "
 
-#: app/templates/mobilemanual/8.tpl:348
+#: app/templates/mobilemanual/8.tpl:330
 msgid ""
 "Privacy is important for us, so we don't sends stats about numbers stored in "
 "your Phone Contacts!"
@@ -2064,13 +1996,13 @@ msgstr ""
 "Yksityisyys on meille tärkeää, joten me emme lähetä tietoja numeroista, "
 "jotka ovat puhelimesi yhteystiedoissa!"
 
-#: app/templates/mobilemanual/8.tpl:349
+#: app/templates/mobilemanual/8.tpl:331
 msgid "Only unknown numbers are sent if this option is checked."
 msgstr ""
 "Vain tuntemattomista numeroista lähetetään tietoja, jos tämä asetus on "
 "päällä."
 
-#: app/templates/mobilemanual/8.tpl:350
+#: app/templates/mobilemanual/8.tpl:332
 msgid ""
 "This gives us a possibility to collect incoming unknown numbers from "
 "different sources - after then our team checks them and if same unknown "
@@ -2082,11 +2014,11 @@ msgstr ""
 "selvää onko numerosta soitettu muillekin ihmisille ja luo arvion numerosta "
 "paikalliseen tietokantaasi."
 
-#: app/templates/mobilemanual/8.tpl:353
+#: app/templates/mobilemanual/8.tpl:335
 msgid "Download reviews automatically"
 msgstr "Lataa arvostelut automaattisesti"
 
-#: app/templates/mobilemanual/8.tpl:355
+#: app/templates/mobilemanual/8.tpl:337
 msgid ""
 "If the \"Download reviews automatically\" is selected and your mobile is "
 "connected to the internet, the user reviews for the calling number are "
@@ -2097,7 +2029,7 @@ msgstr ""
 "kytkettynä nettiin, kaikki muiden käyttäjien arvostelut näytetään puhelun "
 "soimisvaiheessa - muussa tapauksessa vain yleinen arvio numerosta näytetään."
 
-#: app/templates/mobilemanual/8.tpl:356
+#: app/templates/mobilemanual/8.tpl:338
 msgid ""
 "If this item is not selected but the phone is connected to the internet, the "
 "user reviews can be downloaded also manually during the phone ringing phase "
@@ -2110,11 +2042,11 @@ msgstr ""
 "(käyttäjä voi valita haluaako hän lukea numeron tiedot ennen vastaamista vai "
 "onko hän tyytyväinen numerosta annettuun yleiseen arvioon)."
 
-#: app/templates/mobilemanual/8.tpl:359
+#: app/templates/mobilemanual/8.tpl:341
 msgid "Service as Foreground Process"
 msgstr "Palvelun toiminta edustalla"
 
-#: app/templates/mobilemanual/8.tpl:361
+#: app/templates/mobilemanual/8.tpl:343
 msgid ""
 "Enabling this you will speed up the blocking of unwanted calls - the "
 "application will be still running in the active memory. As a side effect you "
@@ -2126,7 +2058,7 @@ msgstr ""
 "ja ilmoitus käyttöönotetusta suojauksesta näkyvät pysyvästi puhelimesi "
 "tilarivillä."
 
-#: app/templates/mobilemanual/8.tpl:362
+#: app/templates/mobilemanual/8.tpl:344
 msgid ""
 "As a benefit on most devices the speed of blocking should be much faster "
 "than phone ringing phase."
@@ -2134,11 +2066,11 @@ msgstr ""
 "Useimmissa laitteissa eston nopeus on paljon nopeampi kuin puhelimen "
 "soimisvaihe."
 
-#: app/templates/mobilemanual/8.tpl:365
+#: app/templates/mobilemanual/8.tpl:347
 msgid "Statistics Notification"
 msgstr "Tilastotietojen ilmoitus"
 
-#: app/templates/mobilemanual/8.tpl:367
+#: app/templates/mobilemanual/8.tpl:349
 msgid ""
 "If the \"Statistics Notification (once per 2 weeks)\" is selected the app "
 "will show system statistics as a notification after 2 weeks with a list of "
@@ -2148,7 +2080,7 @@ msgstr ""
 "sovellus näyttää järjestelmän tilastotietoja tapahtuneista toiminnoista "
 "ilmoituksena kahden viikon jälkeen."
 
-#: app/templates/mobilemanual/8.tpl:368
+#: app/templates/mobilemanual/8.tpl:350
 msgid ""
 "This way user can easily check the overall application functionality and "
 "efficiency."
@@ -2156,11 +2088,11 @@ msgstr ""
 "Näin käyttäjä voi helposti tarkistaa sovelluksen yleisen toiminnan ja "
 "tehokkuuden."
 
-#: app/templates/mobilemanual/8.tpl:371
+#: app/templates/mobilemanual/8.tpl:353
 msgid "Use Light Theme"
 msgstr "Käytä vaaleaa teemaa"
 
-#: app/templates/mobilemanual/8.tpl:373
+#: app/templates/mobilemanual/8.tpl:355
 msgid ""
 "There are two layout themes - light and dark. This item serves as a switch "
 "for them."
@@ -2168,7 +2100,7 @@ msgstr ""
 "Meillä on kaksi ulkoasuteemaa - vaalea ja tumma. Tästä napista voit valita "
 "kumman haluat."
 
-#: app/templates/mobilemanual/8.tpl:374
+#: app/templates/mobilemanual/8.tpl:356
 msgid ""
 "Check it on your device which theme suits you better and which is more "
 "readable (e.g. on a direct sun)."
@@ -2176,19 +2108,19 @@ msgstr ""
 "Kokeile kumpi teema sopii laitteellesi paremmin ja kumpi on helpommin "
 "luettavissa (esim. suorassa auringonvalossa)."
 
-#: app/templates/mobilemanual/8.tpl:378
+#: app/templates/mobilemanual/8.tpl:360
 msgid "System Permissions"
 msgstr "Järjestelmän Oikeudet"
 
-#: app/templates/mobilemanual/8.tpl:380
+#: app/templates/mobilemanual/8.tpl:362
 msgid "System permissions are displayed only on Android 6 devices."
 msgstr "Järjestelmän oikeudet näytetään vain Android 6-laitteilla."
 
-#: app/templates/mobilemanual/8.tpl:383
+#: app/templates/mobilemanual/8.tpl:365
 msgid "Read Call Information"
 msgstr "Lue puhelun tiedot"
 
-#: app/templates/mobilemanual/8.tpl:385
+#: app/templates/mobilemanual/8.tpl:367
 msgid ""
 "When someone call you the application checks the respective phone number "
 "against our database. Without this permission we can't find out who is "
@@ -2197,11 +2129,11 @@ msgstr ""
 "Kun joku soittaa sinulle, sovellus tarkistaa numeron tietokannastamme. Jos "
 "et anna tähän lupaa, emme voi selvittää kuka sinulle soittaa."
 
-#: app/templates/mobilemanual/8.tpl:387
+#: app/templates/mobilemanual/8.tpl:369
 msgid "Read Contacts"
 msgstr "Lue yhteystiedot"
 
-#: app/templates/mobilemanual/8.tpl:389
+#: app/templates/mobilemanual/8.tpl:371
 msgid ""
 "As written above, we take your stored contacts as your whitelist. Without "
 "this permission we don't know what phone numbers you consider to be safe."
@@ -2210,11 +2142,11 @@ msgstr ""
 "listan. Ilman tätä oikeutta emme voi tietää, mitä numeroita puhelimesi pitää "
 "turvallisina."
 
-#: app/templates/mobilemanual/8.tpl:391
+#: app/templates/mobilemanual/8.tpl:373
 msgid "Allow System Overlays"
 msgstr "Salli System Overlays -toiminto"
 
-#: app/templates/mobilemanual/8.tpl:393
+#: app/templates/mobilemanual/8.tpl:375
 msgid ""
 "The application shows alerts in foreground of incoming call screen. Without "
 "this permission we can't make the alerts fully interactive."
@@ -2222,16 +2154,16 @@ msgstr ""
 "Sovellus näyttää tiedot numerosta puhelunäytöllä. Ilman tätä lupaa emme voi "
 "tehdä hälytyksistä täysin interaktiivisia."
 
-#: app/templates/mobilemanual/8.tpl:400 app/templates/mobilemanual/8.tpl:571
+#: app/templates/mobilemanual/8.tpl:382 app/templates/mobilemanual/8.tpl:553
 msgid "Phone Number Details"
 msgstr "Lisätiedot puhelinnumerosta"
 
-#: app/templates/mobilemanual/8.tpl:402
+#: app/templates/mobilemanual/8.tpl:384
 msgid "This screen shows detailed information for selected phone number."
 msgstr ""
 "Tämä näyttö näyttää yksityiskohtaista tietoa valitusta puhelinnumerosta."
 
-#: app/templates/mobilemanual/8.tpl:403
+#: app/templates/mobilemanual/8.tpl:385
 msgid ""
 "Here you can find the overall number rating in the form of count of Positive/"
 "Neutral/Negative ratings and the category mostly used for this number (this "
@@ -2241,7 +2173,7 @@ msgstr ""
 "neutraalien/negatiivisten arvioiden määrät ja näet, mihin kategoriaan numero "
 "on yleensä luokiteltu (tämä ominaisuus toimii myös offline-tilassa)."
 
-#: app/templates/mobilemanual/8.tpl:404
+#: app/templates/mobilemanual/8.tpl:386
 msgid ""
 "You can also see how much positive/neutral/negative rating number received "
 "from community."
@@ -2249,7 +2181,7 @@ msgstr ""
 "Näet myös kuinka paljon positiivisia/neutraaleja/negatiivisia arvioita "
 "numero sai yhteisöltä."
 
-#: app/templates/mobilemanual/8.tpl:410
+#: app/templates/mobilemanual/8.tpl:392
 msgid ""
 "<strong>Block</strong> helps you to create negative rating for this number "
 "for further blocking. To activate the blocking you have to enable blocking "
@@ -2261,7 +2193,7 @@ msgstr ""
 "täytyy ottaa käyttöön negatiiviseksi luokiteltujen numeroiden esto "
 "sovelluksen <strong>Estäminen</strong> -näytöllä."
 
-#: app/templates/mobilemanual/8.tpl:411
+#: app/templates/mobilemanual/8.tpl:393
 msgid ""
 "<strong>Rate</strong> shows the form for filling your new phone number "
 "rating - see below."
@@ -2269,7 +2201,7 @@ msgstr ""
 "<strong>Arvioi</strong> näyttää lomakkeen uuden numeron arviointiin - katso "
 "alta lisää."
 
-#: app/templates/mobilemanual/8.tpl:412
+#: app/templates/mobilemanual/8.tpl:394
 msgid ""
 "<strong>Reviews</strong> loads and shows the community reviews for this "
 "number. This function requires intenet access. If your own (personal) rating "
@@ -2281,36 +2213,36 @@ msgstr ""
 "edustettuna, se esitetään automaattisesti (ne kaikki on varastoituna "
 "puhelimeesi). MUOKKAA-nappia painamalla voit muokata lisää arvosteluasi."
 
-#: app/templates/mobilemanual/8.tpl:413
+#: app/templates/mobilemanual/8.tpl:395
 msgid "<strong>Call Button Click</strong> initiates calling to the number."
 msgstr "<strong>Soita-napin napautus</strong> aloittaa puhelun numeroon."
 
-#: app/templates/mobilemanual/8.tpl:419 app/templates/mobilemanual/8.tpl:572
+#: app/templates/mobilemanual/8.tpl:401 app/templates/mobilemanual/8.tpl:554
 msgid "Phone Number Rating"
 msgstr "Puhelinnumeron arvio"
 
-#: app/templates/mobilemanual/8.tpl:421
+#: app/templates/mobilemanual/8.tpl:403
 msgid "Single or Group of numbers"
 msgstr "Yksi vai monta numeroa"
 
-#: app/templates/mobilemanual/8.tpl:422
+#: app/templates/mobilemanual/8.tpl:404
 msgid ""
 "Phone Number Rating can be defined for single number or for group of numbers."
 msgstr ""
 "Puhelinnumeron arvio voidaan määritellä yhdelle numerolle tai ryhmälle "
 "numeroita."
 
-#: app/templates/mobilemanual/8.tpl:423
+#: app/templates/mobilemanual/8.tpl:405
 msgid "Group can be defined using * char at the end of the number."
 msgstr "Ryhmä voidaan määritellä käyttämällä *-merkkiä numeron lopussa."
 
-#: app/templates/mobilemanual/8.tpl:424
+#: app/templates/mobilemanual/8.tpl:406
 msgid "For example 800* will define rating for all numbers starting with 800."
 msgstr ""
 "Esimerkiksi 800* huomioi kaikki numerot, jotka alkavat numeroyhdistelmällä "
 "800."
 
-#: app/templates/mobilemanual/8.tpl:425
+#: app/templates/mobilemanual/8.tpl:407
 msgid ""
 "The <strong>PICK CONTACT</strong> enables you to pick a number from the list "
 "of Contacts and create a rule for it."
@@ -2318,11 +2250,11 @@ msgstr ""
 "<strong>VALITSE NUMERO</strong> -painikkeella voit valita numeron "
 "yhteystiedoistasi ja luoda sille säännön."
 
-#: app/templates/mobilemanual/8.tpl:429
+#: app/templates/mobilemanual/8.tpl:411
 msgid "Public or Private"
 msgstr "Julkinen vai yksityinen"
 
-#: app/templates/mobilemanual/8.tpl:430
+#: app/templates/mobilemanual/8.tpl:412
 msgid ""
 "By default the rating is submitted to our community database for benefit of "
 "other users."
@@ -2330,7 +2262,7 @@ msgstr ""
 "Oletuksena arviosi toimitetaan yhteisömme tietokantaan muiden käyttäjien "
 "hyödyksi."
 
-#: app/templates/mobilemanual/8.tpl:431
+#: app/templates/mobilemanual/8.tpl:413
 msgid ""
 "If you don't want to make the rating for the respective number public, "
 "select this to avoid of sending it to our database - in such case the rating "
@@ -2340,11 +2272,11 @@ msgstr ""
 "välttääksesi sen lähettämisen tietokantaamme - tässä tapauksessa arvio "
 "tallennetaan ainoastaan sinun puhelimeesi."
 
-#: app/templates/mobilemanual/8.tpl:437 app/templates/mobilemanual/8.tpl:573
+#: app/templates/mobilemanual/8.tpl:419 app/templates/mobilemanual/8.tpl:555
 msgid "Rating Alert"
 msgstr "Arviohälytys"
 
-#: app/templates/mobilemanual/8.tpl:439
+#: app/templates/mobilemanual/8.tpl:421
 msgid ""
 "In the Alert displayed for the phone call you can find all required "
 "information for making the decision to accept the call or hang up."
@@ -2352,7 +2284,7 @@ msgstr ""
 "Hälytyksessä, joka näkyy puhelun aikana, näet kaikki vaadittavat tiedot "
 "päättääksesi vastaatko puheluun vai et."
 
-#: app/templates/mobilemanual/8.tpl:441
+#: app/templates/mobilemanual/8.tpl:423
 msgid ""
 "<strong>Contact</strong> shows name of the contact associated with phone "
 "number (if available)."
@@ -2360,13 +2292,13 @@ msgstr ""
 "<strong>Yhteystieto</strong> näyttää nimen, joka on yhdistetty "
 "puhelinnumeroon (jos saatavilla)."
 
-#: app/templates/mobilemanual/8.tpl:442
+#: app/templates/mobilemanual/8.tpl:424
 msgid "<strong>Number</strong> shows phone number the alert is displayed for."
 msgstr ""
 "<strong>Numero</strong> näyttää puhelinnumeron, jonka takia hälytys "
 "näytetään."
 
-#: app/templates/mobilemanual/8.tpl:443
+#: app/templates/mobilemanual/8.tpl:425
 msgid ""
 "<strong>Rating</strong> shows one of positive, neutral, negative or unknown "
 "rating."
@@ -2374,7 +2306,7 @@ msgstr ""
 "<strong>Arvio</strong> näyttää joko positiivisen, neutraalin, negatiivisen "
 "tai tuntemattoman arvion."
 
-#: app/templates/mobilemanual/8.tpl:444
+#: app/templates/mobilemanual/8.tpl:426
 msgid ""
 "<strong>Category</strong> shows the most used Category for the respective "
 "phone number"
@@ -2382,7 +2314,7 @@ msgstr ""
 "<strong>Kategoria</strong> näyttää käytetyimmät kategoriat tälle "
 "puhelinnumerolle."
 
-#: app/templates/mobilemanual/8.tpl:445
+#: app/templates/mobilemanual/8.tpl:427
 msgid ""
 "<strong>Community</strong> shows the total statistic counts of positive,"
 "neutral and negative ratings from the community"
@@ -2390,14 +2322,14 @@ msgstr ""
 "<strong>Yhteisö</strong> näyttää kokonaismäärän positiivisista, "
 "neutraaleista ja negatiivisista larvioista, jotka yhteisö on antanut."
 
-#: app/templates/mobilemanual/8.tpl:453
+#: app/templates/mobilemanual/8.tpl:435
 msgid ""
 "In this section you can access additional information and export/import "
 "function"
 msgstr ""
 "Tässä osiossa saat lisätietoja sovelluksesta ja tutustut vie/tuo -toimintoon."
 
-#: app/templates/mobilemanual/8.tpl:455
+#: app/templates/mobilemanual/8.tpl:437
 msgid ""
 "If you need to contact us, use the email address provided. By clicking on "
 "the <strong>email address</strong> you will open a screen where some email "
@@ -2411,12 +2343,12 @@ msgstr ""
 "käyttäjätukeemme luodaan automaattisesti esitäytettynä tiedoilla "
 "sovelluksesi määrityksistä."
 
-#: app/templates/mobilemanual/8.tpl:456
+#: app/templates/mobilemanual/8.tpl:438
 msgid "strong>Online Manual</strong> opens the internet page with this manual."
 msgstr ""
 "<strong>Online-ohjekirja</strong> avaa verkkosivun, jolla on tämä ohjekirja."
 
-#: app/templates/mobilemanual/8.tpl:457
+#: app/templates/mobilemanual/8.tpl:439
 msgid ""
 "<strong>Compatibility Check</strong> checks your configuration for known "
 "issues. An internet page with the check result will be open. Also a form for "
@@ -2428,7 +2360,7 @@ msgstr ""
 "täällä tehdään lomake tekniselle tuellemme ongelman raportoimista varten - "
 "ole ystävällinen ja käytä sitä raportoidessasi sovelluksen ongelmista."
 
-#: app/templates/mobilemanual/8.tpl:458
+#: app/templates/mobilemanual/8.tpl:440
 msgid ""
 "strong>Terms of Use</strong> opens the internet page with terms of use of "
 "this product."
@@ -2436,7 +2368,7 @@ msgstr ""
 "<strong>Käyttöehdot</strong> avaa verkkosivun, josta löytyy tämän tuotteen "
 "käyttöehdot."
 
-#: app/templates/mobilemanual/8.tpl:459
+#: app/templates/mobilemanual/8.tpl:441
 msgid ""
 "<strong>Privacy Policy</strong> opens the internet page with privacy policy "
 "for out product."
@@ -2444,7 +2376,7 @@ msgstr ""
 "<strong>Yksityisyyskäytäntö</strong> avaa verkkosivun, josta löytyy "
 "tuotteemme yksityisyyskäytännöt."
 
-#: app/templates/mobilemanual/8.tpl:460
+#: app/templates/mobilemanual/8.tpl:442
 msgid ""
 "<strong>Export / Import</strong> shows screen for exporting and importing "
 "data : all the application settings can be stored and used later / on "
@@ -2456,15 +2388,15 @@ msgstr ""
 "laitteessa varmuuskopioina ja palautusta varten. Yksinkertainen ohjelmisto "
 "tälle toiminnolle on ohessa."
 
-#: app/templates/mobilemanual/8.tpl:467 app/templates/mobilemanual/8.tpl:576
+#: app/templates/mobilemanual/8.tpl:449 app/templates/mobilemanual/8.tpl:558
 msgid "FAQ"
 msgstr "FAQ/UKK"
 
-#: app/templates/mobilemanual/8.tpl:469
+#: app/templates/mobilemanual/8.tpl:451
 msgid "Q: How to block phone number?"
 msgstr "K: Kuinka puhelinnumero estetään?"
 
-#: app/templates/mobilemanual/8.tpl:471
+#: app/templates/mobilemanual/8.tpl:453
 msgid ""
 "Create negative rating for the phone number and enable blocking of negative "
 "rated numbers."
@@ -2472,15 +2404,15 @@ msgstr ""
 "Luo negatiivinen arvio puhelinnumerolle ja ota käyttöön negatiiviseksi "
 "määriteltyjen numeroiden esto."
 
-#: app/templates/mobilemanual/8.tpl:474
+#: app/templates/mobilemanual/8.tpl:456
 msgid "Q: Why blocking does not work for me?"
 msgstr "K: Miksi estäminen ei toimi minulla?"
 
-#: app/templates/mobilemanual/8.tpl:476
+#: app/templates/mobilemanual/8.tpl:458
 msgid "Unfortunately there are some phone models where blocking does not work."
 msgstr "Valitettavasti joissakin puhelinmalleissa estäminen ei toimi."
 
-#: app/templates/mobilemanual/8.tpl:477
+#: app/templates/mobilemanual/8.tpl:459
 msgid ""
 "Blocking of a phone call is not a default functionality supported by Android "
 "system and used workarounds can be sometimes broken by phone manufacturer "
@@ -2490,15 +2422,15 @@ msgstr ""
 "puhelinvalmistajat saattavat joskus rikkoa käyttämämme kiertotiet omilla "
 "järjestelmäparannuksillaan."
 
-#: app/templates/mobilemanual/8.tpl:480
+#: app/templates/mobilemanual/8.tpl:462
 msgid "Q: Where can I find version for iPhone?"
 msgstr "K: Voiko sovellusta käyttää iPhonella?"
 
-#: app/templates/mobilemanual/8.tpl:482
+#: app/templates/mobilemanual/8.tpl:464
 msgid "There is no version for iPhone yet."
 msgstr "Sovelluksesta ei ole vielä iPhonelle sopivaa versiota. "
 
-#: app/templates/mobilemanual/8.tpl:483
+#: app/templates/mobilemanual/8.tpl:465
 msgid ""
 "iPhone's operating system doesn't provide access to contacts, incoming or "
 "outgoing calls or some reliable way how to intercept or block calls."
@@ -2507,7 +2439,7 @@ msgstr ""
 "saapuviin ja lähteviin puheluihin eikä tue mitään luotettavaa tapaa estää "
 "puheluita."
 
-#: app/templates/mobilemanual/8.tpl:484
+#: app/templates/mobilemanual/8.tpl:466
 msgid ""
 "With such conditions the application could provide just manual phone info "
 "search - nearly same functionality as provided by our web pages."
@@ -2516,27 +2448,27 @@ msgstr ""
 "manuaalisesti internetistä. Verkkosivuiltamme löydät tiedot lähes yhtä "
 "kätevästi kuin sovelluksestamme."
 
-#: app/templates/mobilemanual/8.tpl:485
+#: app/templates/mobilemanual/8.tpl:467
 msgid ""
 "Due to this limitation there is very low priority to make any iPhone native "
 "app."
 msgstr ""
 "Näiden asioiden takia emme ole vielä harkinneet iPhone sovelluksen tekemistä."
 
-#: app/templates/mobilemanual/8.tpl:490
+#: app/templates/mobilemanual/8.tpl:472
 #: app/templates/removalrequest/default.tpl:239
 #: app/templates/termsapp/default.tpl:17
 msgid "Terms Of Use"
 msgstr "Käyttöehdot"
 
-#: app/templates/mobilemanual/8.tpl:506 app/templates/mobilemanual/8.tpl:578
+#: app/templates/mobilemanual/8.tpl:488 app/templates/mobilemanual/8.tpl:560
 #: app/templates/privacyapp/default.tpl:17
 #: app/templates/privacypolicy/default.tpl:17
 #: app/templates/privacypolicy/default.tpl:27
 msgid "Privacy Policy"
 msgstr "Yksityisyys"
 
-#: app/templates/mobilemanual/8.tpl:508
+#: app/templates/mobilemanual/8.tpl:490
 msgid ""
 "Privacy matters but it can be confusing. Please read this explanation of our "
 "approach to privacy in our application."
@@ -2545,19 +2477,19 @@ msgstr ""
 "tämä selitys, jossa esittelemme suhtautumisemme turvallisuuteen SIA:n "
 "kanssa. "
 
-#: app/templates/mobilemanual/8.tpl:511
+#: app/templates/mobilemanual/8.tpl:493
 msgid "Phone Contacts"
 msgstr "Puhelimen yhteystiedot"
 
-#: app/templates/mobilemanual/8.tpl:513
+#: app/templates/mobilemanual/8.tpl:495
 msgid "Our app doesn't send your contact information to server."
 msgstr "Sovellus ei lähetä palvelimelle tietoja yhteystiedoistasi."
 
-#: app/templates/mobilemanual/8.tpl:516
+#: app/templates/mobilemanual/8.tpl:498
 msgid "History of Incoming and Outgoing Calls"
 msgstr "Saapuvien ja lähtevien puheluiden historia"
 
-#: app/templates/mobilemanual/8.tpl:518
+#: app/templates/mobilemanual/8.tpl:500
 msgid ""
 "In default, the app doesn't send any information about incoming or outgoing "
 "calls."
@@ -2565,7 +2497,7 @@ msgstr ""
 "Sovellus on säädetty niin, ettei se ota vakiona vastaan mitään tietoa "
 "tulevista tai soitetuista puheluista."
 
-#: app/templates/mobilemanual/8.tpl:519
+#: app/templates/mobilemanual/8.tpl:501
 msgid ""
 "Because information about incoming unknown calls can help us improve our "
 "service, you can enable sending of this information in the settings."
@@ -2574,15 +2506,15 @@ msgstr ""
 "palveluidemme parantamiseen, voit sallia tietojen anonyymin lähettämisen "
 "asetuksista."
 
-#: app/templates/mobilemanual/8.tpl:520
+#: app/templates/mobilemanual/8.tpl:502
 msgid "Thank you for your help."
 msgstr "Kiitos avustasi."
 
-#: app/templates/mobilemanual/8.tpl:523
+#: app/templates/mobilemanual/8.tpl:505
 msgid "Displaying of Phone Number User Reviews"
 msgstr "Puhelinnumeroiden käyttäjäarvosteluiden näyttäminen"
 
-#: app/templates/mobilemanual/8.tpl:525
+#: app/templates/mobilemanual/8.tpl:507
 msgid ""
 "Displaying of user reviews for the respective number needs your permission "
 "to send respective phone number to server."
@@ -2590,7 +2522,7 @@ msgstr ""
 "Käyttäjien arvostelujen näkeminen numeroiden kohdalla vaatii sinun "
 "hyväksyntäsi, jotta numero voidaan välittää palvelimelle."
 
-#: app/templates/mobilemanual/8.tpl:526
+#: app/templates/mobilemanual/8.tpl:508
 msgid ""
 "This can't be done without your permission, so Permission dialog is "
 "displayed before start of reviews download."
@@ -2598,11 +2530,11 @@ msgstr ""
 "Tätä ei voida tehdä ilman sinun lupaasi, joten Lupa-dialogi on esillä ennen, "
 "kuin aloitat lataamisen."
 
-#: app/templates/mobilemanual/8.tpl:529
+#: app/templates/mobilemanual/8.tpl:511
 msgid "Submitting of own phone number review"
 msgstr "Oman arvostelun lisääminen"
 
-#: app/templates/mobilemanual/8.tpl:531
+#: app/templates/mobilemanual/8.tpl:513
 msgid ""
 "If you fill and send some phone number rating, you agree with publishing the "
 "phone number and all filled information on our website."
@@ -2610,7 +2542,7 @@ msgstr ""
 "Jos täytät ja lähetät puhelinnumerosta arvostelun, suostut julkaisemaan "
 "puhelinnumeron ja sen sisältämät tiedot nettisivuillamme."
 
-#: app/templates/mobilemanual/8.tpl:532
+#: app/templates/mobilemanual/8.tpl:514
 msgid ""
 "We also store technical information about the request (time, IP and agent) "
 "for solving problems with illegal activity."
@@ -2618,11 +2550,11 @@ msgstr ""
 "Säilytämme myös tekniset tiedot pyynnöstä (aika, IP ja palveluntarjoaja), "
 "jotta voimme ratkaista ongelmat laittomaan aktiivisuteen liittyen."
 
-#: app/templates/mobilemanual/8.tpl:535
+#: app/templates/mobilemanual/8.tpl:517
 msgid "Using our web service"
 msgstr "Nettipalvelumme käyttäminen"
 
-#: app/templates/mobilemanual/8.tpl:536
+#: app/templates/mobilemanual/8.tpl:518
 msgid ""
 "Some features like reviews download, database update, phone info search.. "
 "uses our web service."
@@ -2630,21 +2562,21 @@ msgstr ""
 "Jotkin ominaisuudet, kuten arvostelujen lataaminen, tietokannan "
 "päivittäminen, numeron tietojen hakeminen jne. käyttävät nettiyhteyttä."
 
-#: app/templates/mobilemanual/8.tpl:537
+#: app/templates/mobilemanual/8.tpl:519
 msgid ""
 "Our web service collects anonymous statistics about visitors and service "
 "usage."
 msgstr "Nettipalvelumme kerää yhteen tietoja kävijöistä ja palvelun käytöstä."
 
-#: app/templates/mobilemanual/8.tpl:538
+#: app/templates/mobilemanual/8.tpl:520
 msgid "Please read privacy policy of our web service for detailed information."
 msgstr "Lue palvelimemme turvallisuuskäytäntö lisätietoja varten."
 
-#: app/templates/mobilemanual/8.tpl:540
+#: app/templates/mobilemanual/8.tpl:522
 msgid "Updates to this policy"
 msgstr "Päivityksiä tähän käytäntöön liittyen."
 
-#: app/templates/mobilemanual/8.tpl:541
+#: app/templates/mobilemanual/8.tpl:523
 msgid ""
 "We may update this privacy policy anytime to keep this description in sync "
 "with used technology."
@@ -2652,11 +2584,11 @@ msgstr ""
 "Saatamme päivittää turvallisuuskäytäntöä milloin tahansa, jotta voimme pitää "
 "kuvauksen ajan tasalla uuden teknologian kanssa."
 
-#: app/templates/mobilemanual/8.tpl:544
+#: app/templates/mobilemanual/8.tpl:526
 msgid "Any questions?"
 msgstr "Kysymyksiä?"
 
-#: app/templates/mobilemanual/8.tpl:546
+#: app/templates/mobilemanual/8.tpl:528
 msgid ""
 "If you have any questions about our product, terms or privacy policy, please "
 "write to us by email to <a href=\"mailto:support@shouldianswer.net"
@@ -2666,15 +2598,15 @@ msgstr ""
 "turvallisuuskäytännöstä, ota yhteyttä sähköpostitse osoitteeseen <a href="
 "\"mailto:support@shouldianswer.net\">support@shouldianswer.net</a>."
 
-#: app/templates/mobilemanual/8.tpl:560
+#: app/templates/mobilemanual/8.tpl:542
 msgid "Features"
 msgstr "Ominaisuudet"
 
-#: app/templates/mobilemanual/8.tpl:561
+#: app/templates/mobilemanual/8.tpl:543
 msgid "How It Works"
 msgstr "Miten se toimii"
 
-#: app/templates/mobilemanual/8.tpl:577 app/templates/terms/default.tpl:17
+#: app/templates/mobilemanual/8.tpl:559 app/templates/terms/default.tpl:17
 msgid "Terms of Use"
 msgstr "Käyttöehdot"
 
@@ -2692,10 +2624,10 @@ msgstr ""
 "numeroa, meillä on käytössämme huikea tietokanta. Kiitos!"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:23
-#: app/templates/phonenumber/defaultAmp.tpl:24
 #: app/templates/phonenumber/defaultDefault.tpl:21
-#: app/templates/phonenumber/defaultModerator.tpl:20
+#: app/templates/phonenumber/defaultModerator.tpl:21
 #: app/templates/phonenumber/defaultNew.tpl:21
+#: app/templates/phonenumber/defaultNewReloaded.tpl:21
 #: app/templates/phonenumber/defaultNext.tpl:20
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:26
 #, php-format
@@ -2703,10 +2635,10 @@ msgid "Who called you from %s ?"
 msgstr "Kuka soitti sinulle numerosta %s?"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:24
-#: app/templates/phonenumber/defaultAmp.tpl:25
 #: app/templates/phonenumber/defaultDefault.tpl:23
-#: app/templates/phonenumber/defaultModerator.tpl:21
+#: app/templates/phonenumber/defaultModerator.tpl:22
 #: app/templates/phonenumber/defaultNew.tpl:22
+#: app/templates/phonenumber/defaultNewReloaded.tpl:22
 #: app/templates/phonenumber/defaultNext.tpl:22
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:27
 #, php-format
@@ -2718,10 +2650,10 @@ msgstr ""
 "sekä mitä muut sanovat numerosta."
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:54
-#: app/templates/phonenumber/defaultAmp.tpl:135
 #: app/templates/phonenumber/defaultDefault.tpl:101
-#: app/templates/phonenumber/defaultModerator.tpl:38
+#: app/templates/phonenumber/defaultModerator.tpl:87
 #: app/templates/phonenumber/defaultNew.tpl:132
+#: app/templates/phonenumber/defaultNewReloaded.tpl:139
 #: app/templates/phonenumber/defaultNext.tpl:216
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:63
 msgid "Who called you from "
@@ -2761,454 +2693,54 @@ msgstr "Should I Answer -tiimi"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:76
 #: app/templates/phonenumber/defaultDefault.tpl:629
-#: app/templates/phonenumber/defaultModerator.tpl:500
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:628
 #, php-format
 msgid "Possible <strong>formats</strong> of the  %s"
 msgstr "Mahdollisia <strong>muotoja</strong> puhelinnumerosta %s"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:95
-#: app/templates/phonenumber/defaultAmp.tpl:631
 #: app/templates/phonenumber/defaultDefault.tpl:652
-#: app/templates/phonenumber/defaultModerator.tpl:521
+#: app/templates/phonenumber/defaultModerator.tpl:631
 #: app/templates/phonenumber/defaultNew.tpl:628
+#: app/templates/phonenumber/defaultNewReloaded.tpl:645
 #: app/templates/phonenumber/defaultNext.tpl:720
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:647
 msgid "<strong>Searching</strong> for similar phone numbers?"
 msgstr "<strong>Etsitkö</strong> vastaavia puhelinnumeroita?"
 
-#: app/templates/phonenumber/defaultAmp.tpl:32
 #: app/templates/phonenumber/defaultDefault.tpl:30
 #: app/templates/phonenumber/defaultNew.tpl:29
+#: app/templates/phonenumber/defaultNewReloaded.tpl:29
 #: app/templates/phonenumber/defaultNext.tpl:29
 #, php-format
 msgid "We have details about phone number %s. "
 msgstr "Meillä on tietoja puhelinnumerosta %s"
-
-#: app/templates/phonenumber/defaultAmp.tpl:167
-#: app/templates/phonenumber/defaultNew.tpl:164
-#: app/templates/phonenumber/defaultNext.tpl:247
-msgid "ratings"
-msgstr "arviot"
-
-#: app/templates/phonenumber/defaultAmp.tpl:168
-#: app/templates/phonenumber/defaultNew.tpl:165
-#: app/templates/phonenumber/defaultNext.tpl:248
-msgid "reviews"
-msgstr "arvostelut"
-
-#: app/templates/phonenumber/defaultAmp.tpl:169
-#: app/templates/phonenumber/defaultNew.tpl:166
-#: app/templates/phonenumber/defaultNext.tpl:249
-msgid "no ratings"
-msgstr "ei arvioita"
-
-#: app/templates/phonenumber/defaultAmp.tpl:170
-#: app/templates/phonenumber/defaultNew.tpl:167
-#: app/templates/phonenumber/defaultNext.tpl:250
-msgid "no reviews"
-msgstr "ei arvosteluja"
-
-#: app/templates/phonenumber/defaultAmp.tpl:171
-#: app/templates/phonenumber/defaultNew.tpl:168
-#: app/templates/phonenumber/defaultNext.tpl:251
-msgid "single rating"
-msgstr "yksi arvio"
-
-#: app/templates/phonenumber/defaultAmp.tpl:172
-#: app/templates/phonenumber/defaultNew.tpl:169
-#: app/templates/phonenumber/defaultNext.tpl:252
-msgid "single review"
-msgstr "yksi arvostelu"
-
-#: app/templates/phonenumber/defaultAmp.tpl:173
-#: app/templates/phonenumber/defaultNew.tpl:170
-#: app/templates/phonenumber/defaultNext.tpl:253
-#, php-format
-msgid "We have %s and %s for this phone number."
-msgstr "Meillä on %s and %s tälle puhelinnumerolle."
-
-#: app/templates/phonenumber/defaultAmp.tpl:198
-#: app/templates/phonenumber/defaultNew.tpl:195
-#: app/templates/phonenumber/defaultNext.tpl:277
-#, php-format
-msgid "Single user marked it with %s rating"
-msgstr "Yksi käyttäjä antoi sille %s arvion."
-
-#: app/templates/phonenumber/defaultAmp.tpl:200
-#: app/templates/phonenumber/defaultNew.tpl:197
-#: app/templates/phonenumber/defaultNext.tpl:279
-#, php-format
-msgid "%s users marked it with %s rating"
-msgstr "%s käyttäjää antoi sille %s arvion"
-
-#: app/templates/phonenumber/defaultAmp.tpl:203
-#: app/templates/phonenumber/defaultNew.tpl:200
-#: app/templates/phonenumber/defaultNext.tpl:282
-msgid "and"
-msgstr "ja"
-
-#: app/templates/phonenumber/defaultAmp.tpl:207
-#: app/templates/phonenumber/defaultNew.tpl:204
-#: app/templates/phonenumber/defaultNext.tpl:286
-#, php-format
-msgid "single user with %s rating"
-msgstr "yksi käyttäjä %s arvion"
-
-#: app/templates/phonenumber/defaultAmp.tpl:209
-#: app/templates/phonenumber/defaultNew.tpl:206
-#: app/templates/phonenumber/defaultNext.tpl:288
-#, php-format
-msgid "%s users with %s rating"
-msgstr "%s käyttäjää %s arvion"
-
-#: app/templates/phonenumber/defaultAmp.tpl:265
-#: app/templates/phonenumber/defaultNew.tpl:262
-#: app/templates/phonenumber/defaultNext.tpl:340
-#, php-format
-msgid "Possible phone number formats are "
-msgstr "Mahdolliset muut muodot puhelinnumerolle ovat"
-
-#: app/templates/phonenumber/defaultAmp.tpl:309
-#: app/templates/phonenumber/defaultNew.tpl:306
-#: app/templates/phonenumber/defaultNext.tpl:385
-#, php-format
-msgid "<strong>Reviews</strong> for phone number %s"
-msgstr "<strong>Arvostelut</strong> puhelinnumerolle %s"
-
-#: app/templates/phonenumber/defaultAmp.tpl:315
-#: app/templates/phonenumber/defaultNew.tpl:312
-#: app/templates/phonenumber/defaultNext.tpl:392
-msgid "Add <strong>Your rating</strong>"
-msgstr "Lisää <strong>arviosi</strong>"
-
-#: app/templates/phonenumber/defaultAmp.tpl:319
-#: app/templates/phonenumber/defaultDefault.tpl:300
-#: app/templates/phonenumber/defaultModerator.tpl:185
-#: app/templates/phonenumber/defaultNew.tpl:316
-#: app/templates/phonenumber/defaultNext.tpl:395
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:336
-msgid "click here to show rating form"
-msgstr "klikkaa tästä nähdäksesi arviointilomakkeen"
-
-#: app/templates/phonenumber/defaultAmp.tpl:332
-#: app/templates/phonenumber/defaultDefault.tpl:313
-#: app/templates/phonenumber/defaultModerator.tpl:198
-#: app/templates/phonenumber/defaultNew.tpl:329
-#: app/templates/phonenumber/defaultNext.tpl:407
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:349
-msgid "Rating"
-msgstr "Arvio"
-
-#: app/templates/phonenumber/defaultAmp.tpl:334
-#: app/templates/phonenumber/defaultDefault.tpl:315
-#: app/templates/phonenumber/defaultModerator.tpl:200
-#: app/templates/phonenumber/defaultNew.tpl:331
-#: app/templates/phonenumber/defaultNext.tpl:409
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:351
-msgid "select rating"
-msgstr "valitse arvio"
-
-#: app/templates/phonenumber/defaultAmp.tpl:340
-#: app/templates/phonenumber/defaultDefault.tpl:321
-#: app/templates/phonenumber/defaultModerator.tpl:206
-#: app/templates/phonenumber/defaultNew.tpl:337
-#: app/templates/phonenumber/defaultNext.tpl:415
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:357
-msgid "Please select rating!"
-msgstr "Valitse arvio, kiitos!"
-
-#: app/templates/phonenumber/defaultAmp.tpl:346
-#: app/templates/phonenumber/defaultDefault.tpl:327
-#: app/templates/phonenumber/defaultModerator.tpl:212
-#: app/templates/phonenumber/defaultNew.tpl:343
-#: app/templates/phonenumber/defaultNext.tpl:421
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:363
-msgid "Category"
-msgstr "Kategoria"
-
-#: app/templates/phonenumber/defaultAmp.tpl:348
-#: app/templates/phonenumber/defaultDefault.tpl:329
-#: app/templates/phonenumber/defaultModerator.tpl:214
-#: app/templates/phonenumber/defaultNew.tpl:345
-#: app/templates/phonenumber/defaultNext.tpl:423
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:365
-msgid "select category"
-msgstr "valitse kategoria"
-
-#: app/templates/phonenumber/defaultAmp.tpl:358
-#: app/templates/phonenumber/defaultDefault.tpl:339
-#: app/templates/phonenumber/defaultModerator.tpl:224
-#: app/templates/phonenumber/defaultNew.tpl:355
-#: app/templates/phonenumber/defaultNext.tpl:433
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:375
-msgid "Please select category!"
-msgstr "Valitse kategoria, kiitos!"
-
-#: app/templates/phonenumber/defaultAmp.tpl:366
-#: app/templates/phonenumber/defaultAmp.tpl:663
-#: app/templates/phonenumber/defaultDefault.tpl:347
-#: app/templates/phonenumber/defaultDefault.tpl:702
-#: app/templates/phonenumber/defaultModerator.tpl:232
-#: app/templates/phonenumber/defaultModerator.tpl:558
-#: app/templates/phonenumber/defaultNew.tpl:363
-#: app/templates/phonenumber/defaultNew.tpl:660
-#: app/templates/phonenumber/defaultNext.tpl:441
-#: app/templates/phonenumber/defaultNext.tpl:765
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:383
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:699
-msgid "Name"
-msgstr "Nimi"
-
-#: app/templates/phonenumber/defaultAmp.tpl:367
-#: app/templates/phonenumber/defaultDefault.tpl:348
-#: app/templates/phonenumber/defaultModerator.tpl:233
-#: app/templates/phonenumber/defaultNew.tpl:364
-#: app/templates/phonenumber/defaultNext.tpl:442
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:384
-msgid "name or nickname"
-msgstr "oikea nimi tai käyttäjänimi"
-
-#: app/templates/phonenumber/defaultAmp.tpl:370
-#: app/templates/phonenumber/defaultDefault.tpl:351
-#: app/templates/phonenumber/defaultModerator.tpl:239
-#: app/templates/phonenumber/defaultNew.tpl:367
-#: app/templates/phonenumber/defaultNext.tpl:445
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:390
-msgid "Please enter your name or nickname!"
-msgstr "Anna käyttäjänimesi, kiitos!"
-
-#: app/templates/phonenumber/defaultAmp.tpl:376
-#: app/templates/phonenumber/defaultDefault.tpl:357
-#: app/templates/phonenumber/defaultModerator.tpl:245
-#: app/templates/phonenumber/defaultNew.tpl:373
-#: app/templates/phonenumber/defaultNext.tpl:451
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:396
-msgid "Title"
-msgstr "Titteli"
-
-#: app/templates/phonenumber/defaultAmp.tpl:377
-#: app/templates/phonenumber/defaultDefault.tpl:358
-#: app/templates/phonenumber/defaultModerator.tpl:246
-#: app/templates/phonenumber/defaultNew.tpl:374
-#: app/templates/phonenumber/defaultNext.tpl:452
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:397
-msgid "title (optional)"
-msgstr "titteli (valinnainen)"
-
-#: app/templates/phonenumber/defaultAmp.tpl:382
-#: app/templates/phonenumber/defaultAmp.tpl:668
-#: app/templates/phonenumber/defaultDefault.tpl:363
-#: app/templates/phonenumber/defaultDefault.tpl:707
-#: app/templates/phonenumber/defaultModerator.tpl:251
-#: app/templates/phonenumber/defaultModerator.tpl:563
-#: app/templates/phonenumber/defaultNew.tpl:379
-#: app/templates/phonenumber/defaultNew.tpl:665
-#: app/templates/phonenumber/defaultNext.tpl:457
-#: app/templates/phonenumber/defaultNext.tpl:770
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:402
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:704
-msgid "Comment"
-msgstr "Kommentti"
-
-#: app/templates/phonenumber/defaultAmp.tpl:383
-#: app/templates/phonenumber/defaultDefault.tpl:364
-#: app/templates/phonenumber/defaultModerator.tpl:252
-#: app/templates/phonenumber/defaultNew.tpl:380
-#: app/templates/phonenumber/defaultNext.tpl:458
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:403
-msgid "write your comment"
-msgstr "kirjoita kommenttisi"
-
-#: app/templates/phonenumber/defaultAmp.tpl:386
-#: app/templates/phonenumber/defaultDefault.tpl:367
-#: app/templates/phonenumber/defaultModerator.tpl:255
-#: app/templates/phonenumber/defaultNew.tpl:383
-#: app/templates/phonenumber/defaultNext.tpl:461
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:406
-msgid "Please enter your comment!"
-msgstr "Kirjoita kommenttisi, kiitos!"
-
-#: app/templates/phonenumber/defaultAmp.tpl:393
-#: app/templates/phonenumber/defaultDefault.tpl:374
-#: app/templates/phonenumber/defaultModerator.tpl:262
-#: app/templates/phonenumber/defaultNew.tpl:390
-#: app/templates/phonenumber/defaultNext.tpl:468
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:413
-msgid "send rating"
-msgstr "lähetä arvio"
-
-#: app/templates/phonenumber/defaultAmp.tpl:460
-#: app/templates/phonenumber/defaultDefault.tpl:463
-#: app/templates/phonenumber/defaultModerator.tpl:349
-#: app/templates/phonenumber/defaultNew.tpl:457
-#: app/templates/phonenumber/defaultNext.tpl:534
-msgid "owner"
-msgstr "omistaja"
-
-#: app/templates/phonenumber/defaultAmp.tpl:461
-#: app/templates/phonenumber/defaultDefault.tpl:464
-#: app/templates/phonenumber/defaultModerator.tpl:350
-#: app/templates/phonenumber/defaultNew.tpl:458
-#: app/templates/phonenumber/defaultNext.tpl:535
-msgid "moderator"
-msgstr "moderaattori"
-
-#: app/templates/phonenumber/defaultAmp.tpl:462
-#: app/templates/phonenumber/defaultDefault.tpl:465
-#: app/templates/phonenumber/defaultModerator.tpl:351
-#: app/templates/phonenumber/defaultNew.tpl:459
-#: app/templates/phonenumber/defaultNext.tpl:536
-msgid "censored"
-msgstr "sensuroitu"
-
-#: app/templates/phonenumber/defaultAmp.tpl:463
-#: app/templates/phonenumber/defaultDefault.tpl:466
-#: app/templates/phonenumber/defaultModerator.tpl:352
-#: app/templates/phonenumber/defaultNew.tpl:460
-#: app/templates/phonenumber/defaultNext.tpl:537
-msgid "system"
-msgstr "systeemi"
-
-#: app/templates/phonenumber/defaultAmp.tpl:469
-#: app/templates/phonenumber/defaultDefault.tpl:472
-#: app/templates/phonenumber/defaultModerator.tpl:358
-#: app/templates/phonenumber/defaultNew.tpl:466
-#: app/templates/phonenumber/defaultNext.tpl:543
-msgid "featured"
-msgstr "esillä"
-
-#: app/templates/phonenumber/defaultAmp.tpl:482
-#: app/templates/phonenumber/defaultDefault.tpl:487
-#: app/templates/phonenumber/defaultModerator.tpl:374
-#: app/templates/phonenumber/defaultNew.tpl:479
-#: app/templates/phonenumber/defaultNext.tpl:558
-msgid "This comment has been removed because violated terms of use"
-msgstr "Tämä kommentti on poistettu, sillä se loukkaa sivuston ehtoja. "
-
-#: app/templates/phonenumber/defaultAmp.tpl:488
-#: app/templates/phonenumber/defaultAmp.tpl:533
-#: app/templates/phonenumber/defaultDefault.tpl:495
-#: app/templates/phonenumber/defaultDefault.tpl:543
-#: app/templates/phonenumber/defaultModerator.tpl:380
-#: app/templates/phonenumber/defaultModerator.tpl:432
-#: app/templates/phonenumber/defaultNew.tpl:485
-#: app/templates/phonenumber/defaultNew.tpl:530
-#: app/templates/phonenumber/defaultNext.tpl:563
-#: app/templates/phonenumber/defaultNext.tpl:611
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:510
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:548
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:866
-msgid "Agree"
-msgstr "Samaa mieltä"
-
-#: app/templates/phonenumber/defaultAmp.tpl:493
-#: app/templates/phonenumber/defaultAmp.tpl:538
-#: app/templates/phonenumber/defaultDefault.tpl:502
-#: app/templates/phonenumber/defaultDefault.tpl:550
-#: app/templates/phonenumber/defaultModerator.tpl:387
-#: app/templates/phonenumber/defaultModerator.tpl:439
-#: app/templates/phonenumber/defaultNew.tpl:490
-#: app/templates/phonenumber/defaultNew.tpl:535
-#: app/templates/phonenumber/defaultNext.tpl:570
-#: app/templates/phonenumber/defaultNext.tpl:618
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:516
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:554
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:869
-msgid "Disagree"
-msgstr "Eri mieltä"
-
-#: app/templates/phonenumber/defaultAmp.tpl:499
-#: app/templates/phonenumber/defaultDefault.tpl:510
-#: app/templates/phonenumber/defaultModerator.tpl:395
-#: app/templates/phonenumber/defaultNew.tpl:496
-#: app/templates/phonenumber/defaultNext.tpl:578
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:523
-msgid "Comments"
-msgstr "Kommentit"
-
-#: app/templates/phonenumber/defaultAmp.tpl:507
-#: app/templates/phonenumber/defaultAmp.tpl:659
-#: app/templates/phonenumber/defaultDefault.tpl:517
-#: app/templates/phonenumber/defaultDefault.tpl:698
-#: app/templates/phonenumber/defaultModerator.tpl:402
-#: app/templates/phonenumber/defaultModerator.tpl:554
-#: app/templates/phonenumber/defaultNew.tpl:504
-#: app/templates/phonenumber/defaultNew.tpl:656
-#: app/templates/phonenumber/defaultNext.tpl:585
-#: app/templates/phonenumber/defaultNext.tpl:761
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:529
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:695
-msgid "Add Comment"
-msgstr "Lisää kommentti"
-
-#: app/templates/phonenumber/defaultAmp.tpl:513
-#: app/templates/phonenumber/defaultAmp.tpl:543
-#: app/templates/phonenumber/defaultDefault.tpl:523
-#: app/templates/phonenumber/defaultDefault.tpl:557
-#: app/templates/phonenumber/defaultModerator.tpl:408
-#: app/templates/phonenumber/defaultModerator.tpl:446
-#: app/templates/phonenumber/defaultNew.tpl:510
-#: app/templates/phonenumber/defaultNew.tpl:540
-#: app/templates/phonenumber/defaultNext.tpl:591
-#: app/templates/phonenumber/defaultNext.tpl:625
-msgid "Delete"
-msgstr "Poista"
-
-#: app/templates/phonenumber/defaultAmp.tpl:595
-#: app/templates/phonenumber/defaultDefault.tpl:195
-#: app/templates/phonenumber/defaultDefault.tpl:233
-#: app/templates/phonenumber/defaultDefault.tpl:271
-#: app/templates/phonenumber/defaultNew.tpl:592
-#: app/templates/phonenumber/defaultNext.tpl:680
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:231
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:269
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:307
-msgid "How to block this number?"
-msgstr "Miten estää tämä numero?"
-
-#: app/templates/phonenumber/defaultAmp.tpl:673
-#: app/templates/phonenumber/defaultDefault.tpl:712
-#: app/templates/phonenumber/defaultModerator.tpl:568
-#: app/templates/phonenumber/defaultNew.tpl:670
-#: app/templates/phonenumber/defaultNext.tpl:775
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:709
-msgid "Submit"
-msgstr "Lähetä"
-
-#: app/templates/phonenumber/defaultAmp.tpl:814
-#: app/templates/phonenumber/defaultDefault.tpl:850
-#: app/templates/phonenumber/defaultModerator.tpl:706
-#: app/templates/phonenumber/defaultNew.tpl:812
-#: app/templates/phonenumber/defaultNext.tpl:915
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:841
-msgid "Please enter your name or nick"
-msgstr "Anna oikea nimesi tai käyttäjänimesi"
-
-#: app/templates/phonenumber/defaultAmp.tpl:820
-#: app/templates/phonenumber/defaultDefault.tpl:856
-#: app/templates/phonenumber/defaultModerator.tpl:712
-#: app/templates/phonenumber/defaultNew.tpl:818
-#: app/templates/phonenumber/defaultNext.tpl:921
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:847
-msgid "Your comment must be longer than 5 characters"
-msgstr "Kommenttisi pitää olla pidempi kuin 5 merkkiä"
 
 #: app/templates/phonenumber/defaultDefault.tpl:98
 msgid "Actualization"
 msgstr "Toteuttaminen"
 
 #: app/templates/phonenumber/defaultDefault.tpl:137
-#: app/templates/phonenumber/defaultModerator.tpl:81
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:92
 msgid "Details"
 msgstr "Yksityiskohdat"
 
 #: app/templates/phonenumber/defaultDefault.tpl:143
-#: app/templates/phonenumber/defaultModerator.tpl:87
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:98
 msgid "You rating can help the others to be informed about this number."
 msgstr "Arviosi tästä numerosta voi auttaa myös muita."
+
+#: app/templates/phonenumber/defaultDefault.tpl:195
+#: app/templates/phonenumber/defaultDefault.tpl:233
+#: app/templates/phonenumber/defaultDefault.tpl:271
+#: app/templates/phonenumber/defaultNew.tpl:592
+#: app/templates/phonenumber/defaultNewReloaded.tpl:614
+#: app/templates/phonenumber/defaultNext.tpl:680
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:231
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:269
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:307
+msgid "How to block this number?"
+msgstr "Miten estää tämä numero?"
 
 #: app/templates/phonenumber/defaultDefault.tpl:206
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:242
@@ -3264,36 +2796,445 @@ msgstr ""
 "<strong>ilmainen sovelluksemme!</strong>!"
 
 #: app/templates/phonenumber/defaultDefault.tpl:297
-#: app/templates/phonenumber/defaultModerator.tpl:182
+#: app/templates/phonenumber/defaultModerator.tpl:328
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:333
 msgid "Add Your <strong>rating</strong>"
 msgstr "Lisää <strong>arviosi</strong>."
 
+#: app/templates/phonenumber/defaultDefault.tpl:300
+#: app/templates/phonenumber/defaultModerator.tpl:331
+#: app/templates/phonenumber/defaultNew.tpl:316
+#: app/templates/phonenumber/defaultNewReloaded.tpl:333
+#: app/templates/phonenumber/defaultNext.tpl:395
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:336
+msgid "click here to show rating form"
+msgstr "klikkaa tästä nähdäksesi arviointilomakkeen"
+
+#: app/templates/phonenumber/defaultDefault.tpl:313
+#: app/templates/phonenumber/defaultModerator.tpl:344
+#: app/templates/phonenumber/defaultNew.tpl:329
+#: app/templates/phonenumber/defaultNewReloaded.tpl:345
+#: app/templates/phonenumber/defaultNext.tpl:407
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:349
+msgid "Rating"
+msgstr "Arvio"
+
+#: app/templates/phonenumber/defaultDefault.tpl:315
+#: app/templates/phonenumber/defaultModerator.tpl:346
+#: app/templates/phonenumber/defaultNew.tpl:331
+#: app/templates/phonenumber/defaultNewReloaded.tpl:347
+#: app/templates/phonenumber/defaultNext.tpl:409
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:351
+msgid "select rating"
+msgstr "valitse arvio"
+
+#: app/templates/phonenumber/defaultDefault.tpl:321
+#: app/templates/phonenumber/defaultModerator.tpl:352
+#: app/templates/phonenumber/defaultNew.tpl:337
+#: app/templates/phonenumber/defaultNewReloaded.tpl:353
+#: app/templates/phonenumber/defaultNext.tpl:415
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:357
+msgid "Please select rating!"
+msgstr "Valitse arvio, kiitos!"
+
+#: app/templates/phonenumber/defaultDefault.tpl:327
+#: app/templates/phonenumber/defaultModerator.tpl:358
+#: app/templates/phonenumber/defaultNew.tpl:343
+#: app/templates/phonenumber/defaultNewReloaded.tpl:359
+#: app/templates/phonenumber/defaultNext.tpl:421
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:363
+msgid "Category"
+msgstr "Kategoria"
+
+#: app/templates/phonenumber/defaultDefault.tpl:329
+#: app/templates/phonenumber/defaultModerator.tpl:360
+#: app/templates/phonenumber/defaultNew.tpl:345
+#: app/templates/phonenumber/defaultNewReloaded.tpl:361
+#: app/templates/phonenumber/defaultNext.tpl:423
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:365
+msgid "select category"
+msgstr "valitse kategoria"
+
+#: app/templates/phonenumber/defaultDefault.tpl:339
+#: app/templates/phonenumber/defaultModerator.tpl:370
+#: app/templates/phonenumber/defaultNew.tpl:355
+#: app/templates/phonenumber/defaultNewReloaded.tpl:371
+#: app/templates/phonenumber/defaultNext.tpl:433
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:375
+msgid "Please select category!"
+msgstr "Valitse kategoria, kiitos!"
+
+#: app/templates/phonenumber/defaultDefault.tpl:347
+#: app/templates/phonenumber/defaultDefault.tpl:702
+#: app/templates/phonenumber/defaultModerator.tpl:378
+#: app/templates/phonenumber/defaultModerator.tpl:668
+#: app/templates/phonenumber/defaultNew.tpl:363
+#: app/templates/phonenumber/defaultNew.tpl:660
+#: app/templates/phonenumber/defaultNewReloaded.tpl:379
+#: app/templates/phonenumber/defaultNewReloaded.tpl:678
+#: app/templates/phonenumber/defaultNext.tpl:441
+#: app/templates/phonenumber/defaultNext.tpl:765
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:383
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:699
+msgid "Name"
+msgstr "Nimi"
+
+#: app/templates/phonenumber/defaultDefault.tpl:348
+#: app/templates/phonenumber/defaultModerator.tpl:379
+#: app/templates/phonenumber/defaultNew.tpl:364
+#: app/templates/phonenumber/defaultNewReloaded.tpl:380
+#: app/templates/phonenumber/defaultNext.tpl:442
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:384
+msgid "name or nickname"
+msgstr "oikea nimi tai käyttäjänimi"
+
+#: app/templates/phonenumber/defaultDefault.tpl:351
+#: app/templates/phonenumber/defaultModerator.tpl:381
+#: app/templates/phonenumber/defaultNew.tpl:367
+#: app/templates/phonenumber/defaultNewReloaded.tpl:383
+#: app/templates/phonenumber/defaultNext.tpl:445
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:390
+msgid "Please enter your name or nickname!"
+msgstr "Anna käyttäjänimesi, kiitos!"
+
+#: app/templates/phonenumber/defaultDefault.tpl:357
+#: app/templates/phonenumber/defaultModerator.tpl:392
+#: app/templates/phonenumber/defaultNew.tpl:373
+#: app/templates/phonenumber/defaultNewReloaded.tpl:389
+#: app/templates/phonenumber/defaultNext.tpl:451
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:396
+msgid "Title"
+msgstr "Titteli"
+
+#: app/templates/phonenumber/defaultDefault.tpl:358
+#: app/templates/phonenumber/defaultModerator.tpl:393
+#: app/templates/phonenumber/defaultNew.tpl:374
+#: app/templates/phonenumber/defaultNewReloaded.tpl:390
+#: app/templates/phonenumber/defaultNext.tpl:452
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:397
+msgid "title (optional)"
+msgstr "titteli (valinnainen)"
+
+#: app/templates/phonenumber/defaultDefault.tpl:363
+#: app/templates/phonenumber/defaultDefault.tpl:707
+#: app/templates/phonenumber/defaultModerator.tpl:398
+#: app/templates/phonenumber/defaultModerator.tpl:673
+#: app/templates/phonenumber/defaultNew.tpl:379
+#: app/templates/phonenumber/defaultNew.tpl:665
+#: app/templates/phonenumber/defaultNewReloaded.tpl:395
+#: app/templates/phonenumber/defaultNewReloaded.tpl:683
+#: app/templates/phonenumber/defaultNext.tpl:457
+#: app/templates/phonenumber/defaultNext.tpl:770
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:402
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:704
+msgid "Comment"
+msgstr "Kommentti"
+
+#: app/templates/phonenumber/defaultDefault.tpl:364
+#: app/templates/phonenumber/defaultModerator.tpl:399
+#: app/templates/phonenumber/defaultNew.tpl:380
+#: app/templates/phonenumber/defaultNewReloaded.tpl:396
+#: app/templates/phonenumber/defaultNext.tpl:458
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:403
+msgid "write your comment"
+msgstr "kirjoita kommenttisi"
+
+#: app/templates/phonenumber/defaultDefault.tpl:367
+#: app/templates/phonenumber/defaultModerator.tpl:402
+#: app/templates/phonenumber/defaultNew.tpl:383
+#: app/templates/phonenumber/defaultNewReloaded.tpl:399
+#: app/templates/phonenumber/defaultNext.tpl:461
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:406
+msgid "Please enter your comment!"
+msgstr "Kirjoita kommenttisi, kiitos!"
+
+#: app/templates/phonenumber/defaultDefault.tpl:374
+#: app/templates/phonenumber/defaultModerator.tpl:409
+#: app/templates/phonenumber/defaultNew.tpl:390
+#: app/templates/phonenumber/defaultNewReloaded.tpl:406
+#: app/templates/phonenumber/defaultNext.tpl:468
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:413
+msgid "send rating"
+msgstr "lähetä arvio"
+
 #: app/templates/phonenumber/defaultDefault.tpl:383
-#: app/templates/phonenumber/defaultModerator.tpl:271
+#: app/templates/phonenumber/defaultModerator.tpl:418
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:422
 msgid "Phone number <strong>ratings</strong>"
 msgstr "Puhelinumeron <strong>arviot</strong> "
 
 #: app/templates/phonenumber/defaultDefault.tpl:400
-#: app/templates/phonenumber/defaultModerator.tpl:284
+#: app/templates/phonenumber/defaultModerator.tpl:431
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:435
 #, php-format
 msgid "This phone number has %s reviews with average rating \"%s\"."
 msgstr "Tällä numerolla on %s arviota keskiarvolla \"%s\"."
 
+#: app/templates/phonenumber/defaultDefault.tpl:463
+#: app/templates/phonenumber/defaultModerator.tpl:496
+#: app/templates/phonenumber/defaultNew.tpl:457
+#: app/templates/phonenumber/defaultNewReloaded.tpl:478
+#: app/templates/phonenumber/defaultNext.tpl:534
+msgid "owner"
+msgstr "omistaja"
+
+#: app/templates/phonenumber/defaultDefault.tpl:464
+#: app/templates/phonenumber/defaultModerator.tpl:497
+#: app/templates/phonenumber/defaultNew.tpl:458
+#: app/templates/phonenumber/defaultNewReloaded.tpl:479
+#: app/templates/phonenumber/defaultNext.tpl:535
+msgid "moderator"
+msgstr "moderaattori"
+
+#: app/templates/phonenumber/defaultDefault.tpl:465
+#: app/templates/phonenumber/defaultModerator.tpl:498
+#: app/templates/phonenumber/defaultNew.tpl:459
+#: app/templates/phonenumber/defaultNewReloaded.tpl:480
+#: app/templates/phonenumber/defaultNext.tpl:536
+msgid "censored"
+msgstr "sensuroitu"
+
+#: app/templates/phonenumber/defaultDefault.tpl:466
+#: app/templates/phonenumber/defaultModerator.tpl:499
+#: app/templates/phonenumber/defaultNew.tpl:460
+#: app/templates/phonenumber/defaultNewReloaded.tpl:481
+#: app/templates/phonenumber/defaultNext.tpl:537
+msgid "system"
+msgstr "systeemi"
+
+#: app/templates/phonenumber/defaultDefault.tpl:472
+#: app/templates/phonenumber/defaultModerator.tpl:505
+#: app/templates/phonenumber/defaultNew.tpl:466
+#: app/templates/phonenumber/defaultNewReloaded.tpl:487
+#: app/templates/phonenumber/defaultNext.tpl:543
+msgid "featured"
+msgstr "esillä"
+
+#: app/templates/phonenumber/defaultDefault.tpl:487
+#: app/templates/phonenumber/defaultModerator.tpl:518
+#: app/templates/phonenumber/defaultNew.tpl:479
+#: app/templates/phonenumber/defaultNewReloaded.tpl:500
+#: app/templates/phonenumber/defaultNext.tpl:558
+msgid "This comment has been removed because violated terms of use"
+msgstr "Tämä kommentti on poistettu, sillä se loukkaa sivuston ehtoja. "
+
+#: app/templates/phonenumber/defaultDefault.tpl:495
+#: app/templates/phonenumber/defaultDefault.tpl:543
+#: app/templates/phonenumber/defaultModerator.tpl:524
+#: app/templates/phonenumber/defaultModerator.tpl:569
+#: app/templates/phonenumber/defaultNew.tpl:485
+#: app/templates/phonenumber/defaultNew.tpl:530
+#: app/templates/phonenumber/defaultNewReloaded.tpl:507
+#: app/templates/phonenumber/defaultNewReloaded.tpl:552
+#: app/templates/phonenumber/defaultNext.tpl:563
+#: app/templates/phonenumber/defaultNext.tpl:611
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:510
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:548
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:866
+msgid "Agree"
+msgstr "Samaa mieltä"
+
+#: app/templates/phonenumber/defaultDefault.tpl:502
+#: app/templates/phonenumber/defaultDefault.tpl:550
+#: app/templates/phonenumber/defaultModerator.tpl:529
+#: app/templates/phonenumber/defaultModerator.tpl:574
+#: app/templates/phonenumber/defaultNew.tpl:490
+#: app/templates/phonenumber/defaultNew.tpl:535
+#: app/templates/phonenumber/defaultNewReloaded.tpl:512
+#: app/templates/phonenumber/defaultNewReloaded.tpl:557
+#: app/templates/phonenumber/defaultNext.tpl:570
+#: app/templates/phonenumber/defaultNext.tpl:618
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:516
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:554
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:869
+msgid "Disagree"
+msgstr "Eri mieltä"
+
+#: app/templates/phonenumber/defaultDefault.tpl:510
+#: app/templates/phonenumber/defaultModerator.tpl:535
+#: app/templates/phonenumber/defaultNew.tpl:496
+#: app/templates/phonenumber/defaultNewReloaded.tpl:518
+#: app/templates/phonenumber/defaultNext.tpl:578
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:523
+msgid "Comments"
+msgstr "Kommentit"
+
+#: app/templates/phonenumber/defaultDefault.tpl:517
+#: app/templates/phonenumber/defaultDefault.tpl:698
+#: app/templates/phonenumber/defaultModerator.tpl:543
+#: app/templates/phonenumber/defaultModerator.tpl:664
+#: app/templates/phonenumber/defaultNew.tpl:504
+#: app/templates/phonenumber/defaultNew.tpl:656
+#: app/templates/phonenumber/defaultNewReloaded.tpl:525
+#: app/templates/phonenumber/defaultNewReloaded.tpl:674
+#: app/templates/phonenumber/defaultNext.tpl:585
+#: app/templates/phonenumber/defaultNext.tpl:761
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:529
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:695
+msgid "Add Comment"
+msgstr "Lisää kommentti"
+
+#: app/templates/phonenumber/defaultDefault.tpl:523
+#: app/templates/phonenumber/defaultDefault.tpl:557
+#: app/templates/phonenumber/defaultModerator.tpl:549
+#: app/templates/phonenumber/defaultModerator.tpl:579
+#: app/templates/phonenumber/defaultNew.tpl:510
+#: app/templates/phonenumber/defaultNew.tpl:540
+#: app/templates/phonenumber/defaultNewReloaded.tpl:530
+#: app/templates/phonenumber/defaultNewReloaded.tpl:562
+#: app/templates/phonenumber/defaultNext.tpl:591
+#: app/templates/phonenumber/defaultNext.tpl:625
+msgid "Delete"
+msgstr "Poista"
+
 #: app/templates/phonenumber/defaultDefault.tpl:612
-#: app/templates/phonenumber/defaultModerator.tpl:483
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:611
 msgid "Report ownership of this number or untruthful information presented."
 msgstr ""
 "Raportoi tietoja tämän numeron omistajasta tai valheellisesta tiedosta "
 "numeroon liittyen."
 
-#: app/templates/phonenumber/defaultModerator.tpl:235
+#: app/templates/phonenumber/defaultDefault.tpl:712
+#: app/templates/phonenumber/defaultModerator.tpl:678
+#: app/templates/phonenumber/defaultNew.tpl:670
+#: app/templates/phonenumber/defaultNewReloaded.tpl:688
+#: app/templates/phonenumber/defaultNext.tpl:775
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:709
+msgid "Submit"
+msgstr "Lähetä"
+
+#: app/templates/phonenumber/defaultDefault.tpl:850
+#: app/templates/phonenumber/defaultModerator.tpl:816
+#: app/templates/phonenumber/defaultNew.tpl:812
+#: app/templates/phonenumber/defaultNewReloaded.tpl:831
+#: app/templates/phonenumber/defaultNext.tpl:915
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:841
+msgid "Please enter your name or nick"
+msgstr "Anna oikea nimesi tai käyttäjänimesi"
+
+#: app/templates/phonenumber/defaultDefault.tpl:856
+#: app/templates/phonenumber/defaultModerator.tpl:822
+#: app/templates/phonenumber/defaultNew.tpl:818
+#: app/templates/phonenumber/defaultNewReloaded.tpl:837
+#: app/templates/phonenumber/defaultNext.tpl:921
+#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:847
+msgid "Your comment must be longer than 5 characters"
+msgstr "Kommenttisi pitää olla pidempi kuin 5 merkkiä"
+
+#: app/templates/phonenumber/defaultModerator.tpl:130
+#: app/templates/phonenumber/defaultNew.tpl:164
+#: app/templates/phonenumber/defaultNewReloaded.tpl:168
+#: app/templates/phonenumber/defaultNext.tpl:247
+msgid "ratings"
+msgstr "arviot"
+
+#: app/templates/phonenumber/defaultModerator.tpl:131
+#: app/templates/phonenumber/defaultNew.tpl:165
+#: app/templates/phonenumber/defaultNewReloaded.tpl:169
+#: app/templates/phonenumber/defaultNext.tpl:248
+msgid "reviews"
+msgstr "arvostelut"
+
+#: app/templates/phonenumber/defaultModerator.tpl:132
+#: app/templates/phonenumber/defaultNew.tpl:166
+#: app/templates/phonenumber/defaultNewReloaded.tpl:170
+#: app/templates/phonenumber/defaultNext.tpl:249
+msgid "no ratings"
+msgstr "ei arvioita"
+
+#: app/templates/phonenumber/defaultModerator.tpl:133
+#: app/templates/phonenumber/defaultNew.tpl:167
+#: app/templates/phonenumber/defaultNewReloaded.tpl:171
+#: app/templates/phonenumber/defaultNext.tpl:250
+msgid "no reviews"
+msgstr "ei arvosteluja"
+
+#: app/templates/phonenumber/defaultModerator.tpl:134
+#: app/templates/phonenumber/defaultNew.tpl:168
+#: app/templates/phonenumber/defaultNewReloaded.tpl:172
+#: app/templates/phonenumber/defaultNext.tpl:251
+msgid "single rating"
+msgstr "yksi arvio"
+
+#: app/templates/phonenumber/defaultModerator.tpl:135
+#: app/templates/phonenumber/defaultNew.tpl:169
+#: app/templates/phonenumber/defaultNewReloaded.tpl:173
+#: app/templates/phonenumber/defaultNext.tpl:252
+msgid "single review"
+msgstr "yksi arvostelu"
+
+#: app/templates/phonenumber/defaultModerator.tpl:136
+#: app/templates/phonenumber/defaultNew.tpl:170
+#: app/templates/phonenumber/defaultNewReloaded.tpl:174
+#: app/templates/phonenumber/defaultNext.tpl:253
+#, php-format
+msgid "We have %s and %s for this phone number."
+msgstr "Meillä on %s and %s tälle puhelinnumerolle."
+
+#: app/templates/phonenumber/defaultModerator.tpl:161
+#: app/templates/phonenumber/defaultNew.tpl:195
+#: app/templates/phonenumber/defaultNewReloaded.tpl:199
+#: app/templates/phonenumber/defaultNext.tpl:277
+#, php-format
+msgid "Single user marked it with %s rating"
+msgstr "Yksi käyttäjä antoi sille %s arvion."
+
+#: app/templates/phonenumber/defaultModerator.tpl:163
+#: app/templates/phonenumber/defaultNew.tpl:197
+#: app/templates/phonenumber/defaultNewReloaded.tpl:201
+#: app/templates/phonenumber/defaultNext.tpl:279
+#, php-format
+msgid "%s users marked it with %s rating"
+msgstr "%s käyttäjää antoi sille %s arvion"
+
+#: app/templates/phonenumber/defaultModerator.tpl:166
+#: app/templates/phonenumber/defaultNew.tpl:200
+#: app/templates/phonenumber/defaultNewReloaded.tpl:204
+#: app/templates/phonenumber/defaultNext.tpl:282
+msgid "and"
+msgstr "ja"
+
+#: app/templates/phonenumber/defaultModerator.tpl:170
+#: app/templates/phonenumber/defaultNew.tpl:204
+#: app/templates/phonenumber/defaultNewReloaded.tpl:208
+#: app/templates/phonenumber/defaultNext.tpl:286
+#, php-format
+msgid "single user with %s rating"
+msgstr "yksi käyttäjä %s arvion"
+
+#: app/templates/phonenumber/defaultModerator.tpl:172
+#: app/templates/phonenumber/defaultNew.tpl:206
+#: app/templates/phonenumber/defaultNewReloaded.tpl:210
+#: app/templates/phonenumber/defaultNext.tpl:288
+#, php-format
+msgid "%s users with %s rating"
+msgstr "%s käyttäjää %s arvion"
+
+#: app/templates/phonenumber/defaultModerator.tpl:231
+#: app/templates/phonenumber/defaultNew.tpl:262
+#: app/templates/phonenumber/defaultNewReloaded.tpl:298
+#: app/templates/phonenumber/defaultNext.tpl:340
+#, php-format
+msgid "Possible phone number formats are "
+msgstr "Mahdolliset muut muodot puhelinnumerolle ovat"
+
+#: app/templates/phonenumber/defaultModerator.tpl:387
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:386
 msgid "email (optional)"
 msgstr "sähköposti (valinnainen)"
+
+#: app/templates/phonenumber/defaultNew.tpl:306
+#: app/templates/phonenumber/defaultNewReloaded.tpl:322
+#: app/templates/phonenumber/defaultNext.tpl:385
+#, php-format
+msgid "<strong>Reviews</strong> for phone number %s"
+msgstr "<strong>Arvostelut</strong> puhelinnumerolle %s"
+
+#: app/templates/phonenumber/defaultNew.tpl:312
+#: app/templates/phonenumber/defaultNewReloaded.tpl:330
+#: app/templates/phonenumber/defaultNext.tpl:392
+msgid "Add <strong>Your rating</strong>"
+msgstr "Lisää <strong>arviosi</strong>"
 
 #: app/templates/phonenumber/invalid.tpl:16
 #: app/templates/phonenumber/invalid.tpl:23
@@ -3816,6 +3757,110 @@ msgstr "Haluatko ottaa yhteyttä?"
 #: app/templates/websearch/default.tpl:7
 msgid "Web Search"
 msgstr "Etsi verkosta"
+
+#~ msgid ""
+#~ "configure how to combine the ratings from Community Database, your Phone "
+#~ "Contacts and your own ratings into one final Phone Number Rating."
+#~ msgstr ""
+#~ "määritellä, miten haluat yhdistellä yhteisötietokannan arviot, puhelimesi "
+#~ "yhteystiedot ja omat arviosi yhdeksi lopulliseksi puhelinnumeron arvioksi"
+
+#~ msgid ""
+#~ "In fact here you can set how the application will judge all calls. More "
+#~ "rules can be activated in the same time. The combination of the rules is "
+#~ "always applied in the top-to-bottom order, e.g. the active rule closer to "
+#~ "the bottom of the list will be used."
+#~ msgstr ""
+#~ "Oikeastaan, täällä voit määritellä, miten sovellus arvioi kaikki puhelut. "
+#~ "Samanaikaisesti voi aktivoida useampia sääntöjä. Sääntöjen yhdistelmää "
+#~ "sovelletaan aina järjestyksessä ylhäältä alas, esimerkiksi alempana "
+#~ "listassa olevaa aktiivista sääntöä käytetään."
+
+#~ msgid "There are 3 general rating rules:"
+#~ msgstr "On olemassa 3 yleistä arviointisääntöä:"
+
+#~ msgid ""
+#~ "<strong>Use Community Database Rating</strong> : if this one is "
+#~ "activated, it sets the initial number rating according to our Community "
+#~ "Database."
+#~ msgstr ""
+#~ "<strong>Käytä yhteisötietokannan luokittelua</strong> : jos tämä on "
+#~ "aktivoitu, se asettaa alustavan arvion numerolle yhteisötietokannan "
+#~ "arvioiden perusteella."
+
+#~ msgid ""
+#~ "<strong>Be Positive for Contacts without your rating</strong> : if this "
+#~ "one is activated, it sets a positive rating to all numbers stored in your "
+#~ "mobile Contacts (if they do not have your other rating - in such case "
+#~ "your rating rules)."
+#~ msgstr ""
+#~ "<strong>Yhteystiedot ilman arviotani ovat positiivisia</strong> : jos "
+#~ "tämä on aktivoitu, kaikki numerot puhelimesi yhteystiedoissa saavat "
+#~ "positiivisen arvion (paitsi jos olet arvioinut ne joksikin muuksi)"
+
+#~ msgid ""
+#~ "<strong>Be Positive for Contacts without your and community rating</"
+#~ "strong> : if this one is activated, it sets a positive rating to such "
+#~ "numbers stored in your mobile Contacts where no yours and/or community "
+#~ "database rating exists (if there is a yours and/or community database "
+#~ "rating for some of those numbers, then the rating is used)."
+#~ msgstr ""
+#~ "<strong>Yhteystiedot ilman minun tai yhteisön arvioita ovat positiivisia</"
+#~ "strong> : jos tämä on aktivoitu, kaikki numerot puhelimesi "
+#~ "yhteystiedoissa, joilla ei ole sinun ja/tai yhteisön antamaa arviota "
+#~ "määritellään positiivisiksi (niihin numeroihin, jotka jompikumpi on jo "
+#~ "arvioinut, käytetään olemassa olevaa arviota)"
+
+#~ msgid ""
+#~ "The last two rules are mutually exclusive, just one can be activated."
+#~ msgstr ""
+#~ "Viimeiset kaksi sääntöä ovat saman arvoisia, vain toinen voi olla "
+#~ "aktivoituna kerrallaan."
+
+#~ msgid "At the bottom of this screen the list of Your Ratings follows."
+#~ msgstr "Tämän näytön alaosassa sijaitsee Sinun arviosi -listaus."
+
+#~ msgid ""
+#~ "Remember that these ratings at the bottom of the screen will rule all the "
+#~ "above rules."
+#~ msgstr ""
+#~ "Muista, että nämä näytön alaosassa sijaitsevat arviot pätevät ennen "
+#~ "kaikkia muita sääntöjä."
+
+#~ msgid ""
+#~ "<strong>General Rating Rules Click</strong> : if you click on any of the "
+#~ "3 lines this action switches the rule on or off."
+#~ msgstr ""
+#~ "<strong>Yleiset arviointisäännöt napautus</strong>: jos napautat jotakin "
+#~ "kolmesta viivasta, sääntö menee päälle tai pois päältä."
+
+#~ msgid ""
+#~ "For incoming calls you can block negative rated numbers, hidden numbers "
+#~ "and all numbers. Each selection can be provided except numbers stored in "
+#~ "your Contacts."
+#~ msgstr ""
+#~ "Saapuvista puheluista voit estää negatiiviseksi määritellyt numerot, "
+#~ "piilotetut numerot ja kaikki numerot. Jokaisessa valinnassa voi olla "
+#~ "poikkeuksena puhelimesi yhteystiedot."
+
+#~ msgid ""
+#~ "For outgoing calls you can block negative rated numbers, premium numbers, "
+#~ "foreign numbers and all numbers. Again each selection can be provided "
+#~ "except numbers stored in your Contacts."
+#~ msgstr ""
+#~ "Lähtevistä puheluista voit estää negatiiviseksi määritellyt numerot, "
+#~ "lisämaksulliset numerot, ulkomaiset numerot ja kaikki numerot. Jälleen "
+#~ "jokaisessa valinnassa voi olla poikkeuksena puhelimesi yhteystiedot."
+
+#~ msgid ""
+#~ "For incoming SMS and MMS you can block the SMS and MMS from negative "
+#~ "rated numbers. For this functionality, a compatible SMS manager must be "
+#~ "installed, please read the help screen displayed if you check this item."
+#~ msgstr ""
+#~ "Saapuvat tekstiviestit ja multimediaviestit voit estää negatiiviseksi "
+#~ "määritellyistä numeroista. Jotta tämän toiminnon voi ottaa käyttöön, "
+#~ "täytyy asentaa yhteensopiva viestintäsovellus. Lue ohessa oleva "
+#~ "lisätieto, jos rastitat tämän toiminnon."
 
 #~ msgid "This document describes features and user interface of version 7.x."
 #~ msgstr "Tämä dokumentti selittää version 7.x. toiminnan ja ominaisuudet."

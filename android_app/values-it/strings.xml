@@ -301,5 +301,8 @@
     <string name="Set_As_Private">Imposti come privato</string>
     <string name="Dont_block_by_community_database">Non bloccare col base di dati della comunità</string>
     <string name="More_information_is_required_">Per inviare alla base di dati della comunità più dati necessaru. Se non si desidera escrivere il problema? Identifichi la valutazione come Privata.</string>
-
+    <string name="Unknown_numbers">Numeri sconosciuti</string>
+    <string name="NEVER_BLOCK">NON BLOCCARE MAI</string>
+    <string name="numbers_with_positive_rating">numeri con rating positivo</string>
+    <string name="numbers_based_on_community_rating">numeri in base al rating della comunità</string>
 </resources>
