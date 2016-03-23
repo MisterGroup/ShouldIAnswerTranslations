@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Global-->
-    <string name="app_name">Не бери трубку</string>
+    <string name="app_name">Небери Трубку</string>
     <string name="search">Поиск</string>
     <string name="Settings">Настройка</string>
-    <string name="privacy">Защита частных данных</string>
+    <string name="privacy">Охрана частных данных</string>
     <string name="Terms_Of_Use">Условия использования</string>
 
     <!-- Splash Screen-->
-    <string name="Initializing_Application">Инициализация приложения</string>
+    <string name="Initializing_Application">Инициализация Аппликации</string>
 
 
     <!-- Welcome Activity -->
@@ -26,7 +26,7 @@
     <string name="contacts">Контакты</string>
     <string name="this_number_is_in_your_contacts">Этот номер есть в ваших контактах</string>
     <string name="system">Система</string>
-    <string name="there_are_no_reviews_yet">Этот номер пока без оценки</string>
+    <string name="there_are_no_reviews_yet">Этот номер пока что без оценки</string>
 
 
     <!-- Call Notification -->
@@ -46,7 +46,7 @@
 
 
     <string name="cat_choose_category">0-Выбрать категорию</string>
-    <string name="cat_telemarketer">1-Телемаркетинг</string>
+    <string name="cat_telemarketer">1-Телемаркетер</string>
     <string name="cat_dept_collector">2-Сборщик задолженностей</string>
     <string name="cat_silent_call">3-Прозванивание/Немой звонок</string>
     <string name="cat_nuisance_call">4-Злономеренный звонок</string>
@@ -57,13 +57,13 @@
     <string name="cat_political_call">9-Политическая организация</string>
     <string name="cat_scam_call">10-Телефонное мошенничество</string>
     <string name="cat_prank_call">11-Телефонное хулиганство</string>
-    <string name="cat_sms">12-Смс</string>
+    <string name="cat_sms">12-смс</string>
     <string name="cat_survey">13-Соцопрос</string>
     <string name="cat_other">14-Другое</string>
     <string name="cat_finance_service">15-Финансовые услуги</string>
 
     <!-- Rest -->
-    <string name="like_this_app_rate_us">Вам нравится эта программа? Дайте ей оценку.</string>
+    <string name="like_this_app_rate_us">Нравится вам эта программа? Дайте ей оценку.</string>
     <string name="Save">Записать</string>
     <string name="ok">OK</string>
 
@@ -77,81 +77,82 @@
     <string name="Unknown">Неизвестный</string>
     <string name="Positive">Положительная</string>
     <string name="Neutral">Нейтральная</string>
-    <string name="Send_Logs_to_Developer">Послать логи разработчику</string>
-    <string name="Drag_me_for_better_positioning">Переместите меня на лучшую позицию</string>
-    <string name="Service_is_temporarily_unavailable">Служба временно недоступна! Пожайлуста, попробуйте позже!</string>
-    <string name="For_receiving_user_reviews_we_need_to_send">Для отправки комментария необходимо послать соответствующие номера телефонов на наш сервер. Вы согласны послать нам эти номера?</string>
-    <string name="Agree">Согласен</string>
-    <string name="Disagree">Не согласен</string>
-    <string name="Permission_Request">Подтверждение разрешения</string>
+    <string name="Send_Logs_to_Developer">Послать логи девелоперу</string>
+    <string name="Drag_me_for_better_positioning">Перетяните меня на лучшую позицию</string>
+    <string name="Service_is_temporarily_unavailable">Служба временно недоступна!Попробуйте пожайлуста позже!</string>
+    <string name="For_receiving_user_reviews_we_need_to_send">Для зачисления комментария обонента необходимо послать соответствующие номера телефонов в наш сервер. Вы согласны послать нам эти номера?</string>
+    <string name="Agree">Соглашаюсь</string>
+    <string name="Disagree">Не соглашаюсь</string>
+    <string name="Permission_Request">Просьба о разрешение</string>
     <string name="Notify_blocked_calls">Предупреждать о блокированном звонке</string>
     <string name="Summary">Обзор</string>
     <string name="Unsupported_device">неподдерживаемое устройство.</string>
     <string name="This_function_is_not_supported_on_your_device">"Эта функция не поддерживается в вашем устройстве. "</string>
-    <string name="Community">Сообщество</string>
+    <string name="Community">Община</string>
     <string name="We_are_here_to_protect_you">Мы здесь для вашей охраны!</string>
     <string name="Help_us_to_make_world_a_better_place">Помогите нам улучшить мир!</string>
     <string name="Write_5_star_review">Напишите пяти звёздную оценку</string>
-    <string name="Allow_sending_anonymous_stats">Разрешить отправку анонимной статистики</string>
-    <string name="Allow_sending_anonymous_stats_content">Разрешить отправку всех незнакомых входящих номеров, не сохранённых в ваших контактах, на наш сервер. Эта информация нам поможет сосредоточиться на проблемных номерах.</string>
+    <string name="Allow_sending_anonymous_stats">Разрешить посылку анонимных статистик</string>
+    <string name="Allow_sending_anonymous_stats_content">Если разрешите эту возможность, все незнакомые входящие номера, не сохранённые в ваших контактах, будут посланы на наш сервер. Эта информация нам поможет сосредоточиться на проблематические номера.</string>
     <string name="Write_review">НАПИСАТЬ КОММЕНТАРИЙ</string>
     <string name="Write_phone_number_reviews">Напишите комментарий к номеру телефона</string>
-    <string name="Write_phone_number_reviews_content">Если вы получите новую информацию о номере, поделитесь ею с сообществом!</string>
-    <string name="Tell_friends_and_share_link_content">Рекомендуйте наше приложение друзьям, поделитесь ссылкой в социальных сетях, форумах, блогах. Помогите нам найти новых членов.</string>
-    <string name="Dont_show_again">Больше не отображать</string>
-    <string name="Send_anonymous_stats">Посылать анонимную статистику входящих звонков</string>
+    <string name="Write_phone_number_reviews_content">Если узнаете новую информацию о вызывающем номере, не оставляйте её для себя. Поделитесь ею с общиной!</string>
+    <string name="Tell_friends_and_share_link_content">Рекомендуйте нашу аппликацию друзьям, пошлите ссылку на нас на социальную сеть, форумы, блоги. Помогите нам найти новых членов.</string>
+    <string name="Dont_show_again">Больше не изображать</string>
+    <string name="Send_anonymous_stats">Посылать анонимные статистики входящих звонков</string>
     <string name="Blocked_call_from_hidden_number">Блокированный звонок со скрытого номера</string>
     <string name="Blocked_call_to_foreign_country_number_x">Блокированный звонок на заграничный номер %s</string>
     <string name="Blocked_call_to_premium_rate_number_x">Блокированный звонок на платный номер %s</string>
-    <string name="Send_stats_incoming_permission">Разрешает отправлять АНОНИМНО на сервер статистику о входящих звонках с номеров, которых нет в вашем списке. Вы согласны с отправкой входящих номеров на сервер?</string>
-    <string name="Write_5_star_review_content">Если думаете, что мы этого заслуживаем, не медлите! Рецензии помогут другим пользователям присоединиться к нашему сообществу!</string>
-    <string name="Enter_Phone_Number">Введите номер телефона</string>
+    <string name="Send_stats_incoming_permission">Если активирована, эта функция пошлёт АНОНИМНО на сервер статистики о входящих звонках с номеров, которых нет в вашем списке. Вы согласны с отправкой входящих номеров на сервер?</string>
+    <string name="Write_5_star_review_content">Если думаете, что мы этого заслуживаем, не медлите! Рецензии помогут остальным пользователям при присоединении к нашей общине!</string>
+    <string name="Enter_Phone_Number">Вложите номер телефона</string>
     <string name="No_Review">Без оценки</string>
     <string name="Should_I_Answer_Service">Should I Answer Service</string>
-    <string name="If_you_are_satisfied_with_our_service_please_help">Если вы удовлетворены нашими услугами, пожалуйста помогите нашему сообществу!</string>
+    <string name="If_you_are_satisfied_with_our_service_please_help">Если вы спокойны с нашими услугами, пожалуйста помогите нашей общине!</string>
     <string name="Already_checked_s_calls">Уже проверено %s звонков</string>
     <string name="cat_company">16-Фирма</string>
     <string name="cat_service">17-Услуга</string>
     <string name="Hidden_number">Скрытый номер</string>
     <string name="About">Информация</string>
-    <string name="Logs">История</string>
+    <string name="Logs">Протоколы</string>
     <string name="Cancel">Отменить</string>
-    <string name="Downloading_Update">Обновление данных</string>
-    <string name="Online_Manual">Руководство пользователя</string>
+    <string name="Downloading_Update">Скачивание актуализации</string>
+    <string name="Online_Manual">Руководство пользователя аппликации</string>
     <string name="Contact">Контакт</string>
     <string name="Block">Блокировать</string>
-    <string name="Update_Database">Обновить базу данных</string>
+    <string name="Update_Database">Актуализировать базу данных</string>
     <string name="Compatibility_Check">Проверка совместимости</string>
-    <string name="Clear_Log">Удалить историю</string>
-    <string name="Really_clear_checked_calls_log">Действительно удалить историю звонков?</string>
+    <string name="Clear_Log">Удалить протокол</string>
+    <string name="Really_clear_checked_calls_log">Действительно удалить протокол контролированных звонков?</string>
     <string name="Yes">Да</string>
     <string name="No">Нет</string>
     <string name="Logo">Лого</string>
-    <string name="You_are_one_step_from_protecting_your_phone">Остаётся всего один шаг к охране вашего телефона от нежелательных звонков!</string>
-    <string name="Terms_of_Use_and_Privacy_policy">Условия использования и защита личных данных</string>
+    <string name="You_are_one_step_from_protecting_your_phone">Остаётся уже только один шаг к охране вашего телефона от нежелательных звонков!</string>
+    <string name="Terms_of_Use_and_Privacy_policy">Условия использования и охрана личных данных</string>
     <string name="I_agree_to_terms_and_conditions">Соглашаюсь с условиями</string>
-    <string name="If_you_will_agree_we_will_send_information">Если вы согласны, на сервер будет отправляться информация о незнакомых входящих звонках для создания АНОНИМНОЙ статистики, которая поможет нам определять новые угрозы.</string>
+    <string name="If_you_will_agree_we_will_send_information">Если вы согласны, будем вам посылать на сервер информации о незнакомых входящих звонках для создания АНОНИМНЫХ статистик, которые помогут нам детектировать новые угрозы.</string>
     <string name="Latest_database">Актуальная база данных</string>
     <string name="Call_Monitoring">Мониторинг звонков</string>
     <string name="Show_Alerts_As_System_Overlay">Предупреждение с помощью перекрывающего слоя</string>
     <string name="General">Общие</string>
     <string name="System_Permissions">Системные полномочия</string>
-    <string name="Read_Call_Information">Чтение информации о звонках</string>
+    <string name="Read_Call_Information">Чтение информаций о звонках</string>
     <string name="Read_Contacts">Чтение контактов</string>
     <string name="Allow_System_Overlays">Использование перекрывающих слоёв</string>
-    <string name="Show_aftercall_information">Показать информацию после разговора</string>
-    <string name="Allow_Access_To_Call_Info">Разрешить допуск к информаци о разговорах</string>
+    <string name="Show_aftercall_information">Показать информации после разговора</string>
+    <string name="Allow_Access_To_Call_Info">Разрешить допуск к информациям о разговорах</string>
     <string name="Allow_Access_To_Contacts">Разрешить допуск к контактам</string>
     <string name="Allow_Create_System_Overlays">Разрешить создание перекрывающих слоёв</string>
     <string name="Fix_Contacts_Issues">Исправить проблему с контактами</string>
-    <string name="We_Are_Using_contacts_for_whitelisting">Нам не удаётся загрузить контакты, рассматриваемые как список безопасных номеров. Если контакты сохранены на телефоне и вам неизвестна причина, по которой приложение не имеет к ним доступ, пожалуйста сообщите в нашу техническую поддержку.</string>
+    <string name="We_Are_Using_contacts_for_whitelisting">Нам не удаётся загрузить контакты, рассматриваемые как список безопасных номеров. Если контакты сохранены на телефоне и вам не известна причина, по которой аппликация не имеет к ним доступ, пожалуйста контактируйте нашу техническую поддержку.</string>
     <string name="Unaccessible_Contacts">Недоступные контакты</string>
     <string name="Please_chec_the_terms_and_privacy_agreement">Пожалуйста одобрите условия использования.</string>
     <string name="welcome_detailedinfo">
-        Мы используем контакты в вашем телефоне как список безопасных номеров. Контакты никогда не посылаются на сервер.
-        Также нам необходим доступ к информации о разговорах, чтобы контролировать номера в нашей базе данных.
-        Мы используем перекрывающие слои для изображения информации о номере телефона на переднем плане системного окна.
-        Если у вас возникнут какие-либо вопросы, без стеснения обращайтесь к нам.
+        Используем контакты в вашем телефоне как список безопасных номеров. Контакты никогда не посылаются на сервер.
+        Также нам необходим доступ к информациям о разговорах, чтобы контролировать номера в отношении с нашей локальной базой данных.
+        Используем перекрывающие слои для изображения информации о номере телефона на переднем плане системного экрана.
+        Если у вас возникнут какие-либо вопросы, без стеснения обращайтесь к нам
+.
     </string>
     <string name="Phone_Logs">Записи номеров</string>
     <string name="Achievements_Notification">Статистика Уведомление (один на 2 недели)</string>
@@ -159,44 +160,44 @@
     <string name="Call_Number">Вызвать номер</string>
     <string name="Copy_To_Clipboard">Копировать в буфер</string>
     <string name="Web_Search">Искать в интернете</string>
-    <string name="Protection_is_active">Защита активирована!</string>
-    <string name="Protect_your_friends_Help_our_community">Защитите своих друзей!\помогите нашему сообществу!</string>
+    <string name="Protection_is_active">Охрана активирована!</string>
+    <string name="Protect_your_friends_Help_our_community">Защитите своих друзей!\помогите нашей общине!</string>
     <string name="Show_me_how">Показать, как</string>
-    <string name="Recommend_app_to_your_friends">Рекомендовать приложение друзьям</string>
+    <string name="Recommend_app_to_your_friends">Рекомендовать аппликацию друзьям</string>
     <string name="Recommend_now">Рекомендовать сейчас</string>
-    <string name="Recommend_App_To_Friends">Рекомендовать приложение друзьям</string>
-    <string name="Promo_message_1">Больше нет проблем с нежелательными звонками! Посмотрите на</string>
-    <string name="Promo_message_2">Конец телемаркетингу! Скачай neberitrubku.ru</string>
-    <string name="Promo_message_4">Отличное приложение против телемаркетинга и спама, посмотри на</string>
+    <string name="Recommend_App_To_Friends">Рекомендовать аппликацию друзьям</string>
+    <string name="Promo_message_1">Уже нет никаких проблем с нежелательными звонками! Посмотрите на</string>
+    <string name="Promo_message_2">Конец теле маркетингу! Скачай neberitrubku.ru</string>
+    <string name="Promo_message_4">Отличная аппликация против теле маркетингу и спаму, посмотри на</string>
     <string name="Experimental_Function">Экспериментальная функция</string>
-    <string name="pickAndHang_description">Эта функция заблокирует входящий звонок с помощью принятия и отбоя. Приложение не примет звонок если телефон в роуминге. Пожалуйста используйте эту функцию только когда вы уверены, что не будете платить за входящий звонок.</string>
-    <string name="Service_as_Foreground_Process">Процесс на переднем плане</string>
-    <string name="Service_as_foreground_process_description">Использование этой функции ускорит процесс блокировки нежелательных звонков (в большинстве случаев телефон даже не зазвонит). Как второстепенный эффект будет отображена иконка приложения в строке статуса, а также появится извещение о включённой защите.</string>
-    <string name="Database_Needs_Update">Требуется обновление базы данных</string>
+    <string name="pickAndHang_description">Эта функция заблокирует входящий звонок с помощью принятия и повешения. Аппликация не примет звонок если телефон в роуминге. Пожалуйста используйте эту функцию только когда вы уверены, что не будете платить за принятие входящего звонка.</string>
+    <string name="Service_as_Foreground_Process">Услуга как процесс на переднем плане</string>
+    <string name="Service_as_foreground_process_description">Использованием этой функции ускорите процесс блокирования нежелательных звонков (в большинстве случаев телефон даже не зазвонит). Как второстепенный эффект будет иконка аппликации на строке статуса, а также изобразится извещение о включённой охране.</string>
+    <string name="Database_Needs_Update">База данных требуется обновление</string>
     <string name="Advanced">Pасширенные</string>
     <string name="You_must_set_QKSMS_as_default_manager">Необходимо настроить QKSMS как исходный СМС менеджер для активизации этой функции</string>
     <string name="Disable_this_if_your_device_doesnt_display_alerts_properly">Выключите эту функцию если устройство не изображает предупреждение</string>
-    <string name="SMS_restriction_info">Из-за системных ограничений необходимо использование совместимого СМС-менеджера. QKSMS от QK Labs является бесплатной альтернативой, поддерживающей фильтрование СМС с помощью нашего приложения. Для активации этой функции необходимо её установить.</string>
+    <string name="SMS_restriction_info">Из-за системных ограничений необходимо использование совместимого СМС менеджера. QKSMS от QK Labs является бесплатной альтернативой, поддерживающей фильтрование СМС с помощью нашей аппликации. Для активирования этой функции необходимо её установить.</string>
     <string name="Required_compatible_SMS_manager">Требуется совместимый менеджер СМС</string>
     <string name="Blocking">Блокировка</string>
     <string name="Alerts">Предупреждение</string>
     <string name="Terms_and_Privacy">Правила использования и охрана данных</string>
     <string name="Should_I_Answer">Могу взять трубку</string>
     <string name="Ratings">Рейтинги</string>
-    <string name="App_is_now_updated_to_latest_version">Приложение обновлено до последней версии</string>
-    <string name="migration8_info1">Это обновление содержит существенные изменения пользовательского интерфейса. Надеемся, что он будет для вас более интуитивным и гибким. Переключение обратно на тёмную версию можно осуществить в Настройках приложения.</string>
+    <string name="App_is_now_updated_to_latest_version">Аппликация актуализирована</string>
+    <string name="migration8_info1">Эта актуализация содержит существенные изменения пользовательского интерфейса. Надеемся, что он будет для вас более интуитивным и гибким. Переключение обратно на тёмную версию можно осуществить в Настройках аппликации.</string>
     <string name="migration8_info2">Конфигурация разделена на следующие секции:</string>
-    <string name="migration8_info3">Здесь можете настроить какие телефонные номера будут для вас отрицательными, нейтральными или положительными, какая оценка будет использоваться для номеров в контактах и как будете использовать базу данных нашего сообщества.</string>
+    <string name="migration8_info3">Здесь можете настроить какие телефонные номера будут для вас отрицательными, нейтральными или положительными, какая оценка будет использоваться для номеров в контактах и как будете использовать общинную базу данных.</string>
     <string name="migration8_info4">Здесь можете настроить предупреждения о входящих и исходящих звонках</string>
     <string name="migration8_info5">Здесь можете настроить блокирование входящих и исходящих звонков</string>
-    <string name="migration8_info6">Здесь найдёте главные настройки приложения</string>
+    <string name="migration8_info6">Здесь найдёте главные настройки аппликации</string>
     <string name="Number">Номер</string>
     <string name="Rate">Оценить</string>
     <string name="Reviews">Рецензии</string>
     <string name="Your_Ratings">Ваши оценки</string>
     <string name="Push_the_RATE_button_to_add_your_rating">Нажмите кнопку ОЦЕНИТЬ, чтобы добавить вашу оценку.</string>
     <string name="Community_Reviews">Рецензии пользователей</string>
-    <string name="You_have_disabled_automatic_reviews_info">Выключена автоматическая загрузка рецензий с сервера. Кнопкой \'РЕЦЕНЗИИ\' изобразите рецензии остальных пользователей. Автоматическую загрузку рецензий можно включить в Настройках приложения.</string>
+    <string name="You_have_disabled_automatic_reviews_info">Выключена автоматическая загрузка рецензий с сервера. Кнопкой \'РЕЦЕНЗИИ\' изобразите рецензии остальных пользователей. Автоматическую загрузку рецензий можно включить в Настройках аппликации.</string>
     <string name="notification_rating">Как заблокировать номер? Напишите отрицательную оценку и включите блокирование отрицательно оценённых номеров.</string>
     <string name="Phone_Number">Телефонный номер</string>
     <string name="Rating_Phone_Number_Hint">Номер должен иметь международный формат, начинающийся \'+\' с международным кодом и самим номером. Можете оценить группу номеров с помощью *. На пример: +4412345* создаст правило для оценки всех номеров в диапазоне +4412345xxxx.</string>
@@ -221,18 +222,18 @@
     <string name="Hidden_numbers">Скрытые номера</string>
     <string name="Block_OUTGOING_Calls_to">Блокировать ИСХОДЯЩИЕ звонки на</string>
     <string name="Premium_numbers">Премиальные номера</string>
-    <string name="calls_to_foreign_numbers">Международные звонки</string>
+    <string name="Foreign_numbers">Заграничные номера</string>
     <string name="Block_SMS_and_MMS_from"><![CDATA[блокировать SMS & MMS от]]></string>
-    <string name="Set_Default_SMS_Manager">Настроить СМС менеджер по умолчанию</string>
+    <string name="Set_Default_SMS_Manager">Настроить исходный СМС менеджер</string>
     <string name="Use_pick_and_hang_up_to_protect_voice_mail">Использовать функцию "снять и положить" для охраны голосовой почты</string>
     <string name="Checked_Calls_And_Messages">Проверенные звонки и сообщения</string>
     <string name="Blocked_Calls_and_Messages">Блокированные звонки и сообщения</string>
-    <string name="Application_Status">Состояние приложения</string>
+    <string name="Application_Status">Состояние аппликации</string>
     <string name="Access_to_Phone_Contacts">Доступ к контактам в телефоне</string>
     <string name="norification_ratings">Здесь можете конфигурировать оценки телефонных номеров.</string>
     <string name="Phone_Number_Ratings_Filter">Фильтр оценок номеров</string>
     <string name="Enter_Phone_NUmber_To_Filter_Ratings">Введите телефонный номер для фильтрования оценок</string>
-    <string name="Use_Light_Theme">Использовать светлую схему</string>
+    <string name="Use_Light_Theme">Использовать светлую основу</string>
     <string name="Edit">Редактировать</string>
     <string name="There_is_no_item_yet">Пока что нет никаких пунктов</string>
     <string name="Foreign_Number">Заграничный номер</string>
@@ -263,30 +264,31 @@
     <string name="Checked_Numbers">Проверенные номера</string>
     <string name="Blocked_Numbers">Заблокированные номера</string>
     <string name="for_Contacts_without_yours_rating">для контактов без вашей оценки</string>
-    <string name="for_Contacts_without_yours_and_community_rating">для контактов без оценки вашей и сообщества</string>
+    <string name="for_Contacts_without_yours_and_community_rating">для контактов без вашей и общинной оценки</string>
     <string name="Export_Import">Экспорт / Импорт</string>
-    <string name="Export_Application_Data">Экспорт данных приложения</string>
-    <string name="Export_data_description">Все настройки приложения и ваши оценки номеров будут экспортированы в файлы данных и могут быть в последствии импортированы на другом устройстве</string>
+    <string name="Export_Application_Data">Экспорт программных данных</string>
+    <string name="Export_data_description">Все настройки аппликации и ваши оценки номеров будут экспортированы в файлы данных и могут быть в последствии импортированы на другом устройстве</string>
     <string name="Export">Экспорт</string>
-    <string name="Import_Application_Data">Импорт данных приложения</string>
-    <string name="Import_Data_Description">Установите приложение Могу Взять Трубку на целевое устройство и откройте в нём экспортированный файл. Расширение файла совместимо с приложением, так что должен изобразиться экран импорта.</string>
+    <string name="Import_Application_Data">Импорт данных аппликации</string>
+    <string name="Import_Data_Description">Установите аппликацию Могу Взять Трубку на целевое устройство и откройте в нём экспортированный файл. Расширение файла соотносимо с аппликацией, так что должен изобразиться экран импорта.</string>
     <string name="Import">Импорт</string>
     <string name="Phone_Number_Ratings">Оценки телефонных номеров</string>
     <string name="Alerts_Settings">Настройки предупреждений</string>
     <string name="Blocking_Settings">Настройки блокирования</string>
     <string name="Clear_actual_ratings">Удалить актуальные оценки</string>
     <string name="Invalid_Data_Format_">Неисправный формат данных!</string>
-    <string name="Should_I_Answer_Data_Export">Экспорт данных приложения Могу Взять Трубку</string>
-    <string name="Data_Export_Email_Body">Ваши данные отправлены по электронной почте. Ваше приложение Могу Взять Трубку</string>
-    <string name="There_are_no_email_clients_installed">Никакой клиент электронной почты не обнаружен.</string>
+    <string name="Should_I_Answer_Data_Export">Экспорт данных аппликации Могу Взять Трубку</string>
+    <string name="Data_Export_Email_Body">Ваши данные посланы и-мейлом. Ваша аппликация Могу Взять Трубку</string>
+    <string name="There_are_no_email_clients_installed">Никакой мейл-клиент не обнаружен.</string>
     <string name="Settings_successfully_imported_">Настройки успешно импортированы!</string>
     <string name="Invitation_not_finished_">Приглашение не было завершено!</string>
     <string name="Contact_x">Контакт %s</string>
     <string name="Install">Установить</string>
     <string name="Phone_Number_Hint_New">Можете оценить группу номеров с помощью *. На пример: 800* создаст правило для оценки всех номеров от 800*.</string>
+
     <string name="Report_Issue">Сообщить о проблеме</string>
     <string name="Please_Enter_The_Issue_Description_Here">Пожалуйста опишите вашу проблему! Если это возможно, пишите пожалуйста по-английски. Благодарим вас!</string>
-    <string name="Required_Community_Ratings_To_Block">Требуемых оценок сообщества для блокирования</string>
+    <string name="Required_Community_Ratings_To_Block">Требуемых оценок общины для блокирования</string>
     <string name="DISABLED">ВЫКЛЮЧЕНО</string>
     <string name="Warning">Внимание!</string>
     <string name="Unfortunately_your_device_has_modification_">К сожалению ваше устройство содержит модификации системы, не поддерживающие функцию блокирования. Мы работаем на подходящем решении.</string>
@@ -296,6 +298,15 @@
     <string name="Disable_Pick_And_Hang">Выключить Взять и Повесить</string>
     <string name="You_have_already_configured_blocking_of_this_number_">У вас уже настроено блокирование этого номера. Если у вас есть какие-либо проблемы, пожалуйста сообщите нам о них с помощью кнопки Послать сообщение о проблеме на вкладке Информации – Проверка совместимости</string>
     <string name="Set_As_Private">Настроить как частный</string>
-    <string name="Dont_block_by_community_database">Не блокировать согласно базе данных сообщества</string>
-    <string name="More_information_is_required_">Для посылки в базу данных сообщества требуется больше информации. Не хотите их заполнять? Обозначьте оценку как вашу личную.</string>
+    <string name="Dont_block_by_community_database">Не блокировать согласно общинной базе данных</string>
+    <string name="More_information_is_required_">Для посылки в общинную базу данных требуется больше данных. Не хотите их заполнять? Обозначьте оценку как вашу личную.</string>
+    <string name="Unknown_numbers">Неизвестные номера</string>
+    <string name="NEVER_BLOCK">НИКОГДА НЕ БЛОКИРОВАТЬ</string>
+    <string name="numbers_with_positive_rating">Номера с положительным рейтингом</string>
+    <string name="numbers_based_on_community_rating">Номера по рейтингу сообщества</string>
+    <string name="Blocking_requires_granted_call_premissions_">Blocking requires granted call permissions. Allow access to call information to block the number.</string>
+    <string name="Show_Foreground_Service_Icon">Show Foreground Service Status Bar Icon</string>
+    <string name="Monitor_outgoing_call_events">Monitor outgoing call events</string>
+
+
 </resources>

@@ -301,4 +301,11 @@
     <string name="Set_As_Private">Définir comme Privée</string>
     <string name="Dont_block_by_community_database">Ne pas bloquer selon le base de données communautaire</string>
     <string name="More_information_is_required_">Pour envoyer au de base de données communautaire il est nécessaire plus de données. Vous ne voulez pas les écrire? Marquez une évaluation comme votre Privée.</string>
+    <string name="Unknown_numbers">Numéros inconnus</string>
+    <string name="NEVER_BLOCK">JAMAIS BLOQUÉ</string>
+    <string name="numbers_with_positive_rating">numéros avec une évaluation positive</string>
+    <string name="numbers_based_on_community_rating">numéros selon l\'évaluation de la communauté</string>
+    <string name="Blocking_requires_granted_call_premissions_">Blocking requires granted call permissions. Allow access to call information to block the number.</string>
+    <string name="Show_Foreground_Service_Icon">Show Foreground Service Status Bar Icon</string>
+    <string name="Monitor_outgoing_call_events">Monitor outgoing call events</string>
 </resources>

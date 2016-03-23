@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Global-->
+    <string name="app_name">Should I Answer?</string>
+    <string name="search">Keresés</string>
+    <string name="Settings">Beállítások</string>
+    <string name="privacy">Adatvédelmi Irányelvek</string>
+    <string name="Terms_Of_Use">Felhasználási Feltételek</string>
+
+    <!-- Splash Screen-->
+    <string name="Initializing_Application">Alkalmazás Indítása</string>
+
+
+    <!-- Welcome Activity -->
+    <string name="CONGRATULATION">GRATULÁLUNK!</string>
+
+    <string name="CONTINUEx">FOLYTATÁS »</string>
+
+    <!-- Search Activity -->
+
+    <!-- History Check -->
+
+    <!-- Blocked Calls Activity -->
+
+    <!-- Phone Number Info-->
+
+    <string name="contacts">Névjegyek</string>
+    <string name="this_number_is_in_your_contacts">A szám szerepel a Névjegyzékben</string>
+    <string name="system">Rendszer</string>
+    <string name="there_are_no_reviews_yet">Ehhez a számhoz jelenleg nincs semmilyen felhasználói vélemény</string>
+
+
+    <!-- Call Notification -->
+    <string name="Phone_Number_Reviews">Telefonszám Értékelések</string>
+
+    <!-- Phone Processing-->
+    <string name="incomming_call_from_number_blocked">Blokkolt hívás száma %s.</string>
+
+    <!-- Main Action-->
+    <string name="Today_Total">Ma / Összesen</string>
+
+    <!-- Add Item-->
+
+
+    <!-- Settings-->
+
+    <!-- Ratings -->
+
+
+    <!-- Categories -->
+    <string-array name="cat_array">
+        <item>@string/cat_choose_category</item>
+        <item>@string/cat_telemarketer</item>
+        <item>@string/cat_call_centre</item>
+        <item>@string/cat_silent_call</item>
+        <item>@string/cat_nuisance_call</item>
+        <item>@string/cat_unsolicited_call</item>
+        <item>@string/cat_finance_service</item>
+        <item>@string/cat_dept_collector</item>
+        <item>@string/cat_non_profit_org</item>
+        <item>@string/cat_political_call</item>
+        <item>@string/cat_scam_call</item>
+        <item>@string/cat_prank_call</item>
+        <item>@string/cat_fax_machine</item>
+        <item>@string/cat_sms</item>
+        <item>@string/cat_survey</item>
+        <item>@string/cat_company</item>
+        <item>@string/cat_service</item>
+        <item>@string/cat_other</item>
+    </string-array>
+
+    <string name="cat_choose_category">0-Kategória kiválasztása</string>
+    <string name="cat_telemarketer">1-Telemarketing</string>
+    <string name="cat_dept_collector">2-Adósság behajtó</string>
+    <string name="cat_silent_call">3-Néma hívás (hívás automatától)</string>
+    <string name="cat_nuisance_call">4-Zaklató hívás</string>
+    <string name="cat_unsolicited_call">5-Kéretlen hívás</string>
+    <string name="cat_call_centre">6-Call center</string>
+    <string name="cat_fax_machine">7-Fax</string>
+    <string name="cat_non_profit_org">8-Nonprofit szervezet</string>
+    <string name="cat_political_call">9-Politikai jellegű hívás</string>
+    <string name="cat_scam_call">10-Telefonos csalás, scam</string>
+    <string name="cat_prank_call">11-Hamis hívás (telefonbetyár)</string>
+    <string name="cat_sms">12-SMS</string>
+    <string name="cat_survey">13-Felmérés</string>
+    <string name="cat_other">14-Egyéb</string>
+    <string name="cat_finance_service">15-Pénzügyi szolgáltatások</string>
+
+    <string name="like_this_app_rate_us">Tetszik önnek ez az alkalmazás? Értékeljen minket!</string>
+    <string name="Save">Mentés</string>
+    <string name="ok">OK</string>
+    <string name="Rating">Értékelés</string>
+    <string name="Negative">Negatív</string>
+    <string name="Category">Kategória</string>
+    <string name="Reviews_Download_Failed_Please_">A Felhasználói Értékelések Letöltése Sikertelen! Kérjük, ellenőrizze az internet kapcsolatát!</string>
+    <string name="More_Info">Több Információ</string>
+    <string name="Download_reviews_automatically">Értékelések automatikus letöltése</string>
+    <string name="Close">Bezár</string>
+    <string name="Unknown">Ismeretlen</string>
+    <string name="Positive">Pozitív</string>
+    <string name="Neutral">Semleges</string>
+    <string name="Send_Logs_to_Developer">Hibanapló küldése a Fejlesztőnek</string>
+    <string name="Drag_me_for_better_positioning">Húzz át egy jobb pozícióba</string>
+    <string name="Service_is_temporarily_unavailable">A szolgáltatás átmenetileg nem elérhető! Próbálja meg később!!</string>
+    <string name="For_receiving_user_reviews_we_need_to_send">A felhasználó értékelések fogadásához, az adott telefonszámot el kell küldenünk a szerverhez. Belegyezik a számok elküldésébe?</string>
+    <string name="Agree">Belegyezek</string>
+    <string name="Disagree">Elutasítom</string>
+    <string name="Permission_Request">Jogosultság Kérelmek</string>
+    <string name="Notify_blocked_calls">Értesítés blokkolt hívásokról</string>
+    <string name="Summary">Összegzés</string>
+    <string name="Unsupported_device">Nem támogatott készülék</string>
+    <string name="This_function_is_not_supported_on_your_device">Ezt a funkciót az ön készüléke nem támogatja.</string>
+    <string name="Community">Közösség</string>
+    <string name="We_are_here_to_protect_you">Az a célunk, hogy megvédjük önt!</string>
+    <string name="Help_us_to_make_world_a_better_place">Segítsen nekünk, hogy a Világ jobb hellyé váljon!</string>
+    <string name="Write_5_star_review">Adjon 5 Csillagos Értékelést</string>
+    <string name="Write_5_star_review_content">Ha úgy gondolja, hogy megérdemeljük, kérjük tegye meg! A felhasználói értékelések nagy segítséget nyújtanak az új felhasználóknak, annak eldöntésében, hogy csatlakozzanak-e a közösségünkhöz.</string>
+    <string name="Allow_sending_anonymous_stats">Anonim statisztikák elküldésének engedélyezése</string>
+    <string name="Allow_sending_anonymous_stats_content">Ha engedélyezi ezt a funkciót, akkor az összes olyan, bejövő híváshoz tartozó számról, amely nincs eltárolva a készüléke névjegyzékében, adatokat küld az alkalmazás a szervernek. Ezek az információk segítenek nekünk, hogy a fő fenyegetésekre fókuszálhassunk.</string>
+    <string name="Write_review">ÉRTÉKELÉS ÍRÁSA</string>
+    <string name="Write_phone_number_reviews">Telefonszám értékelések írása</string>
+    <string name="Write_phone_number_reviews_content">Ha új információja van egy adott telefonszámról, kérjük, hogy ne csak saját magának tartsa meg azt, hanem ossza meg a közösségünk tagjaival is!</string>
+    <string name="Tell_friends_and_share_link_content">Ajánlja az alkalmazást a barátainak, ossza meg a linkjét közösségi oldalakon, fórumokon, blogokon... Kérjük, segítsen nekünk a közösségünk tagjainak gyarapításában.</string>
+    <string name="Dont_show_again">Ne mutassa újra</string>
+    <string name="Send_anonymous_stats">Anonim statisztikák küldése a bejövő hívásokról</string>
+    <string name="Blocked_call_from_hidden_number">Rejtett számról bejövő blokkolt hívás</string>
+    <string name="Blocked_call_to_foreign_country_number_x">Idegen országból bejövő blokkolt hívás: %s</string>
+    <string name="Blocked_call_to_premium_rate_number_x">Emelt díjas számról bejövő blokkolt hívás: %s</string>
+    <string name="Send_stats_incoming_permission">Amikor ez a funkció engedélyezve van, ANONIM statisztikai adatokat küld a szerverünknek az olyan, ismeretlen számokról érkező hívásokról, amelyek nincsenek tárolva az ön Névjegyzékében. Beleegyezik, az ismeretlen számok szerverre történő elküldésébe?</string>
+    <string name="Enter_Phone_Number">Telefonszám Megadása</string>
+    <string name="No_Review">Nincs Értékelés</string>
+    <string name="Should_I_Answer_Service">A Should I Answer Szolgáltatás</string>
+    <string name="If_you_are_satisfied_with_our_service_please_help">Ha elégedett a szolgáltatásunkkal, kérjük segítse közösségünket!</string>
+    <string name="Already_checked_s_calls">Ellenőrzött hívások száma %s</string>
+    <string name="cat_company">16-Vállalat</string>
+    <string name="cat_service">17-Szolgáltatás</string>
+    <string name="Hidden_number">Rejtett Szám</string>
+    <string name="About">Névjegy</string>
+    <string name="Logs">Előzmények</string>
+    <string name="Cancel">Érvénytelenítés</string>
+    <string name="Downloading_Update">Firssítés Letöltése</string>
+    <string name="Online_Manual">Online Használati Útmutató</string>
+    <string name="Contact">Kapcsolat</string>
+    <string name="Block">Blokkolás</string>
+    <string name="Update_Database">Adatbázis Frissítés</string>
+    <string name="Clear_Log">Napló Törlése</string>
+    <string name="Really_clear_checked_calls_log">Tényleg törli ezt a naplót?</string>
+    <string name="Yes">Igen</string>
+    <string name="No">Nem</string>
+    <string name="welcome_detailedinfo">
+        Az ön készüléke névjegyzékében szereplő számokat fehér listás számokként kezeljük. Az ön névjegyzékében szereplő számok, adatok soha, semmilyen formában nem kerülnek továbbítása a szerver felé.
+        Ugyanakkor hozzáférésre van szükségünk az ön hívásaihoz, hogy le tudjuk ellenőrizni a hívószámokat, összevetve azokat a helyi adatbázisban szereplő adatokkal.
+        Egy átfedési ablakot használunk a telefonszámokkal kapcsolatos információk megjelenítésére, amely a hívások esetében, a tárcsázási ablak előterében látható.
+        Ha bármilyen kérdése merülne fel, kérjük, vegye fel felünk a kapcsolatot.
+    </string>
+    <string name="Logo">Logo</string>
+    <string name="You_are_one_step_from_protecting_your_phone">Ön már csak egy lépésnyire van attól, hogy olyan védelemmel vértezze fel a készülékét, amely véget vet a kéretlen hívásoknak!</string>
+    <string name="Terms_of_Use_and_Privacy_policy">Felhasználási Feltételek és Adatvédelem</string>
+    <string name="I_agree_to_terms_and_conditions">Egyetértek a Felhasználási Feltételekkel</string>
+    <string name="If_you_will_agree_we_will_send_information">Ha ön hozzájárul, akkor a ismeretlen számokról bejövő hívásokról, adatokat továbbítunk NÉVTELENÜL, anonim módon a szervernek. Ezek az adatok segítséget nyújtanak nekünk, az új, potenciális fenyegetések felderítésében.</string>
+    <string name="Latest_database">Adatbázis Naprakészsége</string>
+    <string name="Call_Monitoring">Hívás Monitorozás</string>
+    <string name="Show_Alerts_As_System_Overlay">Figyelmeztetések Megjelenítése Átfedésben</string>
+    <string name="General">Általános</string>
+    <string name="System_Permissions">Rendszer Jogosultságok</string>
+    <string name="Read_Call_Information">Hívásadatok Olvasása</string>
+    <string name="Read_Contacts">Névjegyzék Olvasása</string>
+    <string name="Show_aftercall_information">Hívás utáni információk megjelenítése</string>
+    <string name="Allow_Access_To_Call_Info">Hozzáférés Engedélyezése a Hívás Adatokhoz</string>
+    <string name="Allow_Access_To_Contacts">Hozzáférés Engedélyezése a Névjegyzékhez</string>
+    <string name="Allow_Create_System_Overlays">Átfedések Engedélyezése</string>
+    <string name="Fix_Contacts_Issues">Névjegyzék Hibák Elhárítása</string>
+    <string name="We_Are_Using_contacts_for_whitelisting">A Névjegyzékben szereplő számokat fehér listásként kezeljük, viszont egyet sem találtunk a telefonjában. Amennyiben Névjegyzékében vannak bejegyzések, és nincs releváns oka annak, hogy miért nem férünk hozzá ezekhez, kérjük, hogy vegye fel a kapcsolatot az ügyfélszolgálatunkkal.</string>
+    <string name="Unaccessible_Contacts">Nem Elérhető Névjegyzék</string>
+    <string name="Please_chec_the_terms_and_privacy_agreement">Kérjük olvassa el a Felhasználási Feltételeket és az Adatvédelmi szerződést.</string>
+    <string name="Allow_System_Overlays">Rendszer Átfedés Engedélyezése</string>
+    <string name="Compatibility_Check">Kompatibilitás Ellenőrzése</string>
+    <string name="Phone_Logs">Telefon Naplóbejegyzések</string>
+    <string name="Achievements_Notification">Statisztikák Értesítései (kéthetente egyszer)</string>
+    <string name="Show_Details">Részletek Megtekintése</string>
+    <string name="Call_Number">Szám Hívása</string>
+    <string name="Copy_To_Clipboard">Másolás a Vágólapra</string>
+    <string name="Web_Search">Webes Keresés</string>
+    <string name="Protection_is_active">A Védelem Aktív!</string>
+    <string name="Protect_your_friends_Help_our_community">Védje meg a barátait! Segítse a közösségünket!</string>
+    <string name="Show_me_how">Mutasd meg hogy</string>
+    <string name="Recommend_app_to_your_friends">Ajánlja az App-ot a barátainak</string>
+    <string name="Recommend_now">Ajánlja Most</string>
+    <string name="Recommend_App_To_Friends">Az App Ajánlása Barátoknak</string>
+    <string name="Promo_message_1">Nem lesz többé probléma a kéretlen hívásokkal! Nézd meg</string>
+    <string name="Promo_message_2">Vége a telemarketingnek! Töltsd le ingyen a ShouldIAnswer app-ot!</string>
+    <string name="Promo_message_4">Kiváló alkalmazás a telemarketing és a spam ellen, Nézd meg</string>
+    <string name="Experimental_Function">Kísérleti Funkció</string>
+    <string name="pickAndHang_description">Ez a funkció úgy blokkolja a bejövő hívást, hogy felveszi és egyből le is teszi a telefont. Az alkalmazás ezen funkciója roaming módban nem működik. Kérjük, hogy  csak abban az esetben használja ezt a funkciót, ha biztos benne, hogy nem lesz semmilyen költsége a telefon felvétele miatt.</string>
+    <string name="Service_as_Foreground_Process">Alkalmazás Előtérben Futtatása</string>
+    <string name="Service_as_foreground_process_description">Ennek az opciónak az engedélyezésével, felgyorsítható a kéretlen hívások blokkolásának folyamata (a telefon valószínűleg kicsöngeni sem fog). A használat közben azt fogja tapasztalni, hogy folyamatosan látható az alkalmazás ikonja a staus baron, és az értesítés is az védelem engedélyezett állapotáról.</string>
+    <string name="Database_Needs_Update">Adatbázis frissítés szükséges</string>
+    <string name="Advanced">Speciális</string>
+    <string name="You_must_set_QKSMS_as_default_manager">Ennek a funkciónak a használatához a QKSMS-t kell használnia, alapértelmezett SMS Manager programként.</string>
+    <string name="Disable_this_if_your_device_doesnt_display_alerts_properly">Tiltsa le, ha a készüléke nem jeleníti meg megfelelően a figyelmeztetéseket.</string>
+    <string name="SMS_restriction_info">A rendszer korlátozásai miatt, valamilyen kompatibilis SMS manager app-ot kell használnia. A QK Labs által készített INGYENES QKSMS, egy tökéletes alternatív megoldást kínál erre a célra, mivel támogatja az SMS szűrés funkcióját az alkalmazásunknak. Kérjük, telepítse és engedélyezze ezt a funkciót.</string>
+    <string name="Required_compatible_SMS_manager">Kompatibilis SMS manager-re van szükség</string>
+    <string name="Blocking">Blokkolás</string>
+    <string name="Alerts">Figyelmeztetések</string>
+    <string name="Terms_and_Privacy">Felhasználás és Adatvédelem</string>
+    <string name="Should_I_Answer">Should I Answer</string>
+    <string name="Ratings">Értékelések</string>
+    <string name="App_is_now_updated_to_latest_version">Az alkalmazás frissítve lett a legújabb verzióra</string>
+    <string name="migration8_info1">Ez a frissítése fontos, felhasználó felületi változtatásokat és fejlesztéseket tartalmaz. Reméljük, hogy ezeket intuitívnek és flexibilisnek találja  majd. Ellenőrizze a Beállításoknál, a téma visszaállítását, a sötét téma esetében.</string>
+    <string name="migration8_info2">A konfiguráció mostantól ezekre a szekciókra van szétválasztva:</string>
+    <string name="migration8_info3">Itt tudja beállítani, hogy mely számok kapjanak majd negatív, semleges vagy pozitív értékelést öntől, és a Névjegyzékében szereplő számok értékelését, valamint a közösségi adatbázis használatának módját is</string>
+    <string name="migration8_info4">Itt tudja beállítani, hogy milyen módon kapjon értesítést a bejövő/kimenő hívásokról</string>
+    <string name="migration8_info5">Itt tudja beállítani, hogy hogyan akarja kezelni a bejövő/kimenő hívásokat</string>
+    <string name="migration8_info6">Itt találhatja meg az alkalmazás általános beállításait</string>
+    <string name="Number">Szám</string>
+    <string name="Rate">Értékelés</string>
+    <string name="Reviews">Vélemények</string>
+    <string name="Your_Ratings">Az Ön Értékelései</string>
+    <string name="Push_the_RATE_button_to_add_your_rating">Nyomja meg az ÉRTÉKELÉS gombot a saját értékelése hozzáadásához.</string>
+    <string name="Community_Reviews">Közösségi Felhasználói Vélemények</string>
+    <string name="You_have_disabled_automatic_reviews_info">Ön letiltotta az értékelések automatikus letöltését a szerverről. Nyomja meg a VÉLEMÉNYEK gombot, a közösségi felhasználói vélemények megjelenítéséhez. Az értékelések automatikus letöltése a Beállítások menüben engedélyezhető.</string>
+    <string name="notification_rating">Hogyan Blokkoljon egy Számot? Írjon negatív értékelést és engedélyezze a negatív értékelésű számok blokkolása opciót.</string>
+    <string name="Phone_Number">Telefonszám</string>
+    <string name="Rating_Phone_Number_Hint">A számokat nemzetközi formátumban kell megadni a \'+\' jellel kezdve, amelyet az ország nemzetközi kódja követ. Csoportokat is létrehozhat és értékelhet a * szimbólum használatával. Például: a +4412345* számsort megadva, az erre beállított szabályok fognak vonatkozni, minden olyan hívásra, amelynek a formátuma +4412345xxxx.</string>
+    <string name="Private_Rating_or_Number">Privát Értékelés vagy Szám</string>
+    <string name="Private_Rating_or_Number_hint">Abban az esetben használja ezt az opciót, ha a szám privát, vagy nem kívánja annak értékelését megosztani a közösségünkkel.</string>
+    <string name="Select_Rating">Értékelés Kiválasztása</string>
+    <string name="Select_Category">Kategória Kiválasztása</string>
+    <string name="Comment">Hozzászólás</string>
+    <string name="Enter_Your_Comment">Írja be a hozzászólását</string>
+    <string name="Your_Name_or_Nickname">Az ön Neve vagy Beceneve</string>
+    <string name="Enter_Name_or_Nickname">Adja meg a Nevét vagy Benecenevét</string>
+    <string name="Delete">Törlés</string>
+    <string name="notification_alerts">Itt tudja beállítani, hogy milyen figyelmeztetéseket akar megjeleníteni.</string>
+    <string name="Show_Alerts_for_INCOMING_calls_rated_as">Riasztás BEJÖVŐ hívásoknál amik értékelése</string>
+    <string name="except_contacts">kivéve a névjegyzék számai</string>
+    <string name="Show_Alerts_for_OUTGOING_calls_rated_as">Riasztás KIMENŐ hívásoknál amik értékelése</string>
+    <string name="Use_System_Overlay_for_displaying_of_the_alerts">Átfedés Használata riasztások megjelenítésénél</string>
+    <string name="notification_blocking">A blokkolás egy olyan plusz funkció, amelynek megkerülő megoldásokat kell alkalmaznia, mivel alapból nincs támogatva az Android rendszer által. Néhány gyártócég, olyan rendszer módosításokat hajt végre, amelyek a megkerülő megoldások működését akadályozzák egyes mobiltelefon modelleknél.</string>
+    <string name="Block_INCOMING_Calls_from">Blokkolja a BEJÖVŐ hívásokat a</string>
+    <string name="Negative_rated_numbers">Negatív értékelésű számoknál</string>
+    <string name="All_numbers">Minden számnál</string>
+    <string name="Hidden_numbers">Rejtett számoknál</string>
+    <string name="Block_OUTGOING_Calls_to">Blokkolja a KIMENŐ hívásokat a</string>
+    <string name="Premium_numbers">Emelt díjas számoknál</string>
+    <string name="Foreign_numbers">Külföldi számoknál</string>
+    <string name="Block_SMS_and_MMS_from"><![CDATA[Block SMS & MMS from]]></string>
+    <string name="Set_Default_SMS_Manager">Alapértelmezet SMS Manager beállítása</string>
+    <string name="Use_pick_and_hang_up_to_protect_voice_mail">Hangposta védelem (pick and hang up)</string>
+    <string name="Checked_Calls_And_Messages">Ellenőrzött Hívások és Üzenetek</string>
+    <string name="Blocked_Calls_and_Messages">Blokkolt Hívások és Üzenetek</string>
+    <string name="Application_Status">Alkalmazás Státusza</string>
+    <string name="Access_to_Phone_Contacts">Hozzáférés a Névjegyekhez</string>
+    <string name="norification_ratings">Itt tudja beállítani, hogyan legyenek értékelve a telefonszámok.</string>
+    <string name="Phone_Number_Ratings_Filter">Telefonszám Értékelés Szűrő</string>
+    <string name="Enter_Phone_NUmber_To_Filter_Ratings">Adja meg a számot az értékelések szűréséhez</string>
+    <string name="Use_Light_Theme">Világos Téma Használata</string>
+    <string name="Edit">Szerkesztés</string>
+    <string name="There_is_no_item_yet">Nincs még bejegyzés</string>
+    <string name="Foreign_Number">Külföldi Szám</string>
+    <string name="Hidden_Number">Rejtett Szám</string>
+    <string name="Negative_Rating">Negatív Értékelés</string>
+    <string name="Premium_Rate_Number">Emelt Díjas Szám</string>
+    <string name="Unallowed_All_Numbers">Minden Szám Korlátozva</string>
+    <string name="Unallowed_Unknown_Numbers">Ismeretlen Számok Korlátozva</string>
+    <string name="Phone_Log_is_loading">Telefon napló betöltése folyamatban</string>
+    <string name="Use_Community_Database_Rating">Közösségi Értékelések Használata</string>
+    <string name="General_Ratings_Rules">Általános Értékelési Szabályok</string>
+    <string name="for_numbers_with_mask">olyan számokhoz amik tartalmazzák a %s</string>
+    <string name="for_number_x">ehhez a számhoz %s</string>
+    <string name="There_is_no_rating_yet">Nincs még értékelés</string>
+    <string name="for_Contact_x">ehhez a Névjegyhez %s</string>
+    <string name="Phone_Number_Details">Telefonszám Részletes Infók</string>
+    <string name="New_Number_Rating">Új Szám Értékelése</string>
+    <string name="Edit_Number_Rating">Szám Értékelés Szerkesztése</string>
+    <string name="Rating_for_this_number_already_exists">Ehhez a számhoz már van értékelés</string>
+    <string name="You_must_select_rating">Válassza ki az értékelést</string>
+    <string name="You_must_select_category">Válassza ki a kategóriát</string>
+    <string name="Comment_is_too_short_">A hozzászólás túl rövid!</string>
+    <string name="Nick_is_too_short_">A becenév túl rövid!</string>
+    <string name="Blocked_call_from_negative_rated_number_x">Blokkolt hívás negatív értékelésű számnál %s.</string>
+    <string name="Blocked_call_to_negative_rated_number_x">Blokkolt hívás negatív értékelésű számnál %s.</string>
+    <string name="Pick_Contact">Névjegyzék</string>
+    <string name="Really_clear_this_log_">Tényleg törli a naplót?</string>
+    <string name="Checked_Numbers">Ellenőrzött Számok</string>
+    <string name="Blocked_Numbers">Blokkolt Számok</string>
+    <string name="for_Contacts_without_yours_rating">a Névjegyzékhez az értékelése nélkül</string>
+    <string name="for_Contacts_without_yours_and_community_rating">a Névjegyzékhez a közösségi és az ön értékelése nélkül</string>
+    <string name="Export_Import">Exportálás / Importálás</string>
+    <string name="Export_Application_Data">Alkalmazás Adatainak Exportálása</string>
+    <string name="Export_data_description">Az alkalmazás minden beállítása és az ön értékelései, egy egyszerű adatblokkban lesznek exportálva, amelyet később egy másik készülékbe importálva felhasználhat.</string>
+    <string name="Export">Exportál</string>
+    <string name="Import_Application_Data">Alkalmazás Adatainak Importálása</string>
+    <string name="Import_Data_Description">Telepítse a Should I Answer alkalmazást a kiválasztott készülékre, és nyissa meg az exportált fájlt. A fájl kiterjesztése az alkalmazáshoz kapcsolódó, ezért az importálás képernyő automatikusan megjelenik.</string>
+    <string name="Import">Importál</string>
+    <string name="Phone_Number_Ratings">telefonszám Értékelések</string>
+    <string name="Alerts_Settings">Figyelmezetések Beállítások</string>
+    <string name="Blocking_Settings">Blokkolás Beállítások</string>
+    <string name="Clear_actual_ratings">Aktuális értékelések törlése</string>
+    <string name="Invalid_Data_Format_">Érvénytelen Adat Formátum!</string>
+    <string name="Should_I_Answer_Data_Export">Should I Answer Adat Exportálás</string>
+    <string name="Data_Export_Email_Body">Az ön adatai az e-mailhez lettek csatolva. Tisztelettel, a Should I Answer Applikáció</string>
+    <string name="There_are_no_email_clients_installed">Nincs e-mail kliens instalálva.</string>
+    <string name="Settings_successfully_imported_">A beállítások sikeresen importálva!</string>
+    <string name="Invitation_not_finished_">A meghívás még nincs befejezve!</string>
+    <string name="Contact_x">Kapacsolat %s</string>
+    <string name="Install">Installálás</string>
+    <string name="Phone_Number_Hint_New">Ön csoportosíthatja is a számokat a *-ot használva. Például: a 800*-ra (az így létrehozott csoportra) beállított szabályok, minden olyan hívásra érvényesek lesznek, amely 800-zal kezdődő hívószámról érkezik.</string>
+    <string name="Report_Issue">Hiba Bejelentés</string>
+    <string name="Please_Enter_The_Issue_Description_Here">Kérjük Itt Adja Meg a Probléma Részletes Leírását! Kérjük, angol nyelven írjon! Köszönjük!</string>
+    <string name="Required_Community_Ratings_To_Block">A Blokkoláshoz Szükséges Közösségi Értékelések</string>
+    <string name="DISABLED">LETILTVA</string>
+    <string name="Warning">Figyelmeztetés!</string>
+    <string name="Unfortunately_your_device_has_modification_">Sajnos az ön készüléke olyan módosítással rendelkezik, ami miatt nem támogatja a blokkolási funkciót. Dolgozunk a probléma alternatív megoldásán.</string>
+    <string name="You_must_enable_Blocking_of_negative_rated_numbers">Ennek a számnak a blokkolásához engedélyezni kell a negatív értékelésű számok Blokkolása opciót!</string>
+    <string name="Enable_Blocking">Blokkolás Engedélyezése</string>
+    <string name="You_are_using_Pick_and_Hang_disable_it">A Felvesz és Letesz (Pick &amp; Hang) funkciót használja a blokkoláshoz. Ha nem működik ez a funkció a készülékén, használja a normál blokkolási funkciót.</string>
+    <string name="Disable_Pick_And_Hang">Pick &amp; Hang Letiltása</string>
+    <string name="You_have_already_configured_blocking_of_this_number_">Már beállította ennek a számnak a blokkolását. Ha problémát tapasztal, jelezze nekünk a Névjegy menüpontnál található Hiba Bejelentés gombot használva</string>
+    <string name="Set_As_Private">Beállítás Privátnak</string>
+    <string name="Dont_block_by_community_database">Ne blokkolja a közösségi adatbázist</string>
+    <string name="More_information_is_required_">Több információra van szükség a közösségi adatbázisba küldéshez. Nem akarja kitölteni? Állítsa az értékelését Privátra</string>
+    <string name="Unknown_numbers">Ismeretlen számok</string>
+    <string name="NEVER_BLOCK">SOHASE BLOKKOLJA</string>
+    <string name="numbers_with_positive_rating">pozitív értékelésű számok</string>
+    <string name="numbers_based_on_community_rating">közösségi besorolás szerinti számok</string>
+    <string name="Blocking_requires_granted_call_premissions_">A blokkoláshoz hívás hozzáféréséi engedélyek szükségesek. Engedélyezze a hozzáférést a hívás információkhoz a szám blokkolásához.</string>
+    <string name="Show_Foreground_Service_Icon">Mutassa Az Előtérben A Szolgáltatás Staus Bar Ikonját</string>
+    <string name="Monitor_outgoing_call_events">Kimenő hívás események monitorozása</string>
+</resources>
