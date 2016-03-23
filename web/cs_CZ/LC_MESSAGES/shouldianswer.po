@@ -2,11 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: shouldianswer\n"
 "POT-Creation-Date: 2016-03-12 10:45+0100\n"
-<<<<<<< HEAD
 "PO-Revision-Date: 2016-03-13 22:11+0100\n"
-=======
-"PO-Revision-Date: 2016-03-12 10:45+0100\n"
->>>>>>> refs/remotes/origin/master
 "Last-Translator: \n"
 "Language-Team: topolar@gmail.com\n"
 "Language: cs\n"
@@ -704,11 +700,7 @@ msgstr "Administrátorský login"
 
 #: app/templates/adminlogout/default.tpl:16
 msgid "Logout page"
-<<<<<<< HEAD
 msgstr "Odhlašovací obrazovka"
-=======
-msgstr ""
->>>>>>> refs/remotes/origin/master
 
 #: app/templates/compatibility/default.tpl:16
 msgid "Phone App Compatibility"
@@ -1914,34 +1906,25 @@ msgid ""
 "blocked. If you do'nt want to block numbers according to community database "
 "rating, then check the second option"
 msgstr ""
-<<<<<<< HEAD
 "V prvních dvou položkách můžete zaškrtnout, která telefonní čísla nebudou "
 "nikdy blokována. Pokud nechcete blokovat čísla na yákladě hodnocení z "
 "komunitní databáze, zaškrtněte druhou položku"
-=======
->>>>>>> refs/remotes/origin/master
 
 #: app/templates/mobilemanual/8.tpl:305
 msgid ""
 "For incoming calls you can block negative rated numbers, hidden numbers and "
 "all numbers."
 msgstr ""
-<<<<<<< HEAD
 "Pro příchozí hovory lze blokovat negativně hodnocená čísla, skrytá čísla a "
 "všechna čísla."
-=======
->>>>>>> refs/remotes/origin/master
 
 #: app/templates/mobilemanual/8.tpl:306
 msgid ""
 "For outgoing calls you can block negative rated numbers, premium numbers, "
 "foreign numbers and all numbers."
 msgstr ""
-<<<<<<< HEAD
 "Pro odchozí hovory lze blokovat negativně hodnocená, prémiová čísla, "
 "zahraniční čísla a všechna čísla."
-=======
->>>>>>> refs/remotes/origin/master
 
 #: app/templates/mobilemanual/8.tpl:307
 msgid ""
@@ -1949,12 +1932,9 @@ msgid ""
 "functionality, a compatible SMS manager must be installed, please read the "
 "help screen displayed if you check this item."
 msgstr ""
-<<<<<<< HEAD
 "Co se týče příchozích SMS a MMS, můžete zablokovat SMS i MMS. Pro tuto "
 "funkci musí být nainstalován kompatibilní SMS manažer, přečtěte si prosím "
 "nápovědu zobrazenou při zaškrtnutí této položky."
-=======
->>>>>>> refs/remotes/origin/master
 
 #: app/templates/mobilemanual/8.tpl:308
 msgid ""

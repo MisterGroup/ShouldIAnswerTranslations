@@ -304,15 +304,9 @@
     <string name="NEVER_BLOCK">НИКОГДА НЕ БЛОКИРОВАТЬ</string>
     <string name="numbers_with_positive_rating">Номера с положительным рейтингом</string>
     <string name="numbers_based_on_community_rating">Номера по рейтингу сообщества</string>
-<<<<<<< HEAD
     <string name="Blocking_requires_granted_call_premissions_">Blocking requires granted call permissions. Allow access to call information to block the number.</string>
     <string name="Show_Foreground_Service_Icon">Show Foreground Service Status Bar Icon</string>
     <string name="Monitor_outgoing_call_events">Monitor outgoing call events</string>
-=======
-
-
-
->>>>>>> refs/remotes/origin/master
 
 
 </resources>

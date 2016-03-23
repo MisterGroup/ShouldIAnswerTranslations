@@ -2,11 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: shouldianswer\n"
 "POT-Creation-Date: 2016-03-12 10:46+0100\n"
-<<<<<<< HEAD
 "PO-Revision-Date: 2016-03-22 09:07+0100\n"
-=======
-"PO-Revision-Date: 2016-03-12 10:46+0100\n"
->>>>>>> refs/remotes/origin/master
 "Last-Translator: \n"
 "Language-Team: topolar@gmail.com\n"
 "Language: it\n"
@@ -1963,37 +1959,21 @@ msgstr ""
 "verranno MAI bloccati. Se non vuole bloccare numeri a secondo di valutazione "
 "di base di dati di comunità, quindi selezioni la seconda opzione."
 
-<<<<<<< HEAD
-=======
-#: app/templates/mobilemanual/8.tpl:304
-msgid ""
-"In first two options you can check which phone numbers will be NEVER "
-"blocked. If you do'nt want to block numbers according to community database "
-"rating, then check the second option"
-msgstr ""
-
->>>>>>> refs/remotes/origin/master
 #: app/templates/mobilemanual/8.tpl:305
 msgid ""
 "For incoming calls you can block negative rated numbers, hidden numbers and "
 "all numbers."
 msgstr ""
-<<<<<<< HEAD
 "Per le chiamate in arrivo è possibile bloccare i numeri valutati come "
 "negativi, i numeri nascosti e tutti i numeri."
-=======
->>>>>>> refs/remotes/origin/master
 
 #: app/templates/mobilemanual/8.tpl:306
 msgid ""
 "For outgoing calls you can block negative rated numbers, premium numbers, "
 "foreign numbers and all numbers."
 msgstr ""
-<<<<<<< HEAD
 "Per le chiamate in uscita  è possibile bloccare i numeri valutati come "
 "negativi, i numeri nascosti e tutti i numeri."
-=======
->>>>>>> refs/remotes/origin/master
 
 #: app/templates/mobilemanual/8.tpl:307
 msgid ""
@@ -2001,12 +1981,9 @@ msgid ""
 "functionality, a compatible SMS manager must be installed, please read the "
 "help screen displayed if you check this item."
 msgstr ""
-<<<<<<< HEAD
 "Per gli SMS e MMS  in arrivo  è possibile bloccare SMS e MMS. Per questa "
 "funzionalità, un SMS manager compatibile deve essere installato, si prega di "
 "leggere il schermo di aiuto visualizzato se elegge questa entrata."
-=======
->>>>>>> refs/remotes/origin/master
 
 #: app/templates/mobilemanual/8.tpl:308
 msgid ""
@@ -2844,11 +2821,7 @@ msgstr "Dettagli"
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:98
 msgid "You rating can help the others to be informed about this number."
 msgstr ""
-<<<<<<< HEAD
 "La sua valutazione può aiutare gli altri ad avere informazioni su questo "
-=======
-"La tua valutazione può aiutare gli altri ad avere informazioni su questo "
->>>>>>> refs/remotes/origin/master
 "numero."
 
 #: app/templates/phonenumber/defaultDefault.tpl:195
@@ -2883,13 +2856,8 @@ msgid ""
 "informed who is calling - <strong>for free</strong>!"
 msgstr ""
 "Evitare chiamate indesiderate. <strong>Non perdere tempo</strong> con le "
-<<<<<<< HEAD
 "chiamate di marketing. Con la nostra <strong>app</strong> sarà sempre essere "
 "informato su chi sta chiamando - <strong>gratuitamente</strong>"
-=======
-"chiamate di marketing. Con i nostri <strong>apps</strong> sarà sempre essere "
-"informato su chi sta chiamando - <strong>libero</strong>"
->>>>>>> refs/remotes/origin/master
 
 #: app/templates/phonenumber/defaultDefault.tpl:208
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:244
@@ -2910,13 +2878,8 @@ msgid ""
 "<strong>informed who is calling!</strong>"
 msgstr ""
 "Non accedere a <strong>chiamata non richiesta</strong> da società di "
-<<<<<<< HEAD
 "telemarketing. Con la nostra <strong>applicazione gratuita</strong> sarà "
 "sempre <strong> informato che sta chiamando!</strong>"
-=======
-"telemarketing. Con i nostri <strong>applicazioni gratuite</strong> sarà "
-"sempre <strong>a conoscenza che sta chiamando!</strong>"
->>>>>>> refs/remotes/origin/master
 
 #: app/templates/phonenumber/defaultDefault.tpl:210
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:246
@@ -2924,22 +2887,14 @@ msgid ""
 "Want to <strong>avoid unsolicited calls</strong>? Download our <strong>free "
 "application</strong>!"
 msgstr ""
-<<<<<<< HEAD
 "Vuole <strong>Evitare chiamate indesiderate</strong>? Scarichi la nostra "
-=======
-"Vuoi <strong>Evitare chiamate indesiderate</strong>? Scarica la nostra "
->>>>>>> refs/remotes/origin/master
 "<strong>applicazione gratuita</strong>!"
 
 #: app/templates/phonenumber/defaultDefault.tpl:297
 #: app/templates/phonenumber/defaultModerator.tpl:328
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:333
 msgid "Add Your <strong>rating</strong>"
-<<<<<<< HEAD
 msgstr "Aggiunga la sua<strong>valutazione</strong>"
-=======
-msgstr "Aggiungi la tua<strong>valutazione</strong>"
->>>>>>> refs/remotes/origin/master
 
 #: app/templates/phonenumber/defaultDefault.tpl:300
 #: app/templates/phonenumber/defaultModerator.tpl:331
@@ -3112,24 +3067,6 @@ msgstr ""
 "Questo numero di telefono ha %s recensioni con una valutazione media pari a "
 "\"%s\"."
 
-<<<<<<< HEAD
-=======
-#: app/templates/phonenumber/defaultDefault.tpl:383
-#: app/templates/phonenumber/defaultModerator.tpl:418
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:422
-msgid "Phone number <strong>ratings</strong>"
-msgstr "Recensioni<strong>numero di telelefono</strong>"
-
-#: app/templates/phonenumber/defaultDefault.tpl:400
-#: app/templates/phonenumber/defaultModerator.tpl:431
-#: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:435
-#, php-format
-msgid "This phone number has %s reviews with average rating \"%s\"."
-msgstr ""
-"Questo numero di telefono ha %s recensioni con una valutazione media pari a "
-"\"%s\"."
-
->>>>>>> refs/remotes/origin/master
 #: app/templates/phonenumber/defaultDefault.tpl:463
 #: app/templates/phonenumber/defaultModerator.tpl:496
 #: app/templates/phonenumber/defaultNew.tpl:457
@@ -3253,11 +3190,7 @@ msgstr "Eliminare"
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:611
 msgid "Report ownership of this number or untruthful information presented."
 msgstr ""
-<<<<<<< HEAD
 "Avvisare la proprietà di questo numero o informazioni non veritiere "
-=======
-"Riferire la proprietà di questo numero o informazioni non veritiere "
->>>>>>> refs/remotes/origin/master
 "presentate."
 
 #: app/templates/phonenumber/defaultDefault.tpl:712
@@ -3306,11 +3239,7 @@ msgstr "recensioni"
 #: app/templates/phonenumber/defaultNewReloaded.tpl:170
 #: app/templates/phonenumber/defaultNext.tpl:249
 msgid "no ratings"
-<<<<<<< HEAD
 msgstr "nessune valutazioni"
-=======
-msgstr "nessuni valutazioni"
->>>>>>> refs/remotes/origin/master
 
 #: app/templates/phonenumber/defaultModerator.tpl:133
 #: app/templates/phonenumber/defaultNew.tpl:167
@@ -3355,11 +3284,7 @@ msgstr "Unico utente lo ha marcato  con %s valutazione"
 #: app/templates/phonenumber/defaultNext.tpl:279
 #, php-format
 msgid "%s users marked it with %s rating"
-<<<<<<< HEAD
 msgstr "%s degli utenti lo hanno marcato con %s valutazione"
-=======
-msgstr "%s degli utenti lo hanno marcato co %s valutazione"
->>>>>>> refs/remotes/origin/master
 
 #: app/templates/phonenumber/defaultModerator.tpl:166
 #: app/templates/phonenumber/defaultNew.tpl:200
@@ -3402,21 +3327,13 @@ msgstr "e-mail (opzionale)"
 #: app/templates/phonenumber/defaultNext.tpl:385
 #, php-format
 msgid "<strong>Reviews</strong> for phone number %s"
-<<<<<<< HEAD
 msgstr "<strong>Recensioni </strong>per numero di telefono %s"
-=======
-msgstr "<strong>Recensioni</strong>per numero di telefono %s"
->>>>>>> refs/remotes/origin/master
 
 #: app/templates/phonenumber/defaultNew.tpl:312
 #: app/templates/phonenumber/defaultNewReloaded.tpl:330
 #: app/templates/phonenumber/defaultNext.tpl:392
 msgid "Add <strong>Your rating</strong>"
-<<<<<<< HEAD
 msgstr "Aggiunga <strong>la sua valutazione</strong>"
-=======
-msgstr "Aggiungi <strong>sua vaulutazione</strong>"
->>>>>>> refs/remotes/origin/master
 
 #: app/templates/phonenumber/invalid.tpl:16
 #: app/templates/phonenumber/invalid.tpl:23
