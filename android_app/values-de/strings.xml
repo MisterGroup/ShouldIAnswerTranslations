@@ -302,7 +302,10 @@
     <string name="NEVER_BLOCK">NIEMALS SPERREN</string>
     <string name="numbers_with_positive_rating">nummern mit positiver Bewertung</string>
     <string name="numbers_based_on_community_rating">nummern entsprechend die Community Datenbank</string>
+<<<<<<< HEAD
     <string name="Blocking_requires_granted_call_premissions_">Zum Blockieren sind Zugriffsberechtigungen erforderlich. Erlauben Sie den Zugriff auf Anrufinformationen um die Nummer zu blockieren.</string>
     <string name="Show_Foreground_Service_Icon">Statusleistensymbol bei Vordergrundaktivität anzeigen</string>
     <string name="Monitor_outgoing_call_events">Abgehende Anrufe überwachen</string>
+=======
+>>>>>>> refs/remotes/origin/master
 </resources>

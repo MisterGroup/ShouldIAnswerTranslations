@@ -324,7 +324,10 @@
     <string name="NEVER_BLOCK">SOHASE BLOKKOLJA</string>
     <string name="numbers_with_positive_rating">pozitív értékelésű számok</string>
     <string name="numbers_based_on_community_rating">közösségi besorolás szerinti számok</string>
+<<<<<<< HEAD
     <string name="Blocking_requires_granted_call_premissions_">A blokkoláshoz hívás hozzáféréséi engedélyek szükségesek. Engedélyezze a hozzáférést a hívás információkhoz a szám blokkolásához.</string>
     <string name="Show_Foreground_Service_Icon">Mutassa Az Előtérben A Szolgáltatás Staus Bar Ikonját</string>
     <string name="Monitor_outgoing_call_events">Kimenő hívás események monitorozása</string>
+=======
+>>>>>>> refs/remotes/origin/master
 </resources>
