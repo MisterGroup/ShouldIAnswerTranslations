@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: shouldianswer\n"
-"POT-Creation-Date: 2016-03-12 10:46+0100\n"
-"PO-Revision-Date: 2016-03-12 10:46+0100\n"
+"POT-Creation-Date: 2016-03-23 09:50+0100\n"
+"PO-Revision-Date: 2016-03-23 09:50+0100\n"
 "Last-Translator: \n"
 "Language-Team: topolar@gmail.com\n"
 "Language: it\n"
@@ -21,11 +21,11 @@ msgstr ""
 
 #: app/500.php:9
 msgid "Internal server error"
-msgstr "Errore del server"
+msgstr "Errore interno del server"
 
 #: app/500.php:10
 msgid "Oooops something is wrong"
-msgstr "Oooops qualcosa è andato storto"
+msgstr "Oooops qualcosa è andato male"
 
 #: app/500.php:11
 msgid "We are sorry but requested page have problems."
@@ -36,340 +36,341 @@ msgid ""
 "Our staff were informed about this accident and will fix it as soon as "
 "possible."
 msgstr ""
-"Il nostro staff è stato informato di questo problema e lo risolverà il più "
-"presto possibile."
+"La nostra attenzione al cliente è stato informata su questo problema e lo "
+"risolverà il più presto possibile."
 
 #: app/500.php:13
 msgid "Please come back to this page later. Thank you."
-msgstr "Si prega di ritornare su questa pagina più tardi. Grazie."
+msgstr "Si prega di ritornare a questa pagina più tardi. Grazie."
 
-#: app/presenters/p_phonenumber.php:241
+#: app/presenters/p_phonenumber.php:243
 msgid "Outdated or invalid form submitted! Please send it again."
-msgstr "Il modulo inviato è scaduto o non valido! Si prega di reinviarlo."
+msgstr "Modulo inviato scaduto o non valido! Si prega di reinviarlo."
 
-#: app/presenters/p_phonenumber.php:298
+#: app/presenters/p_phonenumber.php:300
 msgid "Submit failed. Please do not use Tags!"
 msgstr "Invio non riuscito. Si prega di non utilizzare Tag!"
 
-#: app/presenters/p_phonenumber.php:304
+#: app/presenters/p_phonenumber.php:306
 msgid ""
 "Your rating is submitted and waiting for publication to other visitors. "
 "Thank you!"
 msgstr ""
-"La tua valutazione è stata registrata e sarà presto visibile da"
+"La sua valutazione è stata registrata e sarà presto visibile da parte di "
 "altri visitatori. Grazie!"
 
-#: app/presenters/p_phonenumber.php:308
+#: app/presenters/p_phonenumber.php:310
 msgid "Rating has been stored and published!"
-msgstr "La valutazione è stata salvata e pubblicata!"
+msgstr "Valutazione è stato salvata e pubblicata!"
 
-#: app/presenters/p_phonenumber.php:318
+#: app/presenters/p_phonenumber.php:320
 msgid "This phone number is marked as "
 msgstr "Questo numero di telefono è segnato come"
 
-#: app/presenters/p_phonenumber.php:336
+#: app/presenters/p_phonenumber.php:338
 msgid "What is Your experience with this number?"
-msgstr "Qual è la tua esperienza con questo numero?"
+msgstr "Qual'è la sua esperienza con questo numero?"
 
-#: app/presenters/p_phonenumber.php:337
+#: app/presenters/p_phonenumber.php:339
 msgid "Do You have any experience with this phone number?"
 msgstr "Hai qualche esperienza con questo numero?"
 
-#: app/presenters/p_phonenumber.php:338
-msgid "What is Your experience with this phone number?"
-msgstr "Qual è la tua esperienza con questo numero di telefono?"
-
-#: app/presenters/p_phonenumber.php:339
-msgid "Do You have any bad experience with this number?"
-msgstr "Hai avuto qualche esperienza negativa con questo numero?"
-
 #: app/presenters/p_phonenumber.php:340
-msgid "Have You seen this number before?"
-msgstr "Hai mai visto questo numero prima?"
+msgid "What is Your experience with this phone number?"
+msgstr "Qual'è la sua esperienza con questo numero di telefono?"
 
 #: app/presenters/p_phonenumber.php:341
-msgid "Have You ever spot this number?"
-msgstr "Hai riconosciuto questo numero?"
+msgid "Do You have any bad experience with this number?"
+msgstr "Ha qualche esperienza negativa con questo numero?"
 
 #: app/presenters/p_phonenumber.php:342
-msgid "Does this number remind You something?"
-msgstr "Questo numero ti ricorda qualcosa?"
+msgid "Have You seen this number before?"
+msgstr "Ha mai visto questo numero prima?"
 
 #: app/presenters/p_phonenumber.php:343
-msgid "Do You have any bad experience with this phone number?"
-msgstr "Hai avuto qualche esperienza negativa con questo numero di telefono?"
+msgid "Have You ever spot this number?"
+msgstr "Ha avuto qualche riscontro con questo numero?"
 
 #: app/presenters/p_phonenumber.php:344
-msgid "Have You ever seen this number?"
-msgstr "Hai mai visto questo numero?"
+msgid "Does this number remind You something?"
+msgstr "Le ricorda qualcosa questo numero?"
 
 #: app/presenters/p_phonenumber.php:345
+msgid "Do You have any bad experience with this phone number?"
+msgstr "Ha qualche esperienza negativa con questo numero di telefono?"
+
+#: app/presenters/p_phonenumber.php:346
+msgid "Have You ever seen this number?"
+msgstr "Ha mai visto questo numero?"
+
+#: app/presenters/p_phonenumber.php:347
 msgid "Does this number look familiar to You?"
-msgstr "Questo numero ti sembra familiare?"
+msgstr "Questo numero Le sembra familiare?"
 
-#: app/presenters/p_phonenumber.php:348
+#: app/presenters/p_phonenumber.php:350
 msgid "Do You have any experience with this?"
-msgstr "Hai qualche esperienza con questo?"
-
-#: app/presenters/p_phonenumber.php:349
-msgid "Have this number called You before?"
-msgstr "Questo numero ti ha mai chiamato?"
-
-#: app/presenters/p_phonenumber.php:350 app/presenters/p_phonenumber.php:356
-msgid "Have this number annoyed You before?"
-msgstr "Questo numero ti ha mai infastidito?"
+msgstr "Ha qualche esperienza con questo?"
 
 #: app/presenters/p_phonenumber.php:351
-msgid "Did someone offer You unwanted services from this number?"
-msgstr ""
-"Qualcuno ti ha offerto servizi indesiderati chiamandoti con questo numero?"
+msgid "Have this number called You before?"
+msgstr "Le ha mai chiamato questo numero ?"
 
-#: app/presenters/p_phonenumber.php:352
-msgid "Did someone offer You products You haven't ordered from this number?"
-msgstr ""
-"Qualcuno ti ha offerto prodotti che non hai mai ordinato chiamandoti con "
-"questo numero?"
+#: app/presenters/p_phonenumber.php:352 app/presenters/p_phonenumber.php:358
+msgid "Have this number annoyed You before?"
+msgstr "Le ha mai infastidito questo numero?"
 
 #: app/presenters/p_phonenumber.php:353
-msgid "You have become a victim of harassment?"
-msgstr "Sei vittima di molestie?"
+msgid "Did someone offer You unwanted services from this number?"
+msgstr ""
+"Qualcuno Le ha offerto servizi indesiderati chiamandoti con questo numero?"
 
 #: app/presenters/p_phonenumber.php:354
-msgid "Did someone offer You some insurance?"
-msgstr "Qualcuno ti ha offerto qualche assicurazione?"
+msgid "Did someone offer You products You haven't ordered from this number?"
+msgstr ""
+"Qualcuno Le ha offerto prodotti che non hai mai ordinato chiamandoti con "
+"questo numero?"
 
 #: app/presenters/p_phonenumber.php:355
-msgid "Have You been facing the unwanted services?"
-msgstr "Hai avuto a che fare con servizi indesiderati?"
+msgid "You have become a victim of harassment?"
+msgstr "È diventata una vittima di molestie?"
+
+#: app/presenters/p_phonenumber.php:356
+msgid "Did someone offer You some insurance?"
+msgstr "Qualcuno Le ha offerto qualche assicurazione?"
 
 #: app/presenters/p_phonenumber.php:357
+msgid "Have You been facing the unwanted services?"
+msgstr "Ha dovuto affrontare i servizi indesiderati?"
+
+#: app/presenters/p_phonenumber.php:359
 msgid "Did someone offer You apparently beneficial contracts?"
-msgstr "Qualcuno ti ha offerto contratti apparentemente favorevoli?"
-
-#: app/presenters/p_phonenumber.php:361
-msgid "Or is this rally some good service?"
-msgstr "Oppure questo è un buon servizio?"
-
-#: app/presenters/p_phonenumber.php:362
-msgid "Or is this Your friend's phone number?"
-msgstr "Oppure questo è il numero di telefono di un tuo amico?"
+msgstr "Qualcuno Le ha offerto contratti apparentemente favorevoli?"
 
 #: app/presenters/p_phonenumber.php:363
-msgid "Or is this a phone number serving for Your company?"
-msgstr "Oppure questo è un numero di telefono aziendale?"
+msgid "Or is this rally some good service?"
+msgstr "Oppure questo numero è un buon servizio?"
 
 #: app/presenters/p_phonenumber.php:364
+msgid "Or is this Your friend's phone number?"
+msgstr "Oppure questo è il numero di telefono del suo amico?"
+
+#: app/presenters/p_phonenumber.php:365
+msgid "Or is this a phone number serving for Your company?"
+msgstr "Oppure questo è un numero di telefono che serve per la sua azienda?"
+
+#: app/presenters/p_phonenumber.php:366
 msgid "Or is this a phone number of a reliable financial advisor?"
 msgstr ""
 "Oppure questo è il numero di telefono di un consigliere finanziario "
 "affidabile?"
 
-#: app/presenters/p_phonenumber.php:365
+#: app/presenters/p_phonenumber.php:367
 msgid "Or is this a safe phone number?"
 msgstr "Oppure questo è un numero di telefono sicuro?"
 
-#: app/presenters/p_phonenumber.php:366
+#: app/presenters/p_phonenumber.php:368
 msgid "Or is this a purely private phone number?"
 msgstr "Oppure questo è un numero di telefono esclusivamente privato?"
 
-#: app/presenters/p_phonenumber.php:367
+#: app/presenters/p_phonenumber.php:369
 msgid "Or is this someone You know?"
-msgstr "Oppure è qualcuno che conosci?"
+msgstr "Oppure è qualcuno che conosce?"
 
-#: app/presenters/p_phonenumber.php:368
+#: app/presenters/p_phonenumber.php:370
 msgid "Or is this phone number useful?"
 msgstr "Oppure questo numero di telefono è utile?"
 
-#: app/presenters/p_phonenumber.php:369
+#: app/presenters/p_phonenumber.php:371
 msgid "Or does this number belong to some of Your friends?"
-msgstr "Oppure questo numero appartiene a uno dei tuoi amici?"
+msgstr "Oppure questo numero appartiene a uno dei suoi amici?"
 
-#: app/presenters/p_phonenumber.php:370
+#: app/presenters/p_phonenumber.php:372
 msgid "Or is this Your own phone number?"
-msgstr "Oppure questo è il tuo numero?"
-
-#: app/presenters/p_phonenumber.php:374
-msgid "Share Your experience."
-msgstr "Condividi la tua esperienza."
-
-#: app/presenters/p_phonenumber.php:375
-msgid "Do not keep the information just for yourself."
-msgstr "Non tenere queste informazioni solo per te."
+msgstr "Oppure questo è il suo numero?"
 
 #: app/presenters/p_phonenumber.php:376
-msgid "Share Your experience with the others."
-msgstr "Condividi la tua esperienza con gli altri."
+msgid "Share Your experience."
+msgstr "Condivida la sua esperienza."
 
 #: app/presenters/p_phonenumber.php:377
-msgid "Pass Your experience to the other users."
-msgstr "Trasmetti la tua esperienza agli altri utenti."
+msgid "Do not keep the information just for yourself."
+msgstr "Non tenere queste informazioni solo per Lei."
 
 #: app/presenters/p_phonenumber.php:378
-msgid "Is there something You would like to tell the others?"
-msgstr "C’è qualcosa che vorresti dire agli altri?"
+msgid "Share Your experience with the others."
+msgstr "Condivida la sua esperienza con gli altri."
 
 #: app/presenters/p_phonenumber.php:379
-msgid "Is there some info You can share?"
-msgstr "C’è qualche informazione che puoi condividere?"
+msgid "Pass Your experience to the other users."
+msgstr "Trasmetta la sua esperienza agli altri utenti."
 
 #: app/presenters/p_phonenumber.php:380
-msgid "Do You know more?"
-msgstr "Ne sai di più?"
+msgid "Is there something You would like to tell the others?"
+msgstr "C’è qualcosa che vorrebbe dire agli altri?"
 
 #: app/presenters/p_phonenumber.php:381
-msgid "Do You know more? Share it with the others."
-msgstr "Ne sai di più? Condividilo con gli altri."
+msgid "Is there some info You can share?"
+msgstr "C’è qualche informazione che può condividere?"
 
 #: app/presenters/p_phonenumber.php:382
-msgid "Do You know more? Pass Your experience to the other users."
-msgstr "Ne sai di più? Divulga la tua esperienza agli altri utenti."
+msgid "Do You know more?"
+msgstr "Sa di più?"
 
 #: app/presenters/p_phonenumber.php:383
+msgid "Do You know more? Share it with the others."
+msgstr "Sa di più? Lo condivida con gli altri."
+
+#: app/presenters/p_phonenumber.php:384
+msgid "Do You know more? Pass Your experience to the other users."
+msgstr "Sa di più? Trasmetti la sua esperienza agli altri utenti."
+
+#: app/presenters/p_phonenumber.php:385
 msgid "Do You know more? Share Your experience with the others."
-msgstr "Ne sai di più? Convidividi la tua esperienza con gli altri."
-
-#: app/presenters/p_phonenumber.php:387
-msgid "Write to us, "
-msgstr "Scrivici,"
-
-#: app/presenters/p_phonenumber.php:388
-msgid "Fill the form, "
-msgstr "Compila il modulo,"
+msgstr "Sa di più? Condivida la sua esperienza con gli altri."
 
 #: app/presenters/p_phonenumber.php:389
-msgid "Fill the form and "
-msgstr "Compila il modulo e"
+msgid "Write to us, "
+msgstr "Ci scriva,"
 
 #: app/presenters/p_phonenumber.php:390
-msgid "Write to us (it is not necessary to state Your real name) and "
-msgstr "Scrivici (non è necessario che tu ci dica il tuo vero nome) e"
+msgid "Fill the form, "
+msgstr "Compili il modulo,"
 
 #: app/presenters/p_phonenumber.php:391
-msgid "Leave a message using our form and "
-msgstr "Lascia un messaggio utilizzando il nostro modulo e"
+msgid "Fill the form and "
+msgstr "Compili il modulo e"
 
 #: app/presenters/p_phonenumber.php:392
-msgid "Share Your experience and "
-msgstr "Condividi la tua esperienza e"
+msgid "Write to us (it is not necessary to state Your real name) and "
+msgstr "Ci scriva (non è necessario dire il suo vero nome) e"
 
 #: app/presenters/p_phonenumber.php:393
-msgid "Leave a message and "
-msgstr "Lascia un messaggio e"
+msgid "Leave a message using our form and "
+msgstr "Lasci un messaggio utilizzando il nostro modulo e"
 
 #: app/presenters/p_phonenumber.php:394
-msgid "Describe Your experience using our form and "
-msgstr "Descrivi la tua esperienza utilizzando il nostro modulo e"
+msgid "Share Your experience and "
+msgstr "Condivida la sua esperienza e"
 
 #: app/presenters/p_phonenumber.php:395
-msgid "Give us Your opinion and "
-msgstr "Dacci il tuo parere e "
+msgid "Leave a message and "
+msgstr "Lasci un messaggio e"
 
 #: app/presenters/p_phonenumber.php:396
+msgid "Describe Your experience using our form and "
+msgstr "Descriva la sua esperienza utilizzando il nostro modulo e"
+
+#: app/presenters/p_phonenumber.php:397
+msgid "Give us Your opinion and "
+msgstr "Ci comunichi la sua opinione e "
+
+#: app/presenters/p_phonenumber.php:398
 msgid "Rate this phone number using the form and "
 msgstr "Valuti questo numero di telefono utilizzando il modulo e"
 
-#: app/presenters/p_phonenumber.php:400
+#: app/presenters/p_phonenumber.php:402
 msgid "this will help the other users."
 msgstr "questo aiuterà gli altri utenti."
 
-#: app/presenters/p_phonenumber.php:401
+#: app/presenters/p_phonenumber.php:403
 msgid "this will help the other users to have a more clear information."
 msgstr "questo aiuterà gli altri utenti ad avere informazioni più chiare."
 
-#: app/presenters/p_phonenumber.php:402
+#: app/presenters/p_phonenumber.php:404
 msgid "other users can use this information."
 msgstr "gli altri utenti potranno usare queste informazioni."
 
-#: app/presenters/p_phonenumber.php:403
+#: app/presenters/p_phonenumber.php:405
 msgid "the information can be used by the other users."
 msgstr "queste informazioni potranno essere usate dagli altri utenti."
 
-#: app/presenters/p_phonenumber.php:404
-msgid "the other users will appreciate it."
-msgstr "gli altri utenti le apprezzeranno."
-
-#: app/presenters/p_phonenumber.php:405
-msgid "the other users will use it for their benefit."
-msgstr "gli altri utenti le useranno a loro vantaggio."
-
 #: app/presenters/p_phonenumber.php:406
+msgid "the other users will appreciate it."
+msgstr "gli altri utenti lo apprezzeranno."
+
+#: app/presenters/p_phonenumber.php:407
+msgid "the other users will use it for their benefit."
+msgstr "gli altri utenti lo useranno a loro vantaggio."
+
+#: app/presenters/p_phonenumber.php:408
 msgid "the information can be useful for other users."
 msgstr "le informazioni possono essere utili per altri utenti."
 
-#: app/presenters/p_phonenumber.php:407
+#: app/presenters/p_phonenumber.php:409
 msgid "You will help also the other users."
 msgstr "Aiuterai anche gli altri utenti."
 
-#: app/presenters/p_phonenumber.php:408
+#: app/presenters/p_phonenumber.php:410
 msgid "thanks to You the others will be better informed."
-msgstr "grazie a te gli altri saranno meglio informati."
+msgstr "grazie a Lei gli altri saranno meglio informati."
 
-#: app/presenters/p_phonenumber.php:409
+#: app/presenters/p_phonenumber.php:411
 msgid "the other users can benefit from this information."
 msgstr "gli altri utenti possono beneficiare di queste informazioni."
 
-#: app/presenters/p_phonenumber.php:413
-msgid "Thank You for Your review."
-msgstr "Grazie per la tua recensione."
-
-#: app/presenters/p_phonenumber.php:414
-msgid "Thank You for Your reaction."
-msgstr "Grazie per il tuo parere."
-
 #: app/presenters/p_phonenumber.php:415
-msgid "We would appreciate Your reaction."
-msgstr "Saremmo lieti di ricevere il tuo parere."
+msgid "Thank You for Your review."
+msgstr "Grazie per la sua recensione."
 
 #: app/presenters/p_phonenumber.php:416
-msgid "We would appreciate Your review."
-msgstr "Saremmo lieti di ricevere la tua recensione."
+msgid "Thank You for Your reaction."
+msgstr "Grazie per la sua reazione."
 
 #: app/presenters/p_phonenumber.php:417
-msgid "We would appreciate if You share Your experience."
-msgstr "Saremmo lieti se condividessi la tua esperienza."
+msgid "We would appreciate Your reaction."
+msgstr "Saremmo lieti di ricevere la sua reazione."
 
 #: app/presenters/p_phonenumber.php:418
-msgid "Thank You in advance for Your review."
-msgstr "ti ringraziamo anticipatamente per la sua recensione."
+msgid "We would appreciate Your review."
+msgstr "Saremmo lieti di ricevere la sua recensione."
 
 #: app/presenters/p_phonenumber.php:419
-msgid "Thank You for Your comment."
-msgstr "ti ringraziamo per il suo commento."
+msgid "We would appreciate if You share Your experience."
+msgstr "Saremmo lieti se condividessi la sua esperienza."
 
 #: app/presenters/p_phonenumber.php:420
-msgid "Thank You in advance for Your comment."
-msgstr "Ti ringraziamo anticipatamente per il suo commento."
+msgid "Thank You in advance for Your review."
+msgstr "Gli ringraziamo anticipatamente per la sua recensione."
 
 #: app/presenters/p_phonenumber.php:421
-msgid "We would appreciate if You share Your statement."
-msgstr "Saremmo lieti se condividessi la tua affermazione."
+msgid "Thank You for Your comment."
+msgstr "Gli ringraziamo per il suo commento."
 
 #: app/presenters/p_phonenumber.php:422
+msgid "Thank You in advance for Your comment."
+msgstr "Gli ringraziamo anticipatamente per il suo commento."
+
+#: app/presenters/p_phonenumber.php:423
+msgid "We would appreciate if You share Your statement."
+msgstr "Saremmo lieti se condividessi la sua affermazione."
+
+#: app/presenters/p_phonenumber.php:424
 msgid "Thank You for Your post."
-msgstr "Grazie per il tuo post."
+msgstr "Grazie per la sua posta."
 
-#: app/presenters/p_phonenumber.php:431
+#: app/presenters/p_phonenumber.php:433
 msgid "Phone number should be fixed line."
-msgstr "Il numero di telefono deve appartenere a una rete fissa."
+msgstr "Il numero di telefono deve appartenere a una linea fissa."
 
-#: app/presenters/p_phonenumber.php:432
+#: app/presenters/p_phonenumber.php:434
 msgid "Phone number should be mobile line."
 msgstr "Il numero di telefono deve appartenere a una linea mobile."
 
-#: app/presenters/p_phonenumber.php:433
+#: app/presenters/p_phonenumber.php:435
 msgid "Phone number should be fixed or mobile line."
 msgstr ""
-"Il numero di telefono deve appartenere a una rete fissa o mobile."
+"Il numero di telefono deve appartenere a una linea fissa o a una linea "
+"mobile."
 
-#: app/presenters/p_phonenumber.php:434
+#: app/presenters/p_phonenumber.php:436
 msgid "Phone number should be toll free."
 msgstr "Il numero di telefono dev’essere un numero verde."
 
-#: app/presenters/p_phonenumber.php:435
+#: app/presenters/p_phonenumber.php:437
 msgid "Phone number should be for premium rate. Be carefull."
-msgstr "Il numero di telefono dev’essere a pagamento. Stai attento."
+msgstr "Il numero di telefono dev’essere a pagamento. Stia attento."
 
-#: app/presenters/p_phonenumber.php:436
+#: app/presenters/p_phonenumber.php:438
 msgid ""
 "Phone number should be for shared rate. It should be cheaper than standard "
 "call."
@@ -377,78 +378,78 @@ msgstr ""
 "Il numero di telefono dev’essere a costi condivisi. Dovrebbe essere più "
 "economico rispetto alla chiamata standard."
 
-#: app/presenters/p_phonenumber.php:437
+#: app/presenters/p_phonenumber.php:439
 msgid "Phone number should be voice over ip."
-msgstr "Il numero di telefono dev’essere voice over ip."
+msgstr "Il numero di telefono dev’essere voice sul’ip."
 
-#: app/presenters/p_phonenumber.php:438
+#: app/presenters/p_phonenumber.php:440
 msgid "Phone number should be personal line."
 msgstr "Il numero di telefono dev’essere una linea personale."
 
-#: app/presenters/p_phonenumber.php:439
-msgid "Phone number should be pager."
-msgstr "Il numero di telefono dev’essere un pager."
-
-#: app/presenters/p_phonenumber.php:440
-msgid "Phone number should belong some  company."
-msgstr "Il numero di telefono deve appartenere a qualche ditta."
-
 #: app/presenters/p_phonenumber.php:441
+msgid "Phone number should be pager."
+msgstr "Il numero di telefono dev’essere cercapersone."
+
+#: app/presenters/p_phonenumber.php:442
+msgid "Phone number should belong some  company."
+msgstr "Il numero di telefono deve appartenere a qualche società."
+
+#: app/presenters/p_phonenumber.php:443
 msgid "Phone number should be for emergency call."
 msgstr "Il numero di telefono dev’essere per chiamate di emergenza."
 
-#: app/presenters/p_phonenumber.php:452
+#: app/presenters/p_phonenumber.php:454
 msgid ""
 "During the last days this number has been very often searched also by other "
 "users. This can be a mark of global call centre or marketing action, so be "
 "aware."
 msgstr ""
-"Nei giorni scorsi, la cifra è stata anche spesso richiesto da altri utenti. "
+"Nei giorni scorsi, il numero è stato anche spesso richiesto da altri utenti. "
 "Esso dischi potrebbero essere un segno di un call center o di marketing "
-"campagne, offrirti meglio stare attenti."
+"campagne, meglio stare attenti."
 
-#: app/presenters/p_phonenumber.php:453
+#: app/presenters/p_phonenumber.php:455
 msgid ""
 "This number very probably doesn't belong to any individual - we have noticed "
 "very frequent searches of this number during last days, which can be a mark "
 "of wide usage of it, probably for marketing purposes. Probably it can be "
 "source of unwanted calls."
 msgstr ""
-"Questo numero è molto probabile che appartenere a un privato - nei giorni "
+"Questo numero è molto probabile che appartenere a un individuo - nei giorni "
 "scorsi abbiamo visto una forte domanda tra questo numero, che può essere un "
 "segno del suo largo uso, presumibilmente per scopi di marketing. A quanto "
 "pare la fonte di telefonate non richieste."
 
-#: app/presenters/p_phonenumber.php:454
+#: app/presenters/p_phonenumber.php:456
 msgid ""
 "Users were searching for this number very often recently also here on our "
 "pages, which can be a sing of some telemarketing company or call centre "
 "using it. Be aware if this number call you."
 msgstr ""
 "Gli utenti di questo problema di recente, molto spesso cercato anche sul "
-"nostro sito, che può essere un telemarketer segno o call center che "
-"utilizza. Attenzione, se si chiama questo numero."
+"nostro sito, che può essere un segno di un operatore di telemarketing o di "
+"un call center che utilizza. Attenzione, se si chiama questo numero."
 
-#: app/presenters/p_phonenumber.php:455
+#: app/presenters/p_phonenumber.php:457
 msgid ""
 "Even the number has no review actually it was searched many time in last few "
 "days. It probably doesn't belong to some individual and is widely used by "
 "some telemarketing company, it can be unsolicited call for you."
 msgstr ""
-"Anche se per questo numero non è ancora alcun comentario, negli ultimi "
-"giorni spesso è stato ricercato. Probabilmente non è un soggetto privato ed "
-"è ampiamente utilizzato da alcune aziende di telemarketing può darvi "
+"Anche se per questo numero non è ancora alcuna recensione, negli ultimi "
+"giorni spesso è stato ricercato. Probabilmente non è un numero privato ed è "
+"ampiamente utilizzato da alcune società di telemarketing può darle a Lei una "
 "chiamata indesiderata."
 
-#: app/presenters/p_phonenumber.php:456
+#: app/presenters/p_phonenumber.php:458
 msgid ""
 "This number was frequently searched during last couple of days. It is very "
 "likely used for telemarketing actions and doesn't belong to a private "
 "person. Be aware."
 msgstr ""
 "Questo numero è stato nel corso degli ultimi giorni è spesso richiesto. "
-"Molto probabilmente da utilizzare per telemarketing e le azioni non "
-"appartengono ad un privato. Attenzione."
+"Molto probabilmente da utilizzare per telemarketing e non appartengono ad un "
+"individuo. Attenzione."
 
 #: app/repositories/r_phones.php:170
 msgid "Phone number has positive rating"
@@ -552,23 +553,22 @@ msgid ""
 "We also haven't detected any unusual activity regarding number %s, so it "
 "looks safe now."
 msgstr ""
-"Inoltre, non abbiamo rilevare alcuna attività insolita che coinvolge "
-"numeri %s, così ora sembra essere al sicuro."
+"Inoltre, non abbiamo rilevare alcuna attività insolita sul questo numero %s, "
+"così ora sembra essere a sicuro."
 
 #: app/repositories/r_reviews.php:152
-#: app/templates/phonenumber/defaultDefault.tpl:587
-#: app/templates/phonenumber/defaultModerator.tpl:598
+#: app/templates/phonenumber/defaultDefault.tpl:590
+#: app/templates/phonenumber/defaultModerator.tpl:603
 #: app/templates/phonenumber/defaultNew.tpl:570
-#: app/templates/phonenumber/defaultNewReloaded.tpl:592
+#: app/templates/phonenumber/defaultNewReloaded.tpl:595
 #: app/templates/phonenumber/defaultNext.tpl:655
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:586
 msgid ""
 "If you have any useful information about this number then please add your "
 "rating and help others find who called."
 msgstr ""
-"Se hai qualche informazione utile su questo numero ti preghiamo di "
-"aggiungere la tua valutazione e aiutare gli altri a scoprire chi li ha "
-"chiamati."
+"Se ha qualche informazione utile su questo numero Le preghiamo di aggiungere "
+"la sua valutazione e aiutare gli altri a scoprire chi loro ha chiamati."
 
 #: app/templates/404/default.tpl:17 app/templates/net/numbers.tpl:34
 msgid "Page not found"
@@ -589,8 +589,8 @@ msgid ""
 "We are sorry but page you are searching is not found! Please use site "
 "navigation to find your content."
 msgstr ""
-"Siamo spiacenti ma la pagina che stai cercando non può essere trovata! "
-"Utilizzare gli strumenti di navigazione del sito per trovare il tuo "
+"Siamo spiacenti ma la pagina che sta cercando non può essere trovata! "
+"Utilizzare gli strumenti di navigazione del sito per trovare il suo "
 "contenuto."
 
 #: app/templates/503/default.tpl:23 app/templates/503/default.tpl:33
@@ -606,7 +606,7 @@ msgid ""
 "The server is temporarily unable to service your request due to maintenance "
 "downtime or capacity problems. Please try again later."
 msgstr ""
-"Il server e’ temporaneamente impossibilitato a rispondere alla tua richiesta "
+"Il server e’ temporaneamente impossibilitato a rispondere alla sua richiesta "
 "a causa di una sospensione dell’attività per la manutenzione o per problemi "
 "di capacità. Si prega di riprovare più tardi."
 
@@ -630,7 +630,7 @@ msgid ""
 "opportunity to face the s?unsolicited call, telemarketing campaign, "
 "advertisement or another kind of fraud call."
 msgstr ""
-"Posso rispondere? Questa domanda viene in mente chi vede numero sconosciuto. "
+"Devo rispondere? Questa domanda viene in mente chi vede numero sconosciuto. "
 "Ognuno di noi aveva (o avranno) l'opportunità di affrontare indesiderata "
 "pubblicità campagna di telemarketing chiamata o altra forma di chiamate "
 "fraudolente."
@@ -651,7 +651,7 @@ msgstr ""
 "quantità di denaro? Lo scopo e il significato di questo servizio è quello di "
 "dare l’opportunità a quelli che hanno già ricevuto telefonate simili di "
 "avvertire gli altri e segnalare un numero che dia fastidio o che sia "
-"addirittura dannoso in qualche modo. Questa web community offre a tutti la "
+"addirittura dannoso in qualche modo. Questa web di comunità offre a tutti la "
 "possibilità di inserire la propria considerazione sul relativo numero di "
 "telefono, di cercare qualsiasi numero e di leggere le recensioni degli altri "
 "utenti su un certo numero di telefono per scoprire a quale categoria "
@@ -691,9 +691,8 @@ msgid ""
 msgstr ""
 "Se l'utente avrà le informazioni disponibili in un formato leggibile, saremo "
 "in grado di ridurre o interrompere comportamenti scorretti sulle campagne di "
-"marketing non richiesti parti o di aziende che cercano di sfruttare le "
-"situazioni in cui il cliente (in questo caso) non può adeguatamente "
-"difendersi."
+"marketing non richiesti o di società che cerca di sfruttare le situazioni in "
+"cui il cliente (in questo caso) non può adeguatamente difendersi."
 
 #: app/templates/about/default.tpl:32
 msgid ""
@@ -733,7 +732,7 @@ msgstr "Versione di applicazione"
 
 #: app/templates/compatibility/default.tpl:125
 msgid "Phone Manufacturer"
-msgstr "Rroduttore di telefono"
+msgstr "Produttore di telefono"
 
 #: app/templates/compatibility/default.tpl:126
 msgid "Phone Model"
@@ -780,8 +779,8 @@ msgid ""
 "Secondly please be sure you did not stop our application by some memory "
 "optimizer or app killer."
 msgstr ""
-"In secondo luogo verifica che non è fermata la nostra applicazione da parte "
-"di alcuni ottimizzatore di memoria o di killer application."
+"In secondo luogo verifichi che non è fermata la nostra applicazione da parte "
+"di alcuni ottimizzatore di memoria o di applicazione estremamente diffusa."
 
 #: app/templates/compatibility/default.tpl:151
 #: app/templates/compatibility/default.tpl:161
@@ -789,7 +788,7 @@ msgid ""
 "Enable \"Show icon in status bar\" in app Settings and keep app icon in "
 "status bar."
 msgstr ""
-"Attiva \"Mostra icona nella barra di stato\" in Impostazioni delle "
+"Attivi \"Mostra icona nella barra di stato\" in Impostazioni delle "
 "applicazioni e tenere icona de app nella barra di stato."
 
 #: app/templates/compatibility/default.tpl:152
@@ -797,8 +796,8 @@ msgstr ""
 msgid ""
 "If you or some utility kills our service intentionally the icon disappears."
 msgstr ""
-"Se voi o qualche programma intenzionalmente terminare il nostro servizio, "
-"l'icona scompare."
+"Se Lei o qualche programma intenzionalmente terminare il nostro servizio, "
+"l'icona scapperà."
 
 #: app/templates/compatibility/default.tpl:153
 msgid ""
@@ -806,7 +805,7 @@ msgid ""
 "please try to disable the use of overlay in app Settings."
 msgstr ""
 "Se il nostro servizio è in esecuzione e non si vede avvisi per numeri "
-"sconosciuti, provare a disattivare l'utilizzo di sovrapposizione nel´ "
+"sconosciuti, provare a disattivare l'utilizzo di sistema overlay nel´ "
 "impostazioni della app ."
 
 #: app/templates/compatibility/default.tpl:155
@@ -822,7 +821,7 @@ msgid ""
 "Check the “Block Rules” settings in your and also be sure you don't have the "
 "calling number stored in phone contacts."
 msgstr ""
-"Controllare le \"Norme di blocco\" e assicurarsi che non si dispone del "
+"Controllare le \"Regole di blocco\" e assicurarsi che non si dispone del "
 "numero di chiamata memorizzato nei contatti del telefono."
 
 #: app/templates/compatibility/default.tpl:160
@@ -831,7 +830,7 @@ msgid ""
 "app killer."
 msgstr ""
 "Si prega di essere sicuri di non è fermata la nostra applicazione da parte "
-"di alcuni ottimizzatore di memoria o di killer application."
+"di alcuni ottimizzatore di memoria o di applicazione estremamente diffusa."
 
 #: app/templates/compatibility/default.tpl:163
 msgid ""
@@ -839,7 +838,7 @@ msgid ""
 "details: phone number which should be blocked and reason why you expect the "
 "blocking action."
 msgstr ""
-"Se il nostro servizio è in esecuzione e non funziona come previsto vi "
+"Se il nostro servizio è in esecuzione e non funziona come previsto Le "
 "preghiamo di inviarci i particolari: il numero di telefono che deve essere "
 "bloccato e la ragione per cui ci si aspetta l'azione di blocco."
 
@@ -867,7 +866,7 @@ msgstr "Avete idea del perché non abbiamo accesso ai contatti?"
 
 #: app/templates/compatibility/default.tpl:174
 msgid "Are your contacts stored in some special way?"
-msgstr "I vostri contatti vengono memorizzati in qualche modo speciale?"
+msgstr "I suoi contatti vengono memorizzati in qualche modo speciale?"
 
 #: app/templates/compatibility/default.tpl:175
 msgid "Are you using some app for contact protection?"
@@ -892,7 +891,7 @@ msgstr ""
 
 #: app/templates/compatibility/default.tpl:184
 msgid "Please select the issue type"
-msgstr "Per favore seleziona il tipo di problema"
+msgstr "Per favore selezioni il tipo di problema"
 
 #: app/templates/compatibility/default.tpl:191
 msgid "Issue description"
@@ -907,43 +906,43 @@ msgid "Please fill the issue description"
 msgstr "Si prega di compilare descrizione del problema"
 
 #: app/templates/compatibility/default.tpl:202
-#: app/templates/phonenumber/defaultModerator.tpl:386
+#: app/templates/phonenumber/defaultModerator.tpl:391
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:385
-#: app/templates/removalrequest/default.tpl:202
+#: app/templates/removalrequest/default.tpl:206
 msgid "Email"
-msgstr "Email"
+msgstr "Posta elettronica"
 
 #: app/templates/compatibility/default.tpl:203
-#: app/templates/removalrequest/default.tpl:203
+#: app/templates/removalrequest/default.tpl:207
 msgid "Please enter your email"
-msgstr "Inserisci la tua email"
+msgstr "Inserisca la sua posta elettronica"
 
 #: app/templates/compatibility/default.tpl:206
-#: app/templates/removalrequest/default.tpl:206
+#: app/templates/removalrequest/default.tpl:210
 msgid "Please enter your valid email"
-msgstr "Inserisci la tua email valida"
+msgstr "Inserisca la sua posta elettronica valida"
 
 #: app/templates/compatibility/default.tpl:212
-#: app/templates/removalrequest/default.tpl:237
+#: app/templates/removalrequest/default.tpl:241
 msgid ""
 "If possible please communicate in English language to speed up the request "
 "processing."
 msgstr ""
-"Se è possibile comunicare in ceco o inglese per accelerare il trattamento "
-"delle domande."
+"Se è possibile comunicare in inglese per accelerare il trattamento delle "
+"domande."
 
 #: app/templates/compatibility/default.tpl:213
-#: app/templates/removalrequest/default.tpl:238
+#: app/templates/removalrequest/default.tpl:242
 msgid ""
 "If you have problems with submitting this form, please contact us to email "
 "<strong>support@shouldianswer.net</strong>."
 msgstr ""
-"Se avete problemi con l'invio di questo modulo, vi preghiamo di contattarci "
+"Se avete problemi con l'invio di questo modulo, Lei preghiamo di contattarci "
 "per e-mail <strong>support@shouldianswer.net</strong>."
 
 #: app/templates/compatibility/default.tpl:217
 msgid "Send Issue Report"
-msgstr "Invia un messaggio circa il problema"
+msgstr "Invii un messaggio circa il problema"
 
 #: app/templates/compatibility/submited.tpl:16
 msgid "Compatibility Issue Received"
@@ -955,7 +954,7 @@ msgstr "Problemi di compatibilità"
 
 #: app/templates/compatibility/submited.tpl:25
 msgid "Your information has been succesfully send to our support team."
-msgstr "I tuoi dati è stato inviato con successo al nostro team di supporto."
+msgstr "I suoi dati è stato inviati con successo al nostro team di supporto."
 
 #: app/templates/compatibility/submited.tpl:26
 msgid "We will try to analyze it as soon as possible."
@@ -972,7 +971,7 @@ msgstr "Contatti"
 
 #: app/templates/contact/default.tpl:17
 msgid "Contact information"
-msgstr "Dati di contatto"
+msgstr "Informazione di contatto"
 
 #: app/templates/contact/default.tpl:22
 msgid "Thank You for using this Service."
@@ -984,9 +983,9 @@ msgid ""
 "<strong>contact@shouldianswer.com</strong>. Your question will be processed "
 "in the shortest time possible."
 msgstr ""
-"Se ci devi contattare, ti preghiamo di inviarci una e-mail al seguente "
-"indirizzo <strong>contact@shouldianswer.net</strong>. La tua richiesta verrà "
-"gestita nel più breve tempo possibile."
+"Se ci deve contattare, Lei preghiamo di inviarci una posta elettronica al "
+"seguente indirizzo <strong>contact@shouldianswer.net</strong>. La sua "
+"richiesta verrà gestita nel più breve tempo possibile."
 
 #: app/templates/default/defaultDefault.tpl:17
 #: app/templates/default/defaultNew.tpl:17
@@ -1008,11 +1007,11 @@ msgstr ""
 #: app/templates/default/defaultDefault.tpl:41
 #: app/templates/default/defaultNewReloaded.tpl:52 app/templates/layout.tpl:291
 #: app/templates/layoutNew.tpl:281 app/templates/layoutNewReloaded.tpl:290
-#: app/templates/phonenumber/defaultDefault.tpl:197
-#: app/templates/phonenumber/defaultDefault.tpl:235
-#: app/templates/phonenumber/defaultDefault.tpl:273
+#: app/templates/phonenumber/defaultDefault.tpl:198
+#: app/templates/phonenumber/defaultDefault.tpl:236
+#: app/templates/phonenumber/defaultDefault.tpl:274
 #: app/templates/phonenumber/defaultNew.tpl:592
-#: app/templates/phonenumber/defaultNewReloaded.tpl:614
+#: app/templates/phonenumber/defaultNewReloaded.tpl:617
 #: app/templates/phonenumber/defaultNext.tpl:682
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:233
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:271
@@ -1026,17 +1025,17 @@ msgstr "Come si bloccano i numeri indesiderati?"
 #: app/templates/default/default_ww.tpl:119 app/templates/layout.tpl:293
 #: app/templates/layoutNew.tpl:283 app/templates/layoutNewReloaded.tpl:292
 #: app/templates/net/default.tpl:58
-#: app/templates/phonenumber/defaultDefault.tpl:211
-#: app/templates/phonenumber/defaultDefault.tpl:249
-#: app/templates/phonenumber/defaultDefault.tpl:278
+#: app/templates/phonenumber/defaultDefault.tpl:212
+#: app/templates/phonenumber/defaultDefault.tpl:250
+#: app/templates/phonenumber/defaultDefault.tpl:279
 #: app/templates/phonenumber/defaultNew.tpl:599
-#: app/templates/phonenumber/defaultNewReloaded.tpl:619
+#: app/templates/phonenumber/defaultNewReloaded.tpl:622
 #: app/templates/phonenumber/defaultNext.tpl:690
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:247
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:285
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:314
 msgid "We have simple solution for you!"
-msgstr "Abbiamo una soluzione semplice per te!"
+msgstr "Abbiamo una soluzione semplice per Lei!"
 
 #: app/templates/default/defaultDefault.tpl:47
 #: app/templates/default/defaultNew.tpl:56
@@ -1044,11 +1043,11 @@ msgstr "Abbiamo una soluzione semplice per te!"
 #: app/templates/default/default_ww.tpl:120 app/templates/layout.tpl:294
 #: app/templates/layoutNew.tpl:284 app/templates/layoutNewReloaded.tpl:293
 #: app/templates/net/default.tpl:59
-#: app/templates/phonenumber/defaultDefault.tpl:211
-#: app/templates/phonenumber/defaultDefault.tpl:249
-#: app/templates/phonenumber/defaultDefault.tpl:279
+#: app/templates/phonenumber/defaultDefault.tpl:212
+#: app/templates/phonenumber/defaultDefault.tpl:250
+#: app/templates/phonenumber/defaultDefault.tpl:280
 #: app/templates/phonenumber/defaultNew.tpl:600
-#: app/templates/phonenumber/defaultNewReloaded.tpl:620
+#: app/templates/phonenumber/defaultNewReloaded.tpl:623
 #: app/templates/phonenumber/defaultNext.tpl:691
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:247
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:285
@@ -1057,7 +1056,7 @@ msgid ""
 "Install our free security application into your mobile phone and stop "
 "unsolicited calls once forever!"
 msgstr ""
-"Installa la nostra applicazione gratuita per la sicurezza sul tuo telefono "
+"Installi la nostra applicazione gratuita per la sicurezza sul suo telefono "
 "cellulare e blocca le telefonate non gradite una volta e per sempre!"
 
 #: app/templates/default/defaultDefault.tpl:55
@@ -1066,11 +1065,11 @@ msgstr ""
 #: app/templates/default/default_ww.tpl:116 app/templates/layout.tpl:303
 #: app/templates/layoutNew.tpl:293 app/templates/layoutNewReloaded.tpl:301
 #: app/templates/layout_default.tpl:52 app/templates/net/default.tpl:55
-#: app/templates/phonenumber/defaultDefault.tpl:222
-#: app/templates/phonenumber/defaultDefault.tpl:260
-#: app/templates/phonenumber/defaultDefault.tpl:287
+#: app/templates/phonenumber/defaultDefault.tpl:223
+#: app/templates/phonenumber/defaultDefault.tpl:261
+#: app/templates/phonenumber/defaultDefault.tpl:288
 #: app/templates/phonenumber/defaultNew.tpl:608
-#: app/templates/phonenumber/defaultNewReloaded.tpl:626
+#: app/templates/phonenumber/defaultNewReloaded.tpl:629
 #: app/templates/phonenumber/defaultNext.tpl:699
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:258
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:296
@@ -1101,17 +1100,17 @@ msgid "Latest rating was"
 msgstr "La più recente valutazione è stata"
 
 #: app/templates/default/defaultDefault.tpl:157
-#: app/templates/phonenumber/defaultDefault.tpl:113
-#: app/templates/phonenumber/defaultDefault.tpl:316
-#: app/templates/phonenumber/defaultModerator.tpl:113
-#: app/templates/phonenumber/defaultModerator.tpl:147
-#: app/templates/phonenumber/defaultModerator.tpl:347
+#: app/templates/phonenumber/defaultDefault.tpl:114
+#: app/templates/phonenumber/defaultDefault.tpl:319
+#: app/templates/phonenumber/defaultModerator.tpl:119
+#: app/templates/phonenumber/defaultModerator.tpl:153
+#: app/templates/phonenumber/defaultModerator.tpl:353
 #: app/templates/phonenumber/defaultNew.tpl:144
 #: app/templates/phonenumber/defaultNew.tpl:181
 #: app/templates/phonenumber/defaultNew.tpl:332
-#: app/templates/phonenumber/defaultNewReloaded.tpl:151
-#: app/templates/phonenumber/defaultNewReloaded.tpl:185
-#: app/templates/phonenumber/defaultNewReloaded.tpl:348
+#: app/templates/phonenumber/defaultNewReloaded.tpl:153
+#: app/templates/phonenumber/defaultNewReloaded.tpl:187
+#: app/templates/phonenumber/defaultNewReloaded.tpl:351
 #: app/templates/phonenumber/defaultNext.tpl:227
 #: app/templates/phonenumber/defaultNext.tpl:264
 #: app/templates/phonenumber/defaultNext.tpl:410
@@ -1121,17 +1120,17 @@ msgid "positive"
 msgstr "positiva"
 
 #: app/templates/default/defaultDefault.tpl:160
-#: app/templates/phonenumber/defaultDefault.tpl:112
-#: app/templates/phonenumber/defaultDefault.tpl:318
-#: app/templates/phonenumber/defaultModerator.tpl:112
-#: app/templates/phonenumber/defaultModerator.tpl:150
-#: app/templates/phonenumber/defaultModerator.tpl:349
+#: app/templates/phonenumber/defaultDefault.tpl:113
+#: app/templates/phonenumber/defaultDefault.tpl:321
+#: app/templates/phonenumber/defaultModerator.tpl:118
+#: app/templates/phonenumber/defaultModerator.tpl:156
+#: app/templates/phonenumber/defaultModerator.tpl:355
 #: app/templates/phonenumber/defaultNew.tpl:143
 #: app/templates/phonenumber/defaultNew.tpl:184
 #: app/templates/phonenumber/defaultNew.tpl:334
-#: app/templates/phonenumber/defaultNewReloaded.tpl:150
-#: app/templates/phonenumber/defaultNewReloaded.tpl:188
-#: app/templates/phonenumber/defaultNewReloaded.tpl:350
+#: app/templates/phonenumber/defaultNewReloaded.tpl:152
+#: app/templates/phonenumber/defaultNewReloaded.tpl:190
+#: app/templates/phonenumber/defaultNewReloaded.tpl:353
 #: app/templates/phonenumber/defaultNext.tpl:226
 #: app/templates/phonenumber/defaultNext.tpl:267
 #: app/templates/phonenumber/defaultNext.tpl:412
@@ -1141,17 +1140,17 @@ msgid "negative"
 msgstr "negativa"
 
 #: app/templates/default/defaultDefault.tpl:163
-#: app/templates/phonenumber/defaultDefault.tpl:111
-#: app/templates/phonenumber/defaultDefault.tpl:317
-#: app/templates/phonenumber/defaultModerator.tpl:111
-#: app/templates/phonenumber/defaultModerator.tpl:153
-#: app/templates/phonenumber/defaultModerator.tpl:348
+#: app/templates/phonenumber/defaultDefault.tpl:112
+#: app/templates/phonenumber/defaultDefault.tpl:320
+#: app/templates/phonenumber/defaultModerator.tpl:117
+#: app/templates/phonenumber/defaultModerator.tpl:159
+#: app/templates/phonenumber/defaultModerator.tpl:354
 #: app/templates/phonenumber/defaultNew.tpl:142
 #: app/templates/phonenumber/defaultNew.tpl:187
 #: app/templates/phonenumber/defaultNew.tpl:333
-#: app/templates/phonenumber/defaultNewReloaded.tpl:149
-#: app/templates/phonenumber/defaultNewReloaded.tpl:191
-#: app/templates/phonenumber/defaultNewReloaded.tpl:349
+#: app/templates/phonenumber/defaultNewReloaded.tpl:151
+#: app/templates/phonenumber/defaultNewReloaded.tpl:193
+#: app/templates/phonenumber/defaultNewReloaded.tpl:352
 #: app/templates/phonenumber/defaultNext.tpl:225
 #: app/templates/phonenumber/defaultNext.tpl:270
 #: app/templates/phonenumber/defaultNext.tpl:411
@@ -1163,7 +1162,7 @@ msgstr "neutra"
 #: app/templates/default/defaultNew.tpl:42
 #: app/templates/default/defaultNewReloaded.tpl:44
 msgid "<strong>Find</strong> who is calling you!"
-msgstr "<strong>Trovare</strong> chi ti sta chiamando!"
+msgstr "<strong>Trovare</strong> chi sta chiamando a Lei!"
 
 #: app/templates/default/defaultNew.tpl:44
 #: app/templates/default/defaultNewReloaded.tpl:46
@@ -1173,8 +1172,8 @@ msgid ""
 "picking it up is a good idea? Search for the number and find out who can be "
 "the caller."
 msgstr ""
-"Qualcuno ti chiama da un numero sconosciuto e non sei sicuro se sia una "
-"buona idea rispondere? Cerca il numero e scopri chi può essere il chiamante."
+"Qualcuno Lei chiama da un numero sconosciuto e non è sicuro se sia una buona "
+"idea rispondere? Cercchi il numero e scopri chi può essere il chiamante."
 
 #: app/templates/default/defaultNew.tpl:49
 msgid "How to <strong>block</strong> unwanted numbers?"
@@ -1237,69 +1236,69 @@ msgstr "Scopri di più"
 #: app/templates/layoutNewReloaded.tpl:209
 #, php-format
 msgid "For phone numbers in your location (%s) use "
-msgstr "Per i numeri di telefono della tua zona (%s) usa"
+msgstr "Per i numeri di telefono della sua zona (%s) usi"
 
 #: app/templates/layout.tpl:192 app/templates/layoutNew.tpl:188
 #: app/templates/layoutNewReloaded.tpl:212
 msgid "Close"
-msgstr "Chiudi"
+msgstr "Chiudere"
 
-#: app/templates/layout.tpl:206 app/templates/layoutAmp.tpl:135
+#: app/templates/layout.tpl:206 app/templates/layoutAmp.tpl:158
 #: app/templates/layoutNew.tpl:203
 #, php-format
 msgid "You are logged as moderator."
-msgstr "Sei stato registrato come moderatore."
+msgstr "È stato registrato come moderatore."
 
 #: app/templates/layout.tpl:225 app/templates/layoutNew.tpl:213
 msgid "Should I <strong>answer?</strong>"
-msgstr "Dovrei <strong>rispondere?</strong>"
+msgstr "Devo <strong>rispondere?</strong>"
 
 #: app/templates/layout.tpl:232 app/templates/layoutNew.tpl:221
 #: app/templates/layoutNewReloaded.tpl:234
 msgid "search for phone number"
-msgstr "cerca numero di telefono"
+msgstr "cercare numero di telefono"
 
 #: app/templates/layout.tpl:237 app/templates/layoutNew.tpl:227
 #: app/templates/layoutNewReloaded.tpl:240
 msgid "search"
-msgstr "cerca"
+msgstr "cerchi"
 
-#: app/templates/layout.tpl:269 app/templates/layoutAmp.tpl:171
+#: app/templates/layout.tpl:269 app/templates/layoutAmp.tpl:194
 #: app/templates/layoutNew.tpl:259 app/templates/layoutNewReloaded.tpl:273
 msgid "about"
 msgstr "chi siamo"
 
-#: app/templates/layout.tpl:270 app/templates/layoutAmp.tpl:172
+#: app/templates/layout.tpl:270 app/templates/layoutAmp.tpl:195
 #: app/templates/layoutNew.tpl:260 app/templates/layoutNewReloaded.tpl:274
 msgid "blog"
 msgstr "blog"
 
-#: app/templates/layout.tpl:271 app/templates/layoutAmp.tpl:173
+#: app/templates/layout.tpl:271 app/templates/layoutAmp.tpl:196
 #: app/templates/layoutNew.tpl:261 app/templates/layoutNewReloaded.tpl:275
 msgid "terms"
 msgstr "condizioni"
 
-#: app/templates/layout.tpl:272 app/templates/layoutAmp.tpl:174
+#: app/templates/layout.tpl:272 app/templates/layoutAmp.tpl:197
 #: app/templates/layoutNew.tpl:262 app/templates/layoutNewReloaded.tpl:276
 msgid "manual"
 msgstr "manuale"
 
-#: app/templates/layout.tpl:273 app/templates/layoutAmp.tpl:175
+#: app/templates/layout.tpl:273 app/templates/layoutAmp.tpl:198
 #: app/templates/layoutNew.tpl:263 app/templates/layoutNewReloaded.tpl:277
 msgid "contact"
 msgstr "contatti"
 
-#: app/templates/layout.tpl:274 app/templates/layoutAmp.tpl:176
+#: app/templates/layout.tpl:274 app/templates/layoutAmp.tpl:199
 #: app/templates/layoutNew.tpl:264 app/templates/layoutNewReloaded.tpl:278
 msgid "history"
 msgstr "archivio"
 
-#: app/templates/layout.tpl:275 app/templates/layoutAmp.tpl:177
+#: app/templates/layout.tpl:275 app/templates/layoutAmp.tpl:200
 #: app/templates/layoutNew.tpl:265 app/templates/layoutNewReloaded.tpl:279
 msgid "shouldianswer.net"
 msgstr "chistachiamando.it"
 
-#: app/templates/layoutAmp.tpl:142 app/templates/layoutAmp.tpl:143
+#: app/templates/layoutAmp.tpl:165 app/templates/layoutAmp.tpl:166
 #: app/templates/layoutNewReloaded.tpl:228
 #: app/templates/layoutNewReloaded.tpl:229
 #: app/templates/layout_mobileapp.tpl:69 app/templates/mobilemanual/8.tpl:538
@@ -1313,14 +1312,14 @@ msgstr "ChiStaChiamando Logo"
 
 #: app/templates/layout_default.tpl:40
 msgid "For Your <strong>Phone</strong>"
-msgstr "Per il tuo <strong>Telefono</strong>"
+msgstr "Per il suo <strong>Telefono</strong>"
 
 #: app/templates/layout_default.tpl:48
 msgid ""
 "Get <strong>free</strong> and <strong>effective</strong> protection against "
 "unwanted calls!"
 msgstr ""
-"Prendi <strong>libero</strong> e <strong>efficace</strong> la protezione "
+"Prenda la protezione <strong>gratuita</strong> e <strong>efficace</strong> "
 "contro le chiamate indesiderate!"
 
 #: app/templates/layout_default_ww.tpl:27
@@ -1333,7 +1332,7 @@ msgstr "Protezione di telefono"
 
 #: app/templates/mobileapp/default.tpl:40
 msgid "Protects you and your loved ones"
-msgstr "E voi e ai vostri cari protegge"
+msgstr "Protegga a Lei e ai suoi cari "
 
 #: app/templates/mobileapp/default.tpl:41
 msgid "Immediate end for all kinds of unsolicited calls"
@@ -1349,7 +1348,7 @@ msgstr "Più livelli di protezione e di facile configurazione"
 
 #: app/templates/mobileapp/default.tpl:48
 msgid "Auto block unwanted calls"
-msgstr "Blocca automaticamente le chiamate indesiderate"
+msgstr "Blocco automático delle chiamate indesiderate"
 
 #: app/templates/mobileapp/default.tpl:49
 msgid "Optional feature for higher protection"
@@ -1357,7 +1356,7 @@ msgstr "Altre possibilità per una maggiore protezione"
 
 #: app/templates/mobileapp/default.tpl:52
 msgid "Allow calls from phone contacts only"
-msgstr "Consenti chiamate solo da contatti personali"
+msgstr "Consenta chiamate solo da contatti personali"
 
 #: app/templates/mobileapp/default.tpl:53
 msgid "Optional feature for maximal protection"
@@ -1378,14 +1377,14 @@ msgstr ""
 
 #: app/templates/mobileapp/default.tpl:70
 msgid "Protect your privacy with our new mobile application."
-msgstr "Proteggi la tua privacy con la nostra nuova applicazione mobile."
+msgstr "Protegga la sua privacy con la nostra nuova applicazione cellulare."
 
 #: app/templates/mobileapp/default.tpl:72
 msgid ""
 "\"Should I Answer\" is free security application for mobiles with Android™ "
 "operting system which can protect you against all kinds of unsolicited calls."
 msgstr ""
-"\"Dovrei rispondere\" è un'applicazione di sicurezza gratuita per telefoni "
+"\"Dovo rispondere\" è un'applicazione di sicurezza gratuita per telefoni "
 "cellulari con Android ™, che è possibile proteggere contro tutti i tipi di "
 "chiamate indesiderate."
 
@@ -1394,7 +1393,7 @@ msgid ""
 "It offers several protection levels - from simple notification to automatic "
 "blocking of unsolicited calls."
 msgstr ""
-"Permette livelli multipli di sicurezza - da semplice notifica al blocco "
+"Permette livelli multipli di sicurezza - da semplice notificazione al blocco "
 "automatico delle chiamate indesiderate."
 
 #: app/templates/mobileapp/default.tpl:88
@@ -1415,11 +1414,11 @@ msgstr ""
 #: app/templates/mobileapp/default.tpl:93
 msgid "This gives you a sufficient time to decide if answer the call or not."
 msgstr ""
-"Questo ti dà abbastanza tempo per decidere se prendere o meno alla chiamata."
+"Questo Le dà abbastanza tempo per decidere se prendere o no alla chiamata."
 
 #: app/templates/mobileapp/default.tpl:99
 msgid "Block the numbers with negative rating"
-msgstr "Bloccare numeri di con la valutazione negativa"
+msgstr "Bloccare numeri con la valutazione negativa"
 
 #: app/templates/mobileapp/default.tpl:101
 msgid ""
@@ -1429,8 +1428,8 @@ msgid ""
 msgstr ""
 "Se si attiva questo livello di protezione, tutte le chiamate in arrivo con "
 "una valutazione negativa verranno inseriti automaticamente nell'area di "
-"notifica, e telefono cellulare visualizza solo un avvertimento sulle "
-"chiamate bloccate."
+"notifica, e telefono cellulare visualizza solo un avviso sulle chiamate "
+"bloccate."
 
 #: app/templates/mobileapp/default.tpl:104
 #: app/templates/mobileapp/default.tpl:115
@@ -1455,14 +1454,14 @@ msgid ""
 msgstr ""
 "Se si attiva questo livello di protezione, tutte le chiamate in arrivo "
 "provenienti da numeri non memorizzati nei contatti sul cellulare verranno "
-"bloccati automaticamente e l'area di notifica verrà visualizzato un breve "
+"bloccati automaticamente nell'area di notifica verrà visualizzato un breve "
 "messaggio sul blocco."
 
 #: app/templates/mobileapp/default.tpl:126
 msgid ""
 "Protect yourself, Your family and your friends against unsolicited calls!"
 msgstr ""
-"Proteggi te stesso, la tua famiglia ei tuoi amici contro chiamate "
+"Protegga a Lei stesso, la sua famiglia ei suoi amici contro chiamate "
 "indesiderate!"
 
 #: app/templates/mobileapp/default.tpl:127
@@ -1476,9 +1475,9 @@ msgid ""
 "relatives do not hesitate and download the application for <strong>free</"
 "strong> to your mobile phone."
 msgstr ""
-"Se avete preso questi livelli di protezione per l'applicazione o per i "
-"vostri cari, sentitevi liberi di scaricare <strong>libero</strong> "
-"applicazione sul tuo cellulare gratis."
+"Se ha preso questi livelli di protezione per l'applicazione o per i suoi "
+"cari, si senta libero di scaricare <strong>gratuitamente</strong> "
+"applicazione sul suo cellulare."
 
 #: app/templates/mobilemanual/8.tpl:18
 msgid "User Manual"
@@ -1504,7 +1503,7 @@ msgstr ""
 "comunità gratuita per telefoni cellulari con sistema operativo Android "
 "progettata per proteggere contro le chiamate indesiderate, tutti i tipi di "
 "telemarketing indesiderato e le chiamate in uscita indesiderati o costosi "
-"come chiamata al numero a pagamento o chiamare in un paese straniero."
+"come chiamata al numero a pagamento o chiamare in paese straniero."
 
 #: app/templates/mobilemanual/8.tpl:155
 msgid "This document describes features and user interface of version 8.x."
@@ -1538,8 +1537,8 @@ msgid ""
 "a>."
 msgstr ""
 "Il metodo di installazione preferito è attraverso il Google Play Store, che "
-"si trova all'interno del vostro dispositivo mobile o via email <a href="
-"\"https://play.google.com/store/apps/details?id=org.mistergroup."
+"si trova all'interno del suo dispositivo cellulare o via posta elettronica "
+"<a href=\"https://play.google.com/store/apps/details?id=org.mistergroup."
 "muzutozvednout\">Google Play web page</a>."
 
 #: app/templates/mobilemanual/8.tpl:168
@@ -1575,7 +1574,7 @@ msgid ""
 "(Alert)."
 msgstr ""
 "Visualizzazione della valutazione delle chiamate in entrata/uscita mediante "
-"notificazione speciale (avvisi)."
+"avvisi speciali."
 
 #: app/templates/mobilemanual/8.tpl:178
 msgid "Displaying after-call information with possibility to write own rating."
@@ -1667,8 +1666,8 @@ msgid ""
 "This section contains the summary of basic protection statistics and "
 "statuses of application components."
 msgstr ""
-"Questa sezione contiene il riepilogo della statisticha della protezione "
-"basale e gli stati dei componenti dell'applicazione."
+"Questa sezione contiene il sommario della statistica della protezione basale "
+"e gli stati dei componenti dell'applicazione."
 
 #: app/templates/mobilemanual/8.tpl:208
 msgid ""
@@ -1700,7 +1699,7 @@ msgstr "Protocolli"
 
 #: app/templates/mobilemanual/8.tpl:216
 msgid "The Logs screen provides you access to 3 types of logs:"
-msgstr "La schermata dei registri prevede il accfesso a 3 tipi di registri:"
+msgstr "Il schermo dei registri prevede il accesso a 3 tipi di registri:"
 
 #: app/templates/mobilemanual/8.tpl:218
 msgid ""
@@ -1728,8 +1727,8 @@ msgstr ""
 "seguente significato:"
 
 #: app/templates/mobilemanual/8.tpl:228
-#: app/templates/phonenumber/defaultDefault.tpl:426
-#: app/templates/phonenumber/defaultModerator.tpl:458
+#: app/templates/phonenumber/defaultDefault.tpl:429
+#: app/templates/phonenumber/defaultModerator.tpl:463
 #: app/templates/phonenumber/defaultNew.tpl:419
 #: app/templates/phonenumber/defaultNext.tpl:497
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:462
@@ -1737,8 +1736,8 @@ msgid "negative rating"
 msgstr "valutazione negativa"
 
 #: app/templates/mobilemanual/8.tpl:229
-#: app/templates/phonenumber/defaultDefault.tpl:430
-#: app/templates/phonenumber/defaultModerator.tpl:462
+#: app/templates/phonenumber/defaultDefault.tpl:433
+#: app/templates/phonenumber/defaultModerator.tpl:467
 #: app/templates/phonenumber/defaultNew.tpl:423
 #: app/templates/phonenumber/defaultNext.tpl:501
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:466
@@ -1746,8 +1745,8 @@ msgid "neutral rating"
 msgstr "valutazione neutra"
 
 #: app/templates/mobilemanual/8.tpl:230
-#: app/templates/phonenumber/defaultDefault.tpl:422
-#: app/templates/phonenumber/defaultModerator.tpl:454
+#: app/templates/phonenumber/defaultDefault.tpl:425
+#: app/templates/phonenumber/defaultModerator.tpl:459
 #: app/templates/phonenumber/defaultNew.tpl:415
 #: app/templates/phonenumber/defaultNext.tpl:493
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:458
@@ -1764,7 +1763,7 @@ msgstr "Un'altra icona informa del tipo di chiamata e l'azione intrapresa."
 
 #: app/templates/mobilemanual/8.tpl:241
 msgid "Successful Incoming Call"
-msgstr "Le chiamate in entrata di successo"
+msgstr "Chiamata in entrata di successo"
 
 #: app/templates/mobilemanual/8.tpl:242
 msgid "Missed Incoming Call"
@@ -1776,7 +1775,7 @@ msgstr "Chiamata in arrivo bloccata"
 
 #: app/templates/mobilemanual/8.tpl:244
 msgid "Successful Outgoing Call"
-msgstr "La chiamata in uscita di successo"
+msgstr "Chiamata in uscita di successo"
 
 #: app/templates/mobilemanual/8.tpl:245
 msgid "Missed Outgoing Call"
@@ -1784,7 +1783,7 @@ msgstr "Chiamata persa in uscita"
 
 #: app/templates/mobilemanual/8.tpl:246
 msgid "Blocked Outgoing Call"
-msgstr "Chiamate in uscita bloccata"
+msgstr "Chiamata in uscita bloccata"
 
 #: app/templates/mobilemanual/8.tpl:251 app/templates/mobilemanual/8.tpl:275
 #: app/templates/mobilemanual/8.tpl:390
@@ -1798,7 +1797,7 @@ msgid ""
 "Rate and download reviews for the number."
 msgstr ""
 "<strong>Cliccando sull numero di telefono:</strong> questa azione apre il "
-"scermo del dettaglio di numero di telefono con informazioni dettagliate ed "
+"schermo del dettaglio di numero di telefono con informazioni dettagliate ed "
 "ulteriori azioni: Chiamare, Bloccare, Valutare e scaricare le recensioni per "
 "il dato numero."
 
@@ -1822,8 +1821,8 @@ msgid ""
 msgstr ""
 "<strong>Cliccando il pulsante di cestino:</strong> cancella il registro "
 "selezionato - in caso di protocollo di sistema risparmio il suo registro "
-"telefefonico non viene toccato, l'azione avrà effetto solo visualizzazione "
-"del registro nell'applicazione."
+"telefonico non viene toccato, l'azione avrà effetto solo visualizzazione del "
+"registro nell'applicazione."
 
 #: app/templates/mobilemanual/8.tpl:262 app/templates/mobilemanual/8.tpl:548
 msgid "Ratings"
@@ -1852,7 +1851,7 @@ msgid ""
 "number rule. Just tick on the line and fill any number or a part of it."
 msgstr ""
 "<Strong>Filtro di valutazione</ strong> : (nella parte superiore dello "
-"schermo) aiuta a filtrare ůe regole di valutazione secondo il numero di "
+"schermo) aiuta a filtrare le regole di valutazione secondo il numero di "
 "telefono. Questo è utile se alla ricerca qualche regola concreta per un "
 "numero specifico. È sufficiente fare clic sulla linea e riempire qualsiasi "
 "numero o la sua parte."
@@ -1864,8 +1863,8 @@ msgid ""
 "rating attributes, delete the rating, save it or cancel the changes."
 msgstr ""
 "<strong>Facendo clic en la sua valutazione:</strong> cliccando su uno delle "
-"sue valutazioni si apre una schermata per l'edizione della data valutazione. "
-"Ci si può impostare gli attributi di valutazione, eliminare la valutaziione, "
+"sue valutazioni si apre un schermo per l'edizione della data valutazione. Ci "
+"si può impostare gli attributi di valutazione, eliminare la valutazione, "
 "salvare o annullare le modifiche."
 
 #: app/templates/mobilemanual/8.tpl:279
@@ -1893,7 +1892,7 @@ msgstr ""
 #: app/templates/mobilemanual/8.tpl:288
 msgid "In this screen you can configure the Alerts displaying."
 msgstr ""
-"In questa schermata è possibile configurare la  visualizzazione degli avvisi."
+"In questo schermo è possibile configurare la  visualizzazione degli avvisi."
 
 #: app/templates/mobilemanual/8.tpl:289
 msgid "This setting here is done based on the phone number rating."
@@ -1923,8 +1922,8 @@ msgid ""
 "disable the usage of system overlays - this will cause the displaying of "
 "alert in another fashion which can work better on your device."
 msgstr ""
-"Se ha problemi di visualizzazione degli annunci si può provare che vieta "
-"l'uso di finestre sovrapposte si sistema  overlay - questo farà che li "
+"Se ha problemi di visualizzazione degli avvisi si può provare che vieta "
+"l'uso di finestre sovrapposte di sistema  overlay - questo farà che li "
 "avvisi saranno dimostrati in un altro modo che funzionerà meglio sul "
 "dispositivo."
 
@@ -1947,8 +1946,8 @@ msgid ""
 "application."
 msgstr ""
 "Ricordate che in schermo <strong> Valutazioni</ strong> si imposta come "
-"valutare i numeri - ora, questa impostazione verrà utilizzata per bloccare "
-"le funzionalità dell'applicazione."
+"valutare i numeri - ora questa impostazione verrà utilizzata per bloccare le "
+"funzionalità dell'applicazione."
 
 #: app/templates/mobilemanual/8.tpl:304
 msgid ""
@@ -1956,18 +1955,25 @@ msgid ""
 "blocked. If you do'nt want to block numbers according to community database "
 "rating, then check the second option"
 msgstr ""
+"Nelle prime due opzioni è possibile controllare quali numeri di telefono non "
+"verranno MAI bloccati. Se non vuole bloccare numeri a secondo di valutazione "
+"di base di dati di comunità, quindi selezioni la seconda opzione."
 
 #: app/templates/mobilemanual/8.tpl:305
 msgid ""
 "For incoming calls you can block negative rated numbers, hidden numbers and "
 "all numbers."
 msgstr ""
+"Per le chiamate in arrivo è possibile bloccare i numeri valutati come "
+"negativi, i numeri nascosti e tutti i numeri."
 
 #: app/templates/mobilemanual/8.tpl:306
 msgid ""
 "For outgoing calls you can block negative rated numbers, premium numbers, "
 "foreign numbers and all numbers."
 msgstr ""
+"Per le chiamate in uscita  è possibile bloccare i numeri valutati come "
+"negativi, i numeri nascosti e tutti i numeri."
 
 #: app/templates/mobilemanual/8.tpl:307
 msgid ""
@@ -1975,6 +1981,9 @@ msgid ""
 "functionality, a compatible SMS manager must be installed, please read the "
 "help screen displayed if you check this item."
 msgstr ""
+"Per gli SMS e MMS  in arrivo  è possibile bloccare SMS e MMS. Per questa "
+"funzionalità, un SMS manager compatibile deve essere installato, si prega di "
+"leggere il schermo di aiuto visualizzato se elegge questa entrata."
 
 #: app/templates/mobilemanual/8.tpl:308
 msgid ""
@@ -1999,7 +2008,7 @@ msgid ""
 "the incoming calls."
 msgstr ""
 "Opzionalmente si può provare a usare <strong> il metodo di cattura e "
-"appendere </ strong> per proteggere la vostra casella vocale. Selezionando "
+"appendere </ strong> per proteggere la sua casella vocale. Selezionando "
 "questa funzione, l'applicazione blocca la chiamata in arrivo rispondendo "
 "alla chiamata e uscire allo stesso tempo. Applicazione non prenderà la "
 "chiamata se il telefono è in modalità roaming. Utilizzare questa funzione "
@@ -2031,7 +2040,7 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:327
 msgid "Send anonymous stats about incoming calls"
-msgstr "Invia statistiche anonime circa le chiamate in arrivo"
+msgstr "Invii statistiche anonime circa le chiamate in arrivo"
 
 #: app/templates/mobilemanual/8.tpl:329
 msgid ""
@@ -2040,10 +2049,10 @@ msgid ""
 "this means that only the number is send, without any further info, no "
 "personal data are never transferred from your mobile phone."
 msgstr ""
-"Se la si seleziona \"Invia statistiche anonime chiamate in arrivo\", "
+"Se la si seleziona \"Inviare statistiche anonime chiamate in arrivo\", "
 "l'utente ci dà la possibilità di inviare i numeri SCONOSCIUTI in arrivo al "
 "server - questo significa che solo il numero è inviare, senza ulteriori "
-"informazioni, i dati personali non vengono mai trasferiti da il tuo "
+"informazioni, i dati personali non vengono mai trasferiti da il suo "
 "cellulare."
 
 #: app/templates/mobilemanual/8.tpl:330
@@ -2052,7 +2061,7 @@ msgid ""
 "your Phone Contacts!"
 msgstr ""
 "Privacy è importante per noi, quindi non invia statistiche circa i numeri "
-"memorizzati nell contatti del suo cellulare!"
+"memorizzati en contatti del suo cellulare!"
 
 #: app/templates/mobilemanual/8.tpl:331
 msgid "Only unknown numbers are sent if this option is checked."
@@ -2070,7 +2079,7 @@ msgstr ""
 "da diverse fonti - dopo allora la nostra squadra li verifica e se stesso "
 "numero imprecisato chiama più persone, abbiamo scavare alcune informazioni "
 "per esso e creare revisione con valutazione, che saranno memorizzati in "
-"seguito nel database locale ."
+"seguito nella base di dati locale ."
 
 #: app/templates/mobilemanual/8.tpl:335
 msgid "Download reviews automatically"
@@ -2083,7 +2092,7 @@ msgid ""
 "displayed during the phone ringing phase - otherwise only global rating of "
 "the number is shown."
 msgstr ""
-"Se i \"Scarica automaticamente opinioni\" è selezionato e il cellulare è "
+"Se i \"Scarica automaticamente recensioni\" è selezionato e il cellulare è "
 "collegato a internet, le recensioni degli utenti per il numero chiamato "
 "vengono visualizzate durante il telefono squilla - altrimenti solo "
 "valutazione globale del numero viene visualizzata."
@@ -2099,12 +2108,12 @@ msgstr ""
 "Se questa opzione è selezionata, ma il telefono è collegato a Internet, le "
 "recensioni degli utenti possono anche essere scaricati manualmente durante "
 "squillo (l'utente può decidere se vuole leggere le informazioni sulla "
-"questione prima di sollevare, o si accontenta di una valutazione globale, "
+"questione prima di rispondere, o si accontenta di una valutazione globale, "
 "che vengono visualizzati automaticamente per ogni chiamata in arrivo)."
 
 #: app/templates/mobilemanual/8.tpl:341
 msgid "Service as Foreground Process"
-msgstr "Servizio come processo in primo piano"
+msgstr "Servizio come processo sulla priorità"
 
 #: app/templates/mobilemanual/8.tpl:343
 msgid ""
@@ -2115,9 +2124,8 @@ msgid ""
 msgstr ""
 "L'attivazione di questa funzione potrà accelerare il blocco delle chiamate "
 "indesiderate - applicazione continuerà a funzionare in memoria attiva. Come "
-"effetto collaterale che si vede costantemente l'icona dell'applicazione "
-"nella barra di stato e la notificazione di dimostrare la protezione "
-"abilitata."
+"effetto collaterale si vedrà permanentemente l'icona dell' App. nella barra "
+"di stato e la notifica di protezione attivata."
 
 #: app/templates/mobilemanual/8.tpl:344
 msgid ""
@@ -2158,7 +2166,7 @@ msgid ""
 "There are two layout themes - light and dark. This item serves as a switch "
 "for them."
 msgstr ""
-"Ci sono due temi di formato - chiaro e scuri. Questo elemento funge da un "
+"Ci sono due temi di formato - chiaro e scuro. Questo elemento funge da un "
 "interruttore per loro."
 
 #: app/templates/mobilemanual/8.tpl:356
@@ -2188,9 +2196,9 @@ msgid ""
 "against our database. Without this permission we can't find out who is "
 "calling you."
 msgstr ""
-"Quando qualcuno ti chiama, l'applicazione controlla il numero di telefono "
-"appropriato rispetto al nostro database. Senza questa autorizzazione, non "
-"siamo in grado di scoprire chi ti sta chiamando."
+"Quando qualcuno Le chiama, l'applicazione controlla il numero di telefono "
+"appropriato rispetto alla nostra base di dati. Senza questa autorizzazione, "
+"non siamo in grado di scoprire chi ti sta chiamando."
 
 #: app/templates/mobilemanual/8.tpl:369
 msgid "Read Contacts"
@@ -2201,9 +2209,9 @@ msgid ""
 "As written above, we take your stored contacts as your whitelist. Without "
 "this permission we don't know what phone numbers you consider to be safe."
 msgstr ""
-"Come scritto sopra, prendiamo ad esempio il tuo contatti whitelist salvati "
-"(elenco dei numeri autorizzati). Senza questa autorizzazione, non sappiamo "
-"che i numeri di telefono sono considerati sicuri."
+"Come scritto sopra, prendiamo ad esempio il suo contatti salvati come lista "
+"bianca (elenco dei numeri autorizzati). Senza questa autorizzazione, non "
+"sappiamo che i numeri di telefono sono considerati sicuri."
 
 #: app/templates/mobilemanual/8.tpl:373
 msgid "Allow System Overlays"
@@ -2214,8 +2222,8 @@ msgid ""
 "The application shows alerts in foreground of incoming call screen. Without "
 "this permission we can't make the alerts fully interactive."
 msgstr ""
-"Questa applicazione visualizza una schermata di avviso di fronte a una "
-"chiamata in arrivo. Senza questa nota non essere completamente interattivo."
+"Questa applicazione visualizza un schermo di avviso di fronte a una chiamata "
+"in arrivo. Senza questa nota non essere completamente interattivo."
 
 #: app/templates/mobilemanual/8.tpl:382 app/templates/mobilemanual/8.tpl:553
 msgid "Phone Number Details"
@@ -2224,7 +2232,7 @@ msgstr "Dettagli sul numero di telefono"
 #: app/templates/mobilemanual/8.tpl:384
 msgid "This screen shows detailed information for selected phone number."
 msgstr ""
-"Questa schermata mostra informazioni dettagliate per numero di telefono "
+"Questo schermo mostra informazioni dettagliate per numero di telefono "
 "selezionato."
 
 #: app/templates/mobilemanual/8.tpl:385
@@ -2236,7 +2244,7 @@ msgstr ""
 "Qui troverete valutazione complessiva di numeri sotto forma di valutazioni "
 "positive / negative / neutre e le categorie generalmente utilizzate per quel "
 "numero (queste informazioni sono memorizzate in una base di dati offline sul "
-"tuo cellulare)."
+"suo cellulare)."
 
 #: app/templates/mobilemanual/8.tpl:386
 msgid ""
@@ -2273,11 +2281,11 @@ msgid ""
 "is presented, it is displayed automatically (all of them are stored in your "
 "phone) and EDIT button is presented for further edit of the your review."
 msgstr ""
-"<strong>Recensioni</strong> carica e mostra le recensioni di comunità per "
-"questo numero. Questa funzione richiede l'accesso a intenet. Se viene "
+"<strong>Recensioni</strong> scaricare e mostrare le recensioni di comunità "
+"per questo numero. Questa funzione richiede l'accesso a internet. Se viene "
 "presentato la propia valutazione (personale), viene visualizzata "
 "automaticamente (tutte loro vengono memorizzati nel suo cellulare) e col "
-"pulsante Editare per altre modificzioni della sua valutazione."
+"pulsante Editare per altre modificazioni della sua valutazione."
 
 #: app/templates/mobilemanual/8.tpl:395
 msgid "<strong>Call Button Click</strong> initiates calling to the number."
@@ -2297,8 +2305,8 @@ msgstr "Numero individuale o un gruppo di numeri"
 msgid ""
 "Phone Number Rating can be defined for single number or for group of numbers."
 msgstr ""
-"Valutzione di numero di telefono può essere definita per un singolo numero o "
-"un gruppo di numeri."
+"Valutazione di numero di telefono può essere definita per un numero singolo "
+"o un gruppo di numeri."
 
 #: app/templates/mobilemanual/8.tpl:405
 msgid "Group can be defined using * char at the end of the number."
@@ -2328,7 +2336,7 @@ msgid ""
 "By default the rating is submitted to our community database for benefit of "
 "other users."
 msgstr ""
-"Per impostazione predefinita, le valautazioni sono sempre inviate al nostra "
+"Per impostazione predefinita, le valutazioni sono sempre inviate alla nostra "
 "base di dati di comunità  da questo gli altri utenti possono avere benefizio."
 
 #: app/templates/mobilemanual/8.tpl:413
@@ -2338,8 +2346,8 @@ msgid ""
 "will be stored in your mobile only."
 msgstr ""
 "Se non volete rendere pubblica la valutazione per il dato numero, selezioni "
-"questa opzione per evitare di inviare al nostro database - in tal caso la "
-"valutazione verrà archiviata solo nel suo telefonino."
+"questa opzione per evitare di inviare alla nostra base di dati - in tal caso "
+"la valutazione verrà archiviata solo nel suo telefonino."
 
 #: app/templates/mobilemanual/8.tpl:419 app/templates/mobilemanual/8.tpl:555
 msgid "Rating Alert"
@@ -2388,7 +2396,7 @@ msgid ""
 "<strong>Community</strong> shows the total statistic counts of positive,"
 "neutral and negative ratings from the community"
 msgstr ""
-"<strong>Comunità</strong> mostra il numero di statistica completo di "
+"<strong>Comunità</strong> mostra il numero di statistica totale di "
 "valutazioni positive, neutre e negative della base di dati comunitaria."
 
 #: app/templates/mobilemanual/8.tpl:435
@@ -2407,17 +2415,16 @@ msgid ""
 "prepared automatically with pre-filled information about your app "
 "configuration."
 msgstr ""
-"Se avete bisogno di contattarci, utilizzare l'indirizzo email fornito. "
-"Facendo clic sull' <strong>indirizzo email</strong> si aprirà una schermata "
-"in cui è possibile selezionare alcuni client di posta elettronica. Dopo "
-"questa azione un'e-mail al nostro supporto sarà preparata automaticamente "
-"con preriempite informazioni sulla configurazione dell'applicazione."
+"Se avete bisogno di contattarci, utilizzi l'indirizzo email fornito. Facendo "
+"clic sull' <strong>indirizzo email</strong> si aprirà un schermo in cui è "
+"possibile selezionare alcuni client di posta elettronica. Dopo questa azione "
+"un'e-mail al nostro supporto sarà preparata automaticamente con preriempite "
+"informazioni sulla configurazione dell'applicazione."
 
 #: app/templates/mobilemanual/8.tpl:438
-msgid "strong>Online Manual</strong> opens the internet page with this manual."
+msgid ""
+"<strong>Online Manual</strong> opens the internet page with this manual."
 msgstr ""
-"<strong> Manuale per l'applicazione </ strong> si apre una pagina web con "
-"questo manuale."
 
 #: app/templates/mobilemanual/8.tpl:439
 msgid ""
@@ -2429,16 +2436,14 @@ msgstr ""
 "<strong> Verificazione di compatibilità </ strong>controlli le impostazioni "
 "e trovi i problemi noti. Più tardi un sito web col risultato di controllo si "
 "aprirà. Anche su questo sito è predisposto un formulario per segnalare il "
-"problema al nostro staff tecnico - si prega di usarlo per segnalare "
-"eventuali problemi con l'applicazione."
+"problema alla nostra attenzione al cliente tecnica - si prega di usarlo per "
+"segnalare eventuali problemi con l'applicazione."
 
 #: app/templates/mobilemanual/8.tpl:440
 msgid ""
-"strong>Terms of Use</strong> opens the internet page with terms of use of "
+"<strong>Terms of Use</strong> opens the internet page with terms of use of "
 "this product."
 msgstr ""
-"<Strong> Condizioni di utilizzo </ strong> per aprire una pagina web con le "
-"condizioni di utilizzo di questo prodotto."
 
 #: app/templates/mobilemanual/8.tpl:441
 msgid ""
@@ -2455,7 +2460,7 @@ msgid ""
 "another device in a form of backup and restore. A simple wizard for this "
 "functionality is provided."
 msgstr ""
-"<strong>Esportazione / Importazione</strong> mostra la schermata per "
+"<strong>Esportazione / Importazione</strong> mostra il schermo per "
 "l'esportazione e l'importazione di dati: tutte le impostazioni di "
 "applicazione possono essere memorizzate e utilizzate più tardi / su un altro "
 "dispositivo in una forma di backup e ripristino. Una semplice procedura "
@@ -2467,7 +2472,7 @@ msgstr "Domande frequenti"
 
 #: app/templates/mobilemanual/8.tpl:451
 msgid "Q: How to block phone number?"
-msgstr "D: come bloccare numero di telefono?"
+msgstr "D: Come bloccare numero di telefono?"
 
 #: app/templates/mobilemanual/8.tpl:453
 msgid ""
@@ -2479,7 +2484,7 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:456
 msgid "Q: Why blocking does not work for me?"
-msgstr "D: perché il blocco non funziona per me?"
+msgstr "D: Perché il blocco non funziona per me?"
 
 #: app/templates/mobilemanual/8.tpl:458
 msgid "Unfortunately there are some phone models where blocking does not work."
@@ -2531,10 +2536,10 @@ msgstr ""
 "applicazioni native per iPhone."
 
 #: app/templates/mobilemanual/8.tpl:472
-#: app/templates/removalrequest/default.tpl:239
+#: app/templates/removalrequest/default.tpl:243
 #: app/templates/termsapp/default.tpl:17
 msgid "Terms Of Use"
-msgstr "Termini di Utilizzo"
+msgstr "Condizioni di Utilizzo"
 
 #: app/templates/mobilemanual/8.tpl:488 app/templates/mobilemanual/8.tpl:560
 #: app/templates/privacyapp/default.tpl:17
@@ -2602,8 +2607,8 @@ msgid ""
 "This can't be done without your permission, so Permission dialog is "
 "displayed before start of reviews download."
 msgstr ""
-"Esso non può essere fatto senza il tuo permesso, in modo che la finestra di "
-"dialogo di permesoo si visualizzerà prima iniziare a scaricare i dati"
+"Esso non può essere fatto senza il suo permesso, in modo che la finestra di "
+"dialogo di permesso si visualizzerà prima di iniziare a scaricare i dati"
 
 #: app/templates/mobilemanual/8.tpl:511
 msgid "Submitting of own phone number review"
@@ -2650,7 +2655,7 @@ msgstr ""
 #: app/templates/mobilemanual/8.tpl:520
 msgid "Please read privacy policy of our web service for detailed information."
 msgstr ""
-"Si prega di leggere le informazioni dettagliate sulle politiche di privacy "
+"Si prega di leggere le informazioni dettagliate sulla politica di privacy "
 "dei nostri servizi web."
 
 #: app/templates/mobilemanual/8.tpl:522
@@ -2675,7 +2680,7 @@ msgid ""
 "write to us by email to <a href=\"mailto:support@shouldianswer.net"
 "\">support@shouldianswer.net</a>"
 msgstr ""
-"Se avete qualsiasi domanda sui nostri prodotti, termini o norme sulla "
+"Se avete qualsiasi domanda sui nostri prodotti, condizioni o regole sulla "
 "privacy, si prega di scrivere a noi via email a <a href=\"mailto:"
 "support@shouldianswer.net\">support@shouldianswer.net</a>"
 
@@ -2689,7 +2694,7 @@ msgstr "Come funziona"
 
 #: app/templates/mobilemanual/8.tpl:559 app/templates/terms/default.tpl:17
 msgid "Terms of Use"
-msgstr "Termini di Utilizzo"
+msgstr "Condizioni di Utilizzo"
 
 #: app/templates/phonenumber/accessLimited.tpl:16
 #: app/templates/phonenumber/accessLimited.tpl:22
@@ -2705,7 +2710,7 @@ msgstr ""
 "prova un altro numero, abbiamo una base di dati enorme. Grazie!"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:23
-#: app/templates/phonenumber/defaultDefault.tpl:21
+#: app/templates/phonenumber/defaultDefault.tpl:22
 #: app/templates/phonenumber/defaultModerator.tpl:21
 #: app/templates/phonenumber/defaultNew.tpl:21
 #: app/templates/phonenumber/defaultNewReloaded.tpl:21
@@ -2713,10 +2718,10 @@ msgstr ""
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:26
 #, php-format
 msgid "Who called you from %s ?"
-msgstr "Chi ti ha chiamato da %s ?"
+msgstr "Chi Le ha chiamato da %s ?"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:24
-#: app/templates/phonenumber/defaultDefault.tpl:23
+#: app/templates/phonenumber/defaultDefault.tpl:24
 #: app/templates/phonenumber/defaultModerator.tpl:22
 #: app/templates/phonenumber/defaultNew.tpl:22
 #: app/templates/phonenumber/defaultNewReloaded.tpl:22
@@ -2727,18 +2732,18 @@ msgid ""
 "We have information about phone number %s. Visit us to find who called you "
 "and read users reviews."
 msgstr ""
-"Abbiamo informazioni relative al numero %s. Visitaci per scoprire chi ti ha "
+"Abbiamo informazioni relative al numero %s. Ci visiti per scoprire chi Le ha "
 "chiamato e per leggere le recensioni degli utenti."
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:54
-#: app/templates/phonenumber/defaultDefault.tpl:101
-#: app/templates/phonenumber/defaultModerator.tpl:87
+#: app/templates/phonenumber/defaultDefault.tpl:102
+#: app/templates/phonenumber/defaultModerator.tpl:93
 #: app/templates/phonenumber/defaultNew.tpl:132
 #: app/templates/phonenumber/defaultNewReloaded.tpl:139
 #: app/templates/phonenumber/defaultNext.tpl:216
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:63
 msgid "Who called you from "
-msgstr "Chi ti ha chiamato da"
+msgstr "Chi Le ha chiamato da"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:59
 msgid "Dear users,"
@@ -2764,35 +2769,35 @@ msgid ""
 "If you have any important information for this number that can be helpful, "
 "please send it via email to <strong>contact@shouldianswer.net</strong>."
 msgstr ""
-"Se avete informazioni relative a questa voce, vi preghiamo di contattarci "
+"Se avete informazioni relative a questo numero, Lei preghiamo di contattarci "
 "all'indirizzo e-mail <strong>contact@shouldianswer.net</strong>."
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:67
 msgid "Thank you for your support!"
-msgstr "Grazie per il tuo supporto!"
+msgstr "Grazie per il suo supporto!"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:68
 msgid "ShouldIAnswer Team"
 msgstr "Squadra di Chistachiamando"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:76
-#: app/templates/phonenumber/defaultDefault.tpl:629
+#: app/templates/phonenumber/defaultDefault.tpl:632
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:628
 #, php-format
 msgid "Possible <strong>formats</strong> of the  %s"
 msgstr "Formati <strong>possibili</strong> di %s"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:95
-#: app/templates/phonenumber/defaultDefault.tpl:652
-#: app/templates/phonenumber/defaultModerator.tpl:631
+#: app/templates/phonenumber/defaultDefault.tpl:655
+#: app/templates/phonenumber/defaultModerator.tpl:636
 #: app/templates/phonenumber/defaultNew.tpl:628
-#: app/templates/phonenumber/defaultNewReloaded.tpl:645
+#: app/templates/phonenumber/defaultNewReloaded.tpl:648
 #: app/templates/phonenumber/defaultNext.tpl:720
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:647
 msgid "<strong>Searching</strong> for similar phone numbers?"
 msgstr "<strong>Stai cercando</strong> numeri di telefono simili?"
 
-#: app/templates/phonenumber/defaultDefault.tpl:30
+#: app/templates/phonenumber/defaultDefault.tpl:31
 #: app/templates/phonenumber/defaultNew.tpl:29
 #: app/templates/phonenumber/defaultNewReloaded.tpl:29
 #: app/templates/phonenumber/defaultNext.tpl:29
@@ -2800,27 +2805,27 @@ msgstr "<strong>Stai cercando</strong> numeri di telefono simili?"
 msgid "We have details about phone number %s. "
 msgstr "Abbiamo dettagli sul numero di telefono %s."
 
-#: app/templates/phonenumber/defaultDefault.tpl:98
+#: app/templates/phonenumber/defaultDefault.tpl:99
 msgid "Actualization"
 msgstr "Attualizzazione"
 
-#: app/templates/phonenumber/defaultDefault.tpl:137
+#: app/templates/phonenumber/defaultDefault.tpl:138
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:92
 msgid "Details"
 msgstr "Dettagli"
 
-#: app/templates/phonenumber/defaultDefault.tpl:143
+#: app/templates/phonenumber/defaultDefault.tpl:144
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:98
 msgid "You rating can help the others to be informed about this number."
 msgstr ""
-"La tua valutazione può aiutare gli altri ad avere informazioni su questo "
+"La sua valutazione può aiutare gli altri ad avere informazioni su questo "
 "numero."
 
-#: app/templates/phonenumber/defaultDefault.tpl:195
-#: app/templates/phonenumber/defaultDefault.tpl:233
-#: app/templates/phonenumber/defaultDefault.tpl:271
+#: app/templates/phonenumber/defaultDefault.tpl:196
+#: app/templates/phonenumber/defaultDefault.tpl:234
+#: app/templates/phonenumber/defaultDefault.tpl:272
 #: app/templates/phonenumber/defaultNew.tpl:592
-#: app/templates/phonenumber/defaultNewReloaded.tpl:614
+#: app/templates/phonenumber/defaultNewReloaded.tpl:617
 #: app/templates/phonenumber/defaultNext.tpl:680
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:231
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:269
@@ -2828,7 +2833,7 @@ msgstr ""
 msgid "How to block this number?"
 msgstr "Come si blocca questo numero?"
 
-#: app/templates/phonenumber/defaultDefault.tpl:206
+#: app/templates/phonenumber/defaultDefault.tpl:207
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:242
 msgid ""
 "<strong>Bothered</strong> by telemarketing calls? <strong>Not answering</"
@@ -2840,7 +2845,7 @@ msgstr ""
 "applicazione e essere informato chi sta chiamando - <strong>gratuitamente</"
 "strong>!"
 
-#: app/templates/phonenumber/defaultDefault.tpl:207
+#: app/templates/phonenumber/defaultDefault.tpl:208
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:243
 msgid ""
 "Avoid unsolicited calls. <strong>Don't waste time</strong> with marketing "
@@ -2848,10 +2853,10 @@ msgid ""
 "informed who is calling - <strong>for free</strong>!"
 msgstr ""
 "Evitare chiamate indesiderate. <strong>Non perdere tempo</strong> con le "
-"chiamate di marketing. Con i nostri <strong>apps</strong> sarà sempre essere "
-"informato su chi sta chiamando - <strong>libero</strong>"
+"chiamate di marketing. Con la nostra <strong>app</strong> sarà sempre essere "
+"informato su chi sta chiamando - <strong>gratuitamente</strong>"
 
-#: app/templates/phonenumber/defaultDefault.tpl:208
+#: app/templates/phonenumber/defaultDefault.tpl:209
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:244
 msgid ""
 "<strong>Avoid</strong> unsolicited <strong>calls</strong>! With this "
@@ -2862,7 +2867,7 @@ msgstr ""
 "<strong>applicazione</strong> non mancherà di tenere traccia di chi sta "
 "chiamando - <strong>libero</strong>!"
 
-#: app/templates/phonenumber/defaultDefault.tpl:209
+#: app/templates/phonenumber/defaultDefault.tpl:210
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:245
 msgid ""
 "Never receive <strong>unwanted call</strong> from telemarketing company. "
@@ -2870,95 +2875,95 @@ msgid ""
 "<strong>informed who is calling!</strong>"
 msgstr ""
 "Non accedere a <strong>chiamata non richiesta</strong> da società di "
-"telemarketing. Con i nostri <strong>applicazioni gratuite</strong> sarà "
-"sempre <strong>a conoscenza che sta chiamando!</strong>"
+"telemarketing. Con la nostra <strong>applicazione gratuita</strong> sarà "
+"sempre <strong> informato che sta chiamando!</strong>"
 
-#: app/templates/phonenumber/defaultDefault.tpl:210
+#: app/templates/phonenumber/defaultDefault.tpl:211
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:246
 msgid ""
 "Want to <strong>avoid unsolicited calls</strong>? Download our <strong>free "
 "application</strong>!"
 msgstr ""
-"Vuoi <strong>Evitare chiamate indesiderate</strong>? Scarica la nostra "
+"Vuole <strong>Evitare chiamate indesiderate</strong>? Scarichi la nostra "
 "<strong>applicazione gratuita</strong>!"
 
-#: app/templates/phonenumber/defaultDefault.tpl:297
-#: app/templates/phonenumber/defaultModerator.tpl:328
+#: app/templates/phonenumber/defaultDefault.tpl:300
+#: app/templates/phonenumber/defaultModerator.tpl:334
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:333
 msgid "Add Your <strong>rating</strong>"
-msgstr "Aggiungi la tua<strong>valutazione</strong>"
+msgstr "Aggiunga la sua<strong>valutazione</strong>"
 
-#: app/templates/phonenumber/defaultDefault.tpl:300
-#: app/templates/phonenumber/defaultModerator.tpl:331
+#: app/templates/phonenumber/defaultDefault.tpl:303
+#: app/templates/phonenumber/defaultModerator.tpl:337
 #: app/templates/phonenumber/defaultNew.tpl:316
-#: app/templates/phonenumber/defaultNewReloaded.tpl:333
+#: app/templates/phonenumber/defaultNewReloaded.tpl:336
 #: app/templates/phonenumber/defaultNext.tpl:395
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:336
 msgid "click here to show rating form"
 msgstr "Clicca qui per mostrare il modulo di valutazione"
 
-#: app/templates/phonenumber/defaultDefault.tpl:313
-#: app/templates/phonenumber/defaultModerator.tpl:344
+#: app/templates/phonenumber/defaultDefault.tpl:316
+#: app/templates/phonenumber/defaultModerator.tpl:350
 #: app/templates/phonenumber/defaultNew.tpl:329
-#: app/templates/phonenumber/defaultNewReloaded.tpl:345
+#: app/templates/phonenumber/defaultNewReloaded.tpl:348
 #: app/templates/phonenumber/defaultNext.tpl:407
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:349
 msgid "Rating"
 msgstr "Valutazione"
 
-#: app/templates/phonenumber/defaultDefault.tpl:315
-#: app/templates/phonenumber/defaultModerator.tpl:346
+#: app/templates/phonenumber/defaultDefault.tpl:318
+#: app/templates/phonenumber/defaultModerator.tpl:352
 #: app/templates/phonenumber/defaultNew.tpl:331
-#: app/templates/phonenumber/defaultNewReloaded.tpl:347
+#: app/templates/phonenumber/defaultNewReloaded.tpl:350
 #: app/templates/phonenumber/defaultNext.tpl:409
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:351
 msgid "select rating"
-msgstr "invia valutazione"
+msgstr "invii valutazione"
 
-#: app/templates/phonenumber/defaultDefault.tpl:321
-#: app/templates/phonenumber/defaultModerator.tpl:352
+#: app/templates/phonenumber/defaultDefault.tpl:324
+#: app/templates/phonenumber/defaultModerator.tpl:358
 #: app/templates/phonenumber/defaultNew.tpl:337
-#: app/templates/phonenumber/defaultNewReloaded.tpl:353
+#: app/templates/phonenumber/defaultNewReloaded.tpl:356
 #: app/templates/phonenumber/defaultNext.tpl:415
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:357
 msgid "Please select rating!"
 msgstr "Si prega di selezionare una valutazione!"
 
-#: app/templates/phonenumber/defaultDefault.tpl:327
-#: app/templates/phonenumber/defaultModerator.tpl:358
+#: app/templates/phonenumber/defaultDefault.tpl:330
+#: app/templates/phonenumber/defaultModerator.tpl:364
 #: app/templates/phonenumber/defaultNew.tpl:343
-#: app/templates/phonenumber/defaultNewReloaded.tpl:359
+#: app/templates/phonenumber/defaultNewReloaded.tpl:362
 #: app/templates/phonenumber/defaultNext.tpl:421
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:363
 msgid "Category"
 msgstr "Categoria"
 
-#: app/templates/phonenumber/defaultDefault.tpl:329
-#: app/templates/phonenumber/defaultModerator.tpl:360
+#: app/templates/phonenumber/defaultDefault.tpl:332
+#: app/templates/phonenumber/defaultModerator.tpl:366
 #: app/templates/phonenumber/defaultNew.tpl:345
-#: app/templates/phonenumber/defaultNewReloaded.tpl:361
+#: app/templates/phonenumber/defaultNewReloaded.tpl:364
 #: app/templates/phonenumber/defaultNext.tpl:423
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:365
 msgid "select category"
 msgstr "Seseleziona una categoria!"
 
-#: app/templates/phonenumber/defaultDefault.tpl:339
-#: app/templates/phonenumber/defaultModerator.tpl:370
+#: app/templates/phonenumber/defaultDefault.tpl:342
+#: app/templates/phonenumber/defaultModerator.tpl:376
 #: app/templates/phonenumber/defaultNew.tpl:355
-#: app/templates/phonenumber/defaultNewReloaded.tpl:371
+#: app/templates/phonenumber/defaultNewReloaded.tpl:374
 #: app/templates/phonenumber/defaultNext.tpl:433
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:375
 msgid "Please select category!"
 msgstr "Seleziona categoria!"
 
-#: app/templates/phonenumber/defaultDefault.tpl:347
-#: app/templates/phonenumber/defaultDefault.tpl:702
-#: app/templates/phonenumber/defaultModerator.tpl:378
-#: app/templates/phonenumber/defaultModerator.tpl:668
+#: app/templates/phonenumber/defaultDefault.tpl:350
+#: app/templates/phonenumber/defaultDefault.tpl:705
+#: app/templates/phonenumber/defaultModerator.tpl:383
+#: app/templates/phonenumber/defaultModerator.tpl:673
 #: app/templates/phonenumber/defaultNew.tpl:363
 #: app/templates/phonenumber/defaultNew.tpl:660
-#: app/templates/phonenumber/defaultNewReloaded.tpl:379
-#: app/templates/phonenumber/defaultNewReloaded.tpl:678
+#: app/templates/phonenumber/defaultNewReloaded.tpl:382
+#: app/templates/phonenumber/defaultNewReloaded.tpl:681
 #: app/templates/phonenumber/defaultNext.tpl:441
 #: app/templates/phonenumber/defaultNext.tpl:765
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:383
@@ -2966,50 +2971,50 @@ msgstr "Seleziona categoria!"
 msgid "Name"
 msgstr "Nome"
 
-#: app/templates/phonenumber/defaultDefault.tpl:348
-#: app/templates/phonenumber/defaultModerator.tpl:379
+#: app/templates/phonenumber/defaultDefault.tpl:351
+#: app/templates/phonenumber/defaultModerator.tpl:384
 #: app/templates/phonenumber/defaultNew.tpl:364
-#: app/templates/phonenumber/defaultNewReloaded.tpl:380
+#: app/templates/phonenumber/defaultNewReloaded.tpl:383
 #: app/templates/phonenumber/defaultNext.tpl:442
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:384
 msgid "name or nickname"
 msgstr "nome o soprannome"
 
-#: app/templates/phonenumber/defaultDefault.tpl:351
-#: app/templates/phonenumber/defaultModerator.tpl:381
+#: app/templates/phonenumber/defaultDefault.tpl:354
+#: app/templates/phonenumber/defaultModerator.tpl:386
 #: app/templates/phonenumber/defaultNew.tpl:367
-#: app/templates/phonenumber/defaultNewReloaded.tpl:383
+#: app/templates/phonenumber/defaultNewReloaded.tpl:386
 #: app/templates/phonenumber/defaultNext.tpl:445
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:390
 msgid "Please enter your name or nickname!"
-msgstr "Inserire il proprio nome o nickname!"
+msgstr "Inserisca il proprio nome o nickname!"
 
-#: app/templates/phonenumber/defaultDefault.tpl:357
-#: app/templates/phonenumber/defaultModerator.tpl:392
+#: app/templates/phonenumber/defaultDefault.tpl:360
+#: app/templates/phonenumber/defaultModerator.tpl:397
 #: app/templates/phonenumber/defaultNew.tpl:373
-#: app/templates/phonenumber/defaultNewReloaded.tpl:389
+#: app/templates/phonenumber/defaultNewReloaded.tpl:392
 #: app/templates/phonenumber/defaultNext.tpl:451
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:396
 msgid "Title"
 msgstr "Titolo"
 
-#: app/templates/phonenumber/defaultDefault.tpl:358
-#: app/templates/phonenumber/defaultModerator.tpl:393
+#: app/templates/phonenumber/defaultDefault.tpl:361
+#: app/templates/phonenumber/defaultModerator.tpl:398
 #: app/templates/phonenumber/defaultNew.tpl:374
-#: app/templates/phonenumber/defaultNewReloaded.tpl:390
+#: app/templates/phonenumber/defaultNewReloaded.tpl:393
 #: app/templates/phonenumber/defaultNext.tpl:452
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:397
 msgid "title (optional)"
 msgstr "titolo (opzionale)"
 
-#: app/templates/phonenumber/defaultDefault.tpl:363
-#: app/templates/phonenumber/defaultDefault.tpl:707
-#: app/templates/phonenumber/defaultModerator.tpl:398
-#: app/templates/phonenumber/defaultModerator.tpl:673
+#: app/templates/phonenumber/defaultDefault.tpl:366
+#: app/templates/phonenumber/defaultDefault.tpl:710
+#: app/templates/phonenumber/defaultModerator.tpl:403
+#: app/templates/phonenumber/defaultModerator.tpl:678
 #: app/templates/phonenumber/defaultNew.tpl:379
 #: app/templates/phonenumber/defaultNew.tpl:665
-#: app/templates/phonenumber/defaultNewReloaded.tpl:395
-#: app/templates/phonenumber/defaultNewReloaded.tpl:683
+#: app/templates/phonenumber/defaultNewReloaded.tpl:398
+#: app/templates/phonenumber/defaultNewReloaded.tpl:686
 #: app/templates/phonenumber/defaultNext.tpl:457
 #: app/templates/phonenumber/defaultNext.tpl:770
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:402
@@ -3017,41 +3022,41 @@ msgstr "titolo (opzionale)"
 msgid "Comment"
 msgstr "Commento"
 
-#: app/templates/phonenumber/defaultDefault.tpl:364
-#: app/templates/phonenumber/defaultModerator.tpl:399
+#: app/templates/phonenumber/defaultDefault.tpl:367
+#: app/templates/phonenumber/defaultModerator.tpl:404
 #: app/templates/phonenumber/defaultNew.tpl:380
-#: app/templates/phonenumber/defaultNewReloaded.tpl:396
+#: app/templates/phonenumber/defaultNewReloaded.tpl:399
 #: app/templates/phonenumber/defaultNext.tpl:458
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:403
 msgid "write your comment"
-msgstr "scrivi un tuo commento"
+msgstr "scriva il suo commento"
 
-#: app/templates/phonenumber/defaultDefault.tpl:367
-#: app/templates/phonenumber/defaultModerator.tpl:402
+#: app/templates/phonenumber/defaultDefault.tpl:370
+#: app/templates/phonenumber/defaultModerator.tpl:407
 #: app/templates/phonenumber/defaultNew.tpl:383
-#: app/templates/phonenumber/defaultNewReloaded.tpl:399
+#: app/templates/phonenumber/defaultNewReloaded.tpl:402
 #: app/templates/phonenumber/defaultNext.tpl:461
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:406
 msgid "Please enter your comment!"
-msgstr "Ti preghiamo di inserire il tuo commento!"
+msgstr "Lei preghiamo di inserire il suo commento!"
 
-#: app/templates/phonenumber/defaultDefault.tpl:374
-#: app/templates/phonenumber/defaultModerator.tpl:409
+#: app/templates/phonenumber/defaultDefault.tpl:377
+#: app/templates/phonenumber/defaultModerator.tpl:414
 #: app/templates/phonenumber/defaultNew.tpl:390
-#: app/templates/phonenumber/defaultNewReloaded.tpl:406
+#: app/templates/phonenumber/defaultNewReloaded.tpl:409
 #: app/templates/phonenumber/defaultNext.tpl:468
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:413
 msgid "send rating"
-msgstr "invia valutazione"
+msgstr "invii valutazione"
 
-#: app/templates/phonenumber/defaultDefault.tpl:383
-#: app/templates/phonenumber/defaultModerator.tpl:418
+#: app/templates/phonenumber/defaultDefault.tpl:386
+#: app/templates/phonenumber/defaultModerator.tpl:423
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:422
 msgid "Phone number <strong>ratings</strong>"
-msgstr "Recensioni<strong>numero di telelefono</strong>"
+msgstr "Recensioni <strong>numero di telefono</strong>"
 
-#: app/templates/phonenumber/defaultDefault.tpl:400
-#: app/templates/phonenumber/defaultModerator.tpl:431
+#: app/templates/phonenumber/defaultDefault.tpl:403
+#: app/templates/phonenumber/defaultModerator.tpl:436
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:435
 #, php-format
 msgid "This phone number has %s reviews with average rating \"%s\"."
@@ -3059,80 +3064,80 @@ msgstr ""
 "Questo numero di telefono ha %s recensioni con una valutazione media pari a "
 "\"%s\"."
 
-#: app/templates/phonenumber/defaultDefault.tpl:463
-#: app/templates/phonenumber/defaultModerator.tpl:496
+#: app/templates/phonenumber/defaultDefault.tpl:466
+#: app/templates/phonenumber/defaultModerator.tpl:501
 #: app/templates/phonenumber/defaultNew.tpl:457
-#: app/templates/phonenumber/defaultNewReloaded.tpl:478
+#: app/templates/phonenumber/defaultNewReloaded.tpl:481
 #: app/templates/phonenumber/defaultNext.tpl:534
 msgid "owner"
 msgstr "proprietario"
 
-#: app/templates/phonenumber/defaultDefault.tpl:464
-#: app/templates/phonenumber/defaultModerator.tpl:497
+#: app/templates/phonenumber/defaultDefault.tpl:467
+#: app/templates/phonenumber/defaultModerator.tpl:502
 #: app/templates/phonenumber/defaultNew.tpl:458
-#: app/templates/phonenumber/defaultNewReloaded.tpl:479
+#: app/templates/phonenumber/defaultNewReloaded.tpl:482
 #: app/templates/phonenumber/defaultNext.tpl:535
 msgid "moderator"
 msgstr "moderatore"
 
-#: app/templates/phonenumber/defaultDefault.tpl:465
-#: app/templates/phonenumber/defaultModerator.tpl:498
+#: app/templates/phonenumber/defaultDefault.tpl:468
+#: app/templates/phonenumber/defaultModerator.tpl:503
 #: app/templates/phonenumber/defaultNew.tpl:459
-#: app/templates/phonenumber/defaultNewReloaded.tpl:480
+#: app/templates/phonenumber/defaultNewReloaded.tpl:483
 #: app/templates/phonenumber/defaultNext.tpl:536
 msgid "censored"
 msgstr "censurato "
 
-#: app/templates/phonenumber/defaultDefault.tpl:466
-#: app/templates/phonenumber/defaultModerator.tpl:499
+#: app/templates/phonenumber/defaultDefault.tpl:469
+#: app/templates/phonenumber/defaultModerator.tpl:504
 #: app/templates/phonenumber/defaultNew.tpl:460
-#: app/templates/phonenumber/defaultNewReloaded.tpl:481
+#: app/templates/phonenumber/defaultNewReloaded.tpl:484
 #: app/templates/phonenumber/defaultNext.tpl:537
 msgid "system"
 msgstr "sistema"
 
-#: app/templates/phonenumber/defaultDefault.tpl:472
-#: app/templates/phonenumber/defaultModerator.tpl:505
+#: app/templates/phonenumber/defaultDefault.tpl:475
+#: app/templates/phonenumber/defaultModerator.tpl:510
 #: app/templates/phonenumber/defaultNew.tpl:466
-#: app/templates/phonenumber/defaultNewReloaded.tpl:487
+#: app/templates/phonenumber/defaultNewReloaded.tpl:490
 #: app/templates/phonenumber/defaultNext.tpl:543
 msgid "featured"
 msgstr "raccomandato"
 
-#: app/templates/phonenumber/defaultDefault.tpl:487
-#: app/templates/phonenumber/defaultModerator.tpl:518
+#: app/templates/phonenumber/defaultDefault.tpl:490
+#: app/templates/phonenumber/defaultModerator.tpl:523
 #: app/templates/phonenumber/defaultNew.tpl:479
-#: app/templates/phonenumber/defaultNewReloaded.tpl:500
+#: app/templates/phonenumber/defaultNewReloaded.tpl:503
 #: app/templates/phonenumber/defaultNext.tpl:558
 msgid "This comment has been removed because violated terms of use"
 msgstr ""
 "Questo commento è stato rimosso per violazione delle condizioni di "
 "pubblicazione"
 
-#: app/templates/phonenumber/defaultDefault.tpl:495
-#: app/templates/phonenumber/defaultDefault.tpl:543
-#: app/templates/phonenumber/defaultModerator.tpl:524
-#: app/templates/phonenumber/defaultModerator.tpl:569
+#: app/templates/phonenumber/defaultDefault.tpl:498
+#: app/templates/phonenumber/defaultDefault.tpl:546
+#: app/templates/phonenumber/defaultModerator.tpl:529
+#: app/templates/phonenumber/defaultModerator.tpl:574
 #: app/templates/phonenumber/defaultNew.tpl:485
 #: app/templates/phonenumber/defaultNew.tpl:530
-#: app/templates/phonenumber/defaultNewReloaded.tpl:507
-#: app/templates/phonenumber/defaultNewReloaded.tpl:552
+#: app/templates/phonenumber/defaultNewReloaded.tpl:510
+#: app/templates/phonenumber/defaultNewReloaded.tpl:555
 #: app/templates/phonenumber/defaultNext.tpl:563
 #: app/templates/phonenumber/defaultNext.tpl:611
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:510
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:548
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:866
 msgid "Agree"
-msgstr "Concordare"
+msgstr "Consentire"
 
-#: app/templates/phonenumber/defaultDefault.tpl:502
-#: app/templates/phonenumber/defaultDefault.tpl:550
-#: app/templates/phonenumber/defaultModerator.tpl:529
-#: app/templates/phonenumber/defaultModerator.tpl:574
+#: app/templates/phonenumber/defaultDefault.tpl:505
+#: app/templates/phonenumber/defaultDefault.tpl:553
+#: app/templates/phonenumber/defaultModerator.tpl:534
+#: app/templates/phonenumber/defaultModerator.tpl:579
 #: app/templates/phonenumber/defaultNew.tpl:490
 #: app/templates/phonenumber/defaultNew.tpl:535
-#: app/templates/phonenumber/defaultNewReloaded.tpl:512
-#: app/templates/phonenumber/defaultNewReloaded.tpl:557
+#: app/templates/phonenumber/defaultNewReloaded.tpl:515
+#: app/templates/phonenumber/defaultNewReloaded.tpl:560
 #: app/templates/phonenumber/defaultNext.tpl:570
 #: app/templates/phonenumber/defaultNext.tpl:618
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:516
@@ -3141,23 +3146,23 @@ msgstr "Concordare"
 msgid "Disagree"
 msgstr "Dissentire"
 
-#: app/templates/phonenumber/defaultDefault.tpl:510
-#: app/templates/phonenumber/defaultModerator.tpl:535
+#: app/templates/phonenumber/defaultDefault.tpl:513
+#: app/templates/phonenumber/defaultModerator.tpl:540
 #: app/templates/phonenumber/defaultNew.tpl:496
-#: app/templates/phonenumber/defaultNewReloaded.tpl:518
+#: app/templates/phonenumber/defaultNewReloaded.tpl:521
 #: app/templates/phonenumber/defaultNext.tpl:578
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:523
 msgid "Comments"
 msgstr "Commenti"
 
-#: app/templates/phonenumber/defaultDefault.tpl:517
-#: app/templates/phonenumber/defaultDefault.tpl:698
-#: app/templates/phonenumber/defaultModerator.tpl:543
-#: app/templates/phonenumber/defaultModerator.tpl:664
+#: app/templates/phonenumber/defaultDefault.tpl:520
+#: app/templates/phonenumber/defaultDefault.tpl:701
+#: app/templates/phonenumber/defaultModerator.tpl:548
+#: app/templates/phonenumber/defaultModerator.tpl:669
 #: app/templates/phonenumber/defaultNew.tpl:504
 #: app/templates/phonenumber/defaultNew.tpl:656
-#: app/templates/phonenumber/defaultNewReloaded.tpl:525
-#: app/templates/phonenumber/defaultNewReloaded.tpl:674
+#: app/templates/phonenumber/defaultNewReloaded.tpl:528
+#: app/templates/phonenumber/defaultNewReloaded.tpl:677
 #: app/templates/phonenumber/defaultNext.tpl:585
 #: app/templates/phonenumber/defaultNext.tpl:761
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:529
@@ -3165,167 +3170,167 @@ msgstr "Commenti"
 msgid "Add Comment"
 msgstr "Aggiungi commento"
 
-#: app/templates/phonenumber/defaultDefault.tpl:523
-#: app/templates/phonenumber/defaultDefault.tpl:557
-#: app/templates/phonenumber/defaultModerator.tpl:549
-#: app/templates/phonenumber/defaultModerator.tpl:579
+#: app/templates/phonenumber/defaultDefault.tpl:526
+#: app/templates/phonenumber/defaultDefault.tpl:560
+#: app/templates/phonenumber/defaultModerator.tpl:554
+#: app/templates/phonenumber/defaultModerator.tpl:584
 #: app/templates/phonenumber/defaultNew.tpl:510
 #: app/templates/phonenumber/defaultNew.tpl:540
-#: app/templates/phonenumber/defaultNewReloaded.tpl:530
-#: app/templates/phonenumber/defaultNewReloaded.tpl:562
+#: app/templates/phonenumber/defaultNewReloaded.tpl:533
+#: app/templates/phonenumber/defaultNewReloaded.tpl:565
 #: app/templates/phonenumber/defaultNext.tpl:591
 #: app/templates/phonenumber/defaultNext.tpl:625
 msgid "Delete"
 msgstr "Eliminare"
 
-#: app/templates/phonenumber/defaultDefault.tpl:612
+#: app/templates/phonenumber/defaultDefault.tpl:615
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:611
 msgid "Report ownership of this number or untruthful information presented."
 msgstr ""
-"Riferire la proprietà di questo numero o informazioni non veritiere "
+"Avvisare la proprietà di questo numero o informazioni non veritiere "
 "presentate."
 
-#: app/templates/phonenumber/defaultDefault.tpl:712
-#: app/templates/phonenumber/defaultModerator.tpl:678
+#: app/templates/phonenumber/defaultDefault.tpl:715
+#: app/templates/phonenumber/defaultModerator.tpl:683
 #: app/templates/phonenumber/defaultNew.tpl:670
-#: app/templates/phonenumber/defaultNewReloaded.tpl:688
+#: app/templates/phonenumber/defaultNewReloaded.tpl:691
 #: app/templates/phonenumber/defaultNext.tpl:775
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:709
 msgid "Submit"
 msgstr "Spedire"
 
-#: app/templates/phonenumber/defaultDefault.tpl:850
-#: app/templates/phonenumber/defaultModerator.tpl:816
+#: app/templates/phonenumber/defaultDefault.tpl:853
+#: app/templates/phonenumber/defaultModerator.tpl:821
 #: app/templates/phonenumber/defaultNew.tpl:812
-#: app/templates/phonenumber/defaultNewReloaded.tpl:831
+#: app/templates/phonenumber/defaultNewReloaded.tpl:834
 #: app/templates/phonenumber/defaultNext.tpl:915
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:841
 msgid "Please enter your name or nick"
-msgstr "Inserisci il tuo nome o nick"
+msgstr "Inserisca il suo nome o soprannome"
 
-#: app/templates/phonenumber/defaultDefault.tpl:856
-#: app/templates/phonenumber/defaultModerator.tpl:822
+#: app/templates/phonenumber/defaultDefault.tpl:859
+#: app/templates/phonenumber/defaultModerator.tpl:827
 #: app/templates/phonenumber/defaultNew.tpl:818
-#: app/templates/phonenumber/defaultNewReloaded.tpl:837
+#: app/templates/phonenumber/defaultNewReloaded.tpl:840
 #: app/templates/phonenumber/defaultNext.tpl:921
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:847
 msgid "Your comment must be longer than 5 characters"
 msgstr "Il suo commento deve essere più lungo di 5 caratteri"
 
-#: app/templates/phonenumber/defaultModerator.tpl:130
+#: app/templates/phonenumber/defaultModerator.tpl:136
 #: app/templates/phonenumber/defaultNew.tpl:164
-#: app/templates/phonenumber/defaultNewReloaded.tpl:168
+#: app/templates/phonenumber/defaultNewReloaded.tpl:170
 #: app/templates/phonenumber/defaultNext.tpl:247
 msgid "ratings"
 msgstr "valorizzazioni"
 
-#: app/templates/phonenumber/defaultModerator.tpl:131
+#: app/templates/phonenumber/defaultModerator.tpl:137
 #: app/templates/phonenumber/defaultNew.tpl:165
-#: app/templates/phonenumber/defaultNewReloaded.tpl:169
+#: app/templates/phonenumber/defaultNewReloaded.tpl:171
 #: app/templates/phonenumber/defaultNext.tpl:248
 msgid "reviews"
 msgstr "recensioni"
 
-#: app/templates/phonenumber/defaultModerator.tpl:132
+#: app/templates/phonenumber/defaultModerator.tpl:138
 #: app/templates/phonenumber/defaultNew.tpl:166
-#: app/templates/phonenumber/defaultNewReloaded.tpl:170
+#: app/templates/phonenumber/defaultNewReloaded.tpl:172
 #: app/templates/phonenumber/defaultNext.tpl:249
 msgid "no ratings"
-msgstr "nessuni valutazioni"
+msgstr "nessune valutazioni"
 
-#: app/templates/phonenumber/defaultModerator.tpl:133
+#: app/templates/phonenumber/defaultModerator.tpl:139
 #: app/templates/phonenumber/defaultNew.tpl:167
-#: app/templates/phonenumber/defaultNewReloaded.tpl:171
+#: app/templates/phonenumber/defaultNewReloaded.tpl:173
 #: app/templates/phonenumber/defaultNext.tpl:250
 msgid "no reviews"
 msgstr "nessune recensioni"
 
-#: app/templates/phonenumber/defaultModerator.tpl:134
+#: app/templates/phonenumber/defaultModerator.tpl:140
 #: app/templates/phonenumber/defaultNew.tpl:168
-#: app/templates/phonenumber/defaultNewReloaded.tpl:172
+#: app/templates/phonenumber/defaultNewReloaded.tpl:174
 #: app/templates/phonenumber/defaultNext.tpl:251
 msgid "single rating"
 msgstr "una valutazione"
 
-#: app/templates/phonenumber/defaultModerator.tpl:135
+#: app/templates/phonenumber/defaultModerator.tpl:141
 #: app/templates/phonenumber/defaultNew.tpl:169
-#: app/templates/phonenumber/defaultNewReloaded.tpl:173
+#: app/templates/phonenumber/defaultNewReloaded.tpl:175
 #: app/templates/phonenumber/defaultNext.tpl:252
 msgid "single review"
 msgstr "una recensione"
 
-#: app/templates/phonenumber/defaultModerator.tpl:136
+#: app/templates/phonenumber/defaultModerator.tpl:142
 #: app/templates/phonenumber/defaultNew.tpl:170
-#: app/templates/phonenumber/defaultNewReloaded.tpl:174
+#: app/templates/phonenumber/defaultNewReloaded.tpl:176
 #: app/templates/phonenumber/defaultNext.tpl:253
 #, php-format
 msgid "We have %s and %s for this phone number."
 msgstr "Abbiamo %s e %s per questo numero."
 
-#: app/templates/phonenumber/defaultModerator.tpl:161
+#: app/templates/phonenumber/defaultModerator.tpl:167
 #: app/templates/phonenumber/defaultNew.tpl:195
-#: app/templates/phonenumber/defaultNewReloaded.tpl:199
+#: app/templates/phonenumber/defaultNewReloaded.tpl:201
 #: app/templates/phonenumber/defaultNext.tpl:277
 #, php-format
 msgid "Single user marked it with %s rating"
 msgstr "Unico utente lo ha marcato  con %s valutazione"
 
-#: app/templates/phonenumber/defaultModerator.tpl:163
+#: app/templates/phonenumber/defaultModerator.tpl:169
 #: app/templates/phonenumber/defaultNew.tpl:197
-#: app/templates/phonenumber/defaultNewReloaded.tpl:201
+#: app/templates/phonenumber/defaultNewReloaded.tpl:203
 #: app/templates/phonenumber/defaultNext.tpl:279
 #, php-format
 msgid "%s users marked it with %s rating"
-msgstr "%s degli utenti lo hanno marcato co %s valutazione"
+msgstr "%s degli utenti lo hanno marcato con %s valutazione"
 
-#: app/templates/phonenumber/defaultModerator.tpl:166
+#: app/templates/phonenumber/defaultModerator.tpl:172
 #: app/templates/phonenumber/defaultNew.tpl:200
-#: app/templates/phonenumber/defaultNewReloaded.tpl:204
+#: app/templates/phonenumber/defaultNewReloaded.tpl:206
 #: app/templates/phonenumber/defaultNext.tpl:282
 msgid "and"
 msgstr "e"
 
-#: app/templates/phonenumber/defaultModerator.tpl:170
+#: app/templates/phonenumber/defaultModerator.tpl:176
 #: app/templates/phonenumber/defaultNew.tpl:204
-#: app/templates/phonenumber/defaultNewReloaded.tpl:208
+#: app/templates/phonenumber/defaultNewReloaded.tpl:210
 #: app/templates/phonenumber/defaultNext.tpl:286
 #, php-format
 msgid "single user with %s rating"
 msgstr "un utente con %s valutazione"
 
-#: app/templates/phonenumber/defaultModerator.tpl:172
+#: app/templates/phonenumber/defaultModerator.tpl:178
 #: app/templates/phonenumber/defaultNew.tpl:206
-#: app/templates/phonenumber/defaultNewReloaded.tpl:210
+#: app/templates/phonenumber/defaultNewReloaded.tpl:212
 #: app/templates/phonenumber/defaultNext.tpl:288
 #, php-format
 msgid "%s users with %s rating"
 msgstr "%s degli utenti con %s valutazione"
 
-#: app/templates/phonenumber/defaultModerator.tpl:231
+#: app/templates/phonenumber/defaultModerator.tpl:237
 #: app/templates/phonenumber/defaultNew.tpl:262
-#: app/templates/phonenumber/defaultNewReloaded.tpl:298
+#: app/templates/phonenumber/defaultNewReloaded.tpl:301
 #: app/templates/phonenumber/defaultNext.tpl:340
 #, php-format
 msgid "Possible phone number formats are "
 msgstr "Possibili formati di numeri telefonichi sono"
 
-#: app/templates/phonenumber/defaultModerator.tpl:387
+#: app/templates/phonenumber/defaultModerator.tpl:392
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:386
 msgid "email (optional)"
 msgstr "e-mail (opzionale)"
 
 #: app/templates/phonenumber/defaultNew.tpl:306
-#: app/templates/phonenumber/defaultNewReloaded.tpl:322
+#: app/templates/phonenumber/defaultNewReloaded.tpl:325
 #: app/templates/phonenumber/defaultNext.tpl:385
 #, php-format
 msgid "<strong>Reviews</strong> for phone number %s"
-msgstr "<strong>Recensioni</strong>per numero di telefono %s"
+msgstr "<strong>Recensioni </strong>per numero di telefono %s"
 
 #: app/templates/phonenumber/defaultNew.tpl:312
-#: app/templates/phonenumber/defaultNewReloaded.tpl:330
+#: app/templates/phonenumber/defaultNewReloaded.tpl:333
 #: app/templates/phonenumber/defaultNext.tpl:392
 msgid "Add <strong>Your rating</strong>"
-msgstr "Aggiungi <strong>sua vaulutazione</strong>"
+msgstr "Aggiunga <strong>la sua valutazione</strong>"
 
 #: app/templates/phonenumber/invalid.tpl:16
 #: app/templates/phonenumber/invalid.tpl:23
@@ -3362,12 +3367,12 @@ msgstr ""
 
 #: app/templates/privacypolicy/default.tpl:39
 msgid "We use 3rd party companies to serve ads on our pages."
-msgstr "Usiamo le aziende 3a parte di pubblicare annunci sulle nostre pagine."
+msgstr "Usiamo le società 3a parte di pubblicare annunci sulle nostre pagine."
 
 #: app/templates/privacypolicy/default.tpl:40
 msgid "This companies use cookies to serve user based Ads."
 msgstr ""
-"Queste aziende utilizzano i cookie per presentare un annunci basati "
+"Queste società utilizzano i cookie per presentare un annunci basati "
 "sull'utente."
 
 #: app/templates/privacypolicy/default.tpl:42
@@ -3375,8 +3380,8 @@ msgid ""
 "We also collect anonymous statistic about your visit (for example which "
 "pages did you visit)."
 msgstr ""
-"Raccogliamo anche statistiche anonime relative alla vostra visita (ad "
-"esempio quali pagine hai visitato)."
+"Raccogliamo anche statistiche anonime relative alla sua visita (ad esempio "
+"quali pagine hai visitato)."
 
 #: app/templates/privacypolicy/default.tpl:46
 msgid "Collecting information"
@@ -3385,7 +3390,7 @@ msgstr "Raccolta di informazioni"
 #: app/templates/privacypolicy/default.tpl:48
 msgid "Information submitted in review will be available to the public."
 msgstr ""
-"Le informazioni presentate in rassegna sarà a disposizione del pubblico."
+"Le informazioni presentate in recensione sarà a disposizione del pubblico."
 
 #: app/templates/privacypolicy/default.tpl:49
 msgid ""
@@ -3409,8 +3414,8 @@ msgid ""
 "Infringement of Terms Of Use can results in partial or full removal of "
 "submitted review."
 msgstr ""
-"Violazione dei Termini d'Uso può risultati nella rimozione parziale o totale "
-"di riesame presentata."
+"Violazione dei Condizioni d'Uso può risultati nella rimozione parziale o "
+"totale di riesame presentata."
 
 #: app/templates/privacypolicy/default.tpl:52
 msgid ""
@@ -3427,15 +3432,16 @@ msgstr "Pubblicità di terze parti"
 #: app/templates/privacypolicy/default.tpl:57
 msgid "We are using third party companies to serve ads on our websites."
 msgstr ""
-"Stiamo utilizzando società terze per pubblicare annunci sul nostro sito web."
+"Stiamo utilizzando società da terza parte per pubblicare annunci sul nostro "
+"sito web."
 
 #: app/templates/privacypolicy/default.tpl:58
 msgid ""
 "This companies may use cookies and independently collected information about "
 "your visit to provide best ads for you."
 msgstr ""
-"Questo aziende possono utilizzare i cookies e le informazioni raccolte in "
-"modo indipendente sulla vostra visita a fornire migliori annunci per te."
+"Queste società possono utilizzare i cookies e le informazioni raccolte in "
+"modo indipendente sulla sua visita a fornire migliori annunci per Lei."
 
 #: app/templates/privacypolicy/default.tpl:61
 msgid "Measuring our visitors"
@@ -3508,7 +3514,7 @@ msgid ""
 "Send an email to <a href=\"mailto:support@shouldianswer.net"
 "\">support@shouldianswer.net</a>"
 msgstr ""
-"Invia una mail a <a href=\"mailto:support@shouldianswer.net"
+"Invii una posta elettronica a <a href=\"mailto:support@shouldianswer.net"
 "\">support@shouldianswer.net</a>"
 
 #: app/templates/removalrequest/default.tpl:16
@@ -3516,9 +3522,9 @@ msgid "Removal Request"
 msgstr "Il requisito di rimuovere"
 
 #: app/templates/removalrequest/default.tpl:17
-#: app/templates/removalrequest/default.tpl:155
+#: app/templates/removalrequest/default.tpl:159
 msgid "Removal Request Form"
-msgstr "Formulario di richiesta per rimuovere i contenuti"
+msgstr "Formulario di richiesta per rimuovere"
 
 #: app/templates/removalrequest/default.tpl:34
 #, php-format
@@ -3530,106 +3536,106 @@ msgstr "Rimozione di Recensione ID: %s"
 msgid "Removal of Comment ID: %s"
 msgstr "Rimozione di Commento  ID: %s"
 
-#: app/templates/removalrequest/default.tpl:158
+#: app/templates/removalrequest/default.tpl:162
 msgid "Your request has been succesfully send to our support team."
 msgstr ""
 "La sua richiesta è stata inviata con successo al nostro equipe di supporto."
 
-#: app/templates/removalrequest/default.tpl:159
+#: app/templates/removalrequest/default.tpl:163
 msgid "We should process it in max 3 work days."
 msgstr "Dovremmo elaborarlo in 3 giorni lavorativi."
 
-#: app/templates/removalrequest/default.tpl:161
+#: app/templates/removalrequest/default.tpl:165
 msgid "Thank you very much!"
 msgstr "Grazie molte!"
 
-#: app/templates/removalrequest/default.tpl:163
+#: app/templates/removalrequest/default.tpl:167
 msgid "Something wrong happened during storing your request."
 msgstr ""
-"Qualcosa di sbagliato è accaduto durante la memorizzazione di vostra "
+"Qualcosa di sbagliato è accaduto durante la memorizzazione della sua "
 "richiesta."
 
-#: app/templates/removalrequest/default.tpl:164
+#: app/templates/removalrequest/default.tpl:168
 msgid "Please contact us at <strong>support@shouldianswer.net</strong>"
 msgstr ""
-"Vi preghiamo di contattarci a <strong>support@shouldianswer.net</strong>"
+"Lei preghiamo di contattarci a <strong>support@shouldianswer.net</strong>"
 
-#: app/templates/removalrequest/default.tpl:168
+#: app/templates/removalrequest/default.tpl:172
 msgid "Please fix errors marked with red description"
 msgstr "Si prega di correggere gli errori contrassegnati da descrizione rossa"
 
-#: app/templates/removalrequest/default.tpl:175
+#: app/templates/removalrequest/default.tpl:179
 msgid ""
 "Before filling the form you could find useful basic information about "
 "solving content issues on our site"
 msgstr ""
-"Prima di riempire il formuario forse trovi utilli informazioni per risolvere "
-"i problemi con il contenuto in queste pagine"
+"Prima di riempire il formulario forse trovi utili informazioni per risolvere "
+"i problemi col contenuto in queste pagine"
 
-#: app/templates/removalrequest/default.tpl:183
+#: app/templates/removalrequest/default.tpl:187
 msgid "Subject"
 msgstr "Soggetto"
 
-#: app/templates/removalrequest/default.tpl:186
+#: app/templates/removalrequest/default.tpl:190
 msgid "Content was submitted for number"
 msgstr "Contenuto è stato inviato per numero"
 
-#: app/templates/removalrequest/default.tpl:187
+#: app/templates/removalrequest/default.tpl:191
 msgid "Content"
 msgstr "Contenuto"
 
-#: app/templates/removalrequest/default.tpl:192
+#: app/templates/removalrequest/default.tpl:196
 msgid "Your Name"
 msgstr "Suo Nome"
 
-#: app/templates/removalrequest/default.tpl:193
-#: app/templates/removalrequest/default.tpl:196
+#: app/templates/removalrequest/default.tpl:197
+#: app/templates/removalrequest/default.tpl:200
 msgid "Please enter full real name"
-msgstr "Per favore inserisci il tuo nome e cognome reale"
+msgstr "Per favore inserisca il suo nome e cognome reale"
 
-#: app/templates/removalrequest/default.tpl:212
+#: app/templates/removalrequest/default.tpl:216
 msgid "Reason Type"
 msgstr "Tipo di ragione"
 
-#: app/templates/removalrequest/default.tpl:213
+#: app/templates/removalrequest/default.tpl:217
 msgid "Contains personal information"
 msgstr "Contiene informazioni personali"
 
-#: app/templates/removalrequest/default.tpl:214
+#: app/templates/removalrequest/default.tpl:218
 msgid "Contains false information"
 msgstr "Contiene informazioni false"
 
-#: app/templates/removalrequest/default.tpl:215
+#: app/templates/removalrequest/default.tpl:219
 msgid "Breaks the rules of this service"
 msgstr "Viola le regole del servizio"
 
-#: app/templates/removalrequest/default.tpl:216
+#: app/templates/removalrequest/default.tpl:220
 msgid "I'm author of review and I want to remove it"
 msgstr "Sono autore di revisione e voglio toglierla."
 
-#: app/templates/removalrequest/default.tpl:217
+#: app/templates/removalrequest/default.tpl:221
 msgid "Other reason"
 msgstr "Un'altra ragione"
 
-#: app/templates/removalrequest/default.tpl:220
+#: app/templates/removalrequest/default.tpl:224
 msgid "Please select the reason type"
 msgstr "Seleziona il tipo di ragione"
 
-#: app/templates/removalrequest/default.tpl:227
+#: app/templates/removalrequest/default.tpl:231
 msgid "Reason details"
 msgstr "Dettagli delle ragioni"
 
-#: app/templates/removalrequest/default.tpl:228
+#: app/templates/removalrequest/default.tpl:232
 msgid "Please explain in detail why you want to remove this content."
 msgstr ""
 "Si prega di spiegare in dettaglio perché si desidera rimuovere questo "
 "contenuto."
 
-#: app/templates/removalrequest/default.tpl:232
+#: app/templates/removalrequest/default.tpl:236
 msgid "Please fill the reason details"
-msgstr "Vi preghiamo di compilare i dettagli delle ragioni"
+msgstr "Lei preghiamo di compilare i dettagli delle ragioni"
 
-#: app/templates/removalrequest/default.tpl:239
+#: app/templates/removalrequest/default.tpl:243
 #, php-format
 msgid ""
 "You can also check our %s for detailed description of using of our service."
@@ -3637,13 +3643,13 @@ msgstr ""
 "È inoltre possibile controllare la nostra %s per la descrizione dettagliata "
 "di utilizzo del nostro servizio."
 
-#: app/templates/removalrequest/default.tpl:248
+#: app/templates/removalrequest/default.tpl:252
 msgid "Please check the reCAPTCHA"
 msgstr "Per favore marcare reCAPTCHA"
 
-#: app/templates/removalrequest/default.tpl:252
+#: app/templates/removalrequest/default.tpl:256
 msgid "Send Request"
-msgstr "Invia richiesta"
+msgstr "Invii richiesta"
 
 #: app/templates/solveissues/default.tpl:17
 msgid "Solving Issues"
@@ -3658,15 +3664,13 @@ msgstr ""
 
 #: app/templates/solveissues/default.tpl:28
 msgid "Is this your private number?"
-msgstr ""
-"Se siete interessati per la presentazione di tali informazioni sulle nostre "
-"pagine non esitate a contattarci."
+msgstr "È questo il suo numero privato?"
 
 #: app/templates/solveissues/default.tpl:30
 msgid "Our main target it to protect your personal info against telemarketing."
 msgstr ""
-"Il nostro obiettivo principale è per proteggere le sue informazioni "
-"personali contro il telemarketing."
+"Il nostro obiettivo principale è proteggere le sue informazioni personali "
+"contro il telemarketing."
 
 #: app/templates/solveissues/default.tpl:31
 msgid "We intentionally don’t display info that this is a private number."
@@ -3683,7 +3687,7 @@ msgstr ""
 
 #: app/templates/solveissues/default.tpl:33
 msgid "The reason is exactly the protection of your private number."
-msgstr "Il motivo è esattamente la protezione del vostro numero privato."
+msgstr "Il motivo è esattamente la protezione del suo numero privato."
 
 #: app/templates/solveissues/default.tpl:34
 msgid ""
@@ -3717,7 +3721,7 @@ msgstr ""
 
 #: app/templates/solveissues/default.tpl:39
 msgid "Is this a number of your company?"
-msgstr "Questo è il numero della vostra azienda?"
+msgstr "Questo è il numero della sua società?"
 
 #: app/templates/solveissues/default.tpl:41
 msgid ""
@@ -3732,19 +3736,19 @@ msgstr ""
 msgid ""
 "You can also add internet link to your company’s pages for further info."
 msgstr ""
-"È inoltre possibile aggiungere link alle pagine internet della vostra "
-"azienda per ulteriori informazioni."
+"È inoltre possibile aggiungere link alle pagine internet della sua società "
+"per ulteriori informazioni."
 
 #: app/templates/solveissues/default.tpl:43
 msgid ""
 "Let your customers know about you, communicate with them using our pages."
 msgstr ""
-"Lasciate che i vostri clienti sanno di Lei, comunicare con loro utilizzando "
+"Lasciate che i vostri clienti sanno di Lei, comunichi con loro utilizzando "
 "le nostre pagine."
 
 #: app/templates/solveissues/default.tpl:46
 msgid "Want to clear user ratings from your private number?"
-msgstr "Volete cancellare votati dagli utenti dal numero privato?"
+msgstr "Vuole cancellare valutazioni dagli utenti dal numero privato?"
 
 #: app/templates/solveissues/default.tpl:48
 msgid ""
@@ -3752,7 +3756,7 @@ msgid ""
 "displayed. We do our best to filter and clear all such ratings."
 msgstr ""
 "Valutazione degli utenti di numeri privati sono fuori della nostra portata e "
-"non devono essere visualizzati. Facciamo del nostro meglio per filtrare e "
+"non devono essere visualizzati. Facciamo nostro meglio per filtrare e "
 "cancellare tutti tale valutazioni."
 
 #: app/templates/solveissues/default.tpl:49
@@ -3775,16 +3779,16 @@ msgid ""
 "It's pretty clear that people are mostly willing to describe negative rating "
 "or experience, more than positive comment."
 msgstr ""
-"E 'abbastanza chiaro che le persone sono per lo più disposti a descrivere "
-"valutazione negativa o esperienza, più di commento positivo."
+"È chiaro che le persone sono per lo più disposti a descrivere valutazione "
+"negative o esperienza, più di commento positivo."
 
 #: app/templates/solveissues/default.tpl:56
 msgid ""
 "We understand that it can happen and you can find untruthful information "
 "with intention to make you some harm."
 msgstr ""
-"Sappiamo che può succedere a chiunque di voi pubblicare informazioni false "
-"per farti del male."
+"Sappiamo che può succedere a chiunque che alcuno pubblica informazioni false "
+"per Lei."
 
 #: app/templates/solveissues/default.tpl:57
 msgid ""
@@ -3799,7 +3803,7 @@ msgid ""
 "If you feel you suffer any harm you can use the legal system of your country "
 "as a protection."
 msgstr ""
-"Se ti senti si soffre alcun danno è possibile utilizzare il sistema legale "
+"Se si sente si soffre alcun danno è possibile utilizzare il sistema legale "
 "del proprio paese come protezione."
 
 #: app/templates/solveissues/default.tpl:59
@@ -3819,7 +3823,7 @@ msgid ""
 "Want to clear user ratings and your company provides telemarketing or call "
 "centre?"
 msgstr ""
-"Vuoi cancellare valutazioni degli utenti e la sua azienda fornisce "
+"Vuole cancellare valutazioni degli utenti e la sua società fornisce "
 "telemarketing o call center?"
 
 #: app/templates/solveissues/default.tpl:65
@@ -3827,7 +3831,7 @@ msgid ""
 "In such case your problem is also covered by the above mentioned for "
 "classical company."
 msgstr ""
-"In questo caso, si paga per tutto ciò di cui sopra alle aziende "
+"In questo caso, si paga per tutto ciò di cui sopra alle società "
 "convenzionali."
 
 #: app/templates/solveissues/default.tpl:66
@@ -3836,9 +3840,9 @@ msgid ""
 "composition of Moral codex of your services to be presented to your "
 "employees is a best practice."
 msgstr ""
-"Si consiglia adesione a servizi di controllo della qualità nella vostra "
-"azienda, costruire e controllare il codice morale dei vostri servizi ai "
-"vostri dipendenti è una buona pratica."
+"Si consiglia adesione a servizi di controllo della qualità nella sua "
+"società, costruire e controllare il codice morale dei suoi servizi ai suoi "
+"dipendenti è una buona pratica."
 
 #: app/templates/solveissues/default.tpl:67
 msgid ""
@@ -3862,8 +3866,8 @@ msgid ""
 "stating that this is your number, summarize your principles and possibly "
 "also provide contact where the unsatisfied customers can reach you."
 msgstr ""
-"Le nostre pagine vi offre la possibilità di aggiungere le informazioni per i "
-"vostri numeri affermando che questo è il vostro numero, riassumere i vostri "
+"Le nostre pagine Lei offrono la possibilità di aggiungere le informazioni "
+"per i suoi numeri affermando che questo è il suo numero, riassumere i suoi "
 "principi e, eventualmente, anche fornire un contatto in cui i clienti "
 "insoddisfatti possono raggiungere voi."
 
@@ -3881,6 +3885,19 @@ msgstr "Vuole contattarci?"
 #: app/templates/websearch/default.tpl:7
 msgid "Web Search"
 msgstr "Ricerca Web"
+
+#~ msgid ""
+#~ "strong>Online Manual</strong> opens the internet page with this manual."
+#~ msgstr ""
+#~ "<strong> Manuale per l'applicazione </ strong> si apre una pagina web con "
+#~ "questo manuale."
+
+#~ msgid ""
+#~ "strong>Terms of Use</strong> opens the internet page with terms of use of "
+#~ "this product."
+#~ msgstr ""
+#~ "<Strong> Condizioni di utilizzo </ strong> per aprire una pagina web con "
+#~ "le condizioni di utilizzo di questo prodotto."
 
 #~ msgid ""
 #~ "configure how to combine the ratings from Community Database, your Phone "

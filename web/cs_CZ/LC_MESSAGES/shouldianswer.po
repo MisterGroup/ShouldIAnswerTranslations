@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: shouldianswer\n"
-"POT-Creation-Date: 2016-03-12 10:45+0100\n"
-"PO-Revision-Date: 2016-03-12 10:45+0100\n"
+"POT-Creation-Date: 2016-03-23 09:50+0100\n"
+"PO-Revision-Date: 2016-03-23 09:50+0100\n"
 "Last-Translator: \n"
 "Language-Team: topolar@gmail.com\n"
 "Language: cs\n"
@@ -43,15 +43,15 @@ msgstr ""
 msgid "Please come back to this page later. Thank you."
 msgstr "Prosím navštivte tyto stránky později. Děkujeme."
 
-#: app/presenters/p_phonenumber.php:241
+#: app/presenters/p_phonenumber.php:243
 msgid "Outdated or invalid form submitted! Please send it again."
 msgstr "Odeslán starý nebo invalidní formulář! Prosím pošlete jej znovu."
 
-#: app/presenters/p_phonenumber.php:298
+#: app/presenters/p_phonenumber.php:300
 msgid "Submit failed. Please do not use Tags!"
 msgstr "Odeslání selhalo. Nepoužívejte žádné tagy!"
 
-#: app/presenters/p_phonenumber.php:304
+#: app/presenters/p_phonenumber.php:306
 msgid ""
 "Your rating is submitted and waiting for publication to other visitors. "
 "Thank you!"
@@ -59,313 +59,313 @@ msgstr ""
 "Vaše hodnocení bylo odesláno a čeká na publikaci ostatním návštěvníkům. "
 "Děkujeme!"
 
-#: app/presenters/p_phonenumber.php:308
+#: app/presenters/p_phonenumber.php:310
 msgid "Rating has been stored and published!"
 msgstr "Hodnocení bylo uloženo a publikováno!"
 
-#: app/presenters/p_phonenumber.php:318
+#: app/presenters/p_phonenumber.php:320
 msgid "This phone number is marked as "
 msgstr "Toto telefonní číslo je označeno jako "
 
-#: app/presenters/p_phonenumber.php:336
+#: app/presenters/p_phonenumber.php:338
 msgid "What is Your experience with this number?"
 msgstr "Jaká je vaše zkušenost s tímto číslem?"
 
-#: app/presenters/p_phonenumber.php:337
+#: app/presenters/p_phonenumber.php:339
 msgid "Do You have any experience with this phone number?"
 msgstr "Máte nějaké zkušenosti s tímto telefonním číslem?"
 
-#: app/presenters/p_phonenumber.php:338
+#: app/presenters/p_phonenumber.php:340
 msgid "What is Your experience with this phone number?"
 msgstr "Jaké máte zkušenosti s tímto číslem?"
 
-#: app/presenters/p_phonenumber.php:339
+#: app/presenters/p_phonenumber.php:341
 msgid "Do You have any bad experience with this number?"
 msgstr "Máte nějaké špatné zkušenosti s tímto číslem?"
 
-#: app/presenters/p_phonenumber.php:340
+#: app/presenters/p_phonenumber.php:342
 msgid "Have You seen this number before?"
 msgstr "Viděli jste už někde toto číslo?"
 
-#: app/presenters/p_phonenumber.php:341
+#: app/presenters/p_phonenumber.php:343
 msgid "Have You ever spot this number?"
 msgstr "Zahlédli jste někde toto číslo?"
 
-#: app/presenters/p_phonenumber.php:342
+#: app/presenters/p_phonenumber.php:344
 msgid "Does this number remind You something?"
 msgstr "Je vám telefonní číslo povědomé?"
 
-#: app/presenters/p_phonenumber.php:343
+#: app/presenters/p_phonenumber.php:345
 msgid "Do You have any bad experience with this phone number?"
 msgstr "Máte špatné zkušenosti s tímto telefonním číslem?"
 
-#: app/presenters/p_phonenumber.php:344
+#: app/presenters/p_phonenumber.php:346
 msgid "Have You ever seen this number?"
 msgstr "Viděli jste už toto číslo?"
 
-#: app/presenters/p_phonenumber.php:345
+#: app/presenters/p_phonenumber.php:347
 msgid "Does this number look familiar to You?"
 msgstr "Je vám toto číslo povědomé?"
 
-#: app/presenters/p_phonenumber.php:348
+#: app/presenters/p_phonenumber.php:350
 msgid "Do You have any experience with this?"
 msgstr "Už jste se s ním setkali?"
 
-#: app/presenters/p_phonenumber.php:349
+#: app/presenters/p_phonenumber.php:351
 msgid "Have this number called You before?"
 msgstr "Už vám toto číslo někdy volalo?"
 
-#: app/presenters/p_phonenumber.php:350 app/presenters/p_phonenumber.php:356
+#: app/presenters/p_phonenumber.php:352 app/presenters/p_phonenumber.php:358
 msgid "Have this number annoyed You before?"
 msgstr "Byli jste tímto číslem obtěžováni?"
 
-#: app/presenters/p_phonenumber.php:351
+#: app/presenters/p_phonenumber.php:353
 msgid "Did someone offer You unwanted services from this number?"
 msgstr "Nabízel Vám někdo z tohoto čísla služby, o které jste neměli zájem?"
 
-#: app/presenters/p_phonenumber.php:352
+#: app/presenters/p_phonenumber.php:354
 msgid "Did someone offer You products You haven't ordered from this number?"
 msgstr ""
 "Nabízel Vám někdo z tohoto telefonního čísla produkty, které jste si "
 "neobjednali?"
 
-#: app/presenters/p_phonenumber.php:353
+#: app/presenters/p_phonenumber.php:355
 msgid "You have become a victim of harassment?"
 msgstr "Stali jste se terčem obtěžování?"
 
-#: app/presenters/p_phonenumber.php:354
+#: app/presenters/p_phonenumber.php:356
 msgid "Did someone offer You some insurance?"
 msgstr "Nabízel vám někdo pojištění?"
 
-#: app/presenters/p_phonenumber.php:355
+#: app/presenters/p_phonenumber.php:357
 msgid "Have You been facing the unwanted services?"
 msgstr "Vnucoval vám někdo nevyžádané služby?"
 
-#: app/presenters/p_phonenumber.php:357
+#: app/presenters/p_phonenumber.php:359
 msgid "Did someone offer You apparently beneficial contracts?"
 msgstr "Nabízel vám někdo zdánlivě výhodné smlouvy?"
 
-#: app/presenters/p_phonenumber.php:361
+#: app/presenters/p_phonenumber.php:363
 msgid "Or is this rally some good service?"
 msgstr "Nebo jde o nějakou skutečně dobrou službu?"
 
-#: app/presenters/p_phonenumber.php:362
+#: app/presenters/p_phonenumber.php:364
 msgid "Or is this Your friend's phone number?"
 msgstr "Nebo naopak jde o telefon vašeho známého?"
 
-#: app/presenters/p_phonenumber.php:363
+#: app/presenters/p_phonenumber.php:365
 msgid "Or is this a phone number serving for Your company?"
 msgstr "Nebo jde o kontaktní telefon vaší firmy?"
 
-#: app/presenters/p_phonenumber.php:364
+#: app/presenters/p_phonenumber.php:366
 msgid "Or is this a phone number of a reliable financial advisor?"
 msgstr "Nebo jde o telefon dobrého finančního poradce?"
 
-#: app/presenters/p_phonenumber.php:365
+#: app/presenters/p_phonenumber.php:367
 msgid "Or is this a safe phone number?"
 msgstr "Nebo jde o bezpečné telefonní číslo?"
 
-#: app/presenters/p_phonenumber.php:366
+#: app/presenters/p_phonenumber.php:368
 msgid "Or is this a purely private phone number?"
 msgstr "Nebo naopak jde o soukromé telefonní číslo?"
 
-#: app/presenters/p_phonenumber.php:367
+#: app/presenters/p_phonenumber.php:369
 msgid "Or is this someone You know?"
 msgstr "Nebo jde o někoho, koho znáte?"
 
-#: app/presenters/p_phonenumber.php:368
+#: app/presenters/p_phonenumber.php:370
 msgid "Or is this phone number useful?"
 msgstr "Nebo je telefonní číslo užitečné?"
 
-#: app/presenters/p_phonenumber.php:369
+#: app/presenters/p_phonenumber.php:371
 msgid "Or does this number belong to some of Your friends?"
 msgstr "Nebo je to telefonní číslo vašeho známéno?"
 
-#: app/presenters/p_phonenumber.php:370
+#: app/presenters/p_phonenumber.php:372
 msgid "Or is this Your own phone number?"
 msgstr "Nebo jde o vaše vlastní telefonní číslo?"
 
-#: app/presenters/p_phonenumber.php:374
+#: app/presenters/p_phonenumber.php:376
 msgid "Share Your experience."
 msgstr "Podělte se o svoje zkušenosti."
 
-#: app/presenters/p_phonenumber.php:375
+#: app/presenters/p_phonenumber.php:377
 msgid "Do not keep the information just for yourself."
 msgstr "Nenechávejte si informace pro sebe."
 
-#: app/presenters/p_phonenumber.php:376
+#: app/presenters/p_phonenumber.php:378
 msgid "Share Your experience with the others."
 msgstr "Podělte se s ostatními o svoje zkušenosti."
 
-#: app/presenters/p_phonenumber.php:377
+#: app/presenters/p_phonenumber.php:379
 msgid "Pass Your experience to the other users."
 msgstr "Předejte svoje zkušenosti dál."
 
-#: app/presenters/p_phonenumber.php:378
+#: app/presenters/p_phonenumber.php:380
 msgid "Is there something You would like to tell the others?"
 msgstr "Máte informace, které chcete předat ostatním?"
 
-#: app/presenters/p_phonenumber.php:379
+#: app/presenters/p_phonenumber.php:381
 msgid "Is there some info You can share?"
 msgstr "Víte něco, co chcete sdělit ostatním?"
 
-#: app/presenters/p_phonenumber.php:380
+#: app/presenters/p_phonenumber.php:382
 msgid "Do You know more?"
 msgstr "Víte víc?"
 
-#: app/presenters/p_phonenumber.php:381
+#: app/presenters/p_phonenumber.php:383
 msgid "Do You know more? Share it with the others."
 msgstr "Víte víc? Nenechávejte si to pro sebe."
 
-#: app/presenters/p_phonenumber.php:382
+#: app/presenters/p_phonenumber.php:384
 msgid "Do You know more? Pass Your experience to the other users."
 msgstr "Víte víc? Předejte svoje zkušenosti dál."
 
-#: app/presenters/p_phonenumber.php:383
+#: app/presenters/p_phonenumber.php:385
 msgid "Do You know more? Share Your experience with the others."
 msgstr "Víte víc? Podělte se o svoje zkušenosti s ostatními."
 
-#: app/presenters/p_phonenumber.php:387
+#: app/presenters/p_phonenumber.php:389
 msgid "Write to us, "
 msgstr "Napište nám a "
 
-#: app/presenters/p_phonenumber.php:388
+#: app/presenters/p_phonenumber.php:390
 msgid "Fill the form, "
 msgstr "Vyplňte formulář a "
 
-#: app/presenters/p_phonenumber.php:389
+#: app/presenters/p_phonenumber.php:391
 msgid "Fill the form and "
 msgstr "Vyplňte náš formulář a "
 
-#: app/presenters/p_phonenumber.php:390
+#: app/presenters/p_phonenumber.php:392
 msgid "Write to us (it is not necessary to state Your real name) and "
 msgstr "Napište nám (nemusíte uvádět své skutečné jméno) a "
 
-#: app/presenters/p_phonenumber.php:391
+#: app/presenters/p_phonenumber.php:393
 msgid "Leave a message using our form and "
 msgstr "Zanechte vzkaz prostřednictvím našeho formuláře a "
 
-#: app/presenters/p_phonenumber.php:392
+#: app/presenters/p_phonenumber.php:394
 msgid "Share Your experience and "
 msgstr "Popište svoje zkušenosti a "
 
-#: app/presenters/p_phonenumber.php:393
+#: app/presenters/p_phonenumber.php:395
 msgid "Leave a message and "
 msgstr "Zanechte nám vzkaz a "
 
-#: app/presenters/p_phonenumber.php:394
+#: app/presenters/p_phonenumber.php:396
 msgid "Describe Your experience using our form and "
 msgstr "Popište své zkušenosti prostřednictvím našeho formuláře a "
 
-#: app/presenters/p_phonenumber.php:395
+#: app/presenters/p_phonenumber.php:397
 msgid "Give us Your opinion and "
 msgstr "Sdělte nám svůj názor a "
 
-#: app/presenters/p_phonenumber.php:396
+#: app/presenters/p_phonenumber.php:398
 msgid "Rate this phone number using the form and "
 msgstr "Ohodnoťte telefonní číslo prostřednictvím formuláře a "
 
-#: app/presenters/p_phonenumber.php:400
+#: app/presenters/p_phonenumber.php:402
 msgid "this will help the other users."
 msgstr "pomůžete ostatním."
 
-#: app/presenters/p_phonenumber.php:401
+#: app/presenters/p_phonenumber.php:403
 msgid "this will help the other users to have a more clear information."
 msgstr "pomůžete se zorientovat ostatním."
 
-#: app/presenters/p_phonenumber.php:402
+#: app/presenters/p_phonenumber.php:404
 msgid "other users can use this information."
 msgstr "díky vám i ostatní budou chytřejší."
 
-#: app/presenters/p_phonenumber.php:403
+#: app/presenters/p_phonenumber.php:405
 msgid "the information can be used by the other users."
 msgstr "informace budou moci využívat i ostatní uživatelé."
 
-#: app/presenters/p_phonenumber.php:404
+#: app/presenters/p_phonenumber.php:406
 msgid "the other users will appreciate it."
 msgstr "ostatní uživatelé to ocení."
 
-#: app/presenters/p_phonenumber.php:405
+#: app/presenters/p_phonenumber.php:407
 msgid "the other users will use it for their benefit."
 msgstr "ostatní uživatelé tuto informaci s povděkem využijí."
 
-#: app/presenters/p_phonenumber.php:406
+#: app/presenters/p_phonenumber.php:408
 msgid "the information can be useful for other users."
 msgstr "tato informace může pomoci ostatním uživatelům."
 
-#: app/presenters/p_phonenumber.php:407
+#: app/presenters/p_phonenumber.php:409
 msgid "You will help also the other users."
 msgstr "pomůžete i ostatním tápajícím uživatelům."
 
-#: app/presenters/p_phonenumber.php:408
+#: app/presenters/p_phonenumber.php:410
 msgid "thanks to You the others will be better informed."
 msgstr "díky Vám se zorientují i ostatní."
 
-#: app/presenters/p_phonenumber.php:409
+#: app/presenters/p_phonenumber.php:411
 msgid "the other users can benefit from this information."
 msgstr "ostatní uživatelé mohou těžit z této informace."
 
-#: app/presenters/p_phonenumber.php:413
+#: app/presenters/p_phonenumber.php:415
 msgid "Thank You for Your review."
 msgstr "Děkujeme za Váš příspěvek."
 
-#: app/presenters/p_phonenumber.php:414
+#: app/presenters/p_phonenumber.php:416
 msgid "Thank You for Your reaction."
 msgstr "Děkujeme za Vaši reakci."
 
-#: app/presenters/p_phonenumber.php:415
+#: app/presenters/p_phonenumber.php:417
 msgid "We would appreciate Your reaction."
 msgstr "Budeme rádi, když přispějete."
 
-#: app/presenters/p_phonenumber.php:416
+#: app/presenters/p_phonenumber.php:418
 msgid "We would appreciate Your review."
 msgstr "Budeme rádi, když nám napíšete."
 
-#: app/presenters/p_phonenumber.php:417
+#: app/presenters/p_phonenumber.php:419
 msgid "We would appreciate if You share Your experience."
 msgstr "Budeme rádi, když svými zkušenostmi přispějete."
 
-#: app/presenters/p_phonenumber.php:418
+#: app/presenters/p_phonenumber.php:420
 msgid "Thank You in advance for Your review."
 msgstr "Předem děkujeme za Váš příspěvek."
 
-#: app/presenters/p_phonenumber.php:419
+#: app/presenters/p_phonenumber.php:421
 msgid "Thank You for Your comment."
 msgstr "Děkujeme za Váš komentář."
 
-#: app/presenters/p_phonenumber.php:420
+#: app/presenters/p_phonenumber.php:422
 msgid "Thank You in advance for Your comment."
 msgstr "Děkujeme předem za Váš názor."
 
-#: app/presenters/p_phonenumber.php:421
+#: app/presenters/p_phonenumber.php:423
 msgid "We would appreciate if You share Your statement."
 msgstr "Budeme rádi, když se podělíte o svoje zkušenosti."
 
-#: app/presenters/p_phonenumber.php:422
+#: app/presenters/p_phonenumber.php:424
 msgid "Thank You for Your post."
 msgstr "Děkujeme za Vaši reakci."
 
-#: app/presenters/p_phonenumber.php:431
+#: app/presenters/p_phonenumber.php:433
 msgid "Phone number should be fixed line."
 msgstr "Toto telefonní číslo by měla být pevná linka."
 
-#: app/presenters/p_phonenumber.php:432
+#: app/presenters/p_phonenumber.php:434
 msgid "Phone number should be mobile line."
 msgstr "Toto telefonní číslo by mělo patřit do mobilní sítě."
 
-#: app/presenters/p_phonenumber.php:433
+#: app/presenters/p_phonenumber.php:435
 msgid "Phone number should be fixed or mobile line."
 msgstr "Toto telefonní číslo by mělo být z pevné nebo mobilní linky."
 
-#: app/presenters/p_phonenumber.php:434
+#: app/presenters/p_phonenumber.php:436
 msgid "Phone number should be toll free."
 msgstr "Toto telefonní číslo by mělo být bez poplatku."
 
-#: app/presenters/p_phonenumber.php:435
+#: app/presenters/p_phonenumber.php:437
 msgid "Phone number should be for premium rate. Be carefull."
 msgstr "Toto telefonní číslo by mělo být za prémiovou cenu. Buďte opatrní."
 
-#: app/presenters/p_phonenumber.php:436
+#: app/presenters/p_phonenumber.php:438
 msgid ""
 "Phone number should be for shared rate. It should be cheaper than standard "
 "call."
@@ -373,27 +373,27 @@ msgstr ""
 "Toto telefonní číslo by mělo být za dotovanou cenu. Volání by mělo být "
 "levnější, než běžný hovor. "
 
-#: app/presenters/p_phonenumber.php:437
+#: app/presenters/p_phonenumber.php:439
 msgid "Phone number should be voice over ip."
 msgstr "Toto telefonní číslo by mělo být VOIP."
 
-#: app/presenters/p_phonenumber.php:438
+#: app/presenters/p_phonenumber.php:440
 msgid "Phone number should be personal line."
 msgstr "Toto telefonní číslo by mělo být soukromé."
 
-#: app/presenters/p_phonenumber.php:439
+#: app/presenters/p_phonenumber.php:441
 msgid "Phone number should be pager."
 msgstr "Toto telefonní číslo by mělo být pager."
 
-#: app/presenters/p_phonenumber.php:440
+#: app/presenters/p_phonenumber.php:442
 msgid "Phone number should belong some  company."
 msgstr "Toto telefonní číslo by mělo patřit nějaké společnosti."
 
-#: app/presenters/p_phonenumber.php:441
+#: app/presenters/p_phonenumber.php:443
 msgid "Phone number should be for emergency call."
 msgstr "Toto telefonní číslo by mělo patřit k nouzovému volání."
 
-#: app/presenters/p_phonenumber.php:452
+#: app/presenters/p_phonenumber.php:454
 msgid ""
 "During the last days this number has been very often searched also by other "
 "users. This can be a mark of global call centre or marketing action, so be "
@@ -403,7 +403,7 @@ msgstr ""
 "uživateli. To může být známka obecného call centra nebo marketingové "
 "kampaně, dejte si radši pozor."
 
-#: app/presenters/p_phonenumber.php:453
+#: app/presenters/p_phonenumber.php:455
 msgid ""
 "This number very probably doesn't belong to any individual - we have noticed "
 "very frequent searches of this number during last days, which can be a mark "
@@ -415,7 +415,7 @@ msgstr ""
 "znakem jeho širokého používání, pravděpodobně k marketingovým účelům. Zřejmě "
 "bude zdrojem nevyžádaných telefonátů."
 
-#: app/presenters/p_phonenumber.php:454
+#: app/presenters/p_phonenumber.php:456
 msgid ""
 "Users were searching for this number very often recently also here on our "
 "pages, which can be a sing of some telemarketing company or call centre "
@@ -425,7 +425,7 @@ msgstr ""
 "stránkách, což může být znakem telemarketingové společnosti nebo call "
 "centra, které jej používá. Dejte si pozor, pokud vám toto číslo zavolá."
 
-#: app/presenters/p_phonenumber.php:455
+#: app/presenters/p_phonenumber.php:457
 msgid ""
 "Even the number has no review actually it was searched many time in last few "
 "days. It probably doesn't belong to some individual and is widely used by "
@@ -436,7 +436,7 @@ msgstr ""
 "využíváno některou telemarketingovou společností, může být pro vás "
 "nevyžádaným hovorem."
 
-#: app/presenters/p_phonenumber.php:456
+#: app/presenters/p_phonenumber.php:458
 msgid ""
 "This number was frequently searched during last couple of days. It is very "
 "likely used for telemarketing actions and doesn't belong to a private "
@@ -552,10 +552,10 @@ msgstr ""
 "tudíž se nyní zdá být bezpečné."
 
 #: app/repositories/r_reviews.php:152
-#: app/templates/phonenumber/defaultDefault.tpl:587
-#: app/templates/phonenumber/defaultModerator.tpl:598
+#: app/templates/phonenumber/defaultDefault.tpl:590
+#: app/templates/phonenumber/defaultModerator.tpl:603
 #: app/templates/phonenumber/defaultNew.tpl:570
-#: app/templates/phonenumber/defaultNewReloaded.tpl:592
+#: app/templates/phonenumber/defaultNewReloaded.tpl:595
 #: app/templates/phonenumber/defaultNext.tpl:655
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:586
 msgid ""
@@ -700,7 +700,7 @@ msgstr "Administrátorský login"
 
 #: app/templates/adminlogout/default.tpl:16
 msgid "Logout page"
-msgstr ""
+msgstr "Odhlašovací obrazovka"
 
 #: app/templates/compatibility/default.tpl:16
 msgid "Phone App Compatibility"
@@ -890,24 +890,24 @@ msgid "Please fill the issue description"
 msgstr "Vyplňte prosím popis problému"
 
 #: app/templates/compatibility/default.tpl:202
-#: app/templates/phonenumber/defaultModerator.tpl:386
+#: app/templates/phonenumber/defaultModerator.tpl:391
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:385
-#: app/templates/removalrequest/default.tpl:202
+#: app/templates/removalrequest/default.tpl:206
 msgid "Email"
 msgstr "Email"
 
 #: app/templates/compatibility/default.tpl:203
-#: app/templates/removalrequest/default.tpl:203
+#: app/templates/removalrequest/default.tpl:207
 msgid "Please enter your email"
 msgstr "Prosím zadejte váš email"
 
 #: app/templates/compatibility/default.tpl:206
-#: app/templates/removalrequest/default.tpl:206
+#: app/templates/removalrequest/default.tpl:210
 msgid "Please enter your valid email"
 msgstr "Prosím zadejte váš validní email"
 
 #: app/templates/compatibility/default.tpl:212
-#: app/templates/removalrequest/default.tpl:237
+#: app/templates/removalrequest/default.tpl:241
 msgid ""
 "If possible please communicate in English language to speed up the request "
 "processing."
@@ -916,7 +916,7 @@ msgstr ""
 "zpracování žádosti."
 
 #: app/templates/compatibility/default.tpl:213
-#: app/templates/removalrequest/default.tpl:238
+#: app/templates/removalrequest/default.tpl:242
 msgid ""
 "If you have problems with submitting this form, please contact us to email "
 "<strong>support@shouldianswer.net</strong>."
@@ -991,11 +991,11 @@ msgstr ""
 #: app/templates/default/defaultDefault.tpl:41
 #: app/templates/default/defaultNewReloaded.tpl:52 app/templates/layout.tpl:291
 #: app/templates/layoutNew.tpl:281 app/templates/layoutNewReloaded.tpl:290
-#: app/templates/phonenumber/defaultDefault.tpl:197
-#: app/templates/phonenumber/defaultDefault.tpl:235
-#: app/templates/phonenumber/defaultDefault.tpl:273
+#: app/templates/phonenumber/defaultDefault.tpl:198
+#: app/templates/phonenumber/defaultDefault.tpl:236
+#: app/templates/phonenumber/defaultDefault.tpl:274
 #: app/templates/phonenumber/defaultNew.tpl:592
-#: app/templates/phonenumber/defaultNewReloaded.tpl:614
+#: app/templates/phonenumber/defaultNewReloaded.tpl:617
 #: app/templates/phonenumber/defaultNext.tpl:682
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:233
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:271
@@ -1009,11 +1009,11 @@ msgstr "Jak zablokovat nevyžádané hovory?"
 #: app/templates/default/default_ww.tpl:119 app/templates/layout.tpl:293
 #: app/templates/layoutNew.tpl:283 app/templates/layoutNewReloaded.tpl:292
 #: app/templates/net/default.tpl:58
-#: app/templates/phonenumber/defaultDefault.tpl:211
-#: app/templates/phonenumber/defaultDefault.tpl:249
-#: app/templates/phonenumber/defaultDefault.tpl:278
+#: app/templates/phonenumber/defaultDefault.tpl:212
+#: app/templates/phonenumber/defaultDefault.tpl:250
+#: app/templates/phonenumber/defaultDefault.tpl:279
 #: app/templates/phonenumber/defaultNew.tpl:599
-#: app/templates/phonenumber/defaultNewReloaded.tpl:619
+#: app/templates/phonenumber/defaultNewReloaded.tpl:622
 #: app/templates/phonenumber/defaultNext.tpl:690
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:247
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:285
@@ -1027,11 +1027,11 @@ msgstr "Máme pro vás jednoduché řešení!"
 #: app/templates/default/default_ww.tpl:120 app/templates/layout.tpl:294
 #: app/templates/layoutNew.tpl:284 app/templates/layoutNewReloaded.tpl:293
 #: app/templates/net/default.tpl:59
-#: app/templates/phonenumber/defaultDefault.tpl:211
-#: app/templates/phonenumber/defaultDefault.tpl:249
-#: app/templates/phonenumber/defaultDefault.tpl:279
+#: app/templates/phonenumber/defaultDefault.tpl:212
+#: app/templates/phonenumber/defaultDefault.tpl:250
+#: app/templates/phonenumber/defaultDefault.tpl:280
 #: app/templates/phonenumber/defaultNew.tpl:600
-#: app/templates/phonenumber/defaultNewReloaded.tpl:620
+#: app/templates/phonenumber/defaultNewReloaded.tpl:623
 #: app/templates/phonenumber/defaultNext.tpl:691
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:247
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:285
@@ -1049,11 +1049,11 @@ msgstr ""
 #: app/templates/default/default_ww.tpl:116 app/templates/layout.tpl:303
 #: app/templates/layoutNew.tpl:293 app/templates/layoutNewReloaded.tpl:301
 #: app/templates/layout_default.tpl:52 app/templates/net/default.tpl:55
-#: app/templates/phonenumber/defaultDefault.tpl:222
-#: app/templates/phonenumber/defaultDefault.tpl:260
-#: app/templates/phonenumber/defaultDefault.tpl:287
+#: app/templates/phonenumber/defaultDefault.tpl:223
+#: app/templates/phonenumber/defaultDefault.tpl:261
+#: app/templates/phonenumber/defaultDefault.tpl:288
 #: app/templates/phonenumber/defaultNew.tpl:608
-#: app/templates/phonenumber/defaultNewReloaded.tpl:626
+#: app/templates/phonenumber/defaultNewReloaded.tpl:629
 #: app/templates/phonenumber/defaultNext.tpl:699
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:258
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:296
@@ -1084,17 +1084,17 @@ msgid "Latest rating was"
 msgstr "Poslední hodnocení je"
 
 #: app/templates/default/defaultDefault.tpl:157
-#: app/templates/phonenumber/defaultDefault.tpl:113
-#: app/templates/phonenumber/defaultDefault.tpl:316
-#: app/templates/phonenumber/defaultModerator.tpl:113
-#: app/templates/phonenumber/defaultModerator.tpl:147
-#: app/templates/phonenumber/defaultModerator.tpl:347
+#: app/templates/phonenumber/defaultDefault.tpl:114
+#: app/templates/phonenumber/defaultDefault.tpl:319
+#: app/templates/phonenumber/defaultModerator.tpl:119
+#: app/templates/phonenumber/defaultModerator.tpl:153
+#: app/templates/phonenumber/defaultModerator.tpl:353
 #: app/templates/phonenumber/defaultNew.tpl:144
 #: app/templates/phonenumber/defaultNew.tpl:181
 #: app/templates/phonenumber/defaultNew.tpl:332
-#: app/templates/phonenumber/defaultNewReloaded.tpl:151
-#: app/templates/phonenumber/defaultNewReloaded.tpl:185
-#: app/templates/phonenumber/defaultNewReloaded.tpl:348
+#: app/templates/phonenumber/defaultNewReloaded.tpl:153
+#: app/templates/phonenumber/defaultNewReloaded.tpl:187
+#: app/templates/phonenumber/defaultNewReloaded.tpl:351
 #: app/templates/phonenumber/defaultNext.tpl:227
 #: app/templates/phonenumber/defaultNext.tpl:264
 #: app/templates/phonenumber/defaultNext.tpl:410
@@ -1104,17 +1104,17 @@ msgid "positive"
 msgstr "pozitivní"
 
 #: app/templates/default/defaultDefault.tpl:160
-#: app/templates/phonenumber/defaultDefault.tpl:112
-#: app/templates/phonenumber/defaultDefault.tpl:318
-#: app/templates/phonenumber/defaultModerator.tpl:112
-#: app/templates/phonenumber/defaultModerator.tpl:150
-#: app/templates/phonenumber/defaultModerator.tpl:349
+#: app/templates/phonenumber/defaultDefault.tpl:113
+#: app/templates/phonenumber/defaultDefault.tpl:321
+#: app/templates/phonenumber/defaultModerator.tpl:118
+#: app/templates/phonenumber/defaultModerator.tpl:156
+#: app/templates/phonenumber/defaultModerator.tpl:355
 #: app/templates/phonenumber/defaultNew.tpl:143
 #: app/templates/phonenumber/defaultNew.tpl:184
 #: app/templates/phonenumber/defaultNew.tpl:334
-#: app/templates/phonenumber/defaultNewReloaded.tpl:150
-#: app/templates/phonenumber/defaultNewReloaded.tpl:188
-#: app/templates/phonenumber/defaultNewReloaded.tpl:350
+#: app/templates/phonenumber/defaultNewReloaded.tpl:152
+#: app/templates/phonenumber/defaultNewReloaded.tpl:190
+#: app/templates/phonenumber/defaultNewReloaded.tpl:353
 #: app/templates/phonenumber/defaultNext.tpl:226
 #: app/templates/phonenumber/defaultNext.tpl:267
 #: app/templates/phonenumber/defaultNext.tpl:412
@@ -1124,17 +1124,17 @@ msgid "negative"
 msgstr "negativní"
 
 #: app/templates/default/defaultDefault.tpl:163
-#: app/templates/phonenumber/defaultDefault.tpl:111
-#: app/templates/phonenumber/defaultDefault.tpl:317
-#: app/templates/phonenumber/defaultModerator.tpl:111
-#: app/templates/phonenumber/defaultModerator.tpl:153
-#: app/templates/phonenumber/defaultModerator.tpl:348
+#: app/templates/phonenumber/defaultDefault.tpl:112
+#: app/templates/phonenumber/defaultDefault.tpl:320
+#: app/templates/phonenumber/defaultModerator.tpl:117
+#: app/templates/phonenumber/defaultModerator.tpl:159
+#: app/templates/phonenumber/defaultModerator.tpl:354
 #: app/templates/phonenumber/defaultNew.tpl:142
 #: app/templates/phonenumber/defaultNew.tpl:187
 #: app/templates/phonenumber/defaultNew.tpl:333
-#: app/templates/phonenumber/defaultNewReloaded.tpl:149
-#: app/templates/phonenumber/defaultNewReloaded.tpl:191
-#: app/templates/phonenumber/defaultNewReloaded.tpl:349
+#: app/templates/phonenumber/defaultNewReloaded.tpl:151
+#: app/templates/phonenumber/defaultNewReloaded.tpl:193
+#: app/templates/phonenumber/defaultNewReloaded.tpl:352
 #: app/templates/phonenumber/defaultNext.tpl:225
 #: app/templates/phonenumber/defaultNext.tpl:270
 #: app/templates/phonenumber/defaultNext.tpl:411
@@ -1225,7 +1225,7 @@ msgstr "Pro telefonní čísla ve vaší lokalitě (%s) použijte"
 msgid "Close"
 msgstr "Zavřít"
 
-#: app/templates/layout.tpl:206 app/templates/layoutAmp.tpl:135
+#: app/templates/layout.tpl:206 app/templates/layoutAmp.tpl:158
 #: app/templates/layoutNew.tpl:203
 #, php-format
 msgid "You are logged as moderator."
@@ -1245,42 +1245,42 @@ msgstr "vyhledejte telefonní číslo"
 msgid "search"
 msgstr "hledat"
 
-#: app/templates/layout.tpl:269 app/templates/layoutAmp.tpl:171
+#: app/templates/layout.tpl:269 app/templates/layoutAmp.tpl:194
 #: app/templates/layoutNew.tpl:259 app/templates/layoutNewReloaded.tpl:273
 msgid "about"
 msgstr "o službě"
 
-#: app/templates/layout.tpl:270 app/templates/layoutAmp.tpl:172
+#: app/templates/layout.tpl:270 app/templates/layoutAmp.tpl:195
 #: app/templates/layoutNew.tpl:260 app/templates/layoutNewReloaded.tpl:274
 msgid "blog"
 msgstr "blog"
 
-#: app/templates/layout.tpl:271 app/templates/layoutAmp.tpl:173
+#: app/templates/layout.tpl:271 app/templates/layoutAmp.tpl:196
 #: app/templates/layoutNew.tpl:261 app/templates/layoutNewReloaded.tpl:275
 msgid "terms"
 msgstr "všeobecné podmínky"
 
-#: app/templates/layout.tpl:272 app/templates/layoutAmp.tpl:174
+#: app/templates/layout.tpl:272 app/templates/layoutAmp.tpl:197
 #: app/templates/layoutNew.tpl:262 app/templates/layoutNewReloaded.tpl:276
 msgid "manual"
 msgstr "manuál"
 
-#: app/templates/layout.tpl:273 app/templates/layoutAmp.tpl:175
+#: app/templates/layout.tpl:273 app/templates/layoutAmp.tpl:198
 #: app/templates/layoutNew.tpl:263 app/templates/layoutNewReloaded.tpl:277
 msgid "contact"
 msgstr "kontakt"
 
-#: app/templates/layout.tpl:274 app/templates/layoutAmp.tpl:176
+#: app/templates/layout.tpl:274 app/templates/layoutAmp.tpl:199
 #: app/templates/layoutNew.tpl:264 app/templates/layoutNewReloaded.tpl:278
 msgid "history"
 msgstr "historie"
 
-#: app/templates/layout.tpl:275 app/templates/layoutAmp.tpl:177
+#: app/templates/layout.tpl:275 app/templates/layoutAmp.tpl:200
 #: app/templates/layoutNew.tpl:265 app/templates/layoutNewReloaded.tpl:279
 msgid "shouldianswer.net"
 msgstr "muzutozvednout.cz"
 
-#: app/templates/layoutAmp.tpl:142 app/templates/layoutAmp.tpl:143
+#: app/templates/layoutAmp.tpl:165 app/templates/layoutAmp.tpl:166
 #: app/templates/layoutNewReloaded.tpl:228
 #: app/templates/layoutNewReloaded.tpl:229
 #: app/templates/layout_mobileapp.tpl:69 app/templates/mobilemanual/8.tpl:538
@@ -1687,8 +1687,8 @@ msgstr ""
 "významem:"
 
 #: app/templates/mobilemanual/8.tpl:228
-#: app/templates/phonenumber/defaultDefault.tpl:426
-#: app/templates/phonenumber/defaultModerator.tpl:458
+#: app/templates/phonenumber/defaultDefault.tpl:429
+#: app/templates/phonenumber/defaultModerator.tpl:463
 #: app/templates/phonenumber/defaultNew.tpl:419
 #: app/templates/phonenumber/defaultNext.tpl:497
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:462
@@ -1696,8 +1696,8 @@ msgid "negative rating"
 msgstr "negativní hodnocení"
 
 #: app/templates/mobilemanual/8.tpl:229
-#: app/templates/phonenumber/defaultDefault.tpl:430
-#: app/templates/phonenumber/defaultModerator.tpl:462
+#: app/templates/phonenumber/defaultDefault.tpl:433
+#: app/templates/phonenumber/defaultModerator.tpl:467
 #: app/templates/phonenumber/defaultNew.tpl:423
 #: app/templates/phonenumber/defaultNext.tpl:501
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:466
@@ -1705,8 +1705,8 @@ msgid "neutral rating"
 msgstr "neutrální hodnocení"
 
 #: app/templates/mobilemanual/8.tpl:230
-#: app/templates/phonenumber/defaultDefault.tpl:422
-#: app/templates/phonenumber/defaultModerator.tpl:454
+#: app/templates/phonenumber/defaultDefault.tpl:425
+#: app/templates/phonenumber/defaultModerator.tpl:459
 #: app/templates/phonenumber/defaultNew.tpl:415
 #: app/templates/phonenumber/defaultNext.tpl:493
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:458
@@ -1906,18 +1906,25 @@ msgid ""
 "blocked. If you do'nt want to block numbers according to community database "
 "rating, then check the second option"
 msgstr ""
+"V prvních dvou položkách můžete zaškrtnout, která telefonní čísla nebudou "
+"nikdy blokována. Pokud nechcete blokovat čísla na yákladě hodnocení z "
+"komunitní databáze, zaškrtněte druhou položku"
 
 #: app/templates/mobilemanual/8.tpl:305
 msgid ""
 "For incoming calls you can block negative rated numbers, hidden numbers and "
 "all numbers."
 msgstr ""
+"Pro příchozí hovory lze blokovat negativně hodnocená čísla, skrytá čísla a "
+"všechna čísla."
 
 #: app/templates/mobilemanual/8.tpl:306
 msgid ""
 "For outgoing calls you can block negative rated numbers, premium numbers, "
 "foreign numbers and all numbers."
 msgstr ""
+"Pro odchozí hovory lze blokovat negativně hodnocená, prémiová čísla, "
+"zahraniční čísla a všechna čísla."
 
 #: app/templates/mobilemanual/8.tpl:307
 msgid ""
@@ -1925,6 +1932,9 @@ msgid ""
 "functionality, a compatible SMS manager must be installed, please read the "
 "help screen displayed if you check this item."
 msgstr ""
+"Co se týče příchozích SMS a MMS, můžete zablokovat SMS i MMS. Pro tuto "
+"funkci musí být nainstalován kompatibilní SMS manažer, přečtěte si prosím "
+"nápovědu zobrazenou při zaškrtnutí této položky."
 
 #: app/templates/mobilemanual/8.tpl:308
 msgid ""
@@ -2351,10 +2361,9 @@ msgstr ""
 "konfiguraci vaší aplikace."
 
 #: app/templates/mobilemanual/8.tpl:438
-msgid "strong>Online Manual</strong> opens the internet page with this manual."
+msgid ""
+"<strong>Online Manual</strong> opens the internet page with this manual."
 msgstr ""
-"<strong>Manuál k aplikaci</strong> otevře internetovou stránku s tímto "
-"návodem."
 
 #: app/templates/mobilemanual/8.tpl:439
 msgid ""
@@ -2370,11 +2379,9 @@ msgstr ""
 
 #: app/templates/mobilemanual/8.tpl:440
 msgid ""
-"strong>Terms of Use</strong> opens the internet page with terms of use of "
+"<strong>Terms of Use</strong> opens the internet page with terms of use of "
 "this product."
 msgstr ""
-"<strong>Podmínky používání</strong> otevřou internetovou stránku s "
-"podmínkami používání tohoto výrobku."
 
 #: app/templates/mobilemanual/8.tpl:441
 msgid ""
@@ -2463,7 +2470,7 @@ msgstr ""
 "aplikace."
 
 #: app/templates/mobilemanual/8.tpl:472
-#: app/templates/removalrequest/default.tpl:239
+#: app/templates/removalrequest/default.tpl:243
 #: app/templates/termsapp/default.tpl:17
 msgid "Terms Of Use"
 msgstr "Všeobecné podmínky"
@@ -2634,7 +2641,7 @@ msgstr ""
 "zkuste jiné číslo, máme obrovskou databázi. Děkujeme!"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:23
-#: app/templates/phonenumber/defaultDefault.tpl:21
+#: app/templates/phonenumber/defaultDefault.tpl:22
 #: app/templates/phonenumber/defaultModerator.tpl:21
 #: app/templates/phonenumber/defaultNew.tpl:21
 #: app/templates/phonenumber/defaultNewReloaded.tpl:21
@@ -2645,7 +2652,7 @@ msgid "Who called you from %s ?"
 msgstr "Kdo vám volal z čísla %s ?"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:24
-#: app/templates/phonenumber/defaultDefault.tpl:23
+#: app/templates/phonenumber/defaultDefault.tpl:24
 #: app/templates/phonenumber/defaultModerator.tpl:22
 #: app/templates/phonenumber/defaultNew.tpl:22
 #: app/templates/phonenumber/defaultNewReloaded.tpl:22
@@ -2660,8 +2667,8 @@ msgstr ""
 "volal a jaká jsou hodnocení ostatních."
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:54
-#: app/templates/phonenumber/defaultDefault.tpl:101
-#: app/templates/phonenumber/defaultModerator.tpl:87
+#: app/templates/phonenumber/defaultDefault.tpl:102
+#: app/templates/phonenumber/defaultModerator.tpl:93
 #: app/templates/phonenumber/defaultNew.tpl:132
 #: app/templates/phonenumber/defaultNewReloaded.tpl:139
 #: app/templates/phonenumber/defaultNext.tpl:216
@@ -2702,23 +2709,23 @@ msgid "ShouldIAnswer Team"
 msgstr "Tým Můžu To Zvednout"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:76
-#: app/templates/phonenumber/defaultDefault.tpl:629
+#: app/templates/phonenumber/defaultDefault.tpl:632
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:628
 #, php-format
 msgid "Possible <strong>formats</strong> of the  %s"
 msgstr "Možné <strong>zápisy</strong> čísla %s"
 
 #: app/templates/phonenumber/accessTemporalyLimited.tpl:95
-#: app/templates/phonenumber/defaultDefault.tpl:652
-#: app/templates/phonenumber/defaultModerator.tpl:631
+#: app/templates/phonenumber/defaultDefault.tpl:655
+#: app/templates/phonenumber/defaultModerator.tpl:636
 #: app/templates/phonenumber/defaultNew.tpl:628
-#: app/templates/phonenumber/defaultNewReloaded.tpl:645
+#: app/templates/phonenumber/defaultNewReloaded.tpl:648
 #: app/templates/phonenumber/defaultNext.tpl:720
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:647
 msgid "<strong>Searching</strong> for similar phone numbers?"
 msgstr "<strong>Nehledali</strong> jste také tato čísla?"
 
-#: app/templates/phonenumber/defaultDefault.tpl:30
+#: app/templates/phonenumber/defaultDefault.tpl:31
 #: app/templates/phonenumber/defaultNew.tpl:29
 #: app/templates/phonenumber/defaultNewReloaded.tpl:29
 #: app/templates/phonenumber/defaultNext.tpl:29
@@ -2726,25 +2733,25 @@ msgstr "<strong>Nehledali</strong> jste také tato čísla?"
 msgid "We have details about phone number %s. "
 msgstr "Máme detailní informace o telefonním čísle %s. "
 
-#: app/templates/phonenumber/defaultDefault.tpl:98
+#: app/templates/phonenumber/defaultDefault.tpl:99
 msgid "Actualization"
 msgstr "Aktualizace"
 
-#: app/templates/phonenumber/defaultDefault.tpl:137
+#: app/templates/phonenumber/defaultDefault.tpl:138
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:92
 msgid "Details"
 msgstr "Detaily"
 
-#: app/templates/phonenumber/defaultDefault.tpl:143
+#: app/templates/phonenumber/defaultDefault.tpl:144
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:98
 msgid "You rating can help the others to be informed about this number."
 msgstr "Vaše hodnocení pomůže ostatním získat informace o tomto čísle."
 
-#: app/templates/phonenumber/defaultDefault.tpl:195
-#: app/templates/phonenumber/defaultDefault.tpl:233
-#: app/templates/phonenumber/defaultDefault.tpl:271
+#: app/templates/phonenumber/defaultDefault.tpl:196
+#: app/templates/phonenumber/defaultDefault.tpl:234
+#: app/templates/phonenumber/defaultDefault.tpl:272
 #: app/templates/phonenumber/defaultNew.tpl:592
-#: app/templates/phonenumber/defaultNewReloaded.tpl:614
+#: app/templates/phonenumber/defaultNewReloaded.tpl:617
 #: app/templates/phonenumber/defaultNext.tpl:680
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:231
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:269
@@ -2752,7 +2759,7 @@ msgstr "Vaše hodnocení pomůže ostatním získat informace o tomto čísle."
 msgid "How to block this number?"
 msgstr "Jak zablokovat toto číslo?"
 
-#: app/templates/phonenumber/defaultDefault.tpl:206
+#: app/templates/phonenumber/defaultDefault.tpl:207
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:242
 msgid ""
 "<strong>Bothered</strong> by telemarketing calls? <strong>Not answering</"
@@ -2763,7 +2770,7 @@ msgstr ""
 "strong> neznámá čísla? <strong>Nainstalujte</strong> si naši aplikaci a "
 "budete informováni, kdo volá - <strong>zdarma</strong>!"
 
-#: app/templates/phonenumber/defaultDefault.tpl:207
+#: app/templates/phonenumber/defaultDefault.tpl:208
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:243
 msgid ""
 "Avoid unsolicited calls. <strong>Don't waste time</strong> with marketing "
@@ -2774,7 +2781,7 @@ msgstr ""
 "marketingovými hovory. S naší <strong>aplikací</strong> budete vždy "
 "informováni o tom, kdo volá - <strong>zdarma</strong>!"
 
-#: app/templates/phonenumber/defaultDefault.tpl:208
+#: app/templates/phonenumber/defaultDefault.tpl:209
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:244
 msgid ""
 "<strong>Avoid</strong> unsolicited <strong>calls</strong>! With this "
@@ -2785,7 +2792,7 @@ msgstr ""
 "<strong>aplikací</strong> budete mít přehled kdo volá  - <strong>zdarma</"
 "strong>!"
 
-#: app/templates/phonenumber/defaultDefault.tpl:209
+#: app/templates/phonenumber/defaultDefault.tpl:210
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:245
 msgid ""
 "Never receive <strong>unwanted call</strong> from telemarketing company. "
@@ -2796,7 +2803,7 @@ msgstr ""
 "společnosti. S naší <strong>bezplatnou aplikací</strong> budete vždy "
 "<strong>informováni kdo volá!</strong>"
 
-#: app/templates/phonenumber/defaultDefault.tpl:210
+#: app/templates/phonenumber/defaultDefault.tpl:211
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:246
 msgid ""
 "Want to <strong>avoid unsolicited calls</strong>? Download our <strong>free "
@@ -2805,83 +2812,83 @@ msgstr ""
 "Chcete se <strong>vyhnout nevyžádaným hovorům</strong>? Stáhněte si naši "
 "<strong>bezplatnou aplikaci</strong>!"
 
-#: app/templates/phonenumber/defaultDefault.tpl:297
-#: app/templates/phonenumber/defaultModerator.tpl:328
+#: app/templates/phonenumber/defaultDefault.tpl:300
+#: app/templates/phonenumber/defaultModerator.tpl:334
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:333
 msgid "Add Your <strong>rating</strong>"
 msgstr "Přidejte Vaše <strong>hodnocení</strong>"
 
-#: app/templates/phonenumber/defaultDefault.tpl:300
-#: app/templates/phonenumber/defaultModerator.tpl:331
+#: app/templates/phonenumber/defaultDefault.tpl:303
+#: app/templates/phonenumber/defaultModerator.tpl:337
 #: app/templates/phonenumber/defaultNew.tpl:316
-#: app/templates/phonenumber/defaultNewReloaded.tpl:333
+#: app/templates/phonenumber/defaultNewReloaded.tpl:336
 #: app/templates/phonenumber/defaultNext.tpl:395
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:336
 msgid "click here to show rating form"
 msgstr "Klikněte sem pro zobrazení formuláře"
 
-#: app/templates/phonenumber/defaultDefault.tpl:313
-#: app/templates/phonenumber/defaultModerator.tpl:344
+#: app/templates/phonenumber/defaultDefault.tpl:316
+#: app/templates/phonenumber/defaultModerator.tpl:350
 #: app/templates/phonenumber/defaultNew.tpl:329
-#: app/templates/phonenumber/defaultNewReloaded.tpl:345
+#: app/templates/phonenumber/defaultNewReloaded.tpl:348
 #: app/templates/phonenumber/defaultNext.tpl:407
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:349
 msgid "Rating"
 msgstr "Hodnocení"
 
-#: app/templates/phonenumber/defaultDefault.tpl:315
-#: app/templates/phonenumber/defaultModerator.tpl:346
+#: app/templates/phonenumber/defaultDefault.tpl:318
+#: app/templates/phonenumber/defaultModerator.tpl:352
 #: app/templates/phonenumber/defaultNew.tpl:331
-#: app/templates/phonenumber/defaultNewReloaded.tpl:347
+#: app/templates/phonenumber/defaultNewReloaded.tpl:350
 #: app/templates/phonenumber/defaultNext.tpl:409
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:351
 msgid "select rating"
 msgstr "zvolte hodnocení"
 
-#: app/templates/phonenumber/defaultDefault.tpl:321
-#: app/templates/phonenumber/defaultModerator.tpl:352
+#: app/templates/phonenumber/defaultDefault.tpl:324
+#: app/templates/phonenumber/defaultModerator.tpl:358
 #: app/templates/phonenumber/defaultNew.tpl:337
-#: app/templates/phonenumber/defaultNewReloaded.tpl:353
+#: app/templates/phonenumber/defaultNewReloaded.tpl:356
 #: app/templates/phonenumber/defaultNext.tpl:415
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:357
 msgid "Please select rating!"
 msgstr "Prosím zvolte hodnocení!"
 
-#: app/templates/phonenumber/defaultDefault.tpl:327
-#: app/templates/phonenumber/defaultModerator.tpl:358
+#: app/templates/phonenumber/defaultDefault.tpl:330
+#: app/templates/phonenumber/defaultModerator.tpl:364
 #: app/templates/phonenumber/defaultNew.tpl:343
-#: app/templates/phonenumber/defaultNewReloaded.tpl:359
+#: app/templates/phonenumber/defaultNewReloaded.tpl:362
 #: app/templates/phonenumber/defaultNext.tpl:421
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:363
 msgid "Category"
 msgstr "Kategorie"
 
-#: app/templates/phonenumber/defaultDefault.tpl:329
-#: app/templates/phonenumber/defaultModerator.tpl:360
+#: app/templates/phonenumber/defaultDefault.tpl:332
+#: app/templates/phonenumber/defaultModerator.tpl:366
 #: app/templates/phonenumber/defaultNew.tpl:345
-#: app/templates/phonenumber/defaultNewReloaded.tpl:361
+#: app/templates/phonenumber/defaultNewReloaded.tpl:364
 #: app/templates/phonenumber/defaultNext.tpl:423
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:365
 msgid "select category"
 msgstr "Zvolte kategorii"
 
-#: app/templates/phonenumber/defaultDefault.tpl:339
-#: app/templates/phonenumber/defaultModerator.tpl:370
+#: app/templates/phonenumber/defaultDefault.tpl:342
+#: app/templates/phonenumber/defaultModerator.tpl:376
 #: app/templates/phonenumber/defaultNew.tpl:355
-#: app/templates/phonenumber/defaultNewReloaded.tpl:371
+#: app/templates/phonenumber/defaultNewReloaded.tpl:374
 #: app/templates/phonenumber/defaultNext.tpl:433
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:375
 msgid "Please select category!"
 msgstr "Prosím zvolte kategorii!"
 
-#: app/templates/phonenumber/defaultDefault.tpl:347
-#: app/templates/phonenumber/defaultDefault.tpl:702
-#: app/templates/phonenumber/defaultModerator.tpl:378
-#: app/templates/phonenumber/defaultModerator.tpl:668
+#: app/templates/phonenumber/defaultDefault.tpl:350
+#: app/templates/phonenumber/defaultDefault.tpl:705
+#: app/templates/phonenumber/defaultModerator.tpl:383
+#: app/templates/phonenumber/defaultModerator.tpl:673
 #: app/templates/phonenumber/defaultNew.tpl:363
 #: app/templates/phonenumber/defaultNew.tpl:660
-#: app/templates/phonenumber/defaultNewReloaded.tpl:379
-#: app/templates/phonenumber/defaultNewReloaded.tpl:678
+#: app/templates/phonenumber/defaultNewReloaded.tpl:382
+#: app/templates/phonenumber/defaultNewReloaded.tpl:681
 #: app/templates/phonenumber/defaultNext.tpl:441
 #: app/templates/phonenumber/defaultNext.tpl:765
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:383
@@ -2889,50 +2896,50 @@ msgstr "Prosím zvolte kategorii!"
 msgid "Name"
 msgstr "Jméno"
 
-#: app/templates/phonenumber/defaultDefault.tpl:348
-#: app/templates/phonenumber/defaultModerator.tpl:379
+#: app/templates/phonenumber/defaultDefault.tpl:351
+#: app/templates/phonenumber/defaultModerator.tpl:384
 #: app/templates/phonenumber/defaultNew.tpl:364
-#: app/templates/phonenumber/defaultNewReloaded.tpl:380
+#: app/templates/phonenumber/defaultNewReloaded.tpl:383
 #: app/templates/phonenumber/defaultNext.tpl:442
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:384
 msgid "name or nickname"
 msgstr "jméno nebo přezdívka"
 
-#: app/templates/phonenumber/defaultDefault.tpl:351
-#: app/templates/phonenumber/defaultModerator.tpl:381
+#: app/templates/phonenumber/defaultDefault.tpl:354
+#: app/templates/phonenumber/defaultModerator.tpl:386
 #: app/templates/phonenumber/defaultNew.tpl:367
-#: app/templates/phonenumber/defaultNewReloaded.tpl:383
+#: app/templates/phonenumber/defaultNewReloaded.tpl:386
 #: app/templates/phonenumber/defaultNext.tpl:445
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:390
 msgid "Please enter your name or nickname!"
 msgstr "Prosím vyplňte jméno nebo přezdívku!"
 
-#: app/templates/phonenumber/defaultDefault.tpl:357
-#: app/templates/phonenumber/defaultModerator.tpl:392
+#: app/templates/phonenumber/defaultDefault.tpl:360
+#: app/templates/phonenumber/defaultModerator.tpl:397
 #: app/templates/phonenumber/defaultNew.tpl:373
-#: app/templates/phonenumber/defaultNewReloaded.tpl:389
+#: app/templates/phonenumber/defaultNewReloaded.tpl:392
 #: app/templates/phonenumber/defaultNext.tpl:451
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:396
 msgid "Title"
 msgstr "Nadpis"
 
-#: app/templates/phonenumber/defaultDefault.tpl:358
-#: app/templates/phonenumber/defaultModerator.tpl:393
+#: app/templates/phonenumber/defaultDefault.tpl:361
+#: app/templates/phonenumber/defaultModerator.tpl:398
 #: app/templates/phonenumber/defaultNew.tpl:374
-#: app/templates/phonenumber/defaultNewReloaded.tpl:390
+#: app/templates/phonenumber/defaultNewReloaded.tpl:393
 #: app/templates/phonenumber/defaultNext.tpl:452
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:397
 msgid "title (optional)"
 msgstr "nadpis (volitelné)"
 
-#: app/templates/phonenumber/defaultDefault.tpl:363
-#: app/templates/phonenumber/defaultDefault.tpl:707
-#: app/templates/phonenumber/defaultModerator.tpl:398
-#: app/templates/phonenumber/defaultModerator.tpl:673
+#: app/templates/phonenumber/defaultDefault.tpl:366
+#: app/templates/phonenumber/defaultDefault.tpl:710
+#: app/templates/phonenumber/defaultModerator.tpl:403
+#: app/templates/phonenumber/defaultModerator.tpl:678
 #: app/templates/phonenumber/defaultNew.tpl:379
 #: app/templates/phonenumber/defaultNew.tpl:665
-#: app/templates/phonenumber/defaultNewReloaded.tpl:395
-#: app/templates/phonenumber/defaultNewReloaded.tpl:683
+#: app/templates/phonenumber/defaultNewReloaded.tpl:398
+#: app/templates/phonenumber/defaultNewReloaded.tpl:686
 #: app/templates/phonenumber/defaultNext.tpl:457
 #: app/templates/phonenumber/defaultNext.tpl:770
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:402
@@ -2940,102 +2947,102 @@ msgstr "nadpis (volitelné)"
 msgid "Comment"
 msgstr "Komentář"
 
-#: app/templates/phonenumber/defaultDefault.tpl:364
-#: app/templates/phonenumber/defaultModerator.tpl:399
+#: app/templates/phonenumber/defaultDefault.tpl:367
+#: app/templates/phonenumber/defaultModerator.tpl:404
 #: app/templates/phonenumber/defaultNew.tpl:380
-#: app/templates/phonenumber/defaultNewReloaded.tpl:396
+#: app/templates/phonenumber/defaultNewReloaded.tpl:399
 #: app/templates/phonenumber/defaultNext.tpl:458
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:403
 msgid "write your comment"
 msgstr "napište komentář"
 
-#: app/templates/phonenumber/defaultDefault.tpl:367
-#: app/templates/phonenumber/defaultModerator.tpl:402
+#: app/templates/phonenumber/defaultDefault.tpl:370
+#: app/templates/phonenumber/defaultModerator.tpl:407
 #: app/templates/phonenumber/defaultNew.tpl:383
-#: app/templates/phonenumber/defaultNewReloaded.tpl:399
+#: app/templates/phonenumber/defaultNewReloaded.tpl:402
 #: app/templates/phonenumber/defaultNext.tpl:461
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:406
 msgid "Please enter your comment!"
 msgstr "Prosím vyplňte komentář!"
 
-#: app/templates/phonenumber/defaultDefault.tpl:374
-#: app/templates/phonenumber/defaultModerator.tpl:409
+#: app/templates/phonenumber/defaultDefault.tpl:377
+#: app/templates/phonenumber/defaultModerator.tpl:414
 #: app/templates/phonenumber/defaultNew.tpl:390
-#: app/templates/phonenumber/defaultNewReloaded.tpl:406
+#: app/templates/phonenumber/defaultNewReloaded.tpl:409
 #: app/templates/phonenumber/defaultNext.tpl:468
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:413
 msgid "send rating"
 msgstr "odeslat hodnocení"
 
-#: app/templates/phonenumber/defaultDefault.tpl:383
-#: app/templates/phonenumber/defaultModerator.tpl:418
+#: app/templates/phonenumber/defaultDefault.tpl:386
+#: app/templates/phonenumber/defaultModerator.tpl:423
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:422
 msgid "Phone number <strong>ratings</strong>"
 msgstr "<strong>Hodnocení</strong> telefonního čísla"
 
-#: app/templates/phonenumber/defaultDefault.tpl:400
-#: app/templates/phonenumber/defaultModerator.tpl:431
+#: app/templates/phonenumber/defaultDefault.tpl:403
+#: app/templates/phonenumber/defaultModerator.tpl:436
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:435
 #, php-format
 msgid "This phone number has %s reviews with average rating \"%s\"."
 msgstr "Toto telefonní číslo má %s hodnocení s průměrným výsledkem jako %s."
 
-#: app/templates/phonenumber/defaultDefault.tpl:463
-#: app/templates/phonenumber/defaultModerator.tpl:496
+#: app/templates/phonenumber/defaultDefault.tpl:466
+#: app/templates/phonenumber/defaultModerator.tpl:501
 #: app/templates/phonenumber/defaultNew.tpl:457
-#: app/templates/phonenumber/defaultNewReloaded.tpl:478
+#: app/templates/phonenumber/defaultNewReloaded.tpl:481
 #: app/templates/phonenumber/defaultNext.tpl:534
 msgid "owner"
 msgstr "vlastník"
 
-#: app/templates/phonenumber/defaultDefault.tpl:464
-#: app/templates/phonenumber/defaultModerator.tpl:497
+#: app/templates/phonenumber/defaultDefault.tpl:467
+#: app/templates/phonenumber/defaultModerator.tpl:502
 #: app/templates/phonenumber/defaultNew.tpl:458
-#: app/templates/phonenumber/defaultNewReloaded.tpl:479
+#: app/templates/phonenumber/defaultNewReloaded.tpl:482
 #: app/templates/phonenumber/defaultNext.tpl:535
 msgid "moderator"
 msgstr "moderátor"
 
-#: app/templates/phonenumber/defaultDefault.tpl:465
-#: app/templates/phonenumber/defaultModerator.tpl:498
+#: app/templates/phonenumber/defaultDefault.tpl:468
+#: app/templates/phonenumber/defaultModerator.tpl:503
 #: app/templates/phonenumber/defaultNew.tpl:459
-#: app/templates/phonenumber/defaultNewReloaded.tpl:480
+#: app/templates/phonenumber/defaultNewReloaded.tpl:483
 #: app/templates/phonenumber/defaultNext.tpl:536
 msgid "censored"
 msgstr "cenzurováno"
 
-#: app/templates/phonenumber/defaultDefault.tpl:466
-#: app/templates/phonenumber/defaultModerator.tpl:499
+#: app/templates/phonenumber/defaultDefault.tpl:469
+#: app/templates/phonenumber/defaultModerator.tpl:504
 #: app/templates/phonenumber/defaultNew.tpl:460
-#: app/templates/phonenumber/defaultNewReloaded.tpl:481
+#: app/templates/phonenumber/defaultNewReloaded.tpl:484
 #: app/templates/phonenumber/defaultNext.tpl:537
 msgid "system"
 msgstr "systém"
 
-#: app/templates/phonenumber/defaultDefault.tpl:472
-#: app/templates/phonenumber/defaultModerator.tpl:505
+#: app/templates/phonenumber/defaultDefault.tpl:475
+#: app/templates/phonenumber/defaultModerator.tpl:510
 #: app/templates/phonenumber/defaultNew.tpl:466
-#: app/templates/phonenumber/defaultNewReloaded.tpl:487
+#: app/templates/phonenumber/defaultNewReloaded.tpl:490
 #: app/templates/phonenumber/defaultNext.tpl:543
 msgid "featured"
 msgstr "Doporučeno"
 
-#: app/templates/phonenumber/defaultDefault.tpl:487
-#: app/templates/phonenumber/defaultModerator.tpl:518
+#: app/templates/phonenumber/defaultDefault.tpl:490
+#: app/templates/phonenumber/defaultModerator.tpl:523
 #: app/templates/phonenumber/defaultNew.tpl:479
-#: app/templates/phonenumber/defaultNewReloaded.tpl:500
+#: app/templates/phonenumber/defaultNewReloaded.tpl:503
 #: app/templates/phonenumber/defaultNext.tpl:558
 msgid "This comment has been removed because violated terms of use"
 msgstr "Tento komentář byl odstraněn pro porušení podmínek publikace"
 
-#: app/templates/phonenumber/defaultDefault.tpl:495
-#: app/templates/phonenumber/defaultDefault.tpl:543
-#: app/templates/phonenumber/defaultModerator.tpl:524
-#: app/templates/phonenumber/defaultModerator.tpl:569
+#: app/templates/phonenumber/defaultDefault.tpl:498
+#: app/templates/phonenumber/defaultDefault.tpl:546
+#: app/templates/phonenumber/defaultModerator.tpl:529
+#: app/templates/phonenumber/defaultModerator.tpl:574
 #: app/templates/phonenumber/defaultNew.tpl:485
 #: app/templates/phonenumber/defaultNew.tpl:530
-#: app/templates/phonenumber/defaultNewReloaded.tpl:507
-#: app/templates/phonenumber/defaultNewReloaded.tpl:552
+#: app/templates/phonenumber/defaultNewReloaded.tpl:510
+#: app/templates/phonenumber/defaultNewReloaded.tpl:555
 #: app/templates/phonenumber/defaultNext.tpl:563
 #: app/templates/phonenumber/defaultNext.tpl:611
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:510
@@ -3044,14 +3051,14 @@ msgstr "Tento komentář byl odstraněn pro porušení podmínek publikace"
 msgid "Agree"
 msgstr "Souhlasím"
 
-#: app/templates/phonenumber/defaultDefault.tpl:502
-#: app/templates/phonenumber/defaultDefault.tpl:550
-#: app/templates/phonenumber/defaultModerator.tpl:529
-#: app/templates/phonenumber/defaultModerator.tpl:574
+#: app/templates/phonenumber/defaultDefault.tpl:505
+#: app/templates/phonenumber/defaultDefault.tpl:553
+#: app/templates/phonenumber/defaultModerator.tpl:534
+#: app/templates/phonenumber/defaultModerator.tpl:579
 #: app/templates/phonenumber/defaultNew.tpl:490
 #: app/templates/phonenumber/defaultNew.tpl:535
-#: app/templates/phonenumber/defaultNewReloaded.tpl:512
-#: app/templates/phonenumber/defaultNewReloaded.tpl:557
+#: app/templates/phonenumber/defaultNewReloaded.tpl:515
+#: app/templates/phonenumber/defaultNewReloaded.tpl:560
 #: app/templates/phonenumber/defaultNext.tpl:570
 #: app/templates/phonenumber/defaultNext.tpl:618
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:516
@@ -3060,23 +3067,23 @@ msgstr "Souhlasím"
 msgid "Disagree"
 msgstr "Nesouhlasím"
 
-#: app/templates/phonenumber/defaultDefault.tpl:510
-#: app/templates/phonenumber/defaultModerator.tpl:535
+#: app/templates/phonenumber/defaultDefault.tpl:513
+#: app/templates/phonenumber/defaultModerator.tpl:540
 #: app/templates/phonenumber/defaultNew.tpl:496
-#: app/templates/phonenumber/defaultNewReloaded.tpl:518
+#: app/templates/phonenumber/defaultNewReloaded.tpl:521
 #: app/templates/phonenumber/defaultNext.tpl:578
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:523
 msgid "Comments"
 msgstr "Komentáře"
 
-#: app/templates/phonenumber/defaultDefault.tpl:517
-#: app/templates/phonenumber/defaultDefault.tpl:698
-#: app/templates/phonenumber/defaultModerator.tpl:543
-#: app/templates/phonenumber/defaultModerator.tpl:664
+#: app/templates/phonenumber/defaultDefault.tpl:520
+#: app/templates/phonenumber/defaultDefault.tpl:701
+#: app/templates/phonenumber/defaultModerator.tpl:548
+#: app/templates/phonenumber/defaultModerator.tpl:669
 #: app/templates/phonenumber/defaultNew.tpl:504
 #: app/templates/phonenumber/defaultNew.tpl:656
-#: app/templates/phonenumber/defaultNewReloaded.tpl:525
-#: app/templates/phonenumber/defaultNewReloaded.tpl:674
+#: app/templates/phonenumber/defaultNewReloaded.tpl:528
+#: app/templates/phonenumber/defaultNewReloaded.tpl:677
 #: app/templates/phonenumber/defaultNext.tpl:585
 #: app/templates/phonenumber/defaultNext.tpl:761
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:529
@@ -3084,162 +3091,162 @@ msgstr "Komentáře"
 msgid "Add Comment"
 msgstr "Přidat Komentář"
 
-#: app/templates/phonenumber/defaultDefault.tpl:523
-#: app/templates/phonenumber/defaultDefault.tpl:557
-#: app/templates/phonenumber/defaultModerator.tpl:549
-#: app/templates/phonenumber/defaultModerator.tpl:579
+#: app/templates/phonenumber/defaultDefault.tpl:526
+#: app/templates/phonenumber/defaultDefault.tpl:560
+#: app/templates/phonenumber/defaultModerator.tpl:554
+#: app/templates/phonenumber/defaultModerator.tpl:584
 #: app/templates/phonenumber/defaultNew.tpl:510
 #: app/templates/phonenumber/defaultNew.tpl:540
-#: app/templates/phonenumber/defaultNewReloaded.tpl:530
-#: app/templates/phonenumber/defaultNewReloaded.tpl:562
+#: app/templates/phonenumber/defaultNewReloaded.tpl:533
+#: app/templates/phonenumber/defaultNewReloaded.tpl:565
 #: app/templates/phonenumber/defaultNext.tpl:591
 #: app/templates/phonenumber/defaultNext.tpl:625
 msgid "Delete"
 msgstr "Odstranit"
 
-#: app/templates/phonenumber/defaultDefault.tpl:612
+#: app/templates/phonenumber/defaultDefault.tpl:615
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:611
 msgid "Report ownership of this number or untruthful information presented."
 msgstr "Nahlásit vlastnictví čísla nebo uvedení nepravdivých informací."
 
-#: app/templates/phonenumber/defaultDefault.tpl:712
-#: app/templates/phonenumber/defaultModerator.tpl:678
+#: app/templates/phonenumber/defaultDefault.tpl:715
+#: app/templates/phonenumber/defaultModerator.tpl:683
 #: app/templates/phonenumber/defaultNew.tpl:670
-#: app/templates/phonenumber/defaultNewReloaded.tpl:688
+#: app/templates/phonenumber/defaultNewReloaded.tpl:691
 #: app/templates/phonenumber/defaultNext.tpl:775
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:709
 msgid "Submit"
 msgstr "Odeslat"
 
-#: app/templates/phonenumber/defaultDefault.tpl:850
-#: app/templates/phonenumber/defaultModerator.tpl:816
+#: app/templates/phonenumber/defaultDefault.tpl:853
+#: app/templates/phonenumber/defaultModerator.tpl:821
 #: app/templates/phonenumber/defaultNew.tpl:812
-#: app/templates/phonenumber/defaultNewReloaded.tpl:831
+#: app/templates/phonenumber/defaultNewReloaded.tpl:834
 #: app/templates/phonenumber/defaultNext.tpl:915
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:841
 msgid "Please enter your name or nick"
 msgstr "Prosím vyplňte jméno nebo přezdívku"
 
-#: app/templates/phonenumber/defaultDefault.tpl:856
-#: app/templates/phonenumber/defaultModerator.tpl:822
+#: app/templates/phonenumber/defaultDefault.tpl:859
+#: app/templates/phonenumber/defaultModerator.tpl:827
 #: app/templates/phonenumber/defaultNew.tpl:818
-#: app/templates/phonenumber/defaultNewReloaded.tpl:837
+#: app/templates/phonenumber/defaultNewReloaded.tpl:840
 #: app/templates/phonenumber/defaultNext.tpl:921
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:847
 msgid "Your comment must be longer than 5 characters"
 msgstr "Váš komentář musí být delší než 5 znaků"
 
-#: app/templates/phonenumber/defaultModerator.tpl:130
+#: app/templates/phonenumber/defaultModerator.tpl:136
 #: app/templates/phonenumber/defaultNew.tpl:164
-#: app/templates/phonenumber/defaultNewReloaded.tpl:168
+#: app/templates/phonenumber/defaultNewReloaded.tpl:170
 #: app/templates/phonenumber/defaultNext.tpl:247
 msgid "ratings"
 msgstr "hodnocení"
 
-#: app/templates/phonenumber/defaultModerator.tpl:131
+#: app/templates/phonenumber/defaultModerator.tpl:137
 #: app/templates/phonenumber/defaultNew.tpl:165
-#: app/templates/phonenumber/defaultNewReloaded.tpl:169
+#: app/templates/phonenumber/defaultNewReloaded.tpl:171
 #: app/templates/phonenumber/defaultNext.tpl:248
 msgid "reviews"
 msgstr "recenzí"
 
-#: app/templates/phonenumber/defaultModerator.tpl:132
+#: app/templates/phonenumber/defaultModerator.tpl:138
 #: app/templates/phonenumber/defaultNew.tpl:166
-#: app/templates/phonenumber/defaultNewReloaded.tpl:170
+#: app/templates/phonenumber/defaultNewReloaded.tpl:172
 #: app/templates/phonenumber/defaultNext.tpl:249
 msgid "no ratings"
 msgstr "žádné hodnocení"
 
-#: app/templates/phonenumber/defaultModerator.tpl:133
+#: app/templates/phonenumber/defaultModerator.tpl:139
 #: app/templates/phonenumber/defaultNew.tpl:167
-#: app/templates/phonenumber/defaultNewReloaded.tpl:171
+#: app/templates/phonenumber/defaultNewReloaded.tpl:173
 #: app/templates/phonenumber/defaultNext.tpl:250
 msgid "no reviews"
 msgstr "žádné recenze"
 
-#: app/templates/phonenumber/defaultModerator.tpl:134
+#: app/templates/phonenumber/defaultModerator.tpl:140
 #: app/templates/phonenumber/defaultNew.tpl:168
-#: app/templates/phonenumber/defaultNewReloaded.tpl:172
+#: app/templates/phonenumber/defaultNewReloaded.tpl:174
 #: app/templates/phonenumber/defaultNext.tpl:251
 msgid "single rating"
 msgstr "jedno hodnocení"
 
-#: app/templates/phonenumber/defaultModerator.tpl:135
+#: app/templates/phonenumber/defaultModerator.tpl:141
 #: app/templates/phonenumber/defaultNew.tpl:169
-#: app/templates/phonenumber/defaultNewReloaded.tpl:173
+#: app/templates/phonenumber/defaultNewReloaded.tpl:175
 #: app/templates/phonenumber/defaultNext.tpl:252
 msgid "single review"
 msgstr "jednu recenzi"
 
-#: app/templates/phonenumber/defaultModerator.tpl:136
+#: app/templates/phonenumber/defaultModerator.tpl:142
 #: app/templates/phonenumber/defaultNew.tpl:170
-#: app/templates/phonenumber/defaultNewReloaded.tpl:174
+#: app/templates/phonenumber/defaultNewReloaded.tpl:176
 #: app/templates/phonenumber/defaultNext.tpl:253
 #, php-format
 msgid "We have %s and %s for this phone number."
 msgstr "Máme %s a %s pro toto telefonní číslo."
 
-#: app/templates/phonenumber/defaultModerator.tpl:161
+#: app/templates/phonenumber/defaultModerator.tpl:167
 #: app/templates/phonenumber/defaultNew.tpl:195
-#: app/templates/phonenumber/defaultNewReloaded.tpl:199
+#: app/templates/phonenumber/defaultNewReloaded.tpl:201
 #: app/templates/phonenumber/defaultNext.tpl:277
 #, php-format
 msgid "Single user marked it with %s rating"
 msgstr "Jeden uživatel jej označil %s hodnocením"
 
-#: app/templates/phonenumber/defaultModerator.tpl:163
+#: app/templates/phonenumber/defaultModerator.tpl:169
 #: app/templates/phonenumber/defaultNew.tpl:197
-#: app/templates/phonenumber/defaultNewReloaded.tpl:201
+#: app/templates/phonenumber/defaultNewReloaded.tpl:203
 #: app/templates/phonenumber/defaultNext.tpl:279
 #, php-format
 msgid "%s users marked it with %s rating"
 msgstr "%s uživatelů jej označilo jako hodnocení %s"
 
-#: app/templates/phonenumber/defaultModerator.tpl:166
+#: app/templates/phonenumber/defaultModerator.tpl:172
 #: app/templates/phonenumber/defaultNew.tpl:200
-#: app/templates/phonenumber/defaultNewReloaded.tpl:204
+#: app/templates/phonenumber/defaultNewReloaded.tpl:206
 #: app/templates/phonenumber/defaultNext.tpl:282
 msgid "and"
 msgstr "a"
 
-#: app/templates/phonenumber/defaultModerator.tpl:170
+#: app/templates/phonenumber/defaultModerator.tpl:176
 #: app/templates/phonenumber/defaultNew.tpl:204
-#: app/templates/phonenumber/defaultNewReloaded.tpl:208
+#: app/templates/phonenumber/defaultNewReloaded.tpl:210
 #: app/templates/phonenumber/defaultNext.tpl:286
 #, php-format
 msgid "single user with %s rating"
 msgstr "jedniný uživatel s hodnocením %s "
 
-#: app/templates/phonenumber/defaultModerator.tpl:172
+#: app/templates/phonenumber/defaultModerator.tpl:178
 #: app/templates/phonenumber/defaultNew.tpl:206
-#: app/templates/phonenumber/defaultNewReloaded.tpl:210
+#: app/templates/phonenumber/defaultNewReloaded.tpl:212
 #: app/templates/phonenumber/defaultNext.tpl:288
 #, php-format
 msgid "%s users with %s rating"
 msgstr "%s uživatelů s %s hodnocením"
 
-#: app/templates/phonenumber/defaultModerator.tpl:231
+#: app/templates/phonenumber/defaultModerator.tpl:237
 #: app/templates/phonenumber/defaultNew.tpl:262
-#: app/templates/phonenumber/defaultNewReloaded.tpl:298
+#: app/templates/phonenumber/defaultNewReloaded.tpl:301
 #: app/templates/phonenumber/defaultNext.tpl:340
 #, php-format
 msgid "Possible phone number formats are "
 msgstr "Možné zápisy telefonního čísla jsou "
 
-#: app/templates/phonenumber/defaultModerator.tpl:387
+#: app/templates/phonenumber/defaultModerator.tpl:392
 #: app/templates/phonenumber/zzz_defaultDebugMaps.tpl:386
 msgid "email (optional)"
 msgstr "email (volitelné)"
 
 #: app/templates/phonenumber/defaultNew.tpl:306
-#: app/templates/phonenumber/defaultNewReloaded.tpl:322
+#: app/templates/phonenumber/defaultNewReloaded.tpl:325
 #: app/templates/phonenumber/defaultNext.tpl:385
 #, php-format
 msgid "<strong>Reviews</strong> for phone number %s"
 msgstr "<strong>Recenze</strong> pro telefonní číslo %s"
 
 #: app/templates/phonenumber/defaultNew.tpl:312
-#: app/templates/phonenumber/defaultNewReloaded.tpl:330
+#: app/templates/phonenumber/defaultNewReloaded.tpl:333
 #: app/templates/phonenumber/defaultNext.tpl:392
 msgid "Add <strong>Your rating</strong>"
 msgstr "Přidejte <strong>Vaše Hodnocení</strong>"
@@ -3427,7 +3434,7 @@ msgid "Removal Request"
 msgstr "Požadavek k odstranění"
 
 #: app/templates/removalrequest/default.tpl:17
-#: app/templates/removalrequest/default.tpl:155
+#: app/templates/removalrequest/default.tpl:159
 msgid "Removal Request Form"
 msgstr "Formulář pro požadavek k odstranění obsahu"
 
@@ -3441,31 +3448,31 @@ msgstr "Odstranění hodnocení ID: %s"
 msgid "Removal of Comment ID: %s"
 msgstr "Odstranění komentáře ID: %s"
 
-#: app/templates/removalrequest/default.tpl:158
+#: app/templates/removalrequest/default.tpl:162
 msgid "Your request has been succesfully send to our support team."
 msgstr "Váš požadavek byl úspěšně odeslán naší podpoře."
 
-#: app/templates/removalrequest/default.tpl:159
+#: app/templates/removalrequest/default.tpl:163
 msgid "We should process it in max 3 work days."
 msgstr "Měli bychom jej vyřídit do 3 pracovních dnů."
 
-#: app/templates/removalrequest/default.tpl:161
+#: app/templates/removalrequest/default.tpl:165
 msgid "Thank you very much!"
 msgstr "Velmi děkujeme!"
 
-#: app/templates/removalrequest/default.tpl:163
+#: app/templates/removalrequest/default.tpl:167
 msgid "Something wrong happened during storing your request."
 msgstr "Něco špatného se stalo během ukládání vašeho požadavku."
 
-#: app/templates/removalrequest/default.tpl:164
+#: app/templates/removalrequest/default.tpl:168
 msgid "Please contact us at <strong>support@shouldianswer.net</strong>"
 msgstr "Prosím kontaktujte nás na <strong>support@shouldianswer.net</strong>"
 
-#: app/templates/removalrequest/default.tpl:168
+#: app/templates/removalrequest/default.tpl:172
 msgid "Please fix errors marked with red description"
 msgstr "Prosím opravte chyby označené červeným popisem"
 
-#: app/templates/removalrequest/default.tpl:175
+#: app/templates/removalrequest/default.tpl:179
 msgid ""
 "Before filling the form you could find useful basic information about "
 "solving content issues on our site"
@@ -3473,78 +3480,78 @@ msgstr ""
 "Než vyplníte formulář možná shledáte užitečnými základní informace o řešení "
 "problémů s obsahem na těchto stránkách"
 
-#: app/templates/removalrequest/default.tpl:183
+#: app/templates/removalrequest/default.tpl:187
 msgid "Subject"
 msgstr "Subjekt"
 
-#: app/templates/removalrequest/default.tpl:186
+#: app/templates/removalrequest/default.tpl:190
 msgid "Content was submitted for number"
 msgstr "Obsah byl odeslán pro číslo"
 
-#: app/templates/removalrequest/default.tpl:187
+#: app/templates/removalrequest/default.tpl:191
 msgid "Content"
 msgstr "Obsah"
 
-#: app/templates/removalrequest/default.tpl:192
+#: app/templates/removalrequest/default.tpl:196
 msgid "Your Name"
 msgstr "Vaše Jméno"
 
-#: app/templates/removalrequest/default.tpl:193
-#: app/templates/removalrequest/default.tpl:196
+#: app/templates/removalrequest/default.tpl:197
+#: app/templates/removalrequest/default.tpl:200
 msgid "Please enter full real name"
 msgstr "Prosím zadejte vaše plné skutečné jméno"
 
-#: app/templates/removalrequest/default.tpl:212
+#: app/templates/removalrequest/default.tpl:216
 msgid "Reason Type"
 msgstr "Typ důvodu"
 
-#: app/templates/removalrequest/default.tpl:213
+#: app/templates/removalrequest/default.tpl:217
 msgid "Contains personal information"
 msgstr "Obsahuje osobní informace"
 
-#: app/templates/removalrequest/default.tpl:214
+#: app/templates/removalrequest/default.tpl:218
 msgid "Contains false information"
 msgstr "Obsahuje nepravdivé informace"
 
-#: app/templates/removalrequest/default.tpl:215
+#: app/templates/removalrequest/default.tpl:219
 msgid "Breaks the rules of this service"
 msgstr "Porušuje pravidla služby"
 
-#: app/templates/removalrequest/default.tpl:216
+#: app/templates/removalrequest/default.tpl:220
 msgid "I'm author of review and I want to remove it"
 msgstr "Jsem autor hodnocení a chci jej odstranit"
 
-#: app/templates/removalrequest/default.tpl:217
+#: app/templates/removalrequest/default.tpl:221
 msgid "Other reason"
 msgstr "Jiný důvod"
 
-#: app/templates/removalrequest/default.tpl:220
+#: app/templates/removalrequest/default.tpl:224
 msgid "Please select the reason type"
 msgstr "Prosím zvolte typ důvodu"
 
-#: app/templates/removalrequest/default.tpl:227
+#: app/templates/removalrequest/default.tpl:231
 msgid "Reason details"
 msgstr "Detaily důvodu"
 
-#: app/templates/removalrequest/default.tpl:228
+#: app/templates/removalrequest/default.tpl:232
 msgid "Please explain in detail why you want to remove this content."
 msgstr "Prosím detailně vysvětlete proč chcete obsah odstranit."
 
-#: app/templates/removalrequest/default.tpl:232
+#: app/templates/removalrequest/default.tpl:236
 msgid "Please fill the reason details"
 msgstr "Prosím vyplňte detaily důvodu"
 
-#: app/templates/removalrequest/default.tpl:239
+#: app/templates/removalrequest/default.tpl:243
 #, php-format
 msgid ""
 "You can also check our %s for detailed description of using of our service."
 msgstr "Můžete si také přečíst %s pro detailní popis naší služby."
 
-#: app/templates/removalrequest/default.tpl:248
+#: app/templates/removalrequest/default.tpl:252
 msgid "Please check the reCAPTCHA"
 msgstr "Prosím zaškrtněte reCAPTCHA"
 
-#: app/templates/removalrequest/default.tpl:252
+#: app/templates/removalrequest/default.tpl:256
 msgid "Send Request"
 msgstr "Poslat požadavek"
 
@@ -3766,6 +3773,19 @@ msgstr "Potřebujete nás kontaktovat?"
 #: app/templates/websearch/default.tpl:7
 msgid "Web Search"
 msgstr "Hledání na webu"
+
+#~ msgid ""
+#~ "strong>Online Manual</strong> opens the internet page with this manual."
+#~ msgstr ""
+#~ "<strong>Manuál k aplikaci</strong> otevře internetovou stránku s tímto "
+#~ "návodem."
+
+#~ msgid ""
+#~ "strong>Terms of Use</strong> opens the internet page with terms of use of "
+#~ "this product."
+#~ msgstr ""
+#~ "<strong>Podmínky používání</strong> otevřou internetovou stránku s "
+#~ "podmínkami používání tohoto výrobku."
 
 #~ msgid "This document describes features and user interface of version 7.x."
 #~ msgstr "Tento dokument popisuje vlastnosti a uživatelské rozhraní verze 7.x"
