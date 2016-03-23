@@ -598,8 +598,9 @@
 <string name="NEVER_BLOCK">ÄLÄ KOSKAAN ESTÄ</string>
 <string name="numbers_with_positive_rating">numerot, joilla on positiivinen luokitus</string>
 <string name="numbers_based_on_community_rating">numerot yhteisön luokituksen mukaan</string>
-
-
+<string name="Blocking_requires_granted_call_premissions_">Estäminen vaatii sallittujen puheluiden käyttöoikeudet. Salli pääsy puhelutietoihin estääksesi puhelun.</string>
+<string name="Show_Foreground_Service_Icon">Näytä edustapalvelun tilarivi-ikoni</string>
+<string name="Monitor_outgoing_call_events">Tarkkaile lähtevien puhelujen tapahtumia</string>
 
 
 </resources>
