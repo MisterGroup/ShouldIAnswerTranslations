@@ -283,6 +283,7 @@
     <string name="There_are_no_email_clients_installed">Non c\'è un client di posta elettronica installato.</string>
     <string name="Settings_successfully_imported_">Impostazioni importate correttamente!</string>
     <string name="Contact_x">Contatto %s</string>
+    <string name="Invitation_not_finished_">Invitation not finished!</string>
     <string name="Install">Installare</string>
     <string name="Phone_Number_Hint_New">È possibile valutare un gruppo di numeri usando il *. Per esempio: 800 * imposterà una regola per tutte le chiamate da 800 *.</string>
 
@@ -304,8 +305,8 @@
     <string name="NEVER_BLOCK">NON BLOCCARE MAI</string>
     <string name="numbers_with_positive_rating">numeri con rating positivo</string>
     <string name="numbers_based_on_community_rating">Numeri basati sulle valutazioni della community</string>
-    <string name="Blocking_requires_granted_call_premissions_">Il blocco richiede l'accesso alle info sulle chiamate. Permetti l'accesso alle informazioni sulle chiamate per bloccare il numero.</string>
-    <string name="Show_Foreground_Service_Icon">Mostra l'icona di notifica nella barra di stato</string>
+    <string name="Blocking_requires_granted_call_premissions_">Il blocco richiede l\'accesso alle info sulle chiamate. Permetti l\'accesso alle informazioni sulle chiamate per bloccare il numero.</string>
+    <string name="Show_Foreground_Service_Icon">Mostra l\'icona di notifica nella barra di stato</string>
     <string name="Monitor_outgoing_call_events">Monitora le chiamate in uscita</string>
     <string name="local_negative_rated_numbers">numeri locali valutati negativamente</string>
     <string name="community_negative_rated_numbers">numeri valutati negativamente dalla community</string>
