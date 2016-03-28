@@ -312,4 +312,12 @@
     <string name="Blocking_requires_granted_call_premissions_">Funkcja blokowania wymaga uprawnień połączeń. Włącz dostęp do danych o połączeniach aby zablokować numer.</string>
     <string name="Show_Foreground_Service_Icon">Pokaż ikonę usługi w pasku stanu</string>
     <string name="Monitor_outgoing_call_events">Monitoruj połączenia wychodzące</string>
+    <string name="local_negative_rated_numbers">local negative rated numbers</string>
+    <string name="community_negative_rated_numbers">community negative rated numbers</string>
+    <string name="numbers_not_stored_in_contacts">numbers not stored in contacts</string>
+    <string name="Not_In_Contacts">Not In Contacts</string>
+    <string name="Send">Send</string>
+    <string name="Your_Email">Your Email</string>
+    <string name="Enter_Your_Email">Enter Your Email</string>
+    <string name="Report_Sent">Report Sent</string>
 </resources>

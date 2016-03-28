@@ -240,10 +240,10 @@
     <string name="Block_INCOMING_Calls_from">Blokkolja a BEJÖVŐ hívásokat a</string>
     <string name="Negative_rated_numbers">Negatív értékelésű számoknál</string>
     <string name="All_numbers">Minden számnál</string>
-    <string name="Hidden_numbers">Rejtett számoknál</string>
+    <string name="Hidden_numbers">rejtett számoknál</string>
     <string name="Block_OUTGOING_Calls_to">Blokkolja a KIMENŐ hívásokat a</string>
-    <string name="Premium_numbers">Emelt díjas számoknál</string>
-    <string name="Foreign_numbers">Külföldi számoknál</string>
+    <string name="Premium_numbers">emelt díjas számoknál</string>
+    <string name="Foreign_numbers">külföldi számoknál</string>
     <string name="Block_SMS_and_MMS_from"><![CDATA[Block SMS & MMS from]]></string>
     <string name="Set_Default_SMS_Manager">Alapértelmezet SMS Manager beállítása</string>
     <string name="Use_pick_and_hang_up_to_protect_voice_mail">Hangposta védelem (pick and hang up)</string>
@@ -327,4 +327,12 @@
     <string name="Blocking_requires_granted_call_premissions_">A blokkoláshoz hívás hozzáféréséi engedélyek szükségesek. Engedélyezze a hozzáférést a hívás információkhoz a szám blokkolásához.</string>
     <string name="Show_Foreground_Service_Icon">Mutassa Az Előtérben A Szolgáltatás Staus Bar Ikonját</string>
     <string name="Monitor_outgoing_call_events">Kimenő hívás események monitorozása</string>
+    <string name="local_negative_rated_numbers">local negative rated numbers</string>
+    <string name="community_negative_rated_numbers">community negative rated numbers</string>
+    <string name="numbers_not_stored_in_contacts">numbers not stored in contacts</string>
+    <string name="Not_In_Contacts">Not In Contacts</string>
+    <string name="Send">Send</string>
+    <string name="Your_Email">Your Email</string>
+    <string name="Enter_Your_Email">Enter Your Email</string>
+    <string name="Report_Sent">Report Sent</string>
 </resources>

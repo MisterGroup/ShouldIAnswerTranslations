@@ -242,10 +242,10 @@
     <string name="Block_INCOMING_Calls_from">Block INCOMING Calls from</string>
     <string name="Negative_rated_numbers">Negative rated numbers</string>
     <string name="All_numbers">All numbers</string>
-    <string name="Hidden_numbers">Hidden numbers</string>
+    <string name="Hidden_numbers">hidden numbers</string>
     <string name="Block_OUTGOING_Calls_to">Block OUTGOING Calls to</string>
-    <string name="Premium_numbers">Premium numbers</string>
-    <string name="Foreign_numbers">Foreign numbers</string>
+    <string name="Premium_numbers">premium numbers</string>
+    <string name="Foreign_numbers">foreign numbers</string>
     <string name="Block_SMS_and_MMS_from"><![CDATA[Block SMS & MMS from]]></string>
     <string name="Set_Default_SMS_Manager">Set Default SMS Manager</string>
     <string name="Use_pick_and_hang_up_to_protect_voice_mail">Use pick and hang up to protect voice mail</string>
@@ -329,4 +329,12 @@
     <string name="Blocking_requires_granted_call_premissions_">Blocking requires granted call permissions. Allow access to call information to block the number.</string>
     <string name="Show_Foreground_Service_Icon">Show Foreground Service Status Bar Icon</string>
     <string name="Monitor_outgoing_call_events">Monitor outgoing call events</string>
+    <string name="local_negative_rated_numbers">local negative rated numbers</string>
+    <string name="community_negative_rated_numbers">community negative rated numbers</string>
+    <string name="numbers_not_stored_in_contacts">numbers not stored in contacts</string>
+    <string name="Not_In_Contacts">Not In Contacts</string>
+    <string name="Send">Send</string>
+    <string name="Your_Email">Your Email</string>
+    <string name="Enter_Your_Email">Enter Your Email</string>
+    <string name="Report_Sent">Report Sent</string>
 </resources>

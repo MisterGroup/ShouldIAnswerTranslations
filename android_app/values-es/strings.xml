@@ -221,10 +221,10 @@
     <string name="Block_INCOMING_Calls_from">Bloquear llamadas ENTRANTES de</string>
     <string name="Negative_rated_numbers">Números evaluados negativamente</string>
     <string name="All_numbers">TODOS números</string>
-    <string name="Hidden_numbers">Números ocultos</string>
+    <string name="Hidden_numbers">números ocultos</string>
     <string name="Block_OUTGOING_Calls_to">Bloquear llamadas SALIENTES a</string>
-    <string name="Premium_numbers">Números premiados</string>
-    <string name="Foreign_numbers">Números extranjeros</string>
+    <string name="Premium_numbers">números premiados</string>
+    <string name="Foreign_numbers">números extranjeros</string>
     <string name="Block_SMS_and_MMS_from"><![CDATA[Bloquar SMS & MMS de]]></string>
     <string name="Set_Default_SMS_Manager">Ajustar SMS manager estándar</string>
     <string name="Use_pick_and_hang_up_to_protect_voice_mail">Utilizar la función de descolgar y colgar para la protección del buzón de voz</string>
@@ -309,4 +309,12 @@
     <string name="Blocking_requires_granted_call_premissions_">Blocking requires granted call permissions. Allow access to call information to block the number.</string>
     <string name="Show_Foreground_Service_Icon">Show Foreground Service Status Bar Icon</string>
     <string name="Monitor_outgoing_call_events">Monitor outgoing call events</string>
+    <string name="local_negative_rated_numbers">local negative rated numbers</string>
+    <string name="community_negative_rated_numbers">community negative rated numbers</string>
+    <string name="numbers_not_stored_in_contacts">numbers not stored in contacts</string>
+    <string name="Not_In_Contacts">Not In Contacts</string>
+    <string name="Send">Send</string>
+    <string name="Your_Email">Your Email</string>
+    <string name="Enter_Your_Email">Enter Your Email</string>
+    <string name="Report_Sent">Report Sent</string>
 </resources>

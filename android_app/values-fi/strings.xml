@@ -445,13 +445,13 @@
 
 <string name="All_numbers">Kaikki numerot</string>
 
-<string name="Hidden_numbers">Piilotetut numerot</string>
+<string name="Hidden_numbers">piilotetut numerot</string>
 
 <string name="Block_OUTGOING_Calls_to">Estä LÄHTEVÄT puhelut</string>
 
-<string name="Premium_numbers">Lisämaksulliset numerot</string>
+<string name="Premium_numbers">lisämaksulliset numerot</string>
 
-<string name="Foreign_numbers">Ulkomaiset numerot</string>
+<string name="Foreign_numbers">ulkomaiset numerot</string>
 
 
 -<string name="Block_SMS_and_MMS_from">
@@ -601,6 +601,14 @@
 <string name="Blocking_requires_granted_call_premissions_">Estäminen vaatii sallittujen puheluiden käyttöoikeudet. Salli pääsy puhelutietoihin estääksesi puhelun.</string>
 <string name="Show_Foreground_Service_Icon">Näytä edustapalvelun tilarivi-ikoni</string>
 <string name="Monitor_outgoing_call_events">Tarkkaile lähtevien puhelujen tapahtumia</string>
+    <string name="local_negative_rated_numbers">local negative rated numbers</string>
+    <string name="community_negative_rated_numbers">community negative rated numbers</string>
+    <string name="numbers_not_stored_in_contacts">numbers not stored in contacts</string>
+    <string name="Not_In_Contacts">Not In Contacts</string>
+    <string name="Send">Send</string>
+    <string name="Your_Email">Your Email</string>
+    <string name="Enter_Your_Email">Enter Your Email</string>
+    <string name="Report_Sent">Report Sent</string>
 
 
 </resources>

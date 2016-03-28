@@ -217,10 +217,10 @@
     <string name="Block_INCOMING_Calls_from">Blokovat PŘÍCHOZÍ volání od</string>
     <string name="Negative_rated_numbers">Negativně hodnocená čísla</string>
     <string name="All_numbers">VŠECHNA čísla</string>
-    <string name="Hidden_numbers">Skrytá čísla</string>
+    <string name="Hidden_numbers">skrytá čísla</string>
     <string name="Block_OUTGOING_Calls_to">Blokovat ODCHOZÍ volání na</string>
-    <string name="Premium_numbers">Prémiová čísla</string>
-    <string name="Foreign_numbers">Zahraniční čísla</string>
+    <string name="Premium_numbers">prémiová čísla</string>
+    <string name="Foreign_numbers">zahraniční čísla</string>
     <string name="Block_SMS_and_MMS_from"><![CDATA[Blokovat SMS & MMS od]]></string>
     <string name="Set_Default_SMS_Manager">Nastavit výchozí SMS manager</string>
     <string name="Use_pick_and_hang_up_to_protect_voice_mail">Použít zvednutí a položení pro ochranu hlasové schránky</string>
@@ -304,4 +304,12 @@
     <string name="Blocking_requires_granted_call_premissions_">Blokovací funkce vyžaduje povolení pro volání. Povolte přístup k informacím o volání, aby bylo možné blokovat číslo.</string>
     <string name="Show_Foreground_Service_Icon">Zobrazit ikonu Služby na popředí ve Stavovém řádku</string>
     <string name="Monitor_outgoing_call_events">Monitoruj událost odchozího hovoru</string>
+    <string name="local_negative_rated_numbers">lokálně negativně hodnocená čísla</string>
+    <string name="community_negative_rated_numbers">komunitou negativně hodnocená čísla</string>
+    <string name="numbers_not_stored_in_contacts">čísla neuložená v Kontaktech</string>
+    <string name="Not_In_Contacts">Není v Kontakech</string>
+    <string name="Send">Poslat</string>
+    <string name="Your_Email">Váš Email</string>
+    <string name="Enter_Your_Email">Zadejte váš Email</string>
+    <string name="Report_Sent">Report poslán</string>
 </resources>

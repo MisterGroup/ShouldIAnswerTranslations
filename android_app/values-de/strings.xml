@@ -218,10 +218,10 @@
     <string name="Block_INCOMING_Calls_from">Eingehende Anrufe blockieren</string>
     <string name="Negative_rated_numbers">Negativ bewertete Rufnummern</string>
     <string name="All_numbers">Alle Rufnummern</string>
-    <string name="Hidden_numbers">Unbekannte Teilnehmer</string>
+    <string name="Hidden_numbers">unbekannte Teilnehmer</string>
     <string name="Block_OUTGOING_Calls_to">Ausgehende Anrufe blockieren</string>
-    <string name="Premium_numbers">Kostenpflichtige Nummern</string>
-    <string name="Foreign_numbers">Ausländische Rufummern</string>
+    <string name="Premium_numbers">kostenpflichtige Nummern</string>
+    <string name="Foreign_numbers">ausländische Rufummern</string>
     <string name="Block_SMS_and_MMS_from">SMS und MMS blockieren</string>
     <string name="Set_Default_SMS_Manager">Standard SMS-Manager auswählen</string>
     <string name="Use_pick_and_hang_up_to_protect_voice_mail">Verwenden Sie Abheben und Auflegen um Voice-Mails zu verhindern</string>
@@ -305,4 +305,12 @@
     <string name="Blocking_requires_granted_call_premissions_">Zum Blockieren sind Zugriffsberechtigungen erforderlich. Erlauben Sie den Zugriff auf Anrufinformationen um die Nummer zu blockieren.</string>
     <string name="Show_Foreground_Service_Icon">Statusleistensymbol bei Vordergrundaktivität anzeigen</string>
     <string name="Monitor_outgoing_call_events">Abgehende Anrufe überwachen</string>
+    <string name="local_negative_rated_numbers">local negative rated numbers</string>
+    <string name="community_negative_rated_numbers">community negative rated numbers</string>
+    <string name="numbers_not_stored_in_contacts">numbers not stored in contacts</string>
+    <string name="Not_In_Contacts">Not In Contacts</string>
+    <string name="Send">Send</string>
+    <string name="Your_Email">Your Email</string>
+    <string name="Enter_Your_Email">Enter Your Email</string>
+    <string name="Report_Sent">Report Sent</string>
 </resources>

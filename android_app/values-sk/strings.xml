@@ -220,10 +220,10 @@
     <string name="Block_INCOMING_Calls_from">Blokovať PRICHÁDZAJÚCE hovory od</string>
     <string name="Negative_rated_numbers">Negatívne hodnotené čísla</string>
     <string name="All_numbers">VŠETKY čísla</string>
-    <string name="Hidden_numbers">Skryté čísla</string>
+    <string name="Hidden_numbers">skryté čísla</string>
     <string name="Block_OUTGOING_Calls_to">Blokovať ODCHÁDZAJÚCE hovory na</string>
-    <string name="Premium_numbers">Prémiové čísla</string>
-    <string name="Foreign_numbers">Zahraničné čísla</string>
+    <string name="Premium_numbers">prémiové čísla</string>
+    <string name="Foreign_numbers">zahraničné čísla</string>
     <string name="Block_SMS_and_MMS_from"><![CDATA[Blokovat SMS & MMS od]]></string>
     <string name="Set_Default_SMS_Manager">Nastaviť východzí SMS manažér</string>
     <string name="Use_pick_and_hang_up_to_protect_voice_mail">Použiť zdvihnutie a zloženie pre ochranu hlasovej schránky</string>
@@ -306,5 +306,13 @@
     <string name="numbers_based_on_community_rating">čísla na základe komunitnej databázy</string>
     <string name="Blocking_requires_granted_call_premissions_">Blokovacia funkcia vyžaduje povolenia pre hovory. Povoľte prístup k informáciam o hovoroch, aby bolo možné blokovať číslo.</string>
     <string name="Show_Foreground_Service_Icon">Zobraziť ikonu Služby na popredí v Stavovom riadku</string>
-    <string name="Monitor_outgoing_call_events">Monitoruj udalosť odchádzajúcich hovorov</string>   
+    <string name="Monitor_outgoing_call_events">Monitoruj udalosť odchádzajúcich hovorov</string>
+    <string name="local_negative_rated_numbers">local negative rated numbers</string>
+    <string name="community_negative_rated_numbers">community negative rated numbers</string>
+    <string name="numbers_not_stored_in_contacts">numbers not stored in contacts</string>
+    <string name="Not_In_Contacts">Not In Contacts</string>
+    <string name="Send">Send</string>
+    <string name="Your_Email">Your Email</string>
+    <string name="Enter_Your_Email">Enter Your Email</string>
+    <string name="Report_Sent">Report Sent</string>
 </resources>
