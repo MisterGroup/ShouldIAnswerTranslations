@@ -25,7 +25,7 @@ msgstr "Errore interno del server"
 
 #: app/500.php:10
 msgid "Oooops something is wrong"
-msgstr "Oooops qualcosa è andato male"
+msgstr "Oooops qualcosa è andato storto"
 
 #: app/500.php:11
 msgid "We are sorry but requested page have problems."
@@ -36,7 +36,7 @@ msgid ""
 "Our staff were informed about this accident and will fix it as soon as "
 "possible."
 msgstr ""
-"La nostra attenzione al cliente è stato informata su questo problema e lo "
+"Il nostro staff è stato informato del problema e lo"
 "risolverà il più presto possibile."
 
 #: app/500.php:13
@@ -56,12 +56,12 @@ msgid ""
 "Your rating is submitted and waiting for publication to other visitors. "
 "Thank you!"
 msgstr ""
-"La sua valutazione è stata registrata e sarà presto visibile da parte di "
+"La tua valutazione è stata registrata e sarà presto visibile da parte di "
 "altri visitatori. Grazie!"
 
 #: app/presenters/p_phonenumber.php:310
 msgid "Rating has been stored and published!"
-msgstr "Valutazione è stato salvata e pubblicata!"
+msgstr "La valutazione è stata salvata e pubblicata!"
 
 #: app/presenters/p_phonenumber.php:320
 msgid "This phone number is marked as "
@@ -69,7 +69,7 @@ msgstr "Questo numero di telefono è segnato come"
 
 #: app/presenters/p_phonenumber.php:338
 msgid "What is Your experience with this number?"
-msgstr "Qual'è la sua esperienza con questo numero?"
+msgstr "Qual è la tua esperienza con questo numero?"
 
 #: app/presenters/p_phonenumber.php:339
 msgid "Do You have any experience with this phone number?"
@@ -77,7 +77,7 @@ msgstr "Hai qualche esperienza con questo numero?"
 
 #: app/presenters/p_phonenumber.php:340
 msgid "What is Your experience with this phone number?"
-msgstr "Qual'è la sua esperienza con questo numero di telefono?"
+msgstr "Qual è la tua esperienza con questo numero di telefono?"
 
 #: app/presenters/p_phonenumber.php:341
 msgid "Do You have any bad experience with this number?"
