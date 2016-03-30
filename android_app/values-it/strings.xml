@@ -148,7 +148,7 @@
     <string name="Fix_Contacts_Issues">Risolvere problemi con i contatti</string>
     <string name="We_Are_Using_contacts_for_whitelisting">Utilizziamo i contatti per creare una lista di numeri conoscuti tuttavia non troviamo contatti nel tuo telefono. Se disponi di contatti memorizzati sul cellulare e non conosci il motivo per cui non abbiamo potuto accedervi, ti preghiamo di contattare il nostro supporto.</string>
     <string name="Unaccessible_Contacts">Contatti inaccessibili </string>
-    <string name="Please_chec_the_terms_and_privacy_agreement">Si prega di verificare le condizioni d'uso e i termini sulla privacy.</string>
+    <string name="Please_chec_the_terms_and_privacy_agreement">Si prega di verificare le condizioni d\'uso e i termini sulla privacy.</string>
     <string name="welcome_detailedinfo">
         Stiamo utilizzando la tua lista di contatti per creare un elenco di numeri conosciuti. I contatti non vengono inviati al server.
         Abbiamo bisogno dell\'accesso alle tue telefonate per confrontare i numeri chiamat con quelli del nostro database locale.
@@ -169,11 +169,11 @@
     <string name="Recommend_App_To_Friends">Raccomanda l\'app agli Amici</string>
     <string name="Promo_message_1">Basta problemi con le chiamate indesiderate! Provala!</string>
     <string name="Promo_message_2">Dì basta al telemarketing! Scarica l\'applicazione Dovrei Rispondere, è gratis!</string>
-    <string name="Promo_message_4">L'applicazione perfetta contro il telemarketing e lo spam, provala!</string>
+    <string name="Promo_message_4">L\'applicazione perfetta contro il telemarketing e lo spam, provala!</string>
     <string name="Experimental_Function">Funzione sperimentale</string>
     <string name="pickAndHang_description">Questa funzione blocca le chiamate in arrivo rispondendo e riagganciando la chiamata. L\'Applicazione non risponderà alla chiamata se il telefono è in modalità roaming. Utilizza questa funzione solo se sei sicuro che non ti venga addebitato alcun costo alla risposta.</string>
     <string name="Service_as_Foreground_Process">Servizio in primo piano</string>
-    <string name="Service_as_foreground_process_description">L\'attivazione di questa funzione velocizza il blocco delle chiamate indesiderate. Come effetto collaterale si vedrà permanentemente l\'icona dell'app nella barra di stato ed una notifica di attivazione della protezione.</string>
+    <string name="Service_as_foreground_process_description">L\'attivazione di questa funzione velocizza il blocco delle chiamate indesiderate. Come effetto collaterale si vedrà permanentemente l\'icona dell\'app nella barra di stato ed una notifica di attivazione della protezione.</string>
     <string name="Database_Needs_Update">Il database deve essere aggiornato</string>
     <string name="Advanced">Avanzate</string>
     <string name="You_must_set_QKSMS_as_default_manager">È necessario impostare QKSMS come SMS Manager predefinito per attivare questa funzione</string>
@@ -248,7 +248,7 @@
     <string name="General_Ratings_Rules">Regole generali di valutazione</string>
     <string name="for_numbers_with_mask">per i numeri nascosti %s</string>
     <string name="for_number_x">per il numero %s</string>
-    <string name="There_is_no_rating_yet">Non c'è ancora nessuna valutazione</string>
+    <string name="There_is_no_rating_yet">Non c\'è ancora nessuna valutazione</string>
     <string name="for_Contact_x">per contatto %s</string>
     <string name="Phone_Number_Details">Dettagli del numero di telefono</string>
     <string name="New_Number_Rating">Nuova valutazione</string>
@@ -267,7 +267,7 @@
     <string name="for_Contacts_without_yours_rating">per contatti senza la sua valutazione</string>
     <string name="for_Contacts_without_yours_and_community_rating">per contatti senza alcuna valutazione tua o della community</string>
     <string name="Export_Import">Esportazione / Importazione </string>
-    <string name="Export_Application_Data">Esportare dati dell'applicazione</string>
+    <string name="Export_Application_Data">Esportare dati dell\'applicazione</string>
     <string name="Export_data_description">Tutte le impostazioni delle applicazioni e le tue valutazioni dei numeri saranno esportate in un file e potranno quindi essere importate in un altro dispositivo</string>
     <string name="Export">Esportazione</string>
     <string name="Import_Application_Data">Importare dati dell\'applicazione</string>
