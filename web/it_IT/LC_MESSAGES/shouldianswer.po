@@ -194,7 +194,7 @@ msgstr "Condivida la sua esperienza."
 
 #: app/presenters/p_phonenumber.php:377
 msgid "Do not keep the information just for yourself."
-msgstr "Non tenere queste informazioni solo per Lei."
+msgstr "Non tenere queste informazioni solo per te."
 
 #: app/presenters/p_phonenumber.php:378
 msgid "Share Your experience with the others."
@@ -302,7 +302,7 @@ msgstr "Aiuterai anche gli altri utenti."
 
 #: app/presenters/p_phonenumber.php:410
 msgid "thanks to You the others will be better informed."
-msgstr "grazie a Lei gli altri saranno meglio informati."
+msgstr "grazie a te gli altri saranno meglio informati."
 
 #: app/presenters/p_phonenumber.php:411
 msgid "the other users can benefit from this information."
@@ -436,10 +436,10 @@ msgid ""
 "days. It probably doesn't belong to some individual and is widely used by "
 "some telemarketing company, it can be unsolicited call for you."
 msgstr ""
-"Anche se per questo numero non è ancora alcuna recensione, negli ultimi "
-"giorni spesso è stato ricercato. Probabilmente non è un numero privato ed è "
-"ampiamente utilizzato da alcune società di telemarketing può darle a Lei una "
-"chiamata indesiderata."
+"Anche se per questo numero non c\'è ancora alcuna recensione, negli ultimi "
+"giorni è stato ricercato diverse volte. Probabilmente non è un numero privato ed è "
+"ampiamente utilizzato da alcune società di telemarketing per effettuare "
+"chiamate indesiderate."
 
 #: app/presenters/p_phonenumber.php:458
 msgid ""
@@ -796,8 +796,8 @@ msgstr ""
 msgid ""
 "If you or some utility kills our service intentionally the icon disappears."
 msgstr ""
-"Se Lei o qualche programma intenzionalmente terminare il nostro servizio, "
-"l'icona scapperà."
+"Se tu o qualche utility terminate intenzionalmente l'applicazione, "
+"l'icona sparirà."
 
 #: app/templates/compatibility/default.tpl:153
 msgid ""
@@ -4224,16 +4224,15 @@ msgstr "Ricerca Web"
 #~ "reasons, e.g. bank institution they have no account but you do), and then "
 #~ "the Whitelist comes."
 #~ msgstr ""
-#~ "Alcuni numeri valutati da utenti come negativo può essere valido per voi "
-#~ "(per molte ragioni, come ad esempio gli istituti bancari con cui gli "
-#~ "altri non hanno alcun conto, ma Lei ha), e poi Whitelist arriva (White "
-#~ "List)."
+#~ "Alcuni numeri valutati da altri utenti come negativi, possono essere positivi per te "
+#~ "(per molte ragioni, come ad esempio gli istituti bancari con cui magari gli "
+#~ "altri non hanno alcun conto, ma tu sì), e qui entra in gioco la  Whitelist "
 
 #~ msgid ""
 #~ "Whitelist is a list containing phone numbers considered by YOU as SAFE."
 #~ msgstr ""
-#~ "Whitelist è un elenco contenente i numeri di telefono considerato da VOI "
-#~ "come SICURO."
+#~ "La Whitelist è un elenco contenente i numeri di telefono che consideri "
+#~ "come SICURI."
 
 #~ msgid ""
 #~ "For numbers stored in this list you will not see any notification and no "
