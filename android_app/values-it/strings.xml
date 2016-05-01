@@ -146,7 +146,7 @@
     <string name="Allow_Access_To_Contacts">Consentire l\'accesso ai contatti</string>
     <string name="Allow_Create_System_Overlays">Consenti creazione di avvisi in sovrapposizione (\System Overlay\)</string>
     <string name="Fix_Contacts_Issues">Risolvere problemi con i contatti</string>
-    <string name="We_Are_Using_contacts_for_whitelisting">Utilizziamo i contatti per creare una lista di numeri conoscuti tuttavia non troviamo contatti nel tuo telefono. Se disponi di contatti memorizzati sul cellulare e non conosci il motivo per cui non abbiamo potuto accedervi, ti preghiamo di contattare il nostro supporto.</string>
+    <string name="We_Are_Using_contacts_for_whitelisting">Utilizziamo i contatti per creare una lista di numeri conoscuti \(Whitelist\) tuttavia non troviamo contatti nel tuo telefono. Se disponi di contatti memorizzati sul cellulare e non conosci il motivo per cui non abbiamo potuto accedervi, ti preghiamo di contattare il nostro supporto.</string>
     <string name="Unaccessible_Contacts">Contatti inaccessibili </string>
     <string name="Please_chec_the_terms_and_privacy_agreement">Si prega di verificare le condizioni d\'uso e i termini sulla privacy.</string>
     <string name="welcome_detailedinfo">
