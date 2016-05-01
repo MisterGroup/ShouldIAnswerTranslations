@@ -24,7 +24,7 @@
     <!-- Phone Number Info-->
 
     <string name="contacts">Kontakty</string>
-    <string name="this_number_is_in_your_contacts">Ten numer jest w Twoich kontaktach</string>
+    <string name="this_number_is_in_your_contacts">Ten numer jest w twoich kontaktach</string>
     <string name="system">System</string>
     <string name="there_are_no_reviews_yet">Brak opinii dla tego numeru telefonu</string>
 
@@ -80,7 +80,7 @@
     <string name="Positive">Pozytywna</string>
     <string name="Neutral">Neutralna</string>
     <string name="Send_Logs_to_Developer">Wyślij logi do twórców</string>
-    <string name="Drag_me_for_better_positioning">Przeciągnij aby zmienić pozycję</string>
+    <string name="Drag_me_for_better_positioning">Przeciągnij aby zmienić pozycję!</string>
     <string name="Service_is_temporarily_unavailable">Usługa jest chwilowo niedostępna! Spróbuj ponownie później!</string>
     <string name="For_receiving_user_reviews_we_need_to_send">Aby pobrać opinie użytkowników o numerze telefonu musimy wysłać go na nasz serwer. Zgadzasz się?</string>
     <string name="Agree">Tak</string>
@@ -97,7 +97,7 @@
     <string name="Allow_sending_anonymous_stats">Zezwalaj na wysyłanie anonimowych statystyk</string>
     <string name="Allow_sending_anonymous_stats_content">Po włączeniu tej funkcji, wszystkie przychodzące numery telefonów, które nie są zapisane w Twojej liście kontaktów, zostaną wysłane na nasz serwer. Dane te pozwolą nam skupić się na głównych zagrożeniach.</string>
     <string name="Write_review">Napisz opinię</string>
-    <string name="Write_phone_number_reviews">Napisz opinię dla numeru telefonu</string>
+    <string name="Write_phone_number_reviews">Stwórz opinię dla numeru telefonu</string>
     <string name="Write_phone_number_reviews_content">Jeśli dowiesz się czegoś nowego o numerze telefonu, podziel się tym z naszą społecznością!</string>
     <string name="Tell_friends_and_share_link_content">Wyślij informację o naszej aplikacji do swoich znajomych, podziel się linkiem na portalach społecznościowych, forach, blogach, itp. Pomóż nam znaleźć nowych użytkowników.</string>
     <string name="Dont_show_again">Nie pokazuj ponownie</string>
@@ -219,14 +219,14 @@
     <string name="Show_Alerts_for_INCOMING_calls_rated_as">Powiadomienia dla połączeń PRZYCHODZĄCYCH z oceną:</string>
     <string name="except_contacts">spoza Kontaktów</string>
     <string name="Show_Alerts_for_OUTGOING_calls_rated_as">Powiadomienia dla połączeń WYCHODZĄCYCH z oceną:</string>
-    <string name="Use_System_Overlay_for_displaying_of_the_alerts">Użyj systemowych wyskakujących okienek do wyświetlania powiadomień</string>
+    <string name="Use_System_Overlay_for_displaying_of_the_alerts">Użyj systemowo-wyskakujących okienek do wyświetlania powiadomień</string>
     <string name="notification_blocking">Blokowanie to dodatkowa funkcjonalność, która wykorzystuje rozwiązania niedostępne w systemie Android. Niektóre z tych rozwiązań będą niedostępne ponieważ producenci telefonów wprowadzają własne modyfikacje systemu.</string>
     <string name="Block_INCOMING_Calls_from">Blokuj połączenia PRZYCHODZĄCE z:</string>
     <string name="Negative_rated_numbers">Numerów z oceną negatywną</string>
     <string name="All_numbers">Wszystkich numerów</string>
     <string name="Hidden_numbers">Ukrytych numerów</string>
     <string name="Block_OUTGOING_Calls_to">Blokuj połączenia WYCHODZĄCE do:</string>
-    <string name="Premium_numbers">Numerów o podwyższonej opłacie (premium)</string>
+    <string name="Premium_numbers">Numerów o podwyższonej opłacie (premiumsms)</string>
     <string name="Foreign_numbers">Numerów zagranicznych</string>
     <string name="Block_SMS_and_MMS_from">Blokuj wiadomości SMS i MMS z:</string>
     <string name="Set_Default_SMS_Manager">Ustaw domyślny menadżer SMS</string>
@@ -237,7 +237,7 @@
     <string name="Access_to_Phone_Contacts">Dostęp do kontaktów telefonu</string>
     <string name="norification_ratings">Tutaj można skonfigurować sposób oceniania numerów telefonu.</string>
     <string name="Phone_Number_Ratings_Filter">Filtr ocen numerów telefonu</string>
-    <string name="Enter_Phone_NUmber_To_Filter_Ratings">Wprowadź numer telefonu aby dodać filtr ocen</string>
+    <string name="Enter_Phone_NUmber_To_Filter_Ratings">Wprowadź numer telefonu aby zobaczyć filtr ocen</string>
     <string name="Use_Light_Theme">Włącz jasny motyw</string>
     <string name="Edit">Edytuj</string>
     <string name="There_is_no_item_yet">Brak pozycji</string>
@@ -312,12 +312,12 @@
     <string name="Blocking_requires_granted_call_premissions_">Funkcja blokowania wymaga uprawnień połączeń. Włącz dostęp do danych o połączeniach aby zablokować numer.</string>
     <string name="Show_Foreground_Service_Icon">Pokaż ikonę usługi w pasku stanu</string>
     <string name="Monitor_outgoing_call_events">Monitoruj połączenia wychodzące</string>
-    <string name="local_negative_rated_numbers">local negative rated numbers</string>
-    <string name="community_negative_rated_numbers">community negative rated numbers</string>
-    <string name="numbers_not_stored_in_contacts">numbers not stored in contacts</string>
-    <string name="Not_In_Contacts">Not In Contacts</string>
-    <string name="Send">Send</string>
-    <string name="Your_Email">Your Email</string>
-    <string name="Enter_Your_Email">Enter Your Email</string>
-    <string name="Report_Sent">Report Sent</string>
+    <string name="local_negative_rated_numbers">lokalno-negatywnymi numerami</string>
+    <string name="community_negative_rated_numbers">publiczno-negatywnymi numerami</string>
+    <string name="numbers_not_stored_in_contacts">nie wyświetlanymi numerami w kontaktach</string>
+    <string name="Not_In_Contacts">Nie w kontaktach</string>
+    <string name="Send">Wyślij</string>
+    <string name="Your_Email">Twój email</string>
+    <string name="Enter_Your_Email">Wpisz twój email</string>
+    <string name="Report_Sent">Raport został wysłany!</string>
 </resources>
